@@ -1,0 +1,102 @@
+[
+    {
+        "name": "1st Locker",
+        "requires": "|Vault Key:1|"
+    },
+    {
+        "name": "2nd Locker",
+        "requires": "|Vault Key:2|"
+    },
+    {
+        "name": "3rd Locker",
+        "requires": "|Vault Key:3|"
+    },
+    {
+        "name": "4th Locker",
+        "requires": "|Vault Key:4|"
+    },
+    {
+        "name": "5th Locker",
+        "requires": "|Vault Key:5|"
+    },
+    {
+        "name": "6th Locker",
+        "requires": "|Vault Key:6|"
+    },
+    {
+        "name": "7th Locker",
+        "requires": "|Vault Key:7|"
+    },
+    {
+        "name": "8th Locker",
+        "requires": "|Vault Key:8|"
+    },
+    {
+        "name": "9th Locker",
+        "requires": "|Vault Key:9|"
+    },
+    {
+        "name": "10th Locker",
+        "requires": "|Vault Key:10|"
+    },
+    {
+        "name": "11th Locker",
+        "requires": "|Vault Key:11|"
+    },
+    {
+        "name": "12th Locker",
+        "requires": "|Vault Key:12|"
+    },
+    {
+        "name": "13th Locker",
+        "requires": "|Vault Key:13|"
+    },
+    {
+        "name": "14th Locker",
+        "requires": "|Vault Key:14|"
+    },
+    {
+        "name": "15th Locker",
+        "requires": "|Vault Key:15|"
+    },
+    {
+        "name": "16th Locker",
+        "requires": "|Vault Key:16|"
+    },
+    {
+        "name": "17th Locker",
+        "requires": "|Vault Key:17|"
+    },
+    {
+        "name": "18th Locker",
+        "requires": "|Vault Key:18|"
+    },
+    {
+        "name": "19th Locker",
+        "requires": "|Vault Key:19|"
+    },
+    {
+        "name": "20th Locker",
+        "requires": "|Vault Key:20|"
+    },
+    {
+        "name": "21st Locker",
+        "requires": "|Vault Key:21|"
+    },
+    {
+        "name": "22nd Locker",
+        "requires": "|Vault Key:22|"
+    },
+    {
+        "name": "23rd Locker",
+        "requires": "|Vault Key:23|"
+    },
+    {
+        "name": "24th Locker",
+        "requires": "|Vault Key:24|"
+    },
+    {
+        "name": "Unlock Everything",
+        "requires": "|Vault Key:ALL|"
+    }
+]
