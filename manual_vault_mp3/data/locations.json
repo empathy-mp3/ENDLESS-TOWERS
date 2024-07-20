@@ -1,102 +1,63 @@
 [
     {
-        "name": "1st Locker",
-        "requires": "|Vault Key:1|"
+        "name": "Locker 1",
+        "requires": "|Vault Key:1|",
+        "category": [
+            "prog"
+        ]
     },
     {
-        "name": "2nd Locker",
-        "requires": "|Vault Key:2|"
+        "name": "Locker 2",
+        "requires": "|Vault Key:2|",
+        "category": [
+            "useful"
+        ]
     },
     {
-        "name": "3rd Locker",
-        "requires": "|Vault Key:3|"
+        "name": "Locker 3",
+        "requires": "|Vault Key:3|",
+        "category": [
+            "useful"
+        ]
     },
     {
-        "name": "4th Locker",
-        "requires": "|Vault Key:4|"
+        "name": "Locker 4",
+        "requires": "|Vault Key:4|",
+        "category": [
+            "useful"
+        ]
     },
     {
-        "name": "5th Locker",
-        "requires": "|Vault Key:5|"
+        "name": "Locker 5",
+        "requires": "|Vault Key:5|",
+        "category": [
+            "prog"
+        ]
     },
     {
-        "name": "6th Locker",
-        "requires": "|Vault Key:6|"
+        "name": "Locker 6",
+        "requires": "|Vault Key:6|",
+        "category": [
+            "useful"
+        ]
     },
     {
-        "name": "7th Locker",
-        "requires": "|Vault Key:7|"
+        "name": "Locker 7",
+        "requires": "|Vault Key:7|",
+        "category": [
+            "useful"
+        ]
     },
     {
-        "name": "8th Locker",
-        "requires": "|Vault Key:8|"
-    },
-    {
-        "name": "9th Locker",
-        "requires": "|Vault Key:9|"
-    },
-    {
-        "name": "10th Locker",
-        "requires": "|Vault Key:10|"
-    },
-    {
-        "name": "11th Locker",
-        "requires": "|Vault Key:11|"
-    },
-    {
-        "name": "12th Locker",
-        "requires": "|Vault Key:12|"
-    },
-    {
-        "name": "13th Locker",
-        "requires": "|Vault Key:13|"
-    },
-    {
-        "name": "14th Locker",
-        "requires": "|Vault Key:14|"
-    },
-    {
-        "name": "15th Locker",
-        "requires": "|Vault Key:15|"
-    },
-    {
-        "name": "16th Locker",
-        "requires": "|Vault Key:16|"
-    },
-    {
-        "name": "17th Locker",
-        "requires": "|Vault Key:17|"
-    },
-    {
-        "name": "18th Locker",
-        "requires": "|Vault Key:18|"
-    },
-    {
-        "name": "19th Locker",
-        "requires": "|Vault Key:19|"
-    },
-    {
-        "name": "20th Locker",
-        "requires": "|Vault Key:20|"
-    },
-    {
-        "name": "21st Locker",
-        "requires": "|Vault Key:21|"
-    },
-    {
-        "name": "22nd Locker",
-        "requires": "|Vault Key:22|"
-    },
-    {
-        "name": "23rd Locker",
-        "requires": "|Vault Key:23|"
-    },
-    {
-        "name": "24th Locker",
-        "requires": "|Vault Key:24|"
+        "name": "Locker 8",
+        "requires": "|Vault Key:8|",
+        "category": [
+            "useful"
+        ]
     },
     {
         "name": "Unlock Everything",
-        "requires": "|Vault Key:ALL|"
+        "requires": "|Vault Key:ALL|",
+        "victory": true
     }
 ]

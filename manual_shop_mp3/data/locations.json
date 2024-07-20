@@ -1,23 +1,31 @@
 [
     {
-        "name": "hollow.mp3's Mothwing Cloak",
-        "requires": "|Cold Hard Cash:8|"
+        "name": "hollow.mp3's Desolate_Dive",
+        "requires": "|Cold Hard Cash:7|"
     },
     {
-        "name": "hollow.mp3's Mantis Claw",
-        "requires": "|Cold Hard Cash:8|"
+        "name": "hollow.mp3's Lumafly_Lantern",
+        "requires": "|Cold Hard Cash:7|"
     },
     {
-        "name": "hollow.mp3's Shaman Stone",
+        "name": "hollow.mp3's Shaman_Stone",
+        "requires": "|Cold Hard Cash:3|"
+    },
+    {
+        "name": "hollow.mp3's Heavy_Blow",
         "requires": "|Cold Hard Cash:3|"
     },
     {
         "name": "inscryption.mp3's Hammer",
-        "requires": "|Cold Hard Cash:8|"
+        "requires": "|Cold Hard Cash:7|"
     },
     {
-        "name": "inscryption.mp3's 49er",
-        "requires": "|Cold Hard Cash:8|"
+        "name": "inscryption.mp3's Explode Bot",
+        "requires": "|Cold Hard Cash:7|"
+    },
+    {
+        "name": "inscryption.mp3's Mummy Lord",
+        "requires": "|Cold Hard Cash:3|"
     },
     {
         "name": "inscryption.mp3's Buff Conduit",
@@ -25,6 +33,7 @@
     },
     {
         "name": "Unlock Everything",
-        "requires": "|Cold Hard Cash:ALL|"
+        "requires": "|Cold Hard Cash:ALL|",
+        "victory": true
     }
 ]

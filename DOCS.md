@@ -24,11 +24,12 @@ this async has all of those properties!
 ## rules
 
 - add the phrase `endlesstowers` to your submission so i can search for it
-- submit up to 4 worlds !!! including manuals and unsupported !!! (submit the apworlds if manual or unsupported)
+- submit up to 3 worlds !!! including manuals and unsupported !!! (submit the apworlds if manual or unsupported) (also, note: each slot is more of a commitment than usual.)
 - submit all games in one yaml
-- list 5 [minor progression]/useful items per world and say what the slot name is for them
-- separately, list 3 major progression items per world and say what the slot name is for them
-- optionally, list 1 filler item per world that that can be duplicated infinitely (money, pokeballs, one-time helpful items, etc.)
+- list 3 major progression items per world and say what the slot name is for them
+- separately, list 5 [minor progression]/useful items per world and say what the slot name is for them
+- optionally, list up to 1 filler item per world that that can be duplicated infinitely (money, pokeballs, one-time helpful items, etc.)
+- also optionally, list up to 1 trap item per world.
 - `death_link` must be enabled, though options that mitigate it or change handling are perfectly acceptable.
 - please don't play a roguelike (as ironic as that is). death is inevitable in roguelikes (especially in archipelago), and games where death is inevitable are not suited for this async.
 - bring only games that you're fairly confident in doing with few deaths. you don't have to be confident enough to be deathless (since there'll be a lot of ways to make it so much easier). if you're playing celeste 64 with 30 `death_link_amnesty`, be confident enough that you could get every check with only 45 or so deaths.
