@@ -40,3 +40,15 @@ this async has all of those properties!
 - just know that this is a bit of a commitment. i have frankly no idea how long this will last.
 - if a deathlink is triggered, ping me! if it's the last life, and i'm not available, let everyone know that it's time to stop the async! i'll try to get the next run going quickly!
 - if anything is sent to The Shop or The Vault, also ping me!
+
+# example submission (and also my submission)
+
+`endlesstowers`
+hollow.mp3: 
+- major progression: `Mothwing_Cloak, Desolate_Dive, Lumafly_Lantern`
+- useful/minor progression: `Shaman_Stone, Quick_Slash, Hiveblood, Steady_Body, Heavy_Blow`
+- filler: `Geo_Chest-Watcher_Knights`
+inscryption.mp3:
+- major progression: `Hammer, Explode Bot, 49er`
+- useful/minor progression: `Buff Conduit, Automaton, Mummy Lord, Energy Bot, Bolthound`
+- trap: `Ring the Bell`

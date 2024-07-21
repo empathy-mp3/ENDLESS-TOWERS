@@ -9,13 +9,6 @@ shops have 5 items, and are restocked daily
 - reroll is (6, +3 cost per reroll per day)
 - send X random traps is (X = 6 + uses) cash is (+1 cash, +0.2 cash per use, rounded down)
 
-# the first locker has been unlocked
-
-a vault key has been discovered, and it has unlocked the first vault locker.
-inside was `inscryption.mp3's Bolthound`.
-it persists between runs.
-lockers unlocked: 1
-
 # current status
 
 current lives: 1/1
@@ -24,6 +17,8 @@ lockers unlocked: 0
 cash total: 0
 purchased permanent shop items: 0
 finished players: 0
+
+updated (insert relative discord timestamp)
 
 # the shop
 
@@ -45,6 +40,8 @@ other impermanent things:
 
 `reroll & restock` (6 cost)
 `send 6 random traps` (+1 Cold Hard Cash) ~ 1 in stock
+
+updated (insert relative discord timestamp)
 
 # secret notes on current status of async
 
