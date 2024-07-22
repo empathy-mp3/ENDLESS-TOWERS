@@ -1,0 +1,290 @@
+name: hollow.mp3
+game: Hollow Knight
+description: empathy.mp3 hollow knight game for ENDLESS TOWERS async
+Hollow Knight:
+  progression_balancing: '50'
+  accessibility: items
+  RandomizeDreamers: 'true'
+  RandomizeSkills: 'true'
+  RandomizeFocus: 'false'
+  RandomizeSwim: 
+    'true': 3
+    'false': 1
+  RandomizeCharms: 'true'
+  RandomizeKeys: 
+    'true': 3
+    'false': 1
+  RandomizeMaskShards: 
+    'true': 3
+    'false': 1
+  RandomizeVesselFragments: 
+    'true': 3
+    'false': 1
+  RandomizeCharmNotches: 
+    'true': 3
+    'false': 1
+  RandomizePaleOre: 
+    'true': 3
+    'false': 1
+  RandomizeGeoChests: 'false'
+  RandomizeJunkPitChests: 'false'
+  RandomizeRancidEggs: 'false'
+  RandomizeRelics: 'false'
+  RandomizeWhisperingRoots: 'false'
+  RandomizeBossEssence: 
+    'true': 1
+    'false': 2
+  RandomizeGrubs: 
+    'true': 1
+    'false': 1
+  RandomizeMimics: 'false'
+  RandomizeMaps: 'false'
+  RandomizeStags: 
+    'true': 4
+    'false': 1
+  RandomizeLifebloodCocoons: 'false'
+  RandomizeGrimmkinFlames: 'false'
+  RandomizeJournalEntries: 'false'
+  RandomizeNail: 'false'
+  RandomizeGeoRocks: 'false'
+  RandomizeBossGeo: 
+    'true': 1
+    'false': 2
+  RandomizeSoulTotems: 'false'
+  RandomizeLoreTablets: 'false'
+  RandomizeElevatorPass: 
+    'true': 2
+    'false': 1
+  PreciseMovement: 'false'
+  ProficientCombat: 'false'
+  BackgroundObjectPogos: 'true'
+  EnemyPogos: 'true'
+  ObscureSkips: 'false'
+  ShadeSkips: 'false'
+  InfectionSkips: 'false'
+  FireballSkips: 'false'
+  SpikeTunnels: 'false'
+  AcidSkips: 'false'
+  DamageBoosts: 'false'
+  DangerousSkips: 'false'
+  DarkRooms: 'false'
+  ComplexSkips: 'false'
+  DifficultSkips: 'false'
+  RemoveSpellUpgrades: 'false'
+  StartLocation: king's_pass
+  Goal: hollowknight
+  WhitePalace: kingfragment
+  ExtraPlatforms: 'true'
+  AddUnshuffledLocations: 'false'
+  StartingGeo: random-range-1-500
+  DeathLink: 'true'
+  DeathLinkShade: 
+    shadeless: 2
+    shade: 1
+  DeathLinkBreaksFragileCharms: 'true'
+  MinimumGeoPrice: '1'
+  MinimumGrubPrice: '1'
+  MinimumEssencePrice: '1'
+  MinimumCharmPrice: '1'
+  MinimumEggPrice: '1'
+  MaximumEggPrice: '1'
+  EggShopSlots: '0'
+  SlyShopSlots: random-range-6-11
+  SlyKeyShopSlots: random-range-4-9
+  IseldaShopSlots: random-range-1-4
+  SalubraShopSlots: random-range-3-8
+  SalubraCharmShopSlots: random-range-3-8
+  LegEaterShopSlots: random-range-1-6
+  GrubfatherRewardSlots: random-range-5-9
+  SeerRewardSlots: random-range-6-11
+  SplitCrystalHeart: 'false'
+  SplitMothwingCloak: 'false'
+  SplitMantisClaw: 'false'
+  CostSanity: 'on'
+  CostSanityHybridChance: random-range-0-25
+  CostSanityEggWeight: '0'
+  CostSanityGrubWeight: random-range-1-4
+  CostSanityEssenceWeight: random-range-1-4
+  CostSanityCharmWeight: random-range-2-6
+  CostSanityGeoWeight: random-range-6-10
+  MaximumGeoPrice: random-range-1-600
+  MaximumGrubPrice: random-range-11-44
+  MaximumEssencePrice: random-range-400-1800
+  MaximumCharmPrice: random-range-4-30
+  RandomCharmCosts: random-range-20-200
+  ExtraShopSlots: random-range-0-7
+  priority_locations: 
+  - Grub-Watcher's_Spire
+  - Lurien
+  plando_items:
+    - item:
+        Desolate_Dive: 1
+      location: hollow.mp3's Desolate_Dive
+      world: The Shop
+      force: true
+    - item:
+        Lumafly_Lantern: 1
+      location: hollow.mp3's Lumafly_Lantern
+      world: The Shop
+      force: true
+    - item:
+        Shaman_Stone: 1
+      location: hollow.mp3's Shaman_Stone
+      world: The Shop
+      force: true
+    - item:
+        Heavy_Blow: 1
+      location: hollow.mp3's Heavy_Blow
+      world: The Shop
+      force: true
+    - item:
+        Quick_Slash: 1
+      location: Locker 2
+      world: The Vault
+      force: true
+    - item:
+        Mothwing_Cloak: 1
+      location: Locker 5
+      world: The Vault
+      force: true
+    - item:
+        Hiveblood: 1
+      location: Locker 6
+      world: The Vault
+      force: true
+    - item:
+        Steady_Body: 1
+      location: Locker 8
+      world: The Vault
+      force: true
+
+---
+
+name: inscryption.mp3
+description: empathy.mp3 inscryption game for ENDLESS TOWERS async
+game: Manual_Inscryption_mp3
+requires:
+  version: 0.5.0 # Version of Archipelago required for this yaml to work as expected.
+Manual_Inscryption_mp3:
+  # Game Options
+  progression_balancing: 50
+  accessibility: items
+  act:
+    act2a: 1
+    act2b: 1
+    act3: 2
+  Act_1_Enabled: 'false'
+  Act_2_Enabled: 'false'
+  Act_3_Enabled: 'false'
+  Kaycees_Mod_Enabled: 'false'
+  Consumable_Rando: 'true'
+  Hammer_Rando: 'true'
+  Clover_Rando: 'true'
+  Stack_Size_Rando: 15
+  Deck_Size_Rando: 25
+  Vessel_Upgrade_Rando: 'true'
+  filler_traps: 100
+  death_link: 'true'
+  goal: end of act iii
+
+  # Additional Location Options
+  Act_1_Duplicate_Locations: 'false'
+  Act_2_Duplicate_Locations: 'true'
+  Robobucks_Locations: 'false'
+  Card_Choice_Locations: 'true'
+  Unique_Card_Locations: 'true'
+  Kaycees_Mod_Duplicate_Locations: 'false'
+  plando_items:
+    - item:
+        Hammer: 1
+      location: inscryption.mp3's Hammer
+      world: The Shop
+      force: true
+    - item:
+        Explode Bot: 1
+      location: inscryption.mp3's Explode Bot
+      world: The Shop
+      force: true
+    - item:
+        Mummy Lord: 1
+      location: inscryption.mp3's Mummy Lord
+      world: The Shop
+      force: true
+    - item:
+        Buff Conduit: 1
+      location: inscryption.mp3's Buff Conduit
+      world: The Shop
+      force: true
+    - item:
+        49er: 1
+      location: Locker 1
+      world: The Vault
+      force: true
+    - item:
+        Energy Bot: 1
+      location: Locker 3
+      world: The Vault
+      force: true
+    - item:
+        Bolthound: 1
+      location: Locker 4
+      world: The Vault
+      force: true
+    - item:
+        Automaton: 1
+      location: Locker 7
+      world: The Vault
+      force: true
+
+  triggers:
+  - option_category: Manual_Inscryption_mp3
+    option_name: act
+    option_result: act2a
+    options:
+      Manual_Inscryption_mp3:
+        Act_2_Enabled: 'true'
+        goal: end of act ii
+        priority_locations: 
+          - 'Pick Up Monocle'
+          - 'Tower 1st Floor Chest Card Pack'
+          - 'Goobert Card Pack'
+          - 'Tower 2nd Floor Chest Card Pack'
+          - 'Pike Mage Card Pack'
+          - 'Tower 3rd Floor Rabbit Chest'
+          - 'Lonely Wizard Card Pack'
+          - 'Magnificus 1st Card Pack'
+          - 'Great Kraken Card'
+          - 'Defeat Magnificus'
+          - 'Magnificus 2nd Card Pack'
+  - option_category: Manual_Inscryption_mp3
+    option_name: act
+    option_result: act2b
+    options:
+      Manual_Inscryption_mp3:
+        Act_2_Enabled: 'true'
+        goal: end of act ii
+        priority_locations: 
+          - 'Pick Up Monocle 2'
+          - 'Tower 1st Floor Chest Card Pack 2'
+          - 'Goobert Card Pack 2'
+          - 'Tower 2nd Floor Chest Card Pack 2'
+          - 'Pike Mage Card Pack 2'
+          - 'Tower 3rd Floor Rabbit Chest 2'
+          - 'Lonely Wizard Card Pack 2'
+          - 'Magnificus 1st Card Pack 2'
+          - 'Great Kraken Card 2'
+          - 'Defeat Magnificus 2'
+          - 'Magnificus 2nd Card Pack 2'
+  - option_category: Manual_Inscryption_mp3
+    option_name: act
+    option_result: act3
+    options:
+      Manual_Inscryption_mp3:
+        Act_3_Enabled: 'true'
+        goal: end of act iii
+        priority_locations: 
+          - 'Rickety Tower: Cuckoo Clock Password from Shop'
+          - 'Rickety Tower: Sigil Modifier from Shop'
+          - 'Rickety Tower: Recycler from Shop'
+          - 'Rickety Tower: First Floor Encounter'
+          - 'Rickety Tower: Gemification on Second Floor'
