@@ -4,13 +4,17 @@ description: empathy.mp3 hollow knight game for ENDLESS TOWERS async
 Hollow Knight:
   progression_balancing: '50'
   accessibility: items
-  RandomizeDreamers: 'true'
+  RandomizeDreamers: 
+    'true': 2
+    'false': 1
   RandomizeSkills: 'true'
   RandomizeFocus: 'false'
   RandomizeSwim: 
     'true': 3
     'false': 1
-  RandomizeCharms: 'true'
+  RandomizeCharms: 
+    'true': 3
+    'false': 1
   RandomizeKeys: 
     'true': 3
     'false': 1
@@ -26,10 +30,14 @@ Hollow Knight:
   RandomizePaleOre: 
     'true': 3
     'false': 1
-  RandomizeGeoChests: 'false'
+  RandomizeGeoChests: 
+    'true': 1
+    'false': 6
   RandomizeJunkPitChests: 'false'
   RandomizeRancidEggs: 'false'
-  RandomizeRelics: 'false'
+  RandomizeRelics: 
+    'true': 1
+    'false': 6
   RandomizeWhisperingRoots: 'false'
   RandomizeBossEssence: 
     'true': 1
@@ -72,7 +80,9 @@ Hollow Knight:
   DifficultSkips: 'false'
   RemoveSpellUpgrades: 'false'
   StartLocation: king's_pass
-  Goal: hollowknight
+  Goal: 
+    hollowknight: 3
+    radiance: 1
   WhitePalace: kingfragment
   ExtraPlatforms: 'true'
   AddUnshuffledLocations: 'false'
@@ -113,9 +123,61 @@ Hollow Knight:
   MaximumCharmPrice: random-range-4-30
   RandomCharmCosts: random-range-20-200
   ExtraShopSlots: random-range-0-7
+  suffering:
+    RandomizeFocus: 2
+    RandomizeNail: 1
+    RemoveSpellUpgrades: 2
+    GodhomeGoal: 3
+    None: 13  
+  triggers:
+    - option_category: Hollow Knight
+      option_name: suffering
+      option_result: RandomizeFocus
+      options:
+        Hollow Knight:
+          RandomizeFocus: 'true'
+    - option_category: Hollow Knight
+      option_name: suffering
+      option_result: RandomizeNail
+      options:
+        Hollow Knight:
+          RandomizeNail: 'true'
+    - option_category: Hollow Knight
+      option_name: suffering
+      option_result: RemoveSpellUpgrades
+      options:
+        Hollow Knight:
+          RemoveSpellUpgrades: 'true'
+    - option_category: Hollow Knight
+      option_name: suffering
+      option_result: GodhomeGoal
+      options:
+        Hollow Knight:
+          goal: godhome
   priority_locations: 
   - Grub-Watcher's_Spire
   - Lurien
+  plando_items:
+    - item:
+        Desolate_Dive: 1
+      location: hollow.mp3's Desolate_Dive
+      world: The Shop
+      force: true
+    - item:
+        Lumafly_Lantern: 1
+      location: hollow.mp3's Lumafly_Lantern
+      world: The Shop
+      force: true
+    - item:
+        Shaman_Stone: 1
+      location: hollow.mp3's Shaman_Stone
+      world: The Shop
+      force: true
+    - item:
+        Heavy_Blow: 1
+      location: hollow.mp3's Heavy_Blow
+      world: The Shop
+      force: true
 
 ---
 
@@ -156,11 +218,6 @@ Paper Mario:
     shuffle_rewards: 0
     full_shuffle: 0
   koot_coins: 'false'
-  CoinOptions:
-    overworld: 1
-    foliage: 2
-    coin_blocks: 3
-    none: 4
   include_shops:
     # Shop items are included in the item pool.
     # This includes regular item shops, Rowf's badge shop, and Merlow's star piece trade
@@ -358,10 +415,7 @@ Paper Mario:
   star_beam_power_stars: 0
   total_power_stars: 0
 
-  BootHammer:
-    boot: 2
-    hammer: 2
-    both: 1
+
 
   starting_coins: random-range-100-300
 
@@ -551,6 +605,36 @@ Paper Mario:
   overworld_coins: 'false'
   foliage_coins: 'false'
   coin_blocks: 'false'
+  BootHammer:
+    boot: 2
+    hammer: 2
+    both: 1
+  CoinOptions:
+    overworld: 1
+    foliage: 2
+    coin_blocks: 3
+    none: 4
+  plando_items:
+    - item:
+        Progressive Hammer: 1
+      location: paper.mp3's Progressive Hammer
+      world: The Shop
+      force: true
+    - item:
+        Progressive Hammer: 1
+      location: paper.mp3's Progressive Hammer (2)
+      world: The Shop
+      force: true
+    - item:
+        Pouch Upgrade: 1
+      location: paper.mp3's Pouch Upgrade
+      world: The Shop
+      force: true
+    - item:
+        P-Up D-Down: 1
+      location: paper.mp3's P-Up D-Down
+      world: The Shop
+      force: true
   triggers:
     - option_category: Paper Mario
       option_name: BootHammer

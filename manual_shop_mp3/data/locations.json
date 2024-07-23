@@ -16,24 +16,183 @@
         "requires": "|Cold Hard Cash:3|"
     },
     {
-        "name": "inscryption.mp3's Hammer",
+        "name": "paper.mp3's Progressive Hammer",
         "requires": "|Cold Hard Cash:7|"
     },
     {
-        "name": "inscryption.mp3's Explode Bot",
+        "name": "paper.mp3's Progressive Hammer (2)",
         "requires": "|Cold Hard Cash:7|"
     },
     {
-        "name": "inscryption.mp3's Mummy Lord",
+        "name": "paper.mp3's Pouch Upgrade",
         "requires": "|Cold Hard Cash:3|"
     },
     {
-        "name": "inscryption.mp3's Buff Conduit",
+        "name": "paper.mp3's P-Up D-Down",
         "requires": "|Cold Hard Cash:3|"
     },
     {
-        "name": "Unlock Everything",
-        "requires": "|Cold Hard Cash:ALL|",
+        "name": "Deathclaw99SM64's Climb",
+        "requires": "|Cold Hard Cash:7|"
+    },
+    {
+        "name": "Deathclaw99SM64's Long Jump",
+        "requires": "|Cold Hard Cash:7|"
+    },
+    {
+        "name": "Deathclaw99SM64's Power Star",
+        "requires": "|Cold Hard Cash:3|"
+    },
+    {
+        "name": "Deathclaw99SM64's Power Star (2)",
+        "requires": "|Cold Hard Cash:3|"
+    },
+    {
+        "name": "Deathclaw99Terra's Post-Golem",
+        "requires": "|Cold Hard Cash:7|"
+    },
+    {
+        "name": "Deathclaw99Terra's Post-Skeletron",
+        "requires": "|Cold Hard Cash:7|"
+    },
+    {
+        "name": "Deathclaw99Terra's Reward: Obsidian Rose",
+        "requires": "|Cold Hard Cash:3|"
+    },
+    {
+        "name": "Deathclaw99Terra's Reward: Magic Quiver",
+        "requires": "|Cold Hard Cash:3|"
+    },
+    {
+        "name": "Deathclaw99OOT's Megaton Hammer",
+        "requires": "|Cold Hard Cash:7|"
+    },
+    {
+        "name": "Deathclaw99OOT's Hover Boots",
+        "requires": "|Cold Hard Cash:7|"
+    },
+    {
+        "name": "Deathclaw99OOT's Goron Tunic",
+        "requires": "|Cold Hard Cash:3|"
+    },
+    {
+        "name": "Deathclaw99OOT's Deku Shield",
+        "requires": "|Cold Hard Cash:3|"
+    },
+    {
+        "name": "SylskoTunic's Pages 24-25 (Prayer)",
+        "requires": "|Cold Hard Cash:7|"
+    },
+    {
+        "name": "SylskoTunic's Hero's Laurels",
+        "requires": "|Cold Hard Cash:7|"
+    },
+    {
+        "name": "SylskoTunic's Anklet",
+        "requires": "|Cold Hard Cash:3|"
+    },
+    {
+        "name": "SylskoTunic's Magic Dagger",
+        "requires": "|Cold Hard Cash:3|"
+    },
+    {
+        "name": "SynRogue's Celestial Sash",
+        "requires": "|Cold Hard Cash:7|"
+    },
+    {
+        "name": "SynRogue's Water Mask",
+        "requires": "|Cold Hard Cash:7|"
+    },
+    {
+        "name": "SynRogue's Eternal Crown",
+        "requires": "|Cold Hard Cash:3|"
+    },
+    {
+        "name": "SynRogue's Shattered Orb",
+        "requires": "|Cold Hard Cash:3|"
+    },
+    {
+        "name": "SynRegret's Progressive Dots",
+        "requires": "|Cold Hard Cash:7|"
+    },
+    {
+        "name": "SynRegret's Shapers",
+        "requires": "|Cold Hard Cash:7|"
+    },
+    {
+        "name": "SynRegret's Puzzle Skip",
+        "requires": "|Cold Hard Cash:3|"
+    },
+    {
+        "name": "SynRegret's Puzzle Skip (2)",
+        "requires": "|Cold Hard Cash:3|"
+    },
+    {
+        "name": "Soleyeer's Hookshot Badge",
+        "requires": "|Cold Hard Cash:7|"
+    },
+    {
+        "name": "Soleyeer's Dweller Mask",
+        "requires": "|Cold Hard Cash:7|"
+    },
+    {
+        "name": "Soleyeer's Projectile Badge",
+        "requires": "|Cold Hard Cash:3|"
+    },
+    {
+        "name": "Soleyeer's Sprint Hat",
+        "requires": "|Cold Hard Cash:3|"
+    },
+    {
+        "name": "ThatFirey's Stamina Bar",
+        "requires": "|Cold Hard Cash:7|"
+    },
+    {
+        "name": "ThatFirey's Wall Jump",
+        "requires": "|Cold Hard Cash:7|"
+    },
+    {
+        "name": "ThatFirey's Rocket Launcher - Freezeframe",
+        "requires": "|Cold Hard Cash:3|"
+    },
+    {
+        "name": "ThatFirey's Knuckleblaster",
+        "requires": "|Cold Hard Cash:3|"
+    },
+    {
+        "name": "CaesiusHIT's Hookshot Badge",
+        "requires": "|Cold Hard Cash:7|"
+    },
+    {
+        "name": "CaesiusHIT's Umbrella",
+        "requires": "|Cold Hard Cash:7|"
+    },
+    {
+        "name": "CaesiusHIT's Item Magnet Badge",
+        "requires": "|Cold Hard Cash:3|"
+    },
+    {
+        "name": "CaesiusHIT's Hover Badge",
+        "requires": "|Cold Hard Cash:3|"
+    },
+    {
+        "name": "CaesiusSM64's Side Flip",
+        "requires": "|Cold Hard Cash:7|"
+    },
+    {
+        "name": "CaesiusSM64's Wall Kick",
+        "requires": "|Cold Hard Cash:7|"
+    },
+    {
+        "name": "CaesiusSM64's Cannon Unlock JRB",
+        "requires": "|Cold Hard Cash:3|"
+    },
+    {
+        "name": "CaesiusSM64's Kick",
+        "requires": "|Cold Hard Cash:3|"
+    },
+    {
+        "name": "victory",
         "victory": true
     }
 ]

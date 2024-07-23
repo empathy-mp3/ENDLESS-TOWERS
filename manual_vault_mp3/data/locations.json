@@ -56,8 +56,7 @@
         ]
     },
     {
-        "name": "Unlock Everything",
-        "requires": "|Vault Key:ALL|",
+        "name": "victory",
         "victory": true
     }
 ]

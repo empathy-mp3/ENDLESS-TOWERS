@@ -35,6 +35,28 @@ Super Mario 64:
   mips2_cost: random
   stars_to_finish: random
   completion_type: random
+  plando_items:
+    - item:
+        Climb: 1
+      location: 'Deathclaw99SM64''s Climb'
+      world: The Shop
+      force: true
+    - item:
+        Long Jump: 1
+      location: 'Deathclaw99SM64''s Long Jump'
+      world: The Shop
+      force: true
+    - item:
+        Power Star: 1
+      location: 'Deathclaw99SM64''s Power Star'
+      world: The Shop
+      force: true
+    - item:
+        Power Star: 1
+      location: 'Deathclaw99SM64''s Power Star (2)'
+      world: The Shop
+      force: true
+
 
 ---
 # original filename: Deathclaw99Terra.yaml
@@ -50,6 +72,27 @@ Terraria:
     'Reward: Rod of Discord': 1
   goal: random
   achievements: random
+  plando_items:
+    - item:
+        Post-Golem: 1
+      location: 'Deathclaw99Terra''s Post-Golem'
+      world: The Shop
+      force: true
+    - item:
+        Post-Skeletron: 1
+      location: 'Deathclaw99Terra''s Post-Skeletron'
+      world: The Shop
+      force: true
+    - item:
+        'Reward: Obsidian Rose': 1
+      location: 'Deathclaw99Terra''s Reward: Obsidian Rose'
+      world: The Shop
+      force: true
+    - item:
+        'Reward: Magic Quiver': 1
+      location: 'Deathclaw99Terra''s Reward: Magic Quiver'
+      world: The Shop
+      force: true
 
 ---
 # original filename: Deathclaw99OOT.yaml
@@ -217,3 +260,24 @@ Ocarina of Time:
   sfx_horse_neigh: random
   sfx_hover_boots: random
   sfx_ocarina: random
+  plando_items:
+    - item:
+        Megaton Hammer: 1
+      location: 'Deathclaw99OOT''s Megaton Hammer'
+      world: The Shop
+      force: true
+    - item:
+        Hover Boots: 1
+      location: 'Deathclaw99OOT''s Hover Boots'
+      world: The Shop
+      force: true
+    - item:
+        Goron Tunic: 1
+      location: 'Deathclaw99OOT''s Goron Tunic'
+      world: The Shop
+      force: true
+    - item:
+        Deku Shield: 1
+      location: 'Deathclaw99OOT''s Deku Shield'
+      world: The Shop
+      force: true

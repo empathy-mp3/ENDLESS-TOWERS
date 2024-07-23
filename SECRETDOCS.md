@@ -65,8 +65,8 @@ finished players (0):
 | Deathclaw99Terra | Post-Golem           | Post-Skeletron     | Hardmode                           |                           |             |
 | Deathclaw99OOT   | Megaton Hammer       | Hover Boots        | Progressive Hookshot               | Rupees (200)              |             |
 | SylskoTunic      | Pages 24-25 (Prayer) | Hero's Laurels     | Magic Orb                          | Money x100                | Fool Trap   |
-| SynRogue         | Celestial_Sash       | Water_Mask         | Security_Keycard_B                 |                           |             |
-| SynRegret        | Progessive_Dots      | Shapers            | Black/White_Squares                | Speed_Boost               |             |
+| SynRogue         | Celestial Sash       | Water Mask         | Security Keycard B                 |                           |             |
+| SynRegret        | Progressive Dots     | Shapers            | Black/White Squares                | Speed Boost               |             |
 | Soleyeer         | Hookshot Badge       | Dweller Mask       | Ice Hat                            |                           | Laser Trap  |
 | ThatFirey        | Stamina Bar          | Wall Jump          | Whiplash                           |                           | Hard Damage |
 | CaesiusHIT       | Hookshot Badge       | Umbrella           | Zipline Unlock - The Windmill Path | 100 Pons                  | Baby Trap   |
@@ -81,8 +81,8 @@ finished players (0):
 | Deathclaw99Terra | Post-Goblin Army    | Reward: Lava Charm    | Reward: Obsidian Rose | Reward: Magic Quiver          | Reward: Lavaproof Fishing Line |
 | Deathclaw99OOT   | Progressive Wallet  | Zora Tunic            | Hylian Shield         | Goron Tunic                   | Deku Shield                    |
 | SylskoTunic      | Muffling Bell       | Gun                   | Magic Wand            | Anklet                        | Magic Dagger                   |
-| SynRogue         | Talaria_Attachment  | Eternal_Coat          | Bombardment           | Eternal_Crown                 | Shattered_Orb                  |
-| SynRegret        | Functioning_Brain   | Boat                  | Puzzle_Skip           | Puzzle_Skip                   | Puzzle_Skip                    |
+| SynRogue         | Talaria Attachment  | Eternal Coat          | Bombardment           | Eternal Crown                 | Shattered Orb                  |
+| SynRegret        | Functioning Brain   | Boat                  | Puzzle Skip           | Puzzle Skip                   | Puzzle Skip                    |
 | Soleyeer         | Brewing Hat         | Time Stop Hat         | Fast Hatter Badge     | Projectile Badge              | Sprint Hat                     |
 | ThatFirey        | Revolver - Marksman | Shotgun - Pump Charge | Railcannon - Electric | Rocket Launcher - Freezeframe | Knuckleblaster                 |
 | CaesiusHIT       | Badge Pin           | Fast Hatter Badge     | Badge Pin             | Item Magnet Badge             | Hover Badge                    |
@@ -98,49 +98,3 @@ Bolthound
 Hiveblood
 Automaton
 Steady_Body
-
-# plando example
-
-```
-  plando_items:
-    - item:
-        Desolate_Dive: 1
-      location: hollow.mp3's Desolate_Dive
-      world: The Shop
-      force: true
-    - item:
-        Lumafly_Lantern: 1
-      location: hollow.mp3's Lumafly_Lantern
-      world: The Shop
-      force: true
-    - item:
-        Shaman_Stone: 1
-      location: hollow.mp3's Shaman_Stone
-      world: The Shop
-      force: true
-    - item:
-        Heavy_Blow: 1
-      location: hollow.mp3's Heavy_Blow
-      world: The Shop
-      force: true
-    - item:
-        Quick_Slash: 1
-      location: Locker 2
-      world: The Vault
-      force: true
-    - item:
-        Mothwing_Cloak: 1
-      location: Locker 5
-      world: The Vault
-      force: true
-    - item:
-        Hiveblood: 1
-      location: Locker 6
-      world: The Vault
-      force: true
-    - item:
-        Steady_Body: 1
-      location: Locker 8
-      world: The Vault
-      force: true
-```

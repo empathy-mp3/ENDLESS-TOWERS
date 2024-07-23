@@ -646,6 +646,27 @@ A Hat in Time:
     random-low: 0
     random-high: 0
 
+  plando_items:
+    - item:
+        Hookshot Badge: 1
+      location: CaesiusHIT's Hookshot Badge
+      world: The Shop
+      force: true
+    - item:
+        Umbrella: 1
+      location: CaesiusHIT's Umbrella
+      world: The Shop
+      force: true
+    - item:
+        Item Magnet Badge: 1
+      location: CaesiusHIT's Item Magnet Badge
+      world: The Shop
+      force: true
+    - item:
+        Hover Badge: 1
+      location: CaesiusHIT's Hover Badge
+      world: The Shop
+      force: true
   # Item & Location Options
   local_items:
     # Forces these items to be in their native world.
@@ -862,6 +883,27 @@ Super Mario 64:
     last_bowser_stage: 0
     all_bowser_stages: 50
 
+  plando_items:
+    - item:
+        Side Flip: 1
+      location: CaesiusSM64's Side Flip
+      world: The Shop
+      force: true
+    - item:
+        Wall Kick: 1
+      location: CaesiusSM64's Wall Kick
+      world: The Shop
+      force: true
+    - item:
+        Cannon Unlock JRB: 1
+      location: CaesiusSM64's Cannon Unlock JRB
+      world: The Shop
+      force: true
+    - item:
+        Kick: 1
+      location: CaesiusSM64's Kick
+      world: The Shop
+      force: true
   # Item & Location Options
   local_items:
     # Forces these items to be in their native world.

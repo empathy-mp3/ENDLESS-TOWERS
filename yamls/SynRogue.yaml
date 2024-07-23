@@ -88,6 +88,27 @@ Timespinner:
     'Emperor''s Tower: Emperor''s Chambers chest': 1
     'Emperor''s Tower: Emperor''s Chambers pedestal': 1
     'Royal Towers: Journal - Aelana Boss (Stained Letter)': 1
+  plando_items:
+    - item:
+        Celestial Sash: 1
+      location: SynRogue's Celestial Sash
+      world: The Shop
+      force: true
+    - item:
+        Water Mask: 1
+      location: SynRogue's Water Mask
+      world: The Shop
+      force: true
+    - item:
+        Eternal Crown: 1
+      location: SynRogue's Eternal Crown
+      world: The Shop
+      force: true
+    - item:
+        Shattered Orb: 1
+      location: SynRogue's Shattered Orb
+      world: The Shop
+      force: true
 
 ---
 
@@ -158,3 +179,24 @@ The Witness:
     'true': 1
   death_link_amnesty:
     '5': 1
+  plando_items:
+    - item:
+        Progressive Dots: 1
+      location: SynRegret's Progressive Dots
+      world: The Shop
+      force: true
+    - item:
+        Shapers: 1
+      location: SynRegret's Shapers
+      world: The Shop
+      force: true
+    - item:
+        Puzzle Skip: 1
+      location: SynRegret's Puzzle Skip
+      world: The Shop
+      force: true
+    - item:
+        Puzzle Skip: 1
+      location: SynRegret's Puzzle Skip (2)
+      world: The Shop
+      force: true

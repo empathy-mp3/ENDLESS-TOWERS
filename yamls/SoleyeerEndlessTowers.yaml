@@ -67,3 +67,24 @@ A Hat in Time:
   ShuffleAlpineZiplines: random
   StartingChapter: random
   BaseballBat: random
+  plando_items:
+    - item:
+        Hookshot Badge: 1
+      location: Soleyeer's Hookshot Badge
+      world: The Shop
+      force: true
+    - item:
+        Dweller Mask: 1
+      location: Soleyeer's Dweller Mask
+      world: The Shop
+      force: true
+    - item:
+        Projectile Badge: 1
+      location: Soleyeer's Projectile Badge
+      world: The Shop
+      force: true
+    - item:
+        Sprint Hat: 1
+      location: Soleyeer's Sprint Hat
+      world: The Shop
+      force: true

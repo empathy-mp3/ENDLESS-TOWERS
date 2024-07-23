@@ -134,5 +134,26 @@ ULTRAKILL:
 
   progression_balancing: 50
   accessibility: items
+  plando_items:
+    - item:
+        Stamina Bar: 1
+      location: ThatFirey's Stamina Bar
+      world: The Shop
+      force: true
+    - item:
+        Wall Jump: 1
+      location: ThatFirey's Wall Jump
+      world: The Shop
+      force: true
+    - item:
+        Rocket Launcher - Freezeframe: 1
+      location: ThatFirey's Rocket Launcher - Freezeframe
+      world: The Shop
+      force: true
+    - item:
+        Knuckleblaster: 1
+      location: ThatFirey's Knuckleblaster
+      world: The Shop
+      force: true
 game: ULTRAKILL
 name: ThatFirey
