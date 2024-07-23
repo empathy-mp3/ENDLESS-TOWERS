@@ -116,175 +116,492 @@ Hollow Knight:
   priority_locations: 
   - Grub-Watcher's_Spire
   - Lurien
-  plando_items:
-    - item:
-        Desolate_Dive: 1
-      location: hollow.mp3's Desolate_Dive
-      world: The Shop
-      force: true
-    - item:
-        Lumafly_Lantern: 1
-      location: hollow.mp3's Lumafly_Lantern
-      world: The Shop
-      force: true
-    - item:
-        Shaman_Stone: 1
-      location: hollow.mp3's Shaman_Stone
-      world: The Shop
-      force: true
-    - item:
-        Heavy_Blow: 1
-      location: hollow.mp3's Heavy_Blow
-      world: The Shop
-      force: true
-    - item:
-        Quick_Slash: 1
-      location: Locker 2
-      world: The Vault
-      force: true
-    - item:
-        Mothwing_Cloak: 1
-      location: Locker 5
-      world: The Vault
-      force: true
-    - item:
-        Hiveblood: 1
-      location: Locker 6
-      world: The Vault
-      force: true
-    - item:
-        Steady_Body: 1
-      location: Locker 8
-      world: The Vault
-      force: true
 
 ---
 
-name: inscryption.mp3
-description: empathy.mp3 inscryption game for ENDLESS TOWERS async
-game: Manual_Inscryption_mp3
+name: paper.mp3
+description: empathy.mp3 paper mario game for ENDLESS TOWERS async
+game: Paper Mario
 requires:
   version: 0.5.0 # Version of Archipelago required for this yaml to work as expected.
-Manual_Inscryption_mp3:
+Paper Mario:
   # Game Options
   progression_balancing: 50
   accessibility: items
-  act:
-    act2a: 1
-    act2b: 1
-    act3: 2
-  Act_1_Enabled: 'false'
-  Act_2_Enabled: 'false'
-  Act_3_Enabled: 'false'
-  Kaycees_Mod_Enabled: 'false'
-  Consumable_Rando: 'true'
-  Hammer_Rando: 'true'
-  Clover_Rando: 'true'
-  Stack_Size_Rando: 15
-  Deck_Size_Rando: 25
-  Vessel_Upgrade_Rando: 'true'
-  filler_traps: 100
+  keysanity: 'true'
+  shuffle_hidden_panels:
+    # Hidden panels can have any item; the star pieces normally hidden under them are added to the item pool. To flip
+    # hidden panels, you need Super Boots or Ultra Hammer.
+    'false': 50
+    'true': 50
+  gear_shuffle_mode:
+    # Vanilla: Gear (Boots and Hammers) appear in their vanilla locations
+    # Gear Location Shuffle: Gear is shuffled amongst the upgrade chests and the bush in Jr. Troopa's playground
+    # Full Shuffle: Gear can be anywhere.
+    vanilla: 0
+    gear_location_shuffle: 0
+    full_shuffle: 50
+  trading_events:
+    # Adds the 3 rewards obtained for doing the Trading Toad quests (started via Koopa Village's radio) into the item
+    # pool. These checks are available with 1, 3, and 5 star spirits saved.
+    'false': 50
+    'true': 5
+  koot_favors:
+    # Koopa Koot's Favors unlock after ridding the village of the Fuzzies, and three more are unlocked per star spirit
+    # saved up to 6 star spirits.
+    # Vanilla: Koopa Koot Favor rewards and quest items are unshuffled.
+    # Shuffle rewards: Shuffle the favor rewards, but not the key items for his quests.
+    # Full Shuffle: Shuffle the rewards AND the quest key items.
+    vanilla: 50
+    shuffle_rewards: 0
+    full_shuffle: 0
+  koot_coins: 'false'
+  CoinOptions:
+    overworld: 1
+    foliage: 2
+    coin_blocks: 3
+    none: 4
+  include_shops:
+    # Shop items are included in the item pool.
+    # This includes regular item shops, Rowf's badge shop, and Merlow's star piece trade
+    'false': 0
+    'true': 50
+  dojo:
+    # Include Dojo fight rewards in the item pool. The logic can only expect you to do the 2nd fight with 1 star
+    # spirit saved. The three Master fights are only in logic after you have 3, 4, and 5 star spirits saved.
+    'false': 10
+    'true': 50
+  partner_upgrades: full_shuffle
+  letter_rewards:
+    # Vanilla: Letter rewards remain unshuffled.
+    # Vanilla Letter Chain: Shuffle delivery rewards, but don't shuffle anything in the long letter chain.
+    # Final Letter Chain Reward: Shuffle letter delivery rewards and the final reward of the long letter chain.
+    # Full shuffle: Every letter delivery reward is shuffled, effectively removing the letter
+    # chain as each letter in the chain is shuffled.
+    vanilla: 50
+    vanilla_letter_chain: 50
+    final_letter_chain_reward: 0
+    full_shuffle: 0
+  super_multi_blocks: 'false'
+  rowf_items:
+    # Determines whether items sold by Rowf can be required for progression.
+    # He sells 4 items initially, and 3 more for each Star Spirit saved up to 16 total items.
+    # Note: You can talk to him and request he change his offerings.
+    'false': 0
+    'true': 50
+  merlow_items:
+    # Determines whether Merlow's Star Piece rewards can be required for progression. The items that you buy directly
+    # are never progression items. This is specifically for the rewards which are granted after spending X Star Pieces.
+    'false': 0
+    'true': 50
+
+  cheato_items: random
+  local_consumables: random-high
+  partners: 'true'
+  partners_always_usable: 'false'
+  start_random_partners: 'true'
+  start_partners:
+    # Number of random partners you start with, from 1 to 8
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 8
+    1: 50
+    2: 1
+  start_with_goombario: 'false'
+  start_with_kooper: 'false'
+  start_with_bombette: 'false'
+  start_with_parakarry: 'false'
+  start_with_bow: 'false'
+  start_with_watt: 'false'
+  start_with_sushie: 'false'
+  start_with_lakilester: 'false'
+
+  badge_bp_shuffle:
+    vanilla: 20
+    balanced_random: 50
+    shuffled: 50
+    fully_random: 50
+
+  badge_fp_shuffle:
+    vanilla: 20
+    balanced_random: 50
+    shuffled: 50
+    fully_random: 50
+
+  partner_fp_shuffle:
+    vanilla: 20
+    balanced_random: 50
+    shuffled: 50
+    fully_random: 50
+
+  sp_shuffle:
+    vanilla: 20
+    balanced_random: 50
+    shuffled: 50
+    fully_random: 50
+
+  mystery_shuffle:
+    # Vanilla: Mystery will pull from the vanilla item pool (one of six basic items).
+    # Random Pick: Mystery will be a random item for the full playthrough.
+    # Random Per Use: Mystery will be a random item on every use.
+    vanilla: 5
+    random_pick: 30
+    random_per_use: 50
+
+  formation_shuffle:
+    # Shuffles which enemies you encounter and in what number.
+    # Enemies are limited to those that normally appear in the area.
+    'false': 5
+    'true': 50
+
+  random_puzzles:
+    # Randomizes most of the game's puzzles.
+    # Note: This is not yet implemented and will fail to generate if set to True.
+    'false': 50
+    'true': 0
+
+  blooper_damage_requirements:
+    # There are 3 Blooper fights. Regardless of what order you visit the fight locations, you always fight Blooper,
+    # then Electro Blooper, then Super Blooper. This setting can add logic such that you are able to deal enough damage
+    # per turn with jump and partner attacks to comfortably defeat all 3 Bloopers before needing to defeat any of them.
+    # Note that damage is calculated only by partners and boot upgrades, not badges or partner upgrades/abilities.
+    # None: No logical requirements to defeat Bloopers
+    # Low: 3 damage per turn required
+    # Medium: 6 damage per turn required
+    # High: 9 damage per turn required
+    none: 50
+    low: 30
+    medium: 20
+    high: 10
+
+  enemy_difficulty:
+    # Vanilla: Original enemy stats.
+    # Shuffle Chapter Difficulty: Each chapter is assigned a new number, enemies are scaled accordingly.
+    # Progressive Scaling: Enemies scale as Mario gains more progression items and partners.
+    vanilla: 10
+    shuffle_chapter_difficulty: 50
+    progressive_scaling: 100
+
+  enemy_damage:
+    # Increases the damage done by enemy attacks.
+    normal: 15
+    double_pain: 5
+    quadruple_pain: 1
+
+  cap_enemy_xp:
+    # Limits the amount of XP per defeated enemy to 5.
+    'false': 50
+    'true': 50
+
+  enemy_xp_multiplier:
+    # Increase or decrease the star points gained from enemies. Double the desired value for this setting.
+    # ex: if you want double XP, set this to 4; for vanilla XP, set this to 2
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 4
+    2: 20
+    3: 60
+    4: 5
+  no_save_blocks: 'false'
+  no_heart_blocks: 'false'
+  no_healing_items: 'false'
+  one_hit_ko: 'false'
+  drop_star_points: 'false'
+  badge_synergy: 'false'
+
+  merlow_rewards_pricing:
+    # Cheap: Rewards every 5 star pieces spent, up to 30 total.
+    # Normal: Rewards every 10 star pieces spent, up to 60 total.
+    cheap: 50
+    vanilla: 0
+
+  seed_goal:
+    # Defeat Bowser: The game is complete once you've defeated Bowser to take back the Star Rod.
+    # Open Star Way: The game is complete once you've fulfilled the requirements to open Star Way
+    defeat_bowser: 50
+    open_star_way: 0
+
+  power_star_hunt: 'false'
+
+  star_way_spirits:
+    # Number of star spirits required to open up Star Way and access Chapter 8.
+    # Access requirements will also include power stars if Power Star Hunt is turned on.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 7
+    2: 50
+    3: 20
+    4: 1
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  require_specific_spirits:
+    # Specific chapters must be completed to open up Chapter 8.
+    # You must visit Shooting Star Summit to see which ones.
+    'false': 0
+    'true': 50
+
+  limit_chapter_logic:
+    # Progression items will only appear in required chapters, the prologue, and in common areas. You will not need to
+    # check the chapters that are out of logic whatsoever, and the checks in those chapters will not grant you
+    # hint points. You can still visit them for local items (badges, consumables, etc) if you want or need to.
+    'false': 0
+    'true': 50
+
+  star_way_power_stars: 0
+  shuffle_star_beam: 'false'
+  star_beam_spirits: 0
+  star_beam_power_stars: 0
+  total_power_stars: 0
+
+  BootHammer:
+    boot: 2
+    hammer: 2
+    both: 1
+
+  starting_coins: random-range-100-300
+
+  starting_hp: 10
+  starting_bp: 3
+  starting_fp: 5
+  starting_sp:
+    # Amount of Star Power Mario will start the game with.
+    # Starting with SP allows Mario to use star powers, which will be cast by Twink until star spirits are saved.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 7
+    0: 60
+    1: 12
+    2: 3
+
+  random_start_items: 2
+
+  consumable_item_pool:
+    # Vanilla: Original consumable items.
+    # Mystery Only: All consumables are replaced by Mystery.
+    # Fully Random: Consumables are completely random.
+    # Balanced Random: Consumables are randomized and balanced according to Balanced Random Item Quality.
+    vanilla: 50
+    fully_random: 50
+    balanced_random: 50
+    mystery_only: 1
+
+  consumable_item_quality: random-range-85-125
+
+  item_traps:
+    # Replaces some items with fakes that deal 2 damage upon contact.
+    # Note: Traps are not yet implemented, so leave this setting set to No Traps.
+    no_traps: 50
+    sparse: 0
+    moderate: 0
+    plenty: 0
+
+  item_pouches: 'true'
+
+  unused_badge_dupes: 'true'
+
+  beta_items:
+    # Adds unused beta badges and consumable items into the item pool.
+    'false': 50
+    'true': 0
+
+  progressive_badges:
+    # Badges that come in different power levels are changed to progressive badges.
+    # This affects jump/hammer charge, power and mega jump/hammer, and quake hammer.
+    # Intermediate beta badges are included for the involved badge families even if beta badges are turned off.
+    'false': 50
+    'true': 0
+
+  badge_pool_limit:
+    # Sets the max amount of badges that can be in the item pool. There are 80 badges in vanilla.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 128
+    128: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  starting_map:
+    # Sets the town/village where the game starts.
+    # This is also where the Homeward Shroom warps Mario.
+    # You may use the warp shroom from the key items menu in the overworld.
+    toad_town: 50
+    goomba_village: 30
+    dry_dry_outpost: 10
+    yoshi_village: 10
+
+  open_prologue:
+    # When enabled, Goomba King starts off defeated and the bridge to reach Goomba Village will be open from the start.
+    # When starting from anywhere other than Goomba Village, this will mean having to reach the village via sewers.
+    'false': 50
+    'true': 50
+
+  open_mt_rugged:
+    # When enabled, the boulder blocking the train from going to Mt. Rugged will be gone from the start.
+    # When disabled, you will have to use Bombette to blow up the boulder.
+    'false': 50
+    'true': 50
+
+  open_forest:
+    # When enabled, Oakley allows you through Forever Forest with no requirements.
+    # When disabled, Oakley only allows you through once you have a Forest Pass (added randomizer item), and Fice T's
+    # cutscene will have an item check.
+    'false': 50
+    'true': 50
+
+  magical_seeds:
+    # The amount of Magical Seeds required to open the gate to Flower Fields. Changing this does not remove the
+    # Bub-ulb checks.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 4
+    4: 50
+    random: 50
+
+  open_toybox:
+    # When enabled, you can open the door to enter Shy Guy's Toy Box from the start.
+    # When disabled, you will have to use Bow to hide from the Shy Guy to enter Shy Guy's Toy Box for the first time.
+    'false': 50
+    'true': 50
+
+  open_whale:
+    # When enabled, you can ride the whale to Lavalava Island from the start.
+    # When disabled, you will have to use Watt to catch and defeat Fuzzipede in order to ride the whale.
+    'false': 50
+    'true': 50
+
+  open_blue_house:
+    # When enabled, the door to the Blue House in Toad Town's Southern District is unlocked from the start
+    # and the Odd Key is removed from the item pool.
+    # When disabled, you will have to use the Odd Key to open the Blue House door.
+    'false': 50
+    'true': 50
+
+  ch7_bridge_visible:
+    # When enabled, blocks leading to Shiver City are visible and can be hit from above with Super Boots.
+    # When disabled, they will be invisible and you will have to hit them from below with Ultra Boots.
+    'false': 50
+    'true': 50
+
+  mirror_mode:
+    #    Note: The Static Random option is not yet implemented and will fail to generate.
+    'off': 50
+    always_on: 50
+    random_on_every_load: 50
+
+  bowser_castle_mode:
+    shortened: 30
+    boss_rush: 50
+
+  shuffle_dungeon_entrances: 'false'
+    # Note: This is not yet implemented and will fail to generate if set to True.
+
+  hidden_block_mode: always_visible
+  prevent_ooblzs: 'false'
+  skip_quiz: 'true'
+  quizmo_always_appears: 'true'
+  visible_hidden_panels: 'true'
+  always_speedy_spin: 'true'
+  always_peekaboo: 'true'
+  always_ispy: 'false'
+  foliage_item_hints: 'false'
+  cook_without_frying_pan: 'false'
+  cutscene_mode:
+    shortened: 10
+    minimal: 20
+  skip_epilogue: 'true'
+  mario_palette: random_pick_no_vanilla
+  goombario_palette: random_pick_no_vanilla
+  kooper_palette: random_pick_no_vanilla
+  bombette_palette: random_pick_no_vanilla
+  parakarry_palette: random_pick_no_vanilla
+  bow_palette: random_pick_no_vanilla
+  watt_palette: random_pick_no_vanilla
+  sushie_palette: random_pick_no_vanilla
+  lakilester_palette: random_pick_no_vanilla
+  boss_palette: default
+  npc_palette: default
+  enemy_palette: default
+  hammer_palette: default
+  status_menu_palette: teal
+  coin_palette:
+    red: 50
+    blue: 50
+    purple: 50
+  random_text: 'true'
+  roman_numerals: 'false'
+  shuffle_music:
+    shuffle_by_mood: 50
+    shuffle_by_type: 50
+  shuffle_jingles: 'true'
+  random_pitch: 'false'
+  mute_danger_beeps: 'true'
+  pmr_settings_string: None
   death_link: 'true'
-  goal: end of act iii
-
-  # Additional Location Options
-  Act_1_Duplicate_Locations: 'false'
-  Act_2_Duplicate_Locations: 'true'
-  Robobucks_Locations: 'false'
-  Card_Choice_Locations: 'true'
-  Unique_Card_Locations: 'true'
-  Kaycees_Mod_Duplicate_Locations: 'false'
-  plando_items:
-    - item:
-        Hammer: 1
-      location: inscryption.mp3's Hammer
-      world: The Shop
-      force: true
-    - item:
-        Explode Bot: 1
-      location: inscryption.mp3's Explode Bot
-      world: The Shop
-      force: true
-    - item:
-        Mummy Lord: 1
-      location: inscryption.mp3's Mummy Lord
-      world: The Shop
-      force: true
-    - item:
-        Buff Conduit: 1
-      location: inscryption.mp3's Buff Conduit
-      world: The Shop
-      force: true
-    - item:
-        49er: 1
-      location: Locker 1
-      world: The Vault
-      force: true
-    - item:
-        Energy Bot: 1
-      location: Locker 3
-      world: The Vault
-      force: true
-    - item:
-        Bolthound: 1
-      location: Locker 4
-      world: The Vault
-      force: true
-    - item:
-        Automaton: 1
-      location: Locker 7
-      world: The Vault
-      force: true
-
+  starting_hammer: normal
+  starting_boots: normal
+  overworld_coins: 'false'
+  foliage_coins: 'false'
+  coin_blocks: 'false'
   triggers:
-  - option_category: Manual_Inscryption_mp3
-    option_name: act
-    option_result: act2a
-    options:
-      Manual_Inscryption_mp3:
-        Act_2_Enabled: 'true'
-        goal: end of act ii
-        priority_locations: 
-          - 'Pick Up Monocle'
-          - 'Tower 1st Floor Chest Card Pack'
-          - 'Goobert Card Pack'
-          - 'Tower 2nd Floor Chest Card Pack'
-          - 'Pike Mage Card Pack'
-          - 'Tower 3rd Floor Rabbit Chest'
-          - 'Lonely Wizard Card Pack'
-          - 'Magnificus 1st Card Pack'
-          - 'Great Kraken Card'
-          - 'Defeat Magnificus'
-          - 'Magnificus 2nd Card Pack'
-  - option_category: Manual_Inscryption_mp3
-    option_name: act
-    option_result: act2b
-    options:
-      Manual_Inscryption_mp3:
-        Act_2_Enabled: 'true'
-        goal: end of act ii
-        priority_locations: 
-          - 'Pick Up Monocle 2'
-          - 'Tower 1st Floor Chest Card Pack 2'
-          - 'Goobert Card Pack 2'
-          - 'Tower 2nd Floor Chest Card Pack 2'
-          - 'Pike Mage Card Pack 2'
-          - 'Tower 3rd Floor Rabbit Chest 2'
-          - 'Lonely Wizard Card Pack 2'
-          - 'Magnificus 1st Card Pack 2'
-          - 'Great Kraken Card 2'
-          - 'Defeat Magnificus 2'
-          - 'Magnificus 2nd Card Pack 2'
-  - option_category: Manual_Inscryption_mp3
-    option_name: act
-    option_result: act3
-    options:
-      Manual_Inscryption_mp3:
-        Act_3_Enabled: 'true'
-        goal: end of act iii
-        priority_locations: 
-          - 'Rickety Tower: Cuckoo Clock Password from Shop'
-          - 'Rickety Tower: Sigil Modifier from Shop'
-          - 'Rickety Tower: Recycler from Shop'
-          - 'Rickety Tower: First Floor Encounter'
-          - 'Rickety Tower: Gemification on Second Floor'
+    - option_category: Paper Mario
+      option_name: BootHammer
+      option_result: boot
+      options:
+        Paper Mario:
+          starting_boots: normal
+          starting_hammer: hammerless
+    - option_category: Paper Mario
+      option_name: BootHammer
+      option_result: hammer
+      options:
+        Paper Mario:
+          starting_hammer: normal
+          starting_boots: jumpless
+    - option_category: Paper Mario
+      option_name: BootHammer
+      option_result: both
+      options:
+        Paper Mario:
+          starting_hammer: normal
+          starting_boots: normal
+    - option_category: Paper Mario
+      option_name: CoinOptions
+      option_result: overworld
+      options:
+        Paper Mario:
+          overworld_coins: 'true'
+          foliage_coins: 'false'
+          coin_blocks: 'false'
+    - option_category: Paper Mario
+      option_name: CoinOptions
+      option_result: foliage
+      options:
+        Paper Mario:
+          overworld_coins: 'false'
+          foliage_coins: 'true'
+          coin_blocks: 'false'
+    - option_category: Paper Mario
+      option_name: CoinOptions
+      option_result: coin_blocks
+      options:
+        Paper Mario:
+          overworld_coins: 'false'
+          foliage_coins: 'false'
+          coin_blocks: 'true'
+    - option_category: Paper Mario
+      option_name: CoinOptions
+      option_result: none
+      options:
+        Paper Mario:
+          overworld_coins: 'false'
+          foliage_coins: 'false'
+          coin_blocks: 'false'

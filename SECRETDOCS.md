@@ -57,27 +57,36 @@ finished players (0):
 
 # submission items
 
-| slot             | shop prog 1          | shop prog 2     | vault prog           | filler                    | trap          |
-| ---------------- | -------------------- | --------------- | -------------------- | ------------------------- | ------------- |
-| hollow.mp3       | Desolate_Dive        | Lumafly_Lantern | Mothwing_Cloak       | Geo_Chest-Watcher_Knights |               |
-| inscryption.mp3  | Hammer               | Explode Bot     | 49er                 |                           | Ring the Bell |
-| Deathclaw99SM64  | Climb                | Long Jump       | Wing Cap             |                           |               |
-| Deathclaw99Terra | Post-Golem           | Post-Skeletron  | Hardmode             |                           |               |
-| Deathclaw99OOT   | Megaton Hammer       | Hover Boots     | Progressive Hookshot | Rupees (200)              |               |
-| SylskoTunic      | Pages 24-25 (Prayer) | Hero's Laurels  | Magic Orb            | Money x100                | Fool Trap     |
-| SynRogue         | Celestial_Sash       | Water_Mask      | Security_Keycard_B   |                           |               |
-| SynRegret        | Progessive_Dots      | Shapers         | Black/White_Squares  | Speed_Boost               |               |
+| slot             | shop prog 1          | shop prog 2        | vault prog                         | filler                    | trap        |
+| ---------------- | -------------------- | ------------------ | ---------------------------------- | ------------------------- | ----------- |
+| hollow.mp3       | Desolate_Dive        | Lumafly_Lantern    | Mothwing_Cloak                     | Geo_Chest-Watcher_Knights |             |
+| paper.mp3        | Progressive Hammer   | Progressive Hammer | Progressive Boots                  | Repel Gel                 |             |
+| Deathclaw99SM64  | Climb                | Long Jump          | Wing Cap                           |                           |             |
+| Deathclaw99Terra | Post-Golem           | Post-Skeletron     | Hardmode                           |                           |             |
+| Deathclaw99OOT   | Megaton Hammer       | Hover Boots        | Progressive Hookshot               | Rupees (200)              |             |
+| SylskoTunic      | Pages 24-25 (Prayer) | Hero's Laurels     | Magic Orb                          | Money x100                | Fool Trap   |
+| SynRogue         | Celestial_Sash       | Water_Mask         | Security_Keycard_B                 |                           |             |
+| SynRegret        | Progessive_Dots      | Shapers            | Black/White_Squares                | Speed_Boost               |             |
+| Soleyeer         | Hookshot Badge       | Dweller Mask       | Ice Hat                            |                           | Laser Trap  |
+| ThatFirey        | Stamina Bar          | Wall Jump          | Whiplash                           |                           | Hard Damage |
+| CaesiusHIT       | Hookshot Badge       | Umbrella           | Zipline Unlock - The Windmill Path | 100 Pons                  | Baby Trap   |
+| CaesiusSM64      | Side Flip            | Wall Kick          | Progressive Key                    | 1Up Mushroom              |             |
 
-| slot             | vault useful 1     | vault useful 2     | vault useful 3        | shop useful 1        | shop useful 2                  |
-| ---------------- | ------------------ | ------------------ | --------------------- | -------------------- | ------------------------------ |
-| hollow.mp3       | Quick_Slash        | Hiveblood          | Steady_Body           | Heavy_Blow           | Shaman_Stone                   |
-| inscryption.mp3  | Automaton          | Bolthound          | Energy Bot            | Buff Conduit         | Mummy Lord                     |
-| Deathclaw99SM64  | Metal Cap          | Power Star         | Power Star            | Power Star           | Power Star                     |
-| Deathclaw99Terra | Post-Goblin Army   | Reward: Lava Charm | Reward: Obsidian Rose | Reward: Magic Quiver | Reward: Lavaproof Fishing Line |
-| Deathclaw99OOT   | Progressive Wallet | Zora Tunic         | Hylian Shield         | Goron Tunic          | Deku Shield                    |
-| SylskoTunic      | Muffling Bell      | Gun                | Magic Wand            | Anklet               | Magic Dagger                   |
-| SynRogue         | Talaria_Attachment | Eternal_Coat       | Bombardment           | Eternal_Crown        | Shattered_Orb                  |
-| SynRegret        | Functioning_Brain  | Boat               | Puzzle_Skip           | Puzzle_Skip          | Puzzle_Skip                    |
+
+| slot             | vault useful 1      | vault useful 2        | vault useful 3        | shop useful 1                 | shop useful 2                  |
+| ---------------- | ------------------- | --------------------- | --------------------- | ----------------------------- | ------------------------------ |
+| hollow.mp3       | Quick_Slash         | Hiveblood             | Steady_Body           | Heavy_Blow                    | Shaman_Stone                   |
+| paper.mp3        | Damage Dodge        | Flower Saver          | Pouch Upgrade         | Pouch Upgrade                 | P-Up D-Down                    |
+| Deathclaw99SM64  | Metal Cap           | Power Star            | Power Star            | Power Star                    | Power Star                     |
+| Deathclaw99Terra | Post-Goblin Army    | Reward: Lava Charm    | Reward: Obsidian Rose | Reward: Magic Quiver          | Reward: Lavaproof Fishing Line |
+| Deathclaw99OOT   | Progressive Wallet  | Zora Tunic            | Hylian Shield         | Goron Tunic                   | Deku Shield                    |
+| SylskoTunic      | Muffling Bell       | Gun                   | Magic Wand            | Anklet                        | Magic Dagger                   |
+| SynRogue         | Talaria_Attachment  | Eternal_Coat          | Bombardment           | Eternal_Crown                 | Shattered_Orb                  |
+| SynRegret        | Functioning_Brain   | Boat                  | Puzzle_Skip           | Puzzle_Skip                   | Puzzle_Skip                    |
+| Soleyeer         | Brewing Hat         | Time Stop Hat         | Fast Hatter Badge     | Projectile Badge              | Sprint Hat                     |
+| ThatFirey        | Revolver - Marksman | Shotgun - Pump Charge | Railcannon - Electric | Rocket Launcher - Freezeframe | Knuckleblaster                 |
+| CaesiusHIT       | Badge Pin           | Fast Hatter Badge     | Badge Pin             | Item Magnet Badge             | Hover Badge                    |
+| CaesiusSM64      | Ground Pound        | Cannon Unlock WF      | Power Star            | Cannon Unlock JRB             | Kick                           |
 
 # vault notes
 
