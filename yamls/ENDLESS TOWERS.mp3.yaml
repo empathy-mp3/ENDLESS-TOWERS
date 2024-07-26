@@ -182,335 +182,63 @@ Hollow Knight:
 
 ---
 
-name: dst.mp3
-
-# Used to describe your yaml. Useful if you have multiple files.
-description: Default Don't Starve Together Template
-
-game: Don't Starve Together
-requires:
-  version: 0.4.6 # Version of Archipelago required for this yaml to work as expected.
-
-Don't Starve Together:
-  progression_balancing: 30
+name: factorio.mp3
+game: Factorio
+description: empathy.mp3 factorio game for ENDLESS TOWERS async
+Factorio:
+  progression_balancing: '50'
   accessibility: items
-  goal:
-    # What must you accomplish to win the game?
-    # Survival: Survive a number of days to win.
-    # Bosses (Any): Defeat any of the selected bosses to win.
-    # Bosses (All): Defeat all selected bosses to win.
-    survival: 6
-    bosses_any: 16
-    bosses_all: 0
-
-  days_to_survive:
-    # Only applies for the survival goal. The number of days your character must survive for the survival goal. 
-    # Each day would last 8 real life minutes on default settings.
-    #
-    # You can define additional values between the minimum and maximum values.
-    # Minimum value is 0
-    # Maximum value is 1000
-    random-range-20-50: 50
-    random-range-30-70: 10
-    random-low: 0
-    random-high: 0
-    through autumn: 0 # equivalent to 20
-    through winter: 0 # equivalent to 35
-    one year: 0 # equivalent to 70
-    two years: 0 # equivalent to 140
-
-  required_bosses:
-    # Which boss(es) are required to be defeated to beat the game?
-    # 
-    # Valid Bosses:
-    #     "Deerclops"
-    #     "Moose/Goose"
-    #     "Bearger"
-    #     "Ancient Guardian"
-    #     "Antlion"
-    #     "Dragonfly"
-    #     "Bee Queen"
-    #     "Klaus"
-    #     "Toadstool"
-    #     "Malbatross"
-    #     "Crab King"
-    #     "Frostjaw"
-    #     "Eye Of Terror"
-    #     "Retinazor"
-    #     "Spazmatism"
-    #     "Nightmare Werepig"
-    #     "Scrappy Werepig"
-    #     "Ancient Fuelweaver"
-    #     "Celestial Champion"
-    # 
-    # Example: ['Deerclops', 'Moose/Goose', 'Bearger']
-    ['Celestial Champion', 'Ancient Fuelweaver', 'Scrappy Werepig']
-
-  AncientGuardian:
-    true: 1
-    false: 4
-
-  Deerclops:
-    true: 1
-    false: 6
-
-  MooseGoose:
-    true: 1
-    false: 6
-
-  Bearger:
-    true: 1
-    false: 5
-
-  Antlion:
-    true: 1
-    false: 5
-
-  EyeOfTerror:
-    true: 1
-    false: 5
-
-  Retinazor:
-    true: 1
-    false: 4
-
-  Spazmatism:
-    true: 1
-    false: 4
-
-  Dragonfly:
-    true: 1
-    false: 4
-
-  BeeQueen:
-    true: 1
-    false: 4
-
-  Klaus:
-    true: 1
-    false: 3
-
-  Toadstool:
-    true: 1
-    false: 2
-
-  Malbatross:
-    true: 1
-    false: 3
-
-  CrabKing:
-    true: 1
-    false: 2
-
-  Frostjaw:
-    true: 1
-    false: 3
-
-  NightmareWerepig:
-    true: 1
-    false: 1
-
-  triggers:
-    - option_category: Don't Starve Together
-      option_name: AncientGuardian
-      option_result: true
-      options:
-        Don't Starve Together:
-          +required_bosses:
-            - 'Ancient Guardian'
-    - option_category: Don't Starve Together
-      option_name: Deerclops
-      option_result: true
-      options:
-        Don't Starve Together:
-          +required_bosses:
-            - 'Deerclops'
-    - option_category: Don't Starve Together
-      option_name: MooseGoose
-      option_result: true
-      options:
-        Don't Starve Together:
-          +required_bosses:
-            - 'Moose/Goose'
-    - option_category: Don't Starve Together
-      option_name: Bearger
-      option_result: true
-      options:
-        Don't Starve Together:
-          +required_bosses:
-            - 'Bearger'
-    - option_category: Don't Starve Together
-      option_name: Antlion
-      option_result: true
-      options:
-        Don't Starve Together:
-          +required_bosses:
-            - 'Antlion'
-    - option_category: Don't Starve Together
-      option_name: EyeOfTerror
-      option_result: true
-      options:
-        Don't Starve Together:
-          +required_bosses:
-            - 'Eye Of Terror'
-    - option_category: Don't Starve Together
-      option_name: Retinazor
-      option_result: true
-      options:
-        Don't Starve Together:
-          +required_bosses:
-            - 'Retinazor'
-    - option_category: Don't Starve Together
-      option_name: Spazmatism
-      option_result: true
-      options:
-        Don't Starve Together:
-          +required_bosses:
-            - 'Spazmatism'
-    - option_category: Don't Starve Together
-      option_name: Dragonfly
-      option_result: true
-      options:
-        Don't Starve Together:
-          +required_bosses:
-            - 'Dragonfly'
-    - option_category: Don't Starve Together
-      option_name: BeeQueen
-      option_result: true
-      options:
-        Don't Starve Together:
-          +required_bosses:
-            - 'Bee Queen'
-    - option_category: Don't Starve Together
-      option_name: Klaus
-      option_result: true
-      options:
-        Don't Starve Together:
-          +required_bosses:
-            - 'Klaus'
-    - option_category: Don't Starve Together
-      option_name: Toadstool
-      option_result: true
-      options:
-        Don't Starve Together:
-          +required_bosses:
-            - 'Toadstool'
-    - option_category: Don't Starve Together
-      option_name: Malbatross
-      option_result: true
-      options:
-        Don't Starve Together:
-          +required_bosses:
-            - 'Malbatross'
-    - option_category: Don't Starve Together
-      option_name: CrabKing
-      option_result: true
-      options:
-        Don't Starve Together:
-          +required_bosses:
-            - 'Crab King'
-    - option_category: Don't Starve Together
-      option_name: Frostjaw
-      option_result: true
-      options:
-        Don't Starve Together:
-          +required_bosses:
-            - 'Nightmare Werepig'
-
-  creature_locations: true
-
-  boss_locations: easy
-
-  cooking_locations: regular
-
-  farming_locations:
-    # Find items when you harvest giant crops?
-    false: 50
-    true: 0
-
-  seasonal_locations:
-    # Should season-specific locations have important items?
-    # 
-    # False: Season-specific locations will only have filler items.
-    # True: Season-specific locations may have useful items.
-    false: 0
-    true: 50
-
-  season_change_helper_items:
-    # Include a way to change seasons and moon phases to help with location checks?
-    # These will be added as Archipelago items, and cost sanity and purple gems to use.
-    false: 0
-    true: 50
-
-  extra_damage_against_bosses:
-    # This adds "Extra Damage Against Bosses" buffs as Archipelago items.
-    # Each stack of this buff gives the player a permanent +10% damage against easier bosses and +25% damage against tougher ones.
-    # This is exponential. With 10 stacks, this turns into a x2.6 and x9.3 damage multipiers respectively.
-    #
-    # You can define additional values between the minimum and maximum values.
-    # Minimum value is 0
-    # Maximum value is 20
-    random: 50
-    random-low: 30
-    random-high: 10
-    none: 0 # equivalent to 0
-    low: 30 # equivalent to 3
-    medium: 30 # equivalent to 6
-    high: 30 # equivalent to 10
-
-  shuffle_starting_recipes:
-    # Turn your basic starting recipes into Archipelago items?
-    false: 1
-    true: 0
-
-  shuffle_no_unlock_recipes:
-    # Turn crafting recipes in the Ancient Pseudoscience Station and Celestial Altars into Archipelago items?
-    false: 1
-    true: 0
-
-  skill_level:
-    # What skill level should be considered for randomizer logic?
-    # 
-    # Easy: Ensure items that would be helpful for progression are accessible
-    # Advanced: Expects you to know the game well and to survive seasons under-equipped
-    # Expert: Expects you to survive in riskier conditions, such as entering the ruins without light, etc
-    easy: 0
-    advanced: 50
-    expert: 0
-
-  trap_items:
-    # Include regular traps in the item pool? These do not change the season.
-    none: 50
-    low: 0
-    medium: 0
-    high: 0
-
-  season_trap_items:
-    # Include season-changing traps in the item pool?
-    none: 0
-    low: 50
-    medium: 50
-    high: 0
-
-  death_link: true
+  max_science_pack: space_science_pack
+  min_tech_cost: random-range-1-50
+  max_tech_cost: random-range-50-1000
+  silo: randomize_recipe
+  satellite: randomize_recipe
+  recipe_time: chaos
+  recipe_ingredients: science_pack
+  recipe_ingredients_offset:
+    -1: 1
+    0: 5
+    1: 2
+  imported_blueprints: 'true'
+  progressive: 'on'
+  teleport_traps: random-range-1-20
+  grenade_traps: random-range-0-5
+  cluster_grenade_traps: random-range-0-4
+  artillery_traps: random-range-0-2
+  atomic_rocket_traps:
+    0: 60
+    1: 2
+    2: 1
+  attack_traps: '0'
+  evolution_traps: '0'
+  evolution_trap_increase: '10'
+  death_link: 'true'
+  energy_link: 'true'
+  goal: random
+  tech_tree_layout: random
+  tech_cost_distribution: random
+  tech_cost_mix: random
+  ramping_tech_costs: random
+  free_samples: random
+  tech_tree_information: random
   plando_items:
     - item:
-        Tent: 1
-      location: dst.mp3's Tent
+        progressive-science-pack: 1
+      location: factorio.mp3's progressive-science-pack
       world: The Shop
       force: true
     - item:
-        Boards: 1
-      location: dst.mp3's Boards
+        progressive-science-pack: 1
+      location: factorio.mp3's progressive-science-pack (2)
       world: The Shop
       force: true
     - item:
-        Winter Season Change: 1
-      location: dst.mp3's Winter Season Change
+        uranium-ammo: 1
+      location: factorio.mp3's uranium-ammo
       world: The Shop
       force: true
     - item:
-        Autumn Season Change: 1
-      location: dst.mp3's Autumn Season Change
+        concrete: 1
+      location: factorio.mp3's concrete
       world: The Shop
       force: true

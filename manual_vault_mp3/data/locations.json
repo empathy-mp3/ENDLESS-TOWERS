@@ -56,6 +56,482 @@
         ]
     },
     {
+        "name": "Locker 9",
+        "requires": "|Vault Key:9|",
+        "category": [
+            "prog"
+        ]
+    },
+    {
+        "name": "Locker 10",
+        "requires": "|Vault Key:10|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 11",
+        "requires": "|Vault Key:11|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 12",
+        "requires": "|Vault Key:12|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 13",
+        "requires": "|Vault Key:13|",
+        "category": [
+            "prog"
+        ]
+    },
+    {
+        "name": "Locker 14",
+        "requires": "|Vault Key:14|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 15",
+        "requires": "|Vault Key:15|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 16",
+        "requires": "|Vault Key:16|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 17",
+        "requires": "|Vault Key:17|",
+        "category": [
+            "prog"
+        ]
+    },
+    {
+        "name": "Locker 18",
+        "requires": "|Vault Key:18|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 19",
+        "requires": "|Vault Key:19|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 20",
+        "requires": "|Vault Key:20|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 21",
+        "requires": "|Vault Key:21|",
+        "category": [
+            "prog"
+        ]
+    },
+    {
+        "name": "Locker 22",
+        "requires": "|Vault Key:22|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 23",
+        "requires": "|Vault Key:23|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 24",
+        "requires": "|Vault Key:24|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 25",
+        "requires": "|Vault Key:25|",
+        "category": [
+            "prog"
+        ]
+    },
+    {
+        "name": "Locker 26",
+        "requires": "|Vault Key:26|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 27",
+        "requires": "|Vault Key:27|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 28",
+        "requires": "|Vault Key:28|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 29",
+        "requires": "|Vault Key:29|",
+        "category": [
+            "prog"
+        ]
+    },
+    {
+        "name": "Locker 30",
+        "requires": "|Vault Key:30|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 31",
+        "requires": "|Vault Key:31|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 32",
+        "requires": "|Vault Key:32|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 33",
+        "requires": "|Vault Key:33|",
+        "category": [
+            "prog"
+        ]
+    },
+    {
+        "name": "Locker 34",
+        "requires": "|Vault Key:34|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 35",
+        "requires": "|Vault Key:35|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 36",
+        "requires": "|Vault Key:36|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 37",
+        "requires": "|Vault Key:37|",
+        "category": [
+            "prog"
+        ]
+    },
+    {
+        "name": "Locker 38",
+        "requires": "|Vault Key:38|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 39",
+        "requires": "|Vault Key:39|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 40",
+        "requires": "|Vault Key:40|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 41",
+        "requires": "|Vault Key:41|",
+        "category": [
+            "prog"
+        ]
+    },
+    {
+        "name": "Locker 42",
+        "requires": "|Vault Key:42|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 43",
+        "requires": "|Vault Key:43|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 44",
+        "requires": "|Vault Key:44|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 45",
+        "requires": "|Vault Key:45|",
+        "category": [
+            "prog"
+        ]
+    },
+    {
+        "name": "Locker 46",
+        "requires": "|Vault Key:46|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 47",
+        "requires": "|Vault Key:47|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 48",
+        "requires": "|Vault Key:48|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 49",
+        "requires": "|Vault Key:49|",
+        "category": [
+            "prog"
+        ]
+    },
+    {
+        "name": "Locker 50",
+        "requires": "|Vault Key:50|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 51",
+        "requires": "|Vault Key:51|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 52",
+        "requires": "|Vault Key:52|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 53",
+        "requires": "|Vault Key:53|",
+        "category": [
+            "prog"
+        ]
+    },
+    {
+        "name": "Locker 54",
+        "requires": "|Vault Key:54|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 55",
+        "requires": "|Vault Key:55|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 56",
+        "requires": "|Vault Key:56|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 57",
+        "requires": "|Vault Key:57|",
+        "category": [
+            "prog"
+        ]
+    },
+    {
+        "name": "Locker 58",
+        "requires": "|Vault Key:58|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 59",
+        "requires": "|Vault Key:59|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 60",
+        "requires": "|Vault Key:60|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 61",
+        "requires": "|Vault Key:61|",
+        "category": [
+            "prog"
+        ]
+    },
+    {
+        "name": "Locker 62",
+        "requires": "|Vault Key:62|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 63",
+        "requires": "|Vault Key:63|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 64",
+        "requires": "|Vault Key:64|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 65",
+        "requires": "|Vault Key:65|",
+        "category": [
+            "prog"
+        ]
+    },
+    {
+        "name": "Locker 66",
+        "requires": "|Vault Key:66|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 67",
+        "requires": "|Vault Key:67|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 68",
+        "requires": "|Vault Key:68|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 69",
+        "requires": "|Vault Key:69|",
+        "category": [
+            "prog"
+        ]
+    },
+    {
+        "name": "Locker 70",
+        "requires": "|Vault Key:70|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 71",
+        "requires": "|Vault Key:71|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 72",
+        "requires": "|Vault Key:72|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 73",
+        "requires": "|Vault Key:73|",
+        "category": [
+            "prog"
+        ]
+    },
+    {
+        "name": "Locker 74",
+        "requires": "|Vault Key:74|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 75",
+        "requires": "|Vault Key:75|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
+        "name": "Locker 76",
+        "requires": "|Vault Key:76|",
+        "category": [
+            "useful"
+        ]
+    },
+    {
         "name": "victory",
         "victory": true
     }

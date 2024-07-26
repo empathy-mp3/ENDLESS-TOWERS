@@ -10,9 +10,9 @@ TUNIC:
   fixed_shop: 'false'
   logic_rules: restricted
   fool_traps: normal
-  hexagon_quest: 'false'
-  hexagon_goal: 16
-  extra_hexagon_percentage: 30
+  hexagon_quest: 'true'
+  hexagon_goal: random
+  extra_hexagon_percentage: random
   lanternless: 'false'
   maskless: 'false'
   laurels_location: anywhere
