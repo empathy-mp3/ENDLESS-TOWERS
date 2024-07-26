@@ -1,0 +1,422 @@
+﻿
+name: DragoSpinsDeath
+
+game: Timespinner
+
+Timespinner:
+  # Game Options
+  progression_balancing: 0
+
+  accessibility: minimal
+
+  StartWithJewelryBox: true
+
+  DownloadableItems: true
+
+  EyeSpy: false
+
+  StartWithMeyef: false
+
+  QuickSeed: true
+
+  SpecificKeycards: true
+
+  Inverted: random
+
+  GyreArchives: random
+
+  Cantoran: false
+
+  LoreChecks: true
+
+  BossRando:
+    'off': 40
+    scaled: 50
+    unscaled: 10
+
+  EnemyRando:
+    'off': 50
+    scaled: 40
+    unscaled: 10
+
+  DamageRando:
+    # Randomly nerfs and buffs some orbs and their associated spells as well as some associated rings.
+    'off': 0
+    allnerfs: 0
+    mostlynerfs: 1
+    balanced: 0
+    mostlybuffs: 0
+    allbuffs: 0
+    manual: 0
+
+  ExtraEarringsXP: 2
+
+  BossHealing: true
+
+  ShopFill: randomized
+
+  ShopWarpShards: true
+
+  ShopMultiplier: random
+
+  LootPool: randomized
+
+
+  EnterSandman:
+    'false': 30
+    'true': 70
+
+  DadPercent: random
+
+  RisingTides: true
+
+  UnchainedKeys: true
+
+  TrapChance: 10
+
+  PresentAccessWithWheelAndSpindle: true
+
+  DeathLink: true
+  plando_items:
+    - item:
+        Water Mask: 1
+      location: DragoSpinsDeath's Water Mask
+      world: The Shop
+      force: true
+    - item:
+        Security Keycard D: 1
+      location: DragoSpinsDeath's Security Keycard D
+      world: The Shop
+      force: true
+    - item:
+        Gas Mask: 1
+      location: DragoSpinsDeath's Gas Mask
+      world: The Shop
+      force: true
+    - item:
+        Plasma Orb: 1
+      location: DragoSpinsDeath's Plasma Orb
+      world: The Shop
+      force: true
+
+---
+
+name: HatKillsDrago
+
+game: A Hat in Time
+requires:
+  version: 0.5.0 # Version of Archipelago required for this yaml to work as expected.
+
+A Hat in Time:
+  # Game Options
+  progression_balancing: 1
+
+  accessibility: minimal
+
+  death_link: true
+  
+  GoalType:
+    long_finale: 35
+    seal_the_deal: 15
+    rush_into_metros: 45
+    only_dw: 5
+  triggers:
+   - option_name: GoalType
+     option_result: long_finale
+     option_category: A Hat in Time
+     options:
+       A Hat in Time:
+          EndGoal: finale
+          LowestChapterCost: 10
+          HighestChapterCost: 45
+          ChapterCostIncrement: 8
+          ChapterCostMinDifference: 8
+          FinalChapterMinCost: 50
+          FinalChapterMaxCost: 50
+          EnableDeathWish: random
+          DWShuffleCountMin: random
+          DWShuffleCountMax: random
+          DeathWishOnly: false
+          DWAutoCompleteBonuses: random
+          DWTimePieceRequirement: random
+   - option_name: GoalType
+     option_result: seal_the_deal
+     option_category: A Hat in Time
+     options:
+       A Hat in Time:
+          EndGoal: seal_the_deal
+          LowestChapterCost: 2
+          HighestChapterCost: 15
+          ChapterCostIncrement: 3
+          ChapterCostMinDifference: 3
+          FinalChapterMinCost: 20
+          FinalChapterMaxCost: 30
+          EnableDeathWish: true
+          DWShuffleCountMin: 5
+          DWShuffleCountMax: 10
+          DeathWishOnly: false
+          DWAutoCompleteBonuses: true
+          DWTimePieceRequirement: 20
+   - option_name: GoalType
+     option_result: rush_into_metros
+     option_category: A Hat in Time
+     options:
+       A Hat in Time:
+          EndGoal: rush_hour
+          LowestChapterCost: 5
+          HighestChapterCost: 25
+          ChapterCostIncrement: 5
+          ChapterCostMinDifference: 5
+          FinalChapterMinCost: 30
+          FinalChapterMaxCost: 45
+          EnableDeathWish: false
+          DeathWishOnly: false
+          DWAutoCompleteBonuses: false
+   - option_name: GoalType
+     option_result: only_dw
+     option_category: A Hat in Time
+     options:
+       A Hat in Time:
+          EndGoal: seal_the_deal
+          LowestChapterCost: 10
+          HighestChapterCost: 40
+          ChapterCostIncrement: 8
+          ChapterCostMinDifference: 2
+          FinalChapterMinCost: 30
+          FinalChapterMaxCost: 45
+          EnableDeathWish: true
+          DWShuffleCountMin: 8
+          DWShuffleCountMax: 16
+          DeathWishOnly: true
+          DWAutoCompleteBonuses: false
+          DWTimePieceRequirement: 1
+          
+  # General Options
+
+  ShuffleAlpineZiplines: true
+
+  LogicDifficulty: normal
+
+  ShuffleStorybookPages: true
+
+  ShuffleActContracts: true
+
+  ShuffleSubconPaintings: false
+
+  NoPaintingSkips: true
+
+  CTRLogic: time_stop_only
+
+  MinPonCost: 100
+
+  MaxPonCost: 800
+
+  BadgeSellerMinItems: random
+
+  BadgeSellerMaxItems: random-high
+
+  # Act Options
+  ActRandomizer: insanity
+
+  FinaleShuffle: false
+
+  StartingChapter: random
+
+  # Item Options
+  YarnBalancePercent: 50
+
+  TimePieceBalancePercent: 80
+
+  RandomizeHatOrder: true
+
+  UmbrellaLogic: false
+
+  StartWithCompassBadge: true
+
+  CompassBadgeMode: closest
+
+  MaxExtraTimePieces: random
+
+  YarnCostMin: random
+
+  YarnCostMax: random
+
+  YarnAvailable: random
+
+  MinExtraYarn: random
+
+  HatItems: random
+
+  # Arctic Cruise Options
+  EnableDLC1: random
+  
+  Tasksanity: random
+
+  TasksanityTaskStep: 1
+
+  TasksanityCheckCount: random
+
+  ExcludeTour:
+    'false': 80
+    'true': 20
+
+  ShipShapeCustomTaskGoal: 10
+
+  # Nyakuza Metro Options
+  EnableDLC2: true
+
+  BaseballBat: random
+
+  MetroMinPonCost: random
+
+  MetroMaxPonCost: random
+
+  NyakuzaThugMinShopItems: random
+
+  NyakuzaThugMaxShopItems: random
+
+  NoTicketSkips: true
+
+  # Death Wish Options
+
+  DWShuffle: true
+
+  DWExcludeAnnoyingContracts: true
+
+  DWExcludeAnnoyingBonuses: true
+
+  DWExcludeCandles: false
+
+  # Trap Options
+  TrapChance: 2
+
+  BabyTrapWeight: 1
+
+  LaserTrapWeight: 0
+
+  ParadeTrapWeight: 0
+
+  start_inventory:
+    Umbrella: 1
+  plando_items:
+    - item:
+        Ice Hat: 1
+      location: HatKillsDrago's Ice Hat
+      world: The Shop
+      force: true
+    - item:
+        Yarn: 1
+      location: HatKillsDrago's Yarn
+      world: The Shop
+      force: true
+    - item:
+        Time Stop Hat: 1
+      location: HatKillsDrago's Time Stop Hat
+      world: The Shop
+      force: true
+    - item:
+        Relic (Crayon Box): 1
+      location: HatKillsDrago's Relic (Crayon Box)
+      world: The Shop
+      force: true
+    
+---
+name: DragoLookAtDeath
+
+game: The Witness
+
+The Witness:
+  # Game Options
+  progression_balancing: 0
+
+  accessibility: minimal
+
+  # Puzzles & Goal
+  puzzle_randomization:
+    sigma_normal: 50
+    sigma_expert: 50
+
+  victory_condition: random
+
+  mountain_lasers: random
+
+  challenge_lasers: random-high
+
+  # Locations
+  disable_non_randomized_puzzles: random
+
+  shuffle_discarded_panels: true
+
+  shuffle_vault_boxes: random
+
+  shuffle_EPs: individual
+
+  EP_difficulty: random
+
+  shuffle_postgame: random
+
+  # Progression Items
+  shuffle_symbols:
+    'false': 10
+    'true': 90
+
+  shuffle_doors: random
+
+  door_groupings: random
+
+  shuffle_boat: true
+
+  shuffle_lasers: random
+
+  obelisk_keys: random
+
+  # Filler Items
+  trap_percentage: 10
+
+  trap_weights:
+    # Specify the weights determining how many copies of each trap item will be in your itempool.
+    # If you don't want a specific type of trap, you can set the weight for it to 0 (Do not delete the entry outright!).
+    # If you set all trap weights to 0, you will get no traps, bypassing the "Trap Percentage" option.
+    Bonk: 1
+    Power Surge: 2
+    Slowness: 6
+
+  puzzle_skip_amount: random
+
+  # Hints
+  hint_amount: random
+
+  area_hint_percentage: random-low
+
+  laser_hints: true
+
+  # Misc
+  early_caves: random
+
+  elevators_come_to_you: false
+
+  death_link: true
+
+  death_link_amnesty: 1
+
+  plando_items:
+    - item:
+        Triangles: 1
+      location: DragoLookAtDeath's Triangles
+      world: The Shop
+      force: true
+    - item:
+        Black/White Squares: 1
+      location: DragoLookAtDeath's Black/White Squares
+      world: The Shop
+      force: true
+    - item:
+        Keep Shortcuts: 1
+      location: DragoLookAtDeath's Keep Shortcuts
+      world: The Shop
+      force: true
+    - item:
+        Mountain Floor 2 Staircase Far (Door): 1
+      location: DragoLookAtDeath's Mountain Floor 2 Staircase Far (Door)
+      world: The Shop
+      force: true

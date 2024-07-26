@@ -1,0 +1,107 @@
+name: mars.
+game: Hollow Knight
+Hollow Knight:
+  DeathLink: true
+
+  # normal rando stuff
+  progression_balancing: 0 # dont worry about it! don't worry. :)
+  Goal: radiance
+  RandomizeDreamers: random
+  RandomizeFocus: true  #  I'm nuts. I'm insane kid.
+  SplitCrystalHeart: true
+  SplitMantisClaw: true
+  SplitMothwingCloak: true
+  RandomizeGeoChests: true
+  RandomizeRancidEggs: true
+  RandomizeRelics: true
+  RandomizeBossEssence: random
+  RandomizeGrubs: random
+  RandomizeMimics: true
+  RandomizeMaps: true
+  RandomizeBossGeo: true
+  RandomizeElevatorPass: true
+  WhitePalace: include
+  RandomCharmCosts: random 
+
+  # shuffle all shop slots and costs around randomly, in the name of random
+  SlyShopSlots: 0
+  SlyKeyShopSlots: 0
+  IseldaShopSlots: 0
+  SalubraShopSlots: 0
+  SalubraCharmShopSlots: 0
+  LegEaterShopSlots: 0
+  GrubfatherRewardSlots: 0
+  SeerRewardSlots: 0
+  EggShopSlots: 1
+  ExtraShopSlots: 45
+  CostSanity: true
+  CostSanityHybridChance: random
+
+  # part where i start with simple keys so stuff with them is in logic before the heat death of the universe
+  start_inventory:
+    Simple_Key: 4
+
+  # local item mimics its funny
+  local_items: Mimic_Grub
+  plando_items:
+    - item:
+        Desolate_Dive: 1
+      location: mars.'s Desolate_Dive
+      world: The Shop
+      force: true
+    - item:
+        Focus: 1
+      location: mars.'s Focus
+      world: The Shop
+      force: true
+    - item:
+        Soul_Eater: 1
+      location: mars.'s Soul_Eater
+      world: The Shop
+      force: true
+    - item:
+        Quick_Slash: 1
+      location: mars.'s Quick_Slash
+      world: The Shop
+      force: true
+
+---
+
+name: mars three.
+game: Timespinner
+Timespinner:
+  DeathLink: true
+  SpecificKeycards: random
+  Inverted: random
+  LoreChecks: true
+  DamageRando: balanced
+  ExtraEarringsXP: 14
+  ShopFill: randomized
+  Cantoran: true
+  UnchainedKeys: true
+  BossRando: scaled
+  GyreArchives: true
+  LootPool: randomized
+  RisingTides: true
+  EyeSpy: true
+  plando_items:
+    - item:
+        Celestial Sash: 1
+      location: mars three.'s Celestial Sash
+      world: The Shop
+      force: true
+    - item:
+        Water Mask: 1
+      location: mars three.'s Water Mask
+      world: The Shop
+      force: true
+    - item:
+        Selen's Bangle: 1
+      location: 'mars three.''s Selen''s Bangle'
+      world: The Shop
+      force: true
+    - item:
+        Galaxy Earrings: 1
+      location: mars three.'s Galaxy Earrings
+      world: The Shop
+      force: true
