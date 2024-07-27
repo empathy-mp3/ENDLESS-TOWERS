@@ -125,3 +125,23 @@ Stardew Valley:
       location: TripleSDV's Progressive Fishing Rod
       world: The Shop
       force: true
+    - item:
+        Return Scepter: 1
+      location: Locker 57
+      world: The Vault
+      force: true
+    - item:
+        Progressive Season: 1
+      location: Locker 58
+      world: The Vault
+      force: true
+    - item:
+        Progressive Barn: 1
+      location: Locker 59
+      world: The Vault
+      force: true
+    - item:
+        Progressive House: 1
+      location: Locker 60
+      world: The Vault
+      force: true

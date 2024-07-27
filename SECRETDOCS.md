@@ -6,9 +6,9 @@ shops have 6 items, and are restocked daily
   - should a slot lose all possible stock, it will be replaced with one of the following:
     - temp life refills: (1, +2 cost per additional one purchased per run) 3 stock
     - temp filler item: (1, +1 cost per additional of that particular filler item purchased per run) 3 stock
-- reroll is (6, +3 cost per reroll per day)
+- reroll is (5, +2 cost per reroll per day)
 - send X random traps is (X = 8 + uses) cash is (+1 cash, +0.1 cash per use, not rounded)
-all prices increase every time a player finishese
+all prices increase every time a player finishes
 
 # current status
 
@@ -40,7 +40,7 @@ here are the wares!
 
 other impermanent things:
 
-`reroll & restock` (6 cost)
+`reroll & restock` (5 cost)
 `send 8 random traps` (+1 Cold Hard Cash) ~ 1 in stock
 
 updated (insert relative discord timestamp)
@@ -62,7 +62,7 @@ finished players (0):
 | ---------------- | ------------------------ | ---------------------------- | ---------------------------------- | ------------------------------- | -------------------- |
 | hollow.mp3       | Desolate_Dive            | Lumafly_Lantern              | Mothwing_Cloak                     | Geo_Chest-Watcher_Knights       |                      |
 | factorio.mp3     | progressive-science-pack | progressive-science-pack     | progressive-science-pack           | progressive-mining-productivity | Cluster Grenade Trap |
-| Deathclaw99SM64  | Climb                    | Long Jump                    | Wing Cap                           |                                 |                      |
+| Deathclaw99TS    | Water Mask               | Lightwall                    | Elevator Keycard                   |                                 |                      |
 | Deathclaw99Terra | Post-Golem               | Post-Skeletron               | Hardmode                           |                                 |                      |
 | Deathclaw99OOT   | Megaton Hammer           | Hover Boots                  | Progressive Hookshot               | Rupees (200)                    |                      |
 | SylskoTunic      | Pages 24-25 (Prayer)     | Hero's Laurels               | Magic Orb                          | Money x100                      | Fool Trap            |
@@ -78,14 +78,15 @@ finished players (0):
 | DragoSpinsDeath  | Water Mask               | Security Keycard D           | Celestial Sash                     | Spaghetti                       | Bee Trap             |
 | HatKillsDrago    | Ice Hat                  | Yarn                         | Hookshot Badge                     | 100 Pons                        | Baby Trap            |
 | DragoLookAtDeath | Triangles                | Black/White Squares          | Cave Swamp Shortcut (Door)         | Puzzle Skip                     | Bonk                 |
-| Alex230-Doom     | Free Saves and Loads     | Allow Leaving Start Location | Turn Off GZChaos Mod               | Turn Off Entropy Mod            |                      |
+| Alex230-Doom     | Free Saves and Loads     | Allow Leaving Start Location | Turn Off GZChaos Mod               | Turn Off Entropy Mod            | Dark Sectors         |
+| dst.mp3          | Tent                     | Boards                       | Rope                               | Eye Mask                        | Summer Trap          |
 
 
 | slot             | vault useful 1               | vault useful 2        | vault useful 3         | shop useful 1                 | shop useful 2                         |
 | ---------------- | ---------------------------- | --------------------- | ---------------------- | ----------------------------- | ------------------------------------- |
 | hollow.mp3       | Quick_Slash                  | Hiveblood             | Steady_Body            | Heavy_Blow                    | Shaman_Stone                          |
 | factorio.mp3     | belt-immunity-equipment      | lubricant             | battery                | uranium-ammo                  | concrete                              |
-| Deathclaw99SM64  | Metal Cap                    | Power Star            | Power Star             | Power Star                    | Power Star                            |
+| Deathclaw99TS    | Eternal Coat                 | Radiant Orb           | Eternal Crown          | Shattered Orb                 | Bombardment                           |
 | Deathclaw99Terra | Post-Goblin Army             | Reward: Lava Charm    | Reward: Obsidian Rose  | Reward: Magic Quiver          | Reward: Lavaproof Fishing Line        |
 | Deathclaw99OOT   | Progressive Wallet           | Zora Tunic            | Hylian Shield          | Goron Tunic                   | Deku Shield                           |
 | SylskoTunic      | Muffling Bell                | Gun                   | Magic Wand             | Anklet                        | Magic Dagger                          |
@@ -102,82 +103,87 @@ finished players (0):
 | HatKillsDrago    | Relic (Red Crayon)           | Relic (Blue Crayon)   | Relic (Green Crayon)   | Time Stop Hat                 | Relic (Crayon Box)                    |
 | DragoLookAtDeath | Jungle Laser Shortcut (Door) | Eraser                | Quarry Entry 1 (Panel) | Keep Shortcuts                | Mountain Floor 2 Staircase Far (Door) |
 | Alex230-Doom     | Allow Using Yellow Key       | Allow Using Blue Key  | Allow Using Red Key    | Automap                       | Allow Using Exit                      |
+| dst.mp3          | Extra Damage Against Bosses  | Krampus Sack          | Spring Season Change   | Winter Season Change          | Autumn Season Change                  |
 
 # vault notes
 
-hollow.mp3       | Mothwing_Cloak                    
-factorio.mp3     | progressive-science-pack          
-Deathclaw99SM64  | Wing Cap                          
-Deathclaw99Terra | Hardmode                          
-Deathclaw99OOT   | Progressive Hookshot              
-SylskoTunic      | Magic Orb                         
-SynRogue         | Security Keycard B                
-SynRegret        | Black/White Squares               
-Soleyeer         | Ice Hat                           
-ThatFirey        | Whiplash                          
-CaesiusHIT       | Zipline Unlock - The Windmill Path
-CaesiusSM64      | Progressive Key                   
-mars.            | Monarch_Wings                     
-mars three.      | Security Keycard B                
-TripleSDV        | Progressive Season                
-DragoSpinsDeath  | Celestial Sash                    
-HatKillsDrago    | Hookshot Badge                    
-DragoLookAtDeath | Cave Swamp Shortcut (Door)        
-Alex230-Doom     | Turn Off GZChaos Mod             
-hollow.mp3       | Quick_Slash                 
-factorio.mp3     | belt-immunity-equipment     
-Deathclaw99SM64  | Metal Cap                   
-Deathclaw99Terra | Post-Goblin Army            
-Deathclaw99OOT   | Progressive Wallet          
-SylskoTunic      | Muffling Bell               
-SynRogue         | Talaria Attachment          
-SynRegret        | Functioning Brain           
-Soleyeer         | Brewing Hat                 
-ThatFirey        | Revolver - Marksman         
-CaesiusHIT       | Badge Pin                   
-CaesiusSM64      | Ground Pound                
-mars.            | Fragile_Strength            
-mars three.      | Eternal Crown               
-TripleSDV        | Progressive Barn            
-DragoSpinsDeath  | Tablet                      
-HatKillsDrago    | Relic (Red Crayon)          
-DragoLookAtDeath | Jungle Laser Shortcut (Door)
-Alex230-Doom     | Allow Using Yellow Key      
-hollow.mp3       | Hiveblood            
-factorio.mp3     | lubricant            
-Deathclaw99SM64  | Power Star           
-Deathclaw99Terra | Reward: Lava Charm   
-Deathclaw99OOT   | Zora Tunic           
-SylskoTunic      | Gun                  
-SynRogue         | Eternal Coat         
-SynRegret        | Boat                 
-Soleyeer         | Time Stop Hat        
-ThatFirey        | Shotgun - Pump Charge
-CaesiusHIT       | Fast Hatter Badge    
-CaesiusSM64      | Cannon Unlock WF     
-mars.            | Shade_Soul           
-mars three.      | Talaria Attachment   
-TripleSDV        | Progressive House    
-DragoSpinsDeath  | Succubus Hairpin     
-HatKillsDrago    | Relic (Blue Crayon)  
-DragoLookAtDeath | Eraser               
-Alex230-Doom     | Allow Using Blue Key 
+hollow.mp3       | Mothwing_Cloak                
+hollow.mp3       | Quick_Slash            
+hollow.mp3       | Hiveblood  
 hollow.mp3       | Steady_Body           
-factorio.mp3     | battery              
-Deathclaw99SM64  | Power Star            
-Deathclaw99Terra | Reward: Obsidian Rose 
-Deathclaw99OOT   | Hylian Shield         
-SylskoTunic      | Magic Wand            
-SynRogue         | Bombardment           
-SynRegret        | Puzzle Skip           
-Soleyeer         | Fast Hatter Badge     
-ThatFirey        | Railcannon - Electric 
+factorio.mp3     | battery                 
+factorio.mp3     | lubricant      
+factorio.mp3     | belt-immunity-equipment                  
+factorio.mp3     | progressive-science-pack
+Deathclaw99TS    | Eternal Coat
+Deathclaw99TS    | Radiant Orb
+Deathclaw99TS    | Eternal Crown
+Deathclaw99TS    | Elevator Keycard                         
+Deathclaw99Terra | Reward: Obsidian Rose      
+Deathclaw99Terra | Reward: Lava Charm         
+Deathclaw99Terra | Hardmode                          
+Deathclaw99Terra | Post-Goblin Army     
+Deathclaw99OOT   | Hylian Shield     
+Deathclaw99OOT   | Progressive Hookshot              
+Deathclaw99OOT   | Zora Tunic             
+Deathclaw99OOT   | Progressive Wallet         
+SylskoTunic      | Magic Wand      
+SylskoTunic      | Gun                     
+SylskoTunic      | Muffling Bell               
+SylskoTunic      | Magic Orb                         
+SynRogue         | Bombardment                
+SynRogue         | Security Keycard B                 
+SynRogue         | Talaria Attachment    
+SynRogue         | Eternal Coat             
+SynRegret        | Puzzle Skip   
+SynRegret        | Boat              
+SynRegret        | Functioning Brain                 
+SynRegret        | Black/White Squares             
+Soleyeer         | Fast Hatter Badge       
+Soleyeer         | Brewing Hat                 
+Soleyeer         | Time Stop Hat            
+Soleyeer         | Ice Hat                           
+ThatFirey        | Railcannon - Electric       
+ThatFirey        | Revolver - Marksman   
+ThatFirey        | Shotgun - Pump Charge
+ThatFirey        | Whiplash                          
 CaesiusHIT       | Badge Pin             
+CaesiusHIT       | Badge Pin                   
+CaesiusHIT       | Fast Hatter Badge    
+CaesiusHIT       | Zipline Unlock - The Windmill Path
 CaesiusSM64      | Power Star            
+CaesiusSM64      | Ground Pound                
+CaesiusSM64      | Cannon Unlock WF     
+CaesiusSM64      | Progressive Key                   
 mars.            | Shaman_Stone          
+mars.            | Shade_Soul           
+mars.            | Fragile_Strength            
+mars.            | Monarch_Wings                     
 mars three.      | Eternal Coat          
-TripleSDV        | Return Scepter        
+mars three.      | Talaria Attachment    
+mars three.      | Eternal Crown               
+mars three.      | Security Keycard B                
+TripleSDV        | Return Scepter  
+TripleSDV        | Progressive Season                
+TripleSDV        | Progressive Barn            
+TripleSDV        | Progressive House         
 DragoSpinsDeath  | Security Keycard A    
+DragoSpinsDeath  | Tablet                      
+DragoSpinsDeath  | Celestial Sash                    
+DragoSpinsDeath  | Succubus Hairpin     
+HatKillsDrago    | Relic (Red Crayon)          
+HatKillsDrago    | Relic (Blue Crayon)  
+HatKillsDrago    | Hookshot Badge                    
 HatKillsDrago    | Relic (Green Crayon)  
 DragoLookAtDeath | Quarry Entry 1 (Panel)
-Alex230-Doom     | Allow Using Red Key 
+DragoLookAtDeath | Jungle Laser Shortcut (Door)             
+DragoLookAtDeath | Cave Swamp Shortcut (Door)   
+DragoLookAtDeath | Eraser                       
+Alex230-Doom     | Allow Using Red Key          
+Alex230-Doom     | Turn Off GZChaos Mod 
+Alex230-Doom     | Allow Using Blue Key  
+Alex230-Doom     | Allow Using Yellow Key
+dst.mp3          | Extra Damage Against Bosses
+dst.mp3          | Krampus Sack
+dst.mp3          | Spring Season Change
+dst.mp3          | Rope

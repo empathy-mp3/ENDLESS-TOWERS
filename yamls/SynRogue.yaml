@@ -109,6 +109,26 @@ Timespinner:
       location: SynRogue's Shattered Orb
       world: The Shop
       force: true
+    - item:
+        Bombardment: 1
+      location: Locker 25
+      world: The Vault
+      force: true
+    - item:
+        Security Keycard B: 1
+      location: Locker 26
+      world: The Vault
+      force: true
+    - item:
+        Talaria Attachment: 1
+      location: Locker 27
+      world: The Vault
+      force: true
+    - item:
+        Eternal Coat: 1
+      location: Locker 28
+      world: The Vault
+      force: true
 
 ---
 
@@ -199,4 +219,24 @@ The Witness:
         Puzzle Skip: 1
       location: SynRegret's Puzzle Skip (2)
       world: The Shop
+      force: true
+    - item:
+        Puzzle Skip: 1
+      location: Locker 29
+      world: The Vault
+      force: true
+    - item:
+        Boat: 1
+      location: Locker 30
+      world: The Vault
+      force: true
+    - item:
+        Functioning Brain: 1
+      location: Locker 31
+      world: The Vault
+      force: true
+    - item:
+        Black/White Squares: 1
+      location: Locker 32
+      world: The Vault
       force: true

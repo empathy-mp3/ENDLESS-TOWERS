@@ -1,6 +1,8 @@
 Manual_SingleLevelEndless_Alexander230:
     progression_balancing: 0
     accessibility: items
+    death_link: true
+
     plando_items:
     - item:
         Free Saves and Loads: 1
@@ -21,6 +23,26 @@ Manual_SingleLevelEndless_Alexander230:
         Allow Using Exit: 1
       location: Alex230-Doom's Allow Using Exit
       world: The Shop
+      force: true
+    - item:
+        Allow Using Red Key: 1
+      location: Locker 73
+      world: The Vault
+      force: true
+    - item:
+        Turn Off GZChaos Mod: 1
+      location: Locker 74
+      world: The Vault
+      force: true
+    - item:
+        Allow Using Blue Key: 1
+      location: Locker 75
+      world: The Vault
+      force: true
+    - item:
+        Allow Using Yellow Key: 1
+      location: Locker 76
+      world: The Vault
       force: true
 
 game: Manual_SingleLevelEndless_Alexander230

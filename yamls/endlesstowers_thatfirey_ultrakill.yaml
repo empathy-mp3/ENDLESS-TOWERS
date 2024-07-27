@@ -155,5 +155,25 @@ ULTRAKILL:
       location: ThatFirey's Knuckleblaster
       world: The Shop
       force: true
+    - item:
+        Railcannon - Electric: 1
+      location: Locker 37
+      world: The Vault
+      force: true
+    - item:
+        Revolver - Marksman: 1
+      location: Locker 38
+      world: The Vault
+      force: true
+    - item:
+        Shotgun - Pump Charge: 1
+      location: Locker 39
+      world: The Vault
+      force: true
+    - item:
+        Whiplash: 1
+      location: Locker 40
+      world: The Vault
+      force: true
 game: ULTRAKILL
 name: ThatFirey

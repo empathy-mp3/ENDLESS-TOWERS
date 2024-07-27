@@ -98,6 +98,26 @@ Timespinner:
       location: DragoSpinsDeath's Plasma Orb
       world: The Shop
       force: true
+    - item:
+        Security Keycard A: 1
+      location: Locker 61
+      world: The Vault
+      force: true
+    - item:
+        Tablet: 1
+      location: Locker 62
+      world: The Vault
+      force: true
+    - item:
+        Celestial Sash: 1
+      location: Locker 63
+      world: The Vault
+      force: true
+    - item:
+        Succubus Hairpin: 1
+      location: Locker 64
+      world: The Vault
+      force: true
 
 ---
 
@@ -319,6 +339,26 @@ A Hat in Time:
       location: HatKillsDrago's Relic (Crayon Box)
       world: The Shop
       force: true
+    - item:
+        Relic (Red Crayon): 1
+      location: Locker 65
+      world: The Vault
+      force: true
+    - item:
+        Relic (Blue Crayon): 1
+      location: Locker 66
+      world: The Vault
+      force: true
+    - item:
+        Hookshot Badge: 1
+      location: Locker 67
+      world: The Vault
+      force: true
+    - item:
+        Relic (Green Crayon): 1
+      location: Locker 68
+      world: The Vault
+      force: true
     
 ---
 name: DragoLookAtDeath
@@ -419,4 +459,24 @@ The Witness:
         Mountain Floor 2 Staircase Far (Door): 1
       location: DragoLookAtDeath's Mountain Floor 2 Staircase Far (Door)
       world: The Shop
+      force: true
+    - item:
+        Quarry Entry 1 (Panel): 1
+      location: Locker 69
+      world: The Vault
+      force: true
+    - item:
+        Jungle Laser Shortcut (Door): 1
+      location: Locker 70
+      world: The Vault
+      force: true
+    - item:
+        Caves Swamp Shortcut (Door): 1
+      location: Locker 71
+      world: The Vault
+      force: true
+    - item:
+        Eraser: 1
+      location: Locker 72
+      world: The Vault
       force: true

@@ -667,6 +667,26 @@ A Hat in Time:
       location: CaesiusHIT's Hover Badge
       world: The Shop
       force: true
+    - item:
+        Badge Pin: 1
+      location: Locker 41
+      world: The Vault
+      force: true
+    - item:
+        Badge Pin: 1
+      location: Locker 42
+      world: The Vault
+      force: true
+    - item:
+        Fast Hatter Badge: 1
+      location: Locker 43
+      world: The Vault
+      force: true
+    - item:
+        Zipline Unlock - The Windmill Path: 1
+      location: Locker 44
+      world: The Vault
+      force: true
   # Item & Location Options
   local_items:
     # Forces these items to be in their native world.
@@ -903,6 +923,26 @@ Super Mario 64:
         Kick: 1
       location: CaesiusSM64's Kick
       world: The Shop
+      force: true
+    - item:
+        Power Star: 1
+      location: Locker 45
+      world: The Vault
+      force: true
+    - item:
+        Ground Pound: 1
+      location: Locker 46
+      world: The Vault
+      force: true
+    - item:
+        Cannon Unlock WF: 1
+      location: Locker 47
+      world: The Vault
+      force: true
+    - item:
+        Progressive Key: 1
+      location: Locker 48
+      world: The Vault
       force: true
   # Item & Location Options
   local_items:

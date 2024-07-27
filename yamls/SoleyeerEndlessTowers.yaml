@@ -88,3 +88,23 @@ A Hat in Time:
       location: Soleyeer's Sprint Hat
       world: The Shop
       force: true
+    - item:
+        Fast Hatter Badge: 1
+      location: Locker 33
+      world: The Vault
+      force: true
+    - item:
+        Brewing Hat: 1
+      location: Locker 34
+      world: The Vault
+      force: true
+    - item:
+        Time Stop Hat: 1
+      location: Locker 35
+      world: The Vault
+      force: true
+    - item:
+        Ice Hat: 1
+      location: Locker 36
+      world: The Vault
+      force: true

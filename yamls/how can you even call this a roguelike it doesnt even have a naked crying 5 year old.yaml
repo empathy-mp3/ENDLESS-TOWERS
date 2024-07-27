@@ -64,6 +64,26 @@ Hollow Knight:
       location: mars.'s Quick_Slash
       world: The Shop
       force: true
+    - item:
+        Shaman_Stone: 1
+      location: Locker 49
+      world: The Vault
+      force: true
+    - item:
+        Shade_Soul: 1
+      location: Locker 50
+      world: The Vault
+      force: true
+    - item:
+        Fragile_Strength: 1
+      location: Locker 51
+      world: The Vault
+      force: true
+    - item:
+        Monarch_Wings: 1
+      location: Locker 52
+      world: The Vault
+      force: true
 
 ---
 
@@ -104,4 +124,24 @@ Timespinner:
         Galaxy Earrings: 1
       location: mars three.'s Galaxy Earrings
       world: The Shop
+      force: true
+    - item:
+        Eternal Coat: 1
+      location: Locker 53
+      world: The Vault
+      force: true
+    - item:
+        Talaria Attachment: 1
+      location: Locker 54
+      world: The Vault
+      force: true
+    - item:
+        Eternal Crown: 1
+      location: Locker 55
+      world: The Vault
+      force: true
+    - item:
+        Security Keycard B: 1
+      location: Locker 56
+      world: The Vault
       force: true

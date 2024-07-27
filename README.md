@@ -1,1 +1,1 @@
-this is for an async i plan on hosting in the future for archipelago. refer to [DOCS.md](DOCS.md) for information that *will* be public in the future, and [SECRETDOCS.md](SECRETDOCS.md) for *secret* information (please don't)
+this is for an async i plan on hosting in the future for archipelago. refer to [DOCS.md](DOCS.md) for public information, and [SECRETDOCS.md](SECRETDOCS.md) for *secret* information (please don't)
