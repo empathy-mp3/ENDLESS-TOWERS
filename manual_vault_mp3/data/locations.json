@@ -368,6 +368,22 @@
         "requires": "|Vault Key:92|"
     },
     {
+        "name": "Locker 93",
+        "requires": "|Vault Key:93|"
+    },
+    {
+        "name": "Locker 94",
+        "requires": "|Vault Key:94|"
+    },
+    {
+        "name": "Locker 95",
+        "requires": "|Vault Key:95|"
+    },
+    {
+        "name": "Locker 96",
+        "requires": "|Vault Key:96|"
+    },
+    {
         "name": "victory",
         "victory": true
     }

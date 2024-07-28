@@ -1,15 +1,16 @@
 shops have 6 items, and are restocked daily
 - one is always a permanent +1 life (3, 5, 7, 9...) 1 stock
 - one is halved hint cost (3, 6, 11, 19, 25, 42). the hint costs themselves go: (100, 50, 25, 12.5, 6.25, 3.125, 1.5625) 1 stock
-- four are major progression items (4, +1 per finished player) 1 stock each
+- four are major progression items (5, +1 per finished player) 1 stock each
   - logically require 1/4 (rounded down) of existing money
 - four are useful/minor progression items (2 cost) 1 stock
+  - logically require 1/10 (rounded down) of existing money
   - should a slot lose all possible stock, it will be replaced with one of the following:
     - temp life refills: (1, +2 cost per additional one purchased per run) 3 stock
     - temp filler item: (1, +1 cost per additional of that particular filler item purchased per run) 3 stock
 - reroll is (5, +2 cost per reroll per day)
 - send X random traps is (X = 8 + uses) cash is (+1 cash, +0.2 cash per use, not rounded)
-all prices increase by 1 every time a player finishes
+all prices increase by 1 every time 2 players finish
 
 # current status
 
@@ -35,10 +36,10 @@ here are the wares!
 
 `+1 additional life` (3 cost) ~ 1 in stock
 `halved hint cost` (3 cost) ~ 1 in stock
-`Deathclaw99TS's Lightwall` (4 cost) ~ 1 in stock
-`Soleyeer's Hookshot Badge` (4 cost) ~ 1 in stock
-`Soleyeer's Dweller Mask` (4 cost) ~ 1 in stock
-`BroneySM's Varia Suit` (4 cost) ~ 1 in stock
+`Deathclaw99TS's Lightwall` (5 cost) ~ 1 in stock
+`Soleyeer's Hookshot Badge` (5 cost) ~ 1 in stock
+`Soleyeer's Dweller Mask` (5 cost) ~ 1 in stock
+`BroneySM's Varia Suit` (5 cost) ~ 1 in stock
 `BroneySM's Bomb` (2 cost) ~ 1 in stock
 `DragoLookAtDeath's Keep Shortcuts` (2 cost) ~ 1 in stock
 `mars.'s Quick_Slash` (2 cost) ~ 1 in stock
@@ -89,6 +90,7 @@ finished players (0):
 | BroneyLTTP       | Lamp                     | Moon Pearl                   | Hammer                             | Rupees (100)                    |                      |
 | BroneyFactorio   | progressive-science-pack | progressive-science-pack     | progressive-science-pack           | progressive-mining-productivity |                      |
 | BroneySM         | Morph Ball               | Varia Suit                   | Gravity Suit                       | Missile                         |                      |
+| FloriTerra       | Hardmode                 | Post-Skeletron               | Post-Golem                         |                                 |                      |
 
 
 | slot             | vault useful 1               | vault useful 2        | vault useful 3         | shop useful 1                 | shop useful 2                         |
@@ -116,6 +118,7 @@ finished players (0):
 | BroneyLTTP       | Progressive Bow              | Progressive Mail      | Cape                   | Cane of Byrna                 | Magic Mirror                          |
 | BroneyFactorio   | progressive-turret           | battery               | lubricant              | concrete                      | progressive-armor                     |
 | BroneySM         | Power Bomb                   | Space Jump            | Screw Attack           | Bomb                          | Wave Beam                             |
+| FloriTerra       | Reward: Black Belt           | Reward: Tabi          | Post-Goblin Army       | Reward: Hermes Boots          | Reward: Rod of Discord                |
 
 # vault notes
 
@@ -199,10 +202,30 @@ dst.mp3          | Extra Damage Against Bosses
 dst.mp3          | Krampus Sack
 dst.mp3          | Spring Season Change
 dst.mp3          | Rope
+BroneySM         | Power Bomb
+BroneySM         | Space Jump
+BroneySM         | Screw Attack
+BroneySM         | Gravity Suit
+FloriTerra       | Reward: Black Belt
+FloriTerra       | Reward: Tabi
+FloriTerra       | Post-Goblin Army
+FloriTerra       | Post-Golem
 
 # shop notes
 
-## progressive
+## unpurchased
+
+### progressive
+
+N/A
+
+### useful
+
+N/A
+
+## purchased
+
+### progressive
 
 hollow.mp3's Desolate_Dive
 hollow.mp3's Lumafly_Lantern
@@ -251,7 +274,7 @@ BroneyFactorio's progressive-science-pack (2)
 BroneySM's Morph Ball
 BroneySM's Varia Suit
 
-## useful
+### useful
 
 hollow.mp3's Shaman_Stone
 hollow.mp3's Heavy_Blow

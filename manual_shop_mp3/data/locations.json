@@ -1,7 +1,7 @@
 [
     {
         "name": "hollow.mp3's Desolate_Dive",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -9,7 +9,7 @@
     },
     {
         "name": "hollow.mp3's Lumafly_Lantern",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -33,7 +33,7 @@
     },
     {
         "name": "factorio.mp3's progressive-science-pack",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -41,7 +41,7 @@
     },
     {
         "name": "factorio.mp3's progressive-science-pack (2)",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -65,7 +65,7 @@
     },
     {
         "name": "Deathclaw99TS's Water Mask",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -73,7 +73,7 @@
     },
     {
         "name": "Deathclaw99TS's Lightwall",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -97,7 +97,7 @@
     },
     {
         "name": "Deathclaw99Terra's Post-Golem",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -105,7 +105,7 @@
     },
     {
         "name": "Deathclaw99Terra's Post-Skeletron",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -129,7 +129,7 @@
     },
     {
         "name": "Deathclaw99OOT's Megaton Hammer",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -137,7 +137,7 @@
     },
     {
         "name": "Deathclaw99OOT's Hover Boots",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -161,7 +161,7 @@
     },
     {
         "name": "SylskoTunic's Pages 24-25 (Prayer)",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -169,7 +169,7 @@
     },
     {
         "name": "SylskoTunic's Hero's Laurels",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -193,7 +193,7 @@
     },
     {
         "name": "SynRogue's Celestial Sash",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -201,7 +201,7 @@
     },
     {
         "name": "SynRogue's Water Mask",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -225,7 +225,7 @@
     },
     {
         "name": "SynRegret's Progressive Dots",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -233,7 +233,7 @@
     },
     {
         "name": "SynRegret's Shapers",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -257,7 +257,7 @@
     },
     {
         "name": "Soleyeer's Hookshot Badge",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -265,7 +265,7 @@
     },
     {
         "name": "Soleyeer's Dweller Mask",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -289,7 +289,7 @@
     },
     {
         "name": "ThatFirey's Stamina Bar",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -297,7 +297,7 @@
     },
     {
         "name": "ThatFirey's Wall Jump",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -321,7 +321,7 @@
     },
     {
         "name": "CaesiusHIT's Hookshot Badge",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -329,7 +329,7 @@
     },
     {
         "name": "CaesiusHIT's Umbrella",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -353,7 +353,7 @@
     },
     {
         "name": "CaesiusSM64's Side Flip",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -361,7 +361,7 @@
     },
     {
         "name": "CaesiusSM64's Wall Kick",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -385,7 +385,7 @@
     },
     {
         "name": "mars.'s Desolate_Dive",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -393,7 +393,7 @@
     },
     {
         "name": "mars.'s Focus",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -417,7 +417,7 @@
     },
     {
         "name": "mars three.'s Celestial Sash",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -425,7 +425,7 @@
     },
     {
         "name": "mars three.'s Water Mask",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -449,7 +449,7 @@
     },
     {
         "name": "TripleSDV's Progressive Season",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -457,7 +457,7 @@
     },
     {
         "name": "TripleSDV's Progressive Season (2)",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -481,7 +481,7 @@
     },
     {
         "name": "DragoSpinsDeath's Water Mask",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -489,7 +489,7 @@
     },
     {
         "name": "DragoSpinsDeath's Security Keycard D",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -513,7 +513,7 @@
     },
     {
         "name": "HatKillsDrago's Ice Hat",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -521,7 +521,7 @@
     },
     {
         "name": "HatKillsDrago's Yarn",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -545,7 +545,7 @@
     },
     {
         "name": "DragoLookAtDeath's Triangles",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -553,7 +553,7 @@
     },
     {
         "name": "DragoLookAtDeath's Black/White Squares",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -577,7 +577,7 @@
     },
     {
         "name": "Alex230-Doom's Free Saves and Loads",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -585,7 +585,7 @@
     },
     {
         "name": "Alex230-Doom's Allow Leaving Start Location",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -609,7 +609,7 @@
     },
     {
         "name": "dst.mp3's Tent",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -617,7 +617,7 @@
     },
     {
         "name": "dst.mp3's Boards",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -641,7 +641,7 @@
     },
     {
         "name": "BroneyLTTP's Lamp",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -649,7 +649,7 @@
     },
     {
         "name": "BroneyLTTP's Moon Pearl",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -673,7 +673,7 @@
     },
     {
         "name": "BroneyFactorio's progressive-science-pack",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -681,7 +681,7 @@
     },
     {
         "name": "BroneyFactorio's progressive-science-pack (2)",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -705,7 +705,7 @@
     },
     {
         "name": "BroneySM's Morph Ball",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -713,7 +713,7 @@
     },
     {
         "name": "BroneySM's Varia Suit",
-        "requires": "|Cold Hard Cash:23|",
+        "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
             "prog"
@@ -729,6 +729,38 @@
     },
     {
         "name": "BroneySM's Wave Beam",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "FloriTerra's Hardmode",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "FloriTerra's Post-Skeletron",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "FloriTerra's Reward: Hermes Boots",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "FloriTerra's Reward: Rod of Discord",
         "requires": "|Cold Hard Cash:9|",
         "category": [
             "Everything",
