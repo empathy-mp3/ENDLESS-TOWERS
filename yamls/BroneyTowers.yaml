@@ -1,0 +1,1709 @@
+﻿name: BroneySM
+
+# Used to describe your yaml. Useful if you have multiple files.
+description: Default Super Metroid Template
+
+game: Super Metroid
+requires:
+  version: 0.5.0 # Version of Archipelago required for this yaml to work as expected.
+
+Super Metroid:
+  # Game Options
+  progression_balancing:
+    0: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+    disabled: 0 # equivalent to 0
+    normal: 0 # equivalent to 50
+    extreme: 0 # equivalent to 99
+
+  accessibility:
+    # Set rules for reachability of your items/locations.
+    # 
+    # - **Locations:** ensure everything can be reached and acquired.
+    # - **Items:** ensure all logically relevant items can be acquired.
+    # - **Minimal:** ensure what is needed to reach your goal can be acquired.
+    locations: 50
+    items: 0
+    minimal: 0
+
+  start_inventory_removes_from_pool:
+    # Remove items in starting inventory from pool.
+    'false': 50
+    'true': 0
+
+  preset:
+    # Choose one of the presets or specify "varia_custom" to use varia_custom_preset option or specify "custom" to use
+    # custom_preset option.
+    newbie: 50
+    casual: 0
+    regular: 0
+    veteran: 0
+    expert: 0
+    master: 0
+    samus: 0
+    season_races: 0
+    smrat2021: 0
+    solution: 0
+    custom: 0
+    varia_custom: 0
+
+  start_location:
+    # Choose where you want to start the game.
+    ceres: 0
+    landing_site: 40
+    gauntlet_top: 0
+    green_brinstar_elevator: 10
+    big_pink: 10
+    etecoons_supers: 10
+    wrecked_ship_main: 10
+    firefleas_top: 10
+    business_center: 10
+    bubble_mountain: 10
+    mama_turtle: 0
+    watering_hole: 0
+    aqueduct: 0
+    red_brinstar_elevator: 10
+    golden_four: 0
+
+  remote_items:
+    # Indicates you get items sent from your own world. This allows coop play of a world.
+    'false': 0
+    'true': 50
+
+  death_link:
+    # When DeathLink is enabled and someone dies, you will die. With survive reserve tanks can save you.
+    disable: 0
+    enable: 0
+    enable_survive: 50
+
+  max_difficulty:
+    # Depending on the perceived difficulties of the techniques, bosses, hell runs etc. from the preset, it will
+    # prevent the Randomizer from placing an item in a location too difficult to reach with the current items.
+    easy: 50
+    medium: 0
+    hard: 0
+    harder: 0
+    hardcore: 0
+    mania: 0
+    infinity: 0
+
+  morph_placement:
+    # Influences where the Morphing Ball with be placed.
+    early: 50
+    normal: 0
+
+  hide_items:
+    # Hides half of the visible items.
+    # Items always visible:
+    # - Energy Tank, Gauntlet
+    # - Energy Tank, Terminator
+    # - Morphing Ball
+    # - Missile (Crateria moat)
+    # - Missile (green Brinstar below super missile)
+    # - Missile (above Crocomire)
+    # - Power Bomb (lower Norfair above fire flea room)
+    # - Missile (Gravity Suit)
+    # - Missile (green Maridia shinespark)
+    'false': 50
+    'true': 0
+
+  strict_minors:
+    # Instead of using the Minors proportions as probabilities, enforce a strict distribution to match the proportions
+    # as closely as possible.
+    'false': 50
+    'true': 0
+
+  missile_qty:
+    # The higher the number the higher the probability of choosing missles when placing a minor.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 10
+    # Maximum value is 90
+    20: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  super_qty:
+    # The higher the number the higher the probability of choosing super missles when placing a minor.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 10
+    # Maximum value is 90
+    30: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  power_bomb_qty:
+    # The higher the number the higher the probability of choosing power bombs when placing a minor.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 10
+    # Maximum value is 90
+    10: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  minor_qty:
+    # From 7%, minimum number of minors required to finish the game, to 100%.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 7
+    # Maximum value is 100
+    100: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  energy_qty:
+    # Choose how many Energy/Reserve Tanks will be available, from 0-1 in ultra sparse, 4-6 in sparse, 8-12 in medium
+    # and 18 in vanilla.
+    ultra_sparse: 0
+    sparse: 0
+    medium: 0
+    vanilla: 50
+
+  area_randomization:
+    # Randomize areas together using bidirectional access portals.
+    'off': 50
+    light: 0
+    full: 0
+
+  area_layout:
+    # Some layout tweaks to make your life easier in areas randomizer.
+    'false': 50
+    'true': 0
+
+  doors_colors_rando:
+    # Randomize the color of Red/Green/Yellow doors. Add four new type of doors which require Ice/Wave/Spazer/Plasma
+    # beams to open them.
+    'false': 50
+    'true': 0
+
+  allow_grey_doors:
+    # When randomizing the color of Red/Green/Yellow doors, some doors can be randomized to Grey. Grey doors will never
+    # open, you will have to go around them.
+    'false': 50
+    'true': 0
+
+  boss_randomization:
+    # Randomize Golden 4 bosses access doors using bidirectional access portals.
+    'false': 50
+    'true': 0
+
+  escape_rando:
+    'false': 50
+    'true': 0
+
+  remove_escape_enemies:
+    # Remove enemies during escape sequence, disable it to blast through enemies with your Hyper Beam and cause lag.
+    'false': 50
+    'true': 0
+
+  fun_combat:
+    # Forces removal of Plasma Beam and Screw Attack if the preset and settings allow it. In addition, can randomly
+    # remove Spazer and Wave Beam from the Combat set. If used, might force 'minimal' accessibility.
+    'false': 50
+    'true': 0
+
+  fun_movement:
+    # Forces removal of Space Jump if the preset allows it. In addition, can randomly remove High Jump, Grappling Beam,
+    # Spring Ball, Speed Booster, and Bombs from the Movement set. If used, might force 'minimal' accessibility.
+    'false': 50
+    'true': 10
+
+  fun_suits:
+    # If the preset and seed layout allow it, will force removal of at least one of Varia Suit and/or Gravity Suit. If
+    # used, might force 'minimal' accessibility.
+    'false': 50
+    'true': 0
+
+  layout_patches:
+    # Include the anti-softlock layout patches. Disable at your own softlocking risk!
+    'false': 0
+    'true': 50
+
+  varia_tweaks:
+    # Include minor tweaks for the game to behave 'as it should' in a randomizer context
+    'false': 0
+    'true': 50
+
+  nerfed_charge:
+    # Samus begins with a starter Charge Beam that does one third of charged shot damage that can damage bosses. Pseudo
+    # Screws also do one third damage. Special Beam Attacks do normal damage but cost 3 Power Bombs instead of 1. Once the
+    # Charge Beam item has been collected, it does full damage and special attacks are back to normal.
+    'false': 50
+    'true': 0
+
+  gravity_behaviour:
+    # Modify the heat damage and enemy damage reduction qualities of the Gravity and Varia Suits.
+    vanilla: 0
+    balanced: 50
+    progressive: 0
+
+  elevators_speed:
+    # Accelerate elevators transitions.
+    'false': 0
+    'true': 50
+
+  fast_doors:
+    # Accelerate doors transitions.
+    'false': 0
+    'true': 50
+
+  spin_jump_restart:
+    # Allows Samus to start spinning in mid air after jumping or falling.
+    'false': 0
+    'true': 50
+
+  rando_speed:
+    # Let Samus keeps her momentum when landing from a fall or from jumping.
+    'false': 50
+    'true': 0
+
+  infinite_space_jump:
+    # Space jumps can be done quicker and at any time in air, water or lava, even after falling long distances.
+    'false': 0
+    'true': 50
+
+  refill_before_save:
+    # Refill energy and ammo when saving.
+    'false': 0
+    'true': 50
+
+  hud:
+    # Displays the current area name and the number of remaining items of selected item split in the HUD for the
+    # current area.
+    'false': 0
+    'true': 50
+
+  animals:
+    # Replace saving the animals in the escape sequence by a random surprise.
+    # Note: This setting is not available when Escape Randomization is enabled, as it is replaced by Animals Challenges
+    # (see Escape Randomization help for more information).
+    'false': 50
+    'true': 0
+
+  no_music:
+    # Disable the background music.
+    'false': 50
+    'true': 0
+
+  random_music:
+    # Randomize the background music.
+    'false': 50
+    'true': 0
+
+  custom_preset:
+    # see https://randommetroidsolver.pythonanywhere.com/presets for detailed info on each preset settings
+    # knows: each skill (know) has a pair [can use, perceived difficulty using one of 1, 5, 10, 25, 50 or 100 each one
+    #        matching a max_difficulty]
+    # settings: hard rooms, hellruns and bosses settings
+    # controller: predefined controller mapping and moon walk setting
+    controller: {}
+    knows: {}
+    settings: {}
+
+  varia_custom_preset:
+    # use an entry from the preset list on https://randommetroidsolver.pythonanywhere.com/presets
+    {}
+
+  tourian:
+    # Choose endgame Tourian behaviour:
+    # Vanilla: regular vanilla Tourian
+    # Fast: speed up Tourian to skip Metroids, Zebetites, and all cutscenes (including Mother Brain 3 fight). Golden Four statues are replaced by an invincible Gadora until all objectives are completed.
+    # Disabled: skip Tourian entirely, ie. escape sequence is triggered as soon as all objectives are completed.
+    vanilla: 0
+    fast: 50
+    disabled: 0
+
+  custom_objective:
+    # Use randomized custom objectives. You can choose which objectives are available for the randomizer to choose from. If enabled, the randomizer 
+    # will choose "Custom objective count" objectives from "Custom objective list". Otherwise, only objective is used. Default is disabled.
+    'false': 0
+    'true': 50
+
+  custom_objective_list:
+    # If ""Custom objectives"" is enabled, "Custom Objective count" will be used to pick an amount of objective from the list.
+    # This setting is ignored if ""Custom objectives"" is set to false.
+    # Note: If you leave the list empty no objective is required to access Tourian, ie. it's open.
+    # Note: See the Tourian parameter to enable fast Tourian or trigger the escape when all objectives are completed.
+    # Note: Current percentage of collected items is displayed in the inventory pause menu.
+    # Note: Collect 100% items is excluded by default as it requires you to complete all the objectives.
+    # Note: In AP, Items% and areas objectives are counted toward location checks, not items collected or received, except for "collect all upgrades"
+    # 
+    # Format as a comma-separated list of objective names: ["kill three G4", "collect 75% items"] or ["random"] to specify the whole list except
+    # "collect 100% items" and "nothing". The default is ["random"]. A full list of supported objectives can be found at:
+    # https://github.com/ArchipelagoMW/Archipelago/blob/main/worlds/sm/variaRandomizer/utils/objectives.py
+    ['random']
+
+  custom_objective_count:
+    # By default you need to complete 4 objectives from the list to access Tourian. You can choose between 1 and 5. This setting is ignored if
+    # ""Custom objectives"" is set to false.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 5
+    3: 20
+    4: 50
+    5: 20
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  objective:
+    # If ""Custom objectives"" is disabled, choose which objectives are required to sink the Golden Four statue and to open access to Tourian.
+    # You can choose from 0 to 5 objectives. Up to the first 5 objectives from the list will be selected.
+    # Note: If you leave the list empty no objective is required to access Tourian, ie. it's open.
+    # Note: See the Tourian parameter to enable fast Tourian or trigger the escape when all objectives are completed.
+    # Note: Current percentage of collected items is displayed in the inventory pause menu.
+    # Note: In AP, Items% and areas objectives are counted toward location checks, not items collected or received, except for "collect all upgrades"
+    # 
+    # Format as a comma-separated list of objective names: ["kill three G4", "collect 75% items"]. The default is ["kill all G4"].
+    # A full list of supported objectives can be found at:
+    # https://github.com/ArchipelagoMW/Archipelago/blob/main/worlds/sm/variaRandomizer/utils/objectives.py
+    ['kill all G4']
+
+  relaxed_round_robin_cf:
+    # Changes Crystal Flashes behavior and requirements as follows:
+    # 
+    # You can perform a Crystal Flash with any amount of ammo, but you need at least one Power Bomb to begin the process.
+    # After consuming 1 ammo, Samus gains 50 energy, and it will try a different ammo type next,  
+    # cycling through Missiles, Supers, and Power Bombs as available. The cycling is to keep the consumption even between ammo types.
+    # If one of your ammo types is at 0, it will be skipped.
+    # The Crystal Flash ends when Samus is out of ammo or a total of 30 ammo has been consumed.
+    'false': 50
+    'true': 0
+
+  # Item & Location Options
+  local_items:
+    # Forces these items to be in their native world.
+    []
+
+  non_local_items:
+    # Forces these items to be outside their native world.
+    []
+
+  start_inventory:
+    # Start with these items.
+    {}
+
+  start_hints:
+    # Start with these item's locations prefilled into the ``!hint`` command.
+    []
+
+  start_location_hints:
+    # Start with these locations and their item prefilled into the ``!hint`` command.
+    []
+
+  exclude_locations:
+    # Prevent these locations from having an important item.
+    []
+
+  priority_locations:
+    # Prevent these locations from having an unimportant item.
+    []
+
+  item_links:
+    # Share part of your item pool with other players.
+    []
+
+  plando_items:
+    - item:
+        Morph Ball: 1
+      location: BroneySM's Morph Ball
+      world: The Shop
+      force: true
+    - item:
+        Varia Suit: 1
+      location: BroneySM's Varia Suit
+      world: The Shop
+      force: true
+    - item:
+        Bomb: 1
+      location: BroneySM's Bomb
+      world: The Shop
+      force: true
+    - item:
+        Wave Beam: 1
+      location: BroneySM's Wave Beam
+      world: The Shop
+      force: true
+    - item:
+        Gravity Suit: 1
+      location: Locker 81
+      world: The Vault
+      force: true
+    - item:
+        Power Bomb: 1
+      location: Locker 82
+      world: The Vault
+      force: true
+    - item:
+        Space Jump: 1
+      location: Locker 83
+      world: The Vault
+      force: true
+    - item:
+        Screw Attack: 1
+      location: Locker 84
+      world: The Vault
+      force: true
+
+---
+# Q. What is this file?
+# A. This file contains options which allow you to configure your multiworld experience while allowing
+#    others to play how they want as well.
+#
+# Q. How do I use it?
+# A. The options in this file are weighted. This means the higher number you assign to a value, the
+#    more chances you have for that option to be chosen. For example, an option like this:
+#
+#    map_shuffle:
+#      on: 5
+#      off: 15
+#
+#    Means you have 5 chances for map shuffle to occur, and 15 chances for map shuffle to be turned
+#    off.
+#
+# Q. I've never seen a file like this before. What characters am I allowed to use?
+# A. This is a .yaml file. You are allowed to use most characters.
+#    To test if your yaml is valid or not, you can use this website:
+#        http://www.yamllint.com/
+#    You can also verify that your Archipelago options are valid at this site:
+#        https://archipelago.gg/check
+
+# Your name in-game, limited to 16 characters.
+#     {player} will be replaced with the player's slot number.
+#     {PLAYER} will be replaced with the player's slot number, if that slot number is greater than 1.
+#     {number} will be replaced with the counter value of the name.
+#     {NUMBER} will be replaced with the counter value of the name, if the counter value is greater than 1.
+name: BroneyLTTP
+
+# Used to describe your yaml. Useful if you have multiple files.
+description: Default A Link to the Past Template
+
+game: A Link to the Past
+requires:
+  version: 0.5.0 # Version of Archipelago required for this yaml to work as expected.
+
+A Link to the Past:
+  # Game Options
+  progression_balancing:
+    # A system that can move progression earlier, to try and prevent the player from getting stuck and bored early.
+    # 
+    # A lower setting means more getting stuck. A higher setting means less getting stuck.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 99
+    random: 0
+    random-low: 0
+    random-high: 0
+    disabled: 0 # equivalent to 0
+    normal: 50 # equivalent to 50
+    extreme: 0 # equivalent to 99
+
+  accessibility:
+    # Set rules for reachability of your items/locations.
+    # 
+    # - **Locations:** ensure everything can be reached and acquired.
+    # - **Items:** ensure all logically relevant items can be acquired.
+    # - **Minimal:** ensure what is needed to reach your goal can be acquired.
+    locations: 50
+    items: 0
+    minimal: 0
+
+  plando_connections:
+    # Generic connections plando. Format is:
+    # - entrance: "Entrance Name"
+    #   exit: "Exit Name"
+    #   direction: "Direction"
+    #   percentage: 100
+    # Direction must be one of 'entrance', 'exit', or 'both', and defaults to 'both' if omitted.
+    # Percentage is an integer from 1 to 100, and defaults to 100 when omitted.
+    []
+
+  plando_texts:
+    # Text plando. Format is:
+    # - text: 'This is your text'
+    #   at: text_key
+    #   percentage: 100
+    # Percentage is an integer from 1 to 100, and defaults to 100 when omitted.
+    []
+
+  goal:
+    # Ganon: Climb GT, defeat Agahnim 2, and then kill Ganon
+    # Crystals: Only killing Ganon is required. However, items may still be placed in GT
+    # Bosses: Defeat the boss of all dungeons, including Agahnim's tower and GT (Aga 2)
+    # Pedestal: Pull the Triforce from the Master Sword pedestal
+    # Ganon Pedestal: Pull the Master Sword pedestal, then kill Ganon
+    # Triforce Hunt: Collect Triforce pieces spread throughout the worlds, then turn them in to Murahadala in front of Hyrule Castle
+    # Local Triforce Hunt: Collect Triforce pieces spread throughout your world, then turn them in to Murahadala in front of Hyrule Castle
+    # Ganon Triforce Hunt: Collect Triforce pieces spread throughout the worlds, then kill Ganon
+    # Local Ganon Triforce Hunt: Collect Triforce pieces spread throughout your world, then kill Ganon
+    ganon: 50
+    crystals: 30
+    bosses: 20
+    pedestal: 10
+    ganon_pedestal: 20
+    triforce_hunt: 5
+    local_triforce_hunt: 5
+    ganon_triforce_hunt: 10
+    local_ganon_triforce_hunt: 10
+
+  mode:
+    # Standard: Begin the game by rescuing Zelda from her cell and escorting her to the Sanctuary
+    # Open: Begin the game from your choice of Link's House or the Sanctuary
+    # Inverted: Begin in the Dark World. The Moon Pearl is required to avoid bunny-state in Light World, and the Light World game map is altered
+    standard: 0
+    open: 50
+    inverted: 10
+
+  glitches_required:
+    # Determine the logic required to complete the seed
+    # None: No glitches required
+    # Minor Glitches: Puts fake flipper, waterwalk, super bunny shenanigans, and etc into logic
+    # Overworld Glitches: Assumes the player has knowledge of both overworld major glitches (boots clips, mirror clips) and minor glitches
+    # Hybrid Major Glitches: In addition to overworld glitches, also requires underworld clips between dungeons.
+    # No Logic: Your own items are placed with no regard to any logic; such as your Fire Rod can be on your Trinexx.
+    no_glitches: 50
+    minor_glitches: 0
+    overworld_glitches: 0
+    hybrid_major_glitches: 0
+    no_logic: 0
+
+  dark_room_logic:
+    # Logic for unlit dark rooms. Lamp: require the Lamp for these rooms to be considered accessible.
+    # Torches: in addition to lamp, allow the fire rod and presence of easily accessible torches for access.
+    # None: all dark rooms are always considered doable, meaning this may force completion of rooms in complete darkness.
+    lamp: 50
+    torches: 0
+    none: 0
+
+  open_pyramid:
+    # Determines whether the hole at the top of pyramid is open.
+    # Goal will open the pyramid if the goal requires you to kill Ganon, without needing to kill Agahnim 2.
+    # Auto is the same as goal except if Ganon's dropdown is in another location, the hole will be closed.
+    closed: 0
+    open: 0
+    goal: 50
+    auto: 0
+
+  crystals_needed_for_gt:
+    # Number of crystals needed to open Ganon's Tower
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 7
+    5: 10
+    6: 30
+    7: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  crystals_needed_for_ganon:
+    # Number of crystals needed to damage Ganon
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 7
+    5: 10
+    6: 30
+    7: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  triforce_pieces_mode:
+    # Determine how to calculate the extra available triforce pieces.
+    # Extra: available = triforce_pieces_extra + triforce_pieces_required
+    # Percentage: available = (triforce_pieces_percentage /100) * triforce_pieces_required
+    # Available: available = triforce_pieces_available
+    extra: 30
+    percentage: 30
+    available: 30
+
+  triforce_pieces_percentage:
+    # Set to how many triforce pieces according to a percentage of the required ones, are available to collect in the world.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 100
+    # Maximum value is 1000
+    150: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  triforce_pieces_required:
+    # Set to how many out of X triforce pieces you need to win the game in a triforce hunt.
+    # Default is 20. Max is 90, Min is 1.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 90
+    20: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  triforce_pieces_available:
+    # Set to how many triforces pieces are available to collect in the world. Default is 30. Max is 90, Min is 1
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 90
+    30: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  triforce_pieces_extra:
+    # Set to how many extra triforces pieces are available to collect in the world.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 89
+    10: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  entrance_shuffle:
+    # Dungeons Simple: Shuffle just dungeons amongst each other, swapping dungeons entirely, so Hyrule Castle is always 1 dungeon.
+    # Dungeons Full: Shuffle any dungeon entrance with any dungeon interior, so Hyrule Castle can be 4 different dungeons, but keep dungeons to a specific world.
+    # Dungeons Crossed: like dungeons_full, but allow cross-world traversal through a dungeon. Warning: May force repeated dungeon traversal.
+    # Simple: Entrances are grouped together before being randomized. Interiors with two entrances are grouped shuffled together with each other,
+    # and Death Mountain entrances are shuffled only on Death Mountain. Dungeons are swapped entirely.
+    # Restricted: Like Simple, but single entrance interiors, multi entrance interiors, and Death Mountain interior entrances are all shuffled with each other.
+    # Full: Like Restricted, but all Dungeon entrances are shuffled with all non-Dungeon entrances.
+    # Crossed: Like Full, but interiors with multiple entrances are no longer confined to the same world, which may allow crossing worlds.
+    # Insanity: Like Crossed, but entrances and exits may be decoupled from each other, so that leaving through an exit may not return you to the entrance you entered from.
+    vanilla: 50
+    dungeons_simple: 10
+    dungeons_full: 10
+    dungeons_crossed: 0
+    simple: 10
+    restricted: 5
+    full: 5
+    crossed: 2
+    insanity: 1
+
+  entrance_shuffle_seed:
+    # You can specify a number to use as an entrance shuffle seed, or a group name. Everyone with the same group name
+    # will get the same entrance shuffle result as long as their Entrance Shuffle, Mode, Retro Caves, and Glitches
+    # Required options are the same.
+    random: 50
+
+  big_key_shuffle:
+    # Big Key Placement
+    original_dungeon: 50
+    own_dungeons: 10
+    own_world: 5
+    any_world: 5
+    different_world: 1
+    start_with: 0
+
+  small_key_shuffle:
+    # Small Key Placement
+    original_dungeon: 50
+    own_dungeons: 5
+    own_world: 0
+    any_world: 0
+    different_world: 0
+    start_with: 0
+    universal: 0
+
+  key_drop_shuffle:
+    # Shuffle keys found in pots and dropped from killed enemies,
+    # respects the small key and big key shuffle options.
+    'false': 0
+    'true': 50
+
+  compass_shuffle:
+    # Compass Placement
+    original_dungeon: 50
+    own_dungeons: 0
+    own_world: 0
+    any_world: 0
+    different_world: 0
+    start_with: 0
+
+  map_shuffle:
+    # Map Placement
+    original_dungeon: 50
+    own_dungeons: 0
+    own_world: 0
+    any_world: 0
+    different_world: 0
+    start_with: 0
+
+  restrict_dungeon_item_on_boss:
+    # Don't place dungeon-native items on the dungeon's boss.
+    'false': 50
+    'true': 0
+
+  item_pool:
+    # Easy: Doubled upgrades, progressives, and etc. Normal:  Item availability remains unchanged from vanilla game.
+    # Hard: Reduced upgrade availability (max: 14 hearts, blue mail, tempered sword, fire shield, no silvers unless swordless).
+    # Expert: Minimum upgrade availability (max: 8 hearts, green mail, master sword, fighter shield, no silvers unless swordless).
+    easy: 0
+    normal: 50
+    hard: 0
+    expert: 0
+
+  item_functionality:
+    # Easy: Allow Hammer to damage ganon, Allow Hammer tablet collection, Allow swordless medallion use everywhere.
+    # Normal: Vanilla item functionality
+    # Hard: Reduced helpfulness of items (potions less effective, can't catch faeries, cape uses double magic, byrna does not grant invulnerability, boomerangs do not stun, silvers disabled outside ganon)
+    # Expert: Vastly reduces the helpfulness of items (potions barely effective, can't catch faeries, cape uses double magic, byrna does not grant invulnerability, boomerangs and hookshot do not stun, silvers disabled outside ganon)
+    easy: 0
+    normal: 50
+    hard: 0
+    expert: 0
+
+  enemy_health:
+    # Default: Vanilla enemy HP. Easy: Enemies have reduced health. Hard: Enemies have increased health.
+    # Expert: Enemies have greatly increased health.
+    easy: 0
+    default: 50
+    hard: 0
+    expert: 0
+
+  enemy_damage:
+    # Default: Vanilla enemy damage. Shuffled: 0 # Enemies deal 0 to 4 hearts and armor helps.
+    # Chaos: Enemies deal 0 to 8 hearts and armor just reshuffles the damage.
+    default: 50
+    shuffled: 0
+    chaos: 0
+
+  progressive:
+    # How item types that have multiple tiers (armor, bows, gloves, shields, and swords) should be rewarded
+    'off': 0
+    grouped_random: 0
+    'on': 50
+
+  swordless:
+    # No swords. Curtains in Skull Woods and Agahnim's
+    # Tower are removed, Agahnim's Tower barrier can be
+    # destroyed with hammer. Misery Mire and Turtle Rock
+    # can be opened without a sword. Hammer damages Ganon.
+    # Ether and Bombos Tablet can be activated with Hammer
+    # (and Book).
+    'false': 50
+    'true': 0
+
+  dungeon_counters:
+    # On: Always display amount of items checked in a dungeon. Pickup: Show when compass is picked up.
+    # Default: Show when compass is picked up if the compass itself is shuffled. Off: Never show item count in dungeons.
+    'on': 50
+    pickup: 0
+    default: 0
+    'off': 0
+
+  retro_bow:
+    # Zelda-1 like mode. You have to purchase a quiver to shoot arrows using rupees.
+    'false': 90
+    'true': 5
+
+  retro_caves:
+    # Zelda-1 like mode. There are randomly placed take-any caves that contain one Sword and
+    # choices of Heart Container/Blue Potion.
+    'false': 90
+    'true': 5
+
+  hints:
+    # On/Full: Put item and entrance placement hints on telepathic tiles and some NPCs, Full removes joke hints.
+    'off': 0
+    'on': 50
+    full: 0
+
+  scams:
+    # If on, these Merchants will no longer tell you what they're selling.
+    'off': 50
+    king_zora: 0
+    bottle_merchant: 0
+    all: 0
+
+  boss_shuffle:
+    # Shuffles bosses around to different locations.
+    # Basic will shuffle all bosses except Ganon and Agahnim anywhere they can be placed.
+    # Full chooses 3 bosses at random to be placed twice instead of Lanmolas, Moldorm, and Helmasaur.
+    # Chaos allows any boss to appear any number of times.
+    # Singularity places a single boss in as many places as possible, and a second boss in any remaining locations.
+    # Supports plando placement.
+    none: 90
+    basic: 5
+    full: 5
+    chaos: 0
+    singularity: 0
+
+  pot_shuffle:
+    # Shuffle contents of pots within "supertiles" (item will still be nearby original placement).
+    'false': 50
+    'true': 0
+
+  enemy_shuffle:
+    # Randomize every enemy spawn.
+    # If mode is Standard, Hyrule Castle is left out (may result in visually wrong enemy sprites in that area.)
+    'false': 50
+    'true': 0
+
+  killable_thieves:
+    # Makes Thieves killable.
+    'false': 50
+    'true': 0
+
+  bush_shuffle:
+    # Randomize chance that a bush contains an enemy as well as which enemy may spawn.
+    'false': 50
+    'true': 0
+
+  shop_item_slots:
+    # Number of slots in all shops available to have items from the multiworld
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 30
+    0: 50
+    random: 50
+    random-low: 0
+    random-high: 0
+
+  randomize_shop_inventories:
+    # Generate new default inventories for overworld/underworld shops, and unique shops; or each shop independently
+    default: 50
+    randomize_by_shop_type: 0
+    randomize_each: 0
+
+  shuffle_shop_inventories:
+    # Shuffle default inventories of the shops around
+    'false': 50
+    'true': 0
+
+  include_witch_hut:
+    # Consider witch's hut like any other shop and shuffle/randomize it too
+    'false': 50
+    'true': 0
+
+  randomize_shop_prices:
+    # Randomize the prices of the items in shop inventories
+    'false': 50
+    'true': 0
+
+  randomize_cost_types:
+    # Prices of the items in shop inventories may cost hearts, arrow, or bombs instead of rupees
+    'false': 50
+    'true': 0
+
+  shop_price_modifier:
+    # Percentage modifier for shuffled item prices in shops
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 400
+    100: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  shuffle_capacity_upgrades:
+    # Shuffle capacity upgrades into the item pool (and allow them to traverse the multiworld).
+    # On Combined will shuffle only a single bomb upgrade and arrow upgrade each which bring you to the maximum capacity.
+    'off': 0
+    'on': 50
+    on_combined: 0
+
+  bombless_start:
+    # Start with a max of 0 bombs available, requiring Bomb Upgrade items in order to use bombs
+    'false': 90
+    'true': 5
+
+  shuffle_prizes:
+    # Shuffle "general" prize packs, as in enemy, tree pull, dig etc.; "bonk" prizes; or both.
+    'off': 50
+    general: 0
+    bonk: 0
+    both: 0
+
+  tile_shuffle:
+    # Randomize flying tiles floor patterns.
+    'false': 50
+    'true': 0
+
+  misery_mire_medallion:
+    # Required medallion to open Misery Mire front entrance.
+    ether: 0
+    bombos: 0
+    quake: 0
+    random: 50
+
+  turtle_rock_medallion:
+    # Required medallion to open Turtle Rock front entrance.
+    ether: 0
+    bombos: 0
+    quake: 0
+    random: 50
+
+  glitch_boots:
+    # If this is enabled, the player will start with Pegasus Boots when playing with overworld glitches or harder logic.
+    'false': 0
+    'true': 50
+
+  beemizer_total_chance:
+    # Percentage chance for each junk-fill item (rupees, bombs, arrows) to be
+    # replaced with either a bee swarm trap or a single bottle-filling bee.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 100
+    0: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  beemizer_trap_chance:
+    # Percentage chance for each replaced junk-fill item to be a bee swarm
+    # trap; all other replaced items are single bottle-filling bees.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 100
+    60: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  timer:
+    # None: No timer will be displayed. OHKO: Timer always at zero. Permanent OHKO.
+    # Timed: Starts with clock at zero. Green clocks subtract 4 minutes (total 20). Blue clocks subtract 2 minutes (total 10). Red clocks add two minutes (total 10). Winner is the player with the lowest time at the end.
+    # Timed OHKO: Starts the clock at ten minutes. Green clocks add five minutes (total 25). As long as the clock as at zero, Link will die in one hit.
+    # Timed Countdown: Starts the clock with forty minutes. Same clocks as timed mode, but if the clock hits zero you lose. You can still keep playing, though.
+    # Display: Displays a timer, but otherwise does not affect gameplay or the item pool.
+    none: 50
+    timed: 0
+    timed_ohko: 0
+    ohko: 0
+    timed_countdown: 0
+    display: 0
+
+  countdown_start_time:
+    # For Timed OHKO and Timed Countdown timer modes, the amount of time in minutes to start with.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 480
+    10: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  red_clock_time:
+    # For all timer modes, the amount of time in minutes to gain or lose when picking up a red clock.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is -60
+    # Maximum value is 60
+    -2: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  blue_clock_time:
+    # For all timer modes, the amount of time in minutes to gain or lose when picking up a blue clock.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is -60
+    # Maximum value is 60
+    2: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  green_clock_time:
+    # For all timer modes, the amount of time in minutes to gain or lose when picking up a green clock.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is -60
+    # Maximum value is 60
+    4: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  death_link:
+    # When you die, everyone dies. Of course the reverse is true too.
+    'false': 0
+    'true': 50
+
+  allow_collect:
+    # Allows for !collect / co-op to auto-open chests containing items for other players.
+    'false': 0
+    'true': 50
+
+  ow_palettes:
+    # The type of palette shuffle to use for the overworld
+    default: 50
+    good: 0
+    blackout: 0
+    puke: 0
+    classic: 0
+    grayscale: 0
+    negative: 0
+    dizzy: 0
+    sick: 0
+
+  uw_palettes:
+    # The type of palette shuffle to use for the underworld (caves, dungeons, etc.)
+    default: 50
+    good: 0
+    blackout: 0
+    puke: 0
+    classic: 0
+    grayscale: 0
+    negative: 0
+    dizzy: 0
+    sick: 0
+
+  hud_palettes:
+    # The type of palette shuffle to use for the HUD
+    default: 50
+    good: 0
+    blackout: 0
+    puke: 0
+    classic: 0
+    grayscale: 0
+    negative: 0
+    dizzy: 0
+    sick: 0
+
+  sword_palettes:
+    # The type of palette shuffle to use for the sword
+    default: 50
+    good: 0
+    blackout: 0
+    puke: 0
+    classic: 0
+    grayscale: 0
+    negative: 0
+    dizzy: 0
+    sick: 0
+
+  shield_palettes:
+    # The type of palette shuffle to use for the shield
+    default: 50
+    good: 0
+    blackout: 0
+    puke: 0
+    classic: 0
+    grayscale: 0
+    negative: 0
+    dizzy: 0
+    sick: 0
+
+  heartbeep:
+    # How quickly the heart beep sound effect will play
+    normal: 50
+    double: 0
+    half: 0
+    quarter: 0
+    'off': 0
+
+  heartcolor:
+    # The color of hearts in the HUD
+    red: 50
+    blue: 0
+    green: 0
+    yellow: 0
+
+  quickswap:
+    # Allows you to quickly swap items while playing with L/R
+    'false': 0
+    'true': 50
+
+  menuspeed:
+    # How quickly the menu appears/disappears
+    normal: 0
+    instant: 0
+    double: 50
+    triple: 0
+    quadruple: 0
+    half: 0
+
+  music:
+    # Whether background music will play in game
+    'false': 0
+    'true': 50
+
+  reduceflashing:
+    # Reduces flashing for certain scenes such as the Misery Mire and Ganon's Tower opening cutscenes
+    'false': 0
+    'true': 50
+
+  triforcehud:
+    # When and how the triforce hunt HUD should display
+    normal: 50
+    hide_goal: 0
+    hide_required: 0
+    hide_both: 0
+
+  # Item & Location Options
+  local_items:
+    # Forces these items to be in their native world.
+    []
+
+  non_local_items:
+    # Forces these items to be outside their native world.
+    []
+
+  start_inventory:
+    # Start with these items.
+    {}
+
+  start_hints:
+    # Start with these item's locations prefilled into the ``!hint`` command.
+    []
+
+  start_location_hints:
+    # Start with these locations and their item prefilled into the ``!hint`` command.
+    []
+
+  exclude_locations:
+    # Prevent these locations from having an important item.
+    []
+
+  priority_locations:
+    # Prevent these locations from having an unimportant item.
+    []
+
+  item_links:
+    # Share part of your item pool with other players.
+    []
+
+  start_inventory_from_pool:
+    # Start with these items and don't place them in the world.
+    # 
+    # The game decides what the replacement items will be.
+    {}
+    
+  plando_items:
+    - item:
+        Lamp: 1
+      location: BroneyLTTP's Lamp
+      world: The Shop
+      force: true
+    - item:
+        Moon Pearl: 1
+      location: BroneyLTTP's Moon Pearl
+      world: The Shop
+      force: true
+    - item:
+        Cane of Byrna: 1
+      location: BroneyLTTP's Cane of Byrna
+      world: The Shop
+      force: true
+    - item:
+        Magic Mirror: 1
+      location: BroneyLTTP's Magic Mirror
+      world: The Shop
+      force: true
+    - item:
+        Hammer: 1
+      location: Locker 85
+      world: The Vault
+      force: true
+    - item:
+        Progressive Bow: 1
+      location: Locker 86
+      world: The Vault
+      force: true
+    - item:
+        Progressive Mail: 1
+      location: Locker 87
+      world: The Vault
+      force: true
+    - item:
+        Cape: 1
+      location: Locker 88
+      world: The Vault
+      force: true
+
+---
+
+name: BroneyFactorio
+
+# Used to describe your yaml. Useful if you have multiple files.
+description: Default Factorio Template
+
+game: Factorio
+requires:
+  version: 0.5.0 # Version of Archipelago required for this yaml to work as expected.
+
+Factorio:
+  # Game Options
+  progression_balancing:
+    # A system that can move progression earlier, to try and prevent the player from getting stuck and bored early.
+    # 
+    # A lower setting means more getting stuck. A higher setting means less getting stuck.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 99
+    random: 0
+    random-low: 0
+    random-high: 0
+    disabled: 0 # equivalent to 0
+    normal: 50 # equivalent to 50
+    extreme: 0 # equivalent to 99
+
+  accessibility:
+    # Set rules for reachability of your items/locations.
+    # 
+    # - **Locations:** ensure everything can be reached and acquired.
+    # - **Items:** ensure all logically relevant items can be acquired.
+    # - **Minimal:** ensure what is needed to reach your goal can be acquired.
+    locations: 0
+    items: 50
+    minimal: 0
+
+  max_science_pack:
+    # Maximum level of science pack required to complete the game.
+    # This also affects the relative cost of silo and satellite recipes if they are randomized.
+    # That is the only thing in which the Utility Science Pack and Space Science Pack settings differ.
+    automation_science_pack: 0
+    logistic_science_pack: 0
+    military_science_pack: 0
+    chemical_science_pack: 0
+    production_science_pack: 0
+    utility_science_pack: 0
+    space_science_pack: 50
+
+  goal:
+    # Goal required to complete the game.
+    rocket: 50
+    satellite: 0
+
+  tech_tree_layout:
+    # Selects how the tech tree nodes are interwoven.
+    # Single: No dependencies
+    # Diamonds: Several grid graphs (4/9/16 nodes each)
+    # Pyramids: Several top halves of diamonds (6/10/15 nodes each)
+    # Funnels: Several bottom halves of diamonds (6/10/15 nodes each)
+    # Trees: Several trees
+    # Choices: A single balanced binary tree
+    single: 50
+    small_diamonds: 10
+    medium_diamonds: 10
+    large_diamonds: 10
+    small_pyramids: 10
+    medium_pyramids: 10
+    large_pyramids: 10
+    small_funnels: 10
+    medium_funnels: 10
+    large_funnels: 10
+    trees: 10
+    choices: 10
+
+  min_tech_cost:
+    # The cheapest a Technology can be in Science Packs.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 10000
+    5: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  max_tech_cost:
+    # The most expensive a Technology can be in Science Packs.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 10000
+    300: 20
+    500: 50
+    1000: 10
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  tech_cost_distribution:
+    # Random distribution of costs of the Science Packs.
+    # Even: any number between min and max is equally likely.
+    # Low: low costs, near the minimum, are more likely.
+    # Middle: medium costs, near the average, are more likely.
+    # High: high costs, near the maximum, are more likely.
+    even: 50
+    low: 20
+    middle: 0
+    high: 10
+
+  tech_cost_mix:
+    # Percent chance that a preceding Science Pack is also required.
+    # Chance is rolled per preceding pack.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 100
+    70: 0
+    random: 50
+    random-low: 0
+    random-high: 0
+
+  ramping_tech_costs:
+    # Forces the amount of Science Packs required to ramp up with the highest involved Pack. Average is preserved.
+    # For example:
+    # off: Automation (red)/Logistics (green) sciences can range from 1 to 1000 Science Packs,
+    # on: Automation (red) ranges to ~500 packs and Logistics (green) from ~500 to 1000 Science Packs
+    'false': 50
+    'true': 0
+
+  silo:
+    # Ingredients to craft rocket silo or auto-place if set to spawn.
+    vanilla: 0
+    randomize_recipe: 50
+    spawn: 10
+
+  satellite:
+    # Ingredients to craft satellite.
+    vanilla: 0
+    randomize_recipe: 50
+
+  free_samples:
+    # Get free items with your technologies.
+    none: 0
+    single_craft: 0
+    half_stack: 0
+    stack: 50
+
+  tech_tree_information:
+    # How much information should be displayed in the tech tree.
+    # None: No indication of what a research unlocks.
+    # Advancement: Indicates if a research unlocks an item that is considered logical advancement, but not who it is for.
+    # Full: Labels with exact names and recipients of unlocked items; all researches are prefilled into the !hint command.
+    none: 5
+    advancement: 50
+    full: 5
+
+  starting_items:
+    # Mapping of Factorio internal item-name to amount granted on start.
+    burner-mining-drill: 4
+    raw-fish: 50
+    stone-furnace: 4
+
+  free_sample_blacklist:
+    # Set of items that should never be granted from Free Samples
+    []
+
+  free_sample_whitelist:
+    # Overrides any free sample blacklist present. This may ruin the balance of the mod, be warned.
+    []
+
+  recipe_time:
+    # Randomize the time it takes for any recipe to craft, this includes smelting, chemical lab, hand crafting etc.
+    # Fast: 0.25X - 1X
+    # Normal: 0.5X - 2X
+    # Slow: 1X - 4X
+    # Chaos: 0.25X - 4X
+    # New category: ignores vanilla recipe time and rolls new one
+    # New Fast: 0.25 - 2 seconds
+    # New Normal: 0.25 - 10 seconds
+    # New Slow:  5 - 10 seconds
+    vanilla: 0
+    fast: 10
+    normal: 0
+    slow: 10
+    chaos: 80
+    new_fast: 20
+    new_normal: 10
+    new_slow: 10
+
+  recipe_ingredients:
+    # Select if rocket, or rocket + science pack ingredients should be random.
+    rocket: 0
+    science_pack: 50
+
+  recipe_ingredients_offset:
+    # When randomizing ingredients, remove or add this many "slots" of items.
+    # For example, at -1 a randomized Automation Science Pack will only require 1 ingredient, instead of 2.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is -1
+    # Maximum value is 5
+    -1: 30
+    0: 50
+    1: 30
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  imported_blueprints:
+    # Allow or Disallow Blueprints from outside the current savegame.
+    'false': 0
+    'true': 50
+
+  world_gen:
+    # World Generation settings. Overview of options at https://wiki.factorio.com/Map_generator,
+    # with in-depth documentation at https://lua-api.factorio.com/latest/Concepts.html#MapGenSettings
+    autoplace_controls:
+      coal:
+        frequency: 1
+        richness: 6
+        size: 3
+      copper-ore:
+        frequency: 1
+        richness: 6
+        size: 3
+      crude-oil:
+        frequency: 1
+        richness: 6
+        size: 3
+      enemy-base:
+        frequency: 1
+        richness: 1
+        size: 1
+      iron-ore:
+        frequency: 1
+        richness: 6
+        size: 3
+      stone:
+        frequency: 1
+        richness: 6
+        size: 3
+      trees:
+        frequency: 1
+        richness: 1
+        size: 1
+      uranium-ore:
+        frequency: 1
+        richness: 6
+        size: 3
+    cliff_settings:
+      cliff_elevation_0: 10
+      cliff_elevation_interval: 40
+      name: cliff
+      richness: 1
+    enemy_evolution:
+      destroy_factor: 0.001
+      enabled: true
+      pollution_factor: 9.0e-07
+      time_factor: 4.0e-06
+    enemy_expansion:
+      enabled: true
+      max_expansion_cooldown: 216000
+      max_expansion_distance: 7
+      min_expansion_cooldown: 14400
+      settler_group_max_size: 20
+      settler_group_min_size: 5
+    peaceful_mode: false
+    pollution:
+      ageing: 1
+      diffusion_ratio: 0.02
+      enabled: true
+      enemy_attack_pollution_consumption_modifier: 1
+      min_pollution_to_damage_trees: 60
+      pollution_restored_per_tree_damage: 10
+    property_expression_names:
+      control-setting:aux:bias: 0
+      control-setting:aux:frequency:multiplier: 1
+      control-setting:moisture:bias: 0
+      control-setting:moisture:frequency:multiplier: 1
+    seed: null
+    starting_area: 5
+    terrain_segmentation: 0.5
+    water: 1.5
+
+  progressive:
+    # Merges together Technologies like "automation-1" to "automation-3" into 3 copies of "Progressive Automation",
+    # which awards them in order.
+    'off': 0
+    grouped_random: 0
+    'on': 50
+
+  teleport_traps:
+    # Trap items that when received trigger a random teleport.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 25
+    0: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  grenade_traps:
+    # Trap items that when received trigger a grenade explosion on each player.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 25
+    0: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  cluster_grenade_traps:
+    # Trap items that when received trigger a cluster grenade explosion on each player.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 25
+    0: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  artillery_traps:
+    # Trap items that when received trigger an artillery shell on each player.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 25
+    0: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  atomic_rocket_traps:
+    # Trap items that when received trigger an atomic rocket explosion on each player.
+    # Warning: there is no warning. The launch is instantaneous.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 25
+    0: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  attack_traps:
+    # Trap items that when received trigger an attack on your base.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 25
+    0: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  evolution_traps:
+    # Trap items that when received increase the enemy evolution.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 10
+    0: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  evolution_trap_increase:
+    # How much an Evolution Trap increases the enemy evolution.
+    # Increases scale down proportionally to the session's current evolution factor
+    # (40 increase at 0.50 will add 0.20... 40 increase at 0.75 will add 0.10...)
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 100
+    10: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  death_link:
+    # When you die, everyone dies. Of course the reverse is true too.
+    'false': 0
+    'true': 50
+
+  energy_link:
+    # Allow sending energy to other worlds. 25% of the energy is lost in the transfer.
+    'false': 0
+    'true': 50
+
+  # Item & Location Options
+  local_items:
+    # Forces these items to be in their native world.
+    []
+
+  non_local_items:
+    # Forces these items to be outside their native world.
+    []
+
+  start_inventory:
+    # Start with these items.
+    {}
+
+  start_hints:
+    # Start with these item's locations prefilled into the ``!hint`` command.
+    []
+
+  start_location_hints:
+    # Start with these locations and their item prefilled into the ``!hint`` command.
+    []
+
+  exclude_locations:
+    # Prevent these locations from having an important item.
+    []
+
+  priority_locations:
+    # Prevent these locations from having an unimportant item.
+    []
+
+  item_links:
+    # Share part of your item pool with other players.
+    []
+
+  start_inventory_from_pool:
+    # Start with these items and don't place them in the world.
+    # 
+    # The game decides what the replacement items will be.
+    {}
+
+  plando_items:
+    - item:
+        progressive-science-pack: 1
+      location: BroneyFactorio's progressive-science-pack
+      world: The Shop
+      force: true
+    - item:
+        progressive-science-pack: 1
+      location: BroneyFactorio's progressive-science-pack (2)
+      world: The Shop
+      force: true
+    - item:
+        concrete: 1
+      location: BroneyFactorio's concrete
+      world: The Shop
+      force: true
+    - item:
+        progressive-armor: 1
+      location: BroneyFactorio's progressive-armor
+      world: The Shop
+      force: true
+    - item:
+        progressive-science-pack: 1
+      location: Locker 89
+      world: The Vault
+      force: true
+    - item:
+        progressive-turret: 1
+      location: Locker 90
+      world: The Vault
+      force: true
+    - item:
+        battery: 1
+      location: Locker 91
+      world: The Vault
+      force: true
+    - item:
+        lubricant: 1
+      location: Locker 92
+      world: The Vault
+      force: true

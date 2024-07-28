@@ -2,6 +2,6 @@
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
   "game": "shop",
   "creator": "mp3",
-  "filler_item_name": "a.",
+  "filler_item_name": "if you're sending this item, i forgot something",
   "death_link": false
 }

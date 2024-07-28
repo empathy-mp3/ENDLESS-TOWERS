@@ -1,14 +1,15 @@
 shops have 6 items, and are restocked daily
 - one is always a permanent +1 life (3, 5, 7, 9...) 1 stock
 - one is halved hint cost (3, 6, 11, 19, 25, 42). the hint costs themselves go: (100, 50, 25, 12.5, 6.25, 3.125, 1.5625) 1 stock
-- two are major progression items (4, +1 per finished player) 1 stock each
-- two are useful/minor progression items (2, +0.5 per finished player, rounded up) 1 stock
+- four are major progression items (4, +1 per finished player) 1 stock each
+  - logically require 1/4 (rounded down) of existing money
+- four are useful/minor progression items (2 cost) 1 stock
   - should a slot lose all possible stock, it will be replaced with one of the following:
     - temp life refills: (1, +2 cost per additional one purchased per run) 3 stock
     - temp filler item: (1, +1 cost per additional of that particular filler item purchased per run) 3 stock
 - reroll is (5, +2 cost per reroll per day)
-- send X random traps is (X = 8 + uses) cash is (+1 cash, +0.1 cash per use, not rounded)
-all prices increase every time a player finishes
+- send X random traps is (X = 8 + uses) cash is (+1 cash, +0.2 cash per use, not rounded)
+all prices increase by 1 every time a player finishes
 
 # current status
 
@@ -25,6 +26,7 @@ updated (insert relative discord timestamp)
 
 should any Cold Hard Cash be sent to The Shop, we may make some purchases!
 the shop resets roughly every day (if i have the time to reset it), but we may reroll it to reset it early.
+keep in mind that prices may change, especially if multiple of 1 thing is purchased.
 all items are permanent, unless specified otherwise.
 
 current Cold Hard Cash: 0
@@ -33,15 +35,19 @@ here are the wares!
 
 `+1 additional life` (3 cost) ~ 1 in stock
 `halved hint cost` (3 cost) ~ 1 in stock
-`totk.mp3's Ultrahand` (4 cost) ~ 1 in stock
-`tunic.mp3's Progressive Sword` (4 cost) ~ 1 in stock
-`inscryption.mp3's Conduit Upgrade` (2 cost) ~ 1 in stock
-`hollow.mp3's Shaman_Stone` (2 cost) ~ 1 in stock
+`Deathclaw99TS's Lightwall` (4 cost) ~ 1 in stock
+`Soleyeer's Hookshot Badge` (4 cost) ~ 1 in stock
+`Soleyeer's Dweller Mask` (4 cost) ~ 1 in stock
+`BroneySM's Varia Suit` (4 cost) ~ 1 in stock
+`BroneySM's Bomb` (2 cost) ~ 1 in stock
+`DragoLookAtDeath's Keep Shortcuts` (2 cost) ~ 1 in stock
+`mars.'s Quick_Slash` (2 cost) ~ 1 in stock
+`mars.'s Soul_Eater` (2 cost) ~ 1 in stock
 
 other impermanent things:
 
 `reroll & restock` (5 cost)
-`send 8 random traps` (+1 Cold Hard Cash) ~ 1 in stock
+`send 8 random traps` (+1 Cold Hard Cash) ~ 2 in stock
 
 updated (insert relative discord timestamp)
 
@@ -60,7 +66,7 @@ finished players (0):
 
 | slot             | shop prog 1              | shop prog 2                  | vault prog                         | filler                          | trap                 |
 | ---------------- | ------------------------ | ---------------------------- | ---------------------------------- | ------------------------------- | -------------------- |
-| hollow.mp3       | Desolate_Dive            | Lumafly_Lantern              | Mothwing_Cloak                     | Geo_Chest-Watcher_Knights       |                      |
+| hollow.mp3       | Desolate_Dive            | Lumafly_Lantern              | Mothwing_Cloak                     | Geo_Chest-Soul_Master           |                      |
 | factorio.mp3     | progressive-science-pack | progressive-science-pack     | progressive-science-pack           | progressive-mining-productivity | Cluster Grenade Trap |
 | Deathclaw99TS    | Water Mask               | Lightwall                    | Elevator Keycard                   |                                 |                      |
 | Deathclaw99Terra | Post-Golem               | Post-Skeletron               | Hardmode                           |                                 |                      |
@@ -80,6 +86,9 @@ finished players (0):
 | DragoLookAtDeath | Triangles                | Black/White Squares          | Cave Swamp Shortcut (Door)         | Puzzle Skip                     | Bonk                 |
 | Alex230-Doom     | Free Saves and Loads     | Allow Leaving Start Location | Turn Off GZChaos Mod               | Turn Off Entropy Mod            | Dark Sectors         |
 | dst.mp3          | Tent                     | Boards                       | Rope                               | Eye Mask                        | Summer Trap          |
+| BroneyLTTP       | Lamp                     | Moon Pearl                   | Hammer                             | Rupees (100)                    |                      |
+| BroneyFactorio   | progressive-science-pack | progressive-science-pack     | progressive-science-pack           | progressive-mining-productivity |                      |
+| BroneySM         | Morph Ball               | Varia Suit                   | Gravity Suit                       | Missile                         |                      |
 
 
 | slot             | vault useful 1               | vault useful 2        | vault useful 3         | shop useful 1                 | shop useful 2                         |
@@ -104,6 +113,9 @@ finished players (0):
 | DragoLookAtDeath | Jungle Laser Shortcut (Door) | Eraser                | Quarry Entry 1 (Panel) | Keep Shortcuts                | Mountain Floor 2 Staircase Far (Door) |
 | Alex230-Doom     | Allow Using Yellow Key       | Allow Using Blue Key  | Allow Using Red Key    | Automap                       | Allow Using Exit                      |
 | dst.mp3          | Extra Damage Against Bosses  | Krampus Sack          | Spring Season Change   | Winter Season Change          | Autumn Season Change                  |
+| BroneyLTTP       | Progressive Bow              | Progressive Mail      | Cape                   | Cane of Byrna                 | Magic Mirror                          |
+| BroneyFactorio   | progressive-turret           | battery               | lubricant              | concrete                      | progressive-armor                     |
+| BroneySM         | Power Bomb                   | Space Jump            | Screw Attack           | Bomb                          | Wave Beam                             |
 
 # vault notes
 
@@ -187,3 +199,103 @@ dst.mp3          | Extra Damage Against Bosses
 dst.mp3          | Krampus Sack
 dst.mp3          | Spring Season Change
 dst.mp3          | Rope
+
+# shop notes
+
+## progressive
+
+hollow.mp3's Desolate_Dive
+hollow.mp3's Lumafly_Lantern
+factorio.mp3's progressive-science-pack
+factorio.mp3's progressive-science-pack (2)
+Deathclaw99TS's Water Mask
+Deathclaw99TS's Lightwall
+Deathclaw99Terra's Post-Golem
+Deathclaw99Terra's Post-Skeletron
+Deathclaw99OOT's Megaton Hammer
+Deathclaw99OOT's Hover Boots
+SylskoTunic's Pages 24-25 (Prayer)
+SylskoTunic's Hero's Laurels
+SynRogue's Celestial Sash
+SynRogue's Water Mask
+SynRegret's Progressive Dots
+SynRegret's Shapers
+Soleyeer's Hookshot Badge
+Soleyeer's Dweller Mask
+ThatFirey's Stamina Bar
+ThatFirey's Wall Jump
+CaesiusHIT's Hookshot Badge
+CaesiusHIT's Umbrella
+CaesiusSM64's Side Flip
+CaesiusSM64's Wall Kick
+mars.'s Desolate_Dive
+mars.'s Focus
+mars three.'s Celestial Sash
+mars three.'s Water Mask
+TripleSDV's Progressive Season
+TripleSDV's Progressive Season (2)
+DragoSpinsDeath's Water Mask
+DragoSpinsDeath's Security Keycard D
+HatKillsDrago's Ice Hat
+HatKillsDrago's Yarn
+DragoLookAtDeath's Triangles
+DragoLookAtDeath's Black/White Squares
+Alex230-Doom's Free Saves and Loads
+Alex230-Doom's Allow Leaving Start Location
+dst.mp3's Tent
+dst.mp3's Boards
+BroneyLTTP's Lamp
+BroneyLTTP's Moon Pearl
+BroneyFactorio's progressive-science-pack
+BroneyFactorio's progressive-science-pack (2)
+BroneySM's Morph Ball
+BroneySM's Varia Suit
+
+## useful
+
+hollow.mp3's Shaman_Stone
+hollow.mp3's Heavy_Blow
+factorio.mp3's uranium-ammo
+factorio.mp3's concrete
+Deathclaw99TS's Shattered Orb
+Deathclaw99TS's Bombardment
+Deathclaw99Terra's Reward: Obsidian Rose
+Deathclaw99Terra's Reward: Magic Quiver
+Deathclaw99OOT's Goron Tunic
+Deathclaw99OOT's Deku Shield
+SylskoTunic's Anklet
+SylskoTunic's Magic Dagger
+SynRogue's Eternal Crown
+SynRogue's Shattered Orb
+SynRegret's Puzzle Skip
+SynRegret's Puzzle Skip (2)
+Soleyeer's Projectile Badge
+Soleyeer's Sprint Hat
+ThatFirey's Rocket Launcher - Freezeframe
+ThatFirey's Knuckleblaster
+CaesiusHIT's Item Magnet Badge
+CaesiusHIT's Hover Badge
+CaesiusSM64's Cannon Unlock JRB
+CaesiusSM64's Kick
+mars.'s Soul_Eater
+mars.'s Quick_Slash
+mars three.'s Selen's Bangle
+mars three.'s Galaxy Earrings
+TripleSDV's Progressive Coop
+TripleSDV's Progressive Fishing Rod
+DragoSpinsDeath's Gas Mask
+DragoSpinsDeath's Plasma Orb
+HatKillsDrago's Time Stop Hat
+HatKillsDrago's Relic (Crayon Box)
+DragoLookAtDeath's Keep Shortcuts
+DragoLookAtDeath's Mountain Floor 2 Staircase Far (Door)
+Alex230-Doom's Automap
+Alex230-Doom's Allow Using Exit
+dst.mp3's Winter Season Change
+dst.mp3's Autumn Season Change
+BroneyLTTP's Cane of Byrna
+BroneyLTTP's Magic Mirror
+BroneyFactorio's concrete
+BroneyFactorio's progressive-armor
+BroneySM's Bomb
+BroneySM's Wave Beam
