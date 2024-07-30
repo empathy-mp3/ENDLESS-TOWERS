@@ -768,6 +768,102 @@
         ]
     },
     {
+        "name": "heshpseudo's Major Key - Sansa Keep",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "heshpseudo's Sunsetter",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "heshpseudo's Ascendant Light",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "heshpseudo's Slide",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "heshmuda's Music Sheet",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "heshmuda's Music Sheet (2)",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "heshmuda's Random Song",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "heshmuda's Random Song (2)",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "heshut's Hotland Key",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "heshut's Waterfall Key",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "heshut's Core Key",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "heshut's Ruins Key",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
         "name": "victory",
         "victory": true
     }

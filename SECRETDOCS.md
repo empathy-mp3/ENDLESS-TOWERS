@@ -91,6 +91,9 @@ finished players (0):
 | BroneyFactorio   | progressive-science-pack | progressive-science-pack     | progressive-science-pack           | progressive-mining-productivity |                      |
 | BroneySM         | Morph Ball               | Varia Suit                   | Gravity Suit                       | Missile                         |                      |
 | FloriTerra       | Hardmode                 | Post-Skeletron               | Post-Golem                         |                                 |                      |
+| heshpseudo       | Major Key - Sansa Keep   | Sunsetter                    | Cling Gem                          |                                 |                      |
+| heshmuda         | Music Sheet              | Music Sheet                  | Music Sheet                        |                                 |                      |
+| heshut           | Hotland Key              | Waterfall Key                | Snowdin Key                        |                                 |                      |
 
 
 | slot             | vault useful 1               | vault useful 2        | vault useful 3         | shop useful 1                 | shop useful 2                         |
@@ -119,6 +122,9 @@ finished players (0):
 | BroneyFactorio   | progressive-turret           | battery               | lubricant              | concrete                      | progressive-armor                     |
 | BroneySM         | Power Bomb                   | Space Jump            | Screw Attack           | Bomb                          | Wave Beam                             |
 | FloriTerra       | Reward: Black Belt           | Reward: Tabi          | Post-Goblin Army       | Reward: Hermes Boots          | Reward: Rod of Discord                |
+| heshpseudo       | Solar Wind                   | Sun Greaves           | Small Key              | Ascendant Light               | Slide                                 |
+| heshmuda         | Random Song                  | Random Song           | Random Song            | Random Song                   | Random Song                           |
+| heshut           | Mettaton Plush               | Complete Skeleton     | Fish                   | Core Key                      | Ruins Key                             |
 
 # vault notes
 
@@ -210,6 +216,18 @@ FloriTerra       | Reward: Black Belt
 FloriTerra       | Reward: Tabi
 FloriTerra       | Post-Goblin Army
 FloriTerra       | Post-Golem
+heshpseudo       | Solar Wind
+heshpseudo       | Sun Greaves
+heshpseudo       | Small Key
+heshpseudo       | Cling Gem 
+heshmuda         | Random Song
+heshmuda         | Random Song
+heshmuda         | Random Song
+heshmuda         | Music Sheet
+heshut           | Mettaton Plush
+heshut           | Complete Skeleton
+heshut           | Fish
+heshut           | Snowdin Key
 
 # shop notes
 
@@ -273,6 +291,14 @@ BroneyFactorio's progressive-science-pack
 BroneyFactorio's progressive-science-pack (2)
 BroneySM's Morph Ball
 BroneySM's Varia Suit
+FloriTerra's Hardmode
+FloriTerra's Post-Skeletron
+heshpseudo's Major Key - Sansa Keep
+heshpseudo's Sunsetter
+heshmuda's Music Sheet
+heshmuda's Music Sheet (2)
+heshut's Hotland Key
+heshut's Waterfall Key
 
 ### useful
 
@@ -322,3 +348,11 @@ BroneyFactorio's concrete
 BroneyFactorio's progressive-armor
 BroneySM's Bomb
 BroneySM's Wave Beam
+FloriTerra's Reward: Hermes Boots
+FloriTerra's Reward: Rod of Discord
+heshpseudo's Ascendant Light
+heshpseudo's Slide
+heshmuda's Random Song
+heshmuda's Random Song (2)
+heshut's Core Key
+heshut's Ruins Key
