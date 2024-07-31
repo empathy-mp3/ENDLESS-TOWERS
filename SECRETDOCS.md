@@ -95,6 +95,7 @@ finished players (0):
 | heshpseudo       | Major Key - Sansa Keep   | Sunsetter                    | Cling Gem                          |                                 |                      |
 | heshmuda         | Music Sheet              | Music Sheet                  | Music Sheet                        |                                 |                      |
 | heshut           | Hotland Key              | Waterfall Key                | Snowdin Key                        |                                 |                      |
+| sheen_pr         | Sun Greaves              | Cling Gem                    | Progressive Slide                  | Health Piece                    |                      |
 
 
 | slot             | vault useful 1               | vault useful 2        | vault useful 3                 | shop useful 1                 | shop useful 2                         |
@@ -127,6 +128,7 @@ finished players (0):
 | heshpseudo       | Solar Wind                   | Sun Greaves           | Small Key                      | Ascendant Light               | Slide                                 |
 | heshmuda         | Random Song                  | Random Song           | Random Song                    | Random Song                   | Random Song                           |
 | heshut           | Mettaton Plush               | Complete Skeleton     | Fish                           | Core Key                      | Ruins Key                             |
+| sheen_pr         | Small Key                    | Small Key             | Small Key                      | Small Key                     | Small Key                             |
 
 # vault notes
 
@@ -226,6 +228,10 @@ heshut           | Mettaton Plush
 heshut           | Complete Skeleton
 heshut           | Fish
 heshut           | Snowdin Key
+sheen_pr         | Progressive Slide
+sheen_pr         | Small Key
+sheen_pr         | Small Key
+sheen_pr         | Small Key
 
 # shop notes
 
@@ -295,6 +301,8 @@ heshmuda's Music Sheet
 heshmuda's Music Sheet (2)
 heshut's Hotland Key
 heshut's Waterfall Key
+sheen_pr's Sun Greaves
+sheen_pr's Cling Gem
 
 ### useful
 
@@ -350,3 +358,5 @@ heshmuda's Random Song
 heshmuda's Random Song (2)
 heshut's Core Key
 heshut's Ruins Key
+sheen_pr's Small Key
+sheen_pr's Small Key (2)

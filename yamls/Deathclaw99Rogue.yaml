@@ -115,8 +115,8 @@ Ocarina of Time:
   shopsanity_prices: affordable
   shuffle_scrubs: low
   shuffle_child_trade: vanilla
-  shuffle_freestanding_items: 'off'
-  shuffle_beehives: 'false'
+  shuffle_freestanding_items: random
+  shuffle_beehives: random
   no_escape_sequence: 'true'
   no_guard_stealth: 'true'
   no_epona_race: 'true'

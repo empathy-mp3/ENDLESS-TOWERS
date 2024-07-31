@@ -1,0 +1,147 @@
+﻿name: sheen_pr
+
+# Used to describe your yaml. Useful if you have multiple files.
+description: Default Pseudoregalia Template
+
+game: Pseudoregalia
+requires:
+  version: 0.4.3 # Version of Archipelago required for this yaml to work as expected.
+
+Pseudoregalia:
+  progression_balancing:
+    # A system that can move progression earlier, to try and prevent the player from getting stuck and bored early.
+    # A lower setting means more getting stuck. A higher setting means less getting stuck.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 99
+    random: 0
+    random-low: 0
+    random-high: 0
+    disabled: 0 # equivalent to 0
+    normal: 50 # equivalent to 50
+    extreme: 0 # equivalent to 99
+
+  accessibility:
+    # Set rules for reachability of your items/locations.
+    # Locations: ensure everything can be reached and acquired.
+    # Items: ensure all logically relevant items can be acquired.
+    # Minimal: ensure what is needed to reach your goal can be acquired.
+    locations: 0
+    items: 50
+    minimal: 0
+
+  local_items:
+    # Forces these items to be in their native world.
+    []
+
+  non_local_items:
+    # Forces these items to be outside their native world.
+    []
+
+  start_inventory:
+    # Start with these items.
+    {}
+
+  start_hints:
+    # Start with these item's locations prefilled into the !hint command.
+    []
+
+  start_location_hints:
+    # Start with these locations and their item prefilled into the !hint command
+    []
+
+  exclude_locations:
+    # Prevent these locations from having an important item
+    ['Dilapidated Dungeon - Strong Eyes']
+
+  priority_locations:
+    # Prevent these locations from having an unimportant item
+    []
+
+  item_links:
+    # Share part of your item pool with other players.
+    []
+
+  logic_level:
+    # The overall difficulty of the logic, used to determine the requirements to access locations and regions.
+    # 
+    # Normal: Suitable for anyone who has beaten the game. Requires backflips and knowing where everything is.
+    # Hard: Requires some easier movement tricks such as cling climbing, and more nuanced movement like turning during an air kick.
+    # Expert: Requires more difficult movement tricks such as ultrahops and reverse wallkicks, and obscure knowledge.
+    # Lunatic: Requires extremely difficult jumps and creative thinking. No holds barred. You have been warned.
+    # 
+    # Currently applies to Castle, Dungeon, Library, Keep, and Underbelly.
+    normal: 50
+    hard: 0
+    expert: 0
+    lunatic: 0
+
+  obscure_logic:
+    # Enables logic for obscure knowledge and creative pathing that isn't difficult to execute but may not be obvious or commonly known.
+    # This option is forced on if logic level is set to Expert or Lunatic.
+    # 
+    # Currently applies to Castle, Dungeon, Library, Keep, and Underbelly.
+    false: 50
+    true: 0
+
+  progressive_breaker:
+    # Replaces Dream Breaker, Strikebreak, and Soul Cutter with three Progressive Dream Breaker items.
+    false: 0
+    true: 50
+
+  progressive_slide:
+    # Replaces Slide and Solar Wind with two Progressive Slide items.
+    false: 0
+    true: 50
+
+  split_sun_greaves:
+    # Replaces Sun Greaves and Heliacal Power with four individual Air Kicks.
+    false: 50
+    true: 0
+
+  death_link:
+    # When you die, everyone dies. Of course the reverse is true too.
+    false: 0
+    true: 1
+  plando_items:
+    - item:
+        Sun Greaves: 1
+      location: "sheen_pr's Sun Greaves"
+      world: The Shop
+      force: true
+    - item:
+        Cling Gem: 1
+      location: "sheen_pr's Cling Gem"
+      world: The Shop
+      force: true
+    - item:
+        Small Key: 1
+      location: "sheen_pr's Small Key"
+      world: The Shop
+      force: true
+    - item:
+        Small Key: 1
+      location: "sheen_pr's Small Key (2)"
+      world: The Shop
+      force: true
+    - item:
+        Progressive Slide: 1
+      location: Locker 77
+      world: The Vault
+      force: true
+    - item:
+        Small Key: 1
+      location: Locker 78
+      world: The Vault
+      force: true
+    - item:
+        Small Key: 1
+      location: Locker 79
+      world: The Vault
+      force: true
+    - item:
+        Small Key: 1
+      location: Locker 80
+      world: The Vault
+      force: true
