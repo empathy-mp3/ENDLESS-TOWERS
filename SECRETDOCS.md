@@ -96,39 +96,41 @@ finished players (0):
 | heshmuda         | Music Sheet              | Music Sheet                  | Music Sheet                        |                                 |                      |
 | heshut           | Hotland Key              | Waterfall Key                | Snowdin Key                        |                                 |                      |
 | sheen_pr         | Sun Greaves              | Cling Gem                    | Progressive Slide                  | Health Piece                    |                      |
+| Kritzmaker       | Whiplash                 | Revolver - Marksman          | Railcannon - Electric              |                                 | Hard Damage          |
 
 
-| slot             | vault useful 1               | vault useful 2        | vault useful 3                 | shop useful 1                 | shop useful 2                         |
-| ---------------- | ---------------------------- | --------------------- | ------------------------------ | ----------------------------- | ------------------------------------- |
-| again.mp3        | Quick_Slash                  | Hiveblood             | Steady_Body                    | Heavy_Blow                    | Shaman_Stone                          |
-| again.mp3        | Extra Damage Against Bosses  | Krampus Sack          | Spring Season Change           | Winter Season Change          | Autumn Season Change                  |
-| automate.mp3     | belt-immunity-equipment      | lubricant             | battery                        | uranium-ammo                  | concrete                              |
-| automate.mp3     | Recipe: Power Shard (5)      | Recipe: Copper Sheet  | Building: Geothermal Generator | Inflated Pocket Dimension     | Recipe: Rubber                        |
-| Deathclaw99TS    | Eternal Coat                 | Radiant Orb           | Eternal Crown                  | Shattered Orb                 | Bombardment                           |
-| Deathclaw99Terra | Post-Goblin Army             | Reward: Lava Charm    | Reward: Obsidian Rose          | Reward: Magic Quiver          | Reward: Lavaproof Fishing Line        |
-| Deathclaw99OOT   | Progressive Wallet           | Zora Tunic            | Hylian Shield                  | Goron Tunic                   | Deku Shield                           |
-| SylskoTunic      | Muffling Bell                | Gun                   | Magic Wand                     | Anklet                        | Magic Dagger                          |
-| SynRogue         | Talaria Attachment           | Eternal Coat          | Bombardment                    | Eternal Crown                 | Shattered Orb                         |
-| SynRegret        | Functioning Brain            | Boat                  | Puzzle Skip                    | Puzzle Skip                   | Puzzle Skip                           |
-| Soleyeer         | Brewing Hat                  | Time Stop Hat         | Fast Hatter Badge              | Projectile Badge              | Sprint Hat                            |
-| ThatFirey        | Revolver - Marksman          | Shotgun - Pump Charge | Railcannon - Electric          | Rocket Launcher - Freezeframe | Knuckleblaster                        |
-| CaesiusHIT       | Badge Pin                    | Fast Hatter Badge     | Badge Pin                      | Item Magnet Badge             | Hover Badge                           |
-| CaesiusSM64      | Ground Pound                 | Cannon Unlock WF      | Power Star                     | Cannon Unlock JRB             | Kick                                  |
-| mars.            | Fragile_Strength             | Shade_Soul            | Shaman_Stone                   | Soul_Eater                    | Quick_Slash                           |
-| mars three.      | Eternal Crown                | Talaria Attachment    | Eternal Coat                   | Selen's Bangle                | Galaxy Earrings                       |
-| TripleSDV        | Progressive Barn             | Progressive House     | Return Scepter                 | Progressive Coop              | Progressive Fishing Rod               |
-| DragoSpinsDeath  | Tablet                       | Succubus Hairpin      | Security Keycard A             | Gas Mask                      | Plasma Orb                            |
-| HatKillsDrago    | Relic (Red Crayon)           | Relic (Blue Crayon)   | Relic (Green Crayon)           | Time Stop Hat                 | Relic (Crayon Box)                    |
-| DragoLookAtDeath | Jungle Laser Shortcut (Door) | Eraser                | Quarry Entry 1 (Panel)         | Keep Shortcuts                | Mountain Floor 2 Staircase Far (Door) |
-| Alex230-Doom     | Allow Using Yellow Key       | Allow Using Blue Key  | Allow Using Red Key            | Automap                       | Allow Using Exit                      |
-| BroneyLTTP       | Progressive Bow              | Progressive Mail      | Cape                           | Cane of Byrna                 | Magic Mirror                          |
-| BroneyFactorio   | progressive-turret           | battery               | lubricant                      | concrete                      | progressive-armor                     |
-| BroneySM         | Power Bomb                   | Space Jump            | Screw Attack                   | Bomb                          | Wave Beam                             |
-| FloriTerra       | Reward: Black Belt           | Reward: Tabi          | Post-Goblin Army               | Reward: Hermes Boots          | Reward: Rod of Discord                |
-| heshpseudo       | Solar Wind                   | Sun Greaves           | Small Key                      | Ascendant Light               | Slide                                 |
-| heshmuda         | Random Song                  | Random Song           | Random Song                    | Random Song                   | Random Song                           |
-| heshut           | Mettaton Plush               | Complete Skeleton     | Fish                           | Core Key                      | Ruins Key                             |
-| sheen_pr         | Small Key                    | Small Key             | Small Key                      | Small Key                     | Small Key                             |
+| slot             | vault useful 1               | vault useful 2        | vault useful 3                  | shop useful 1                 | shop useful 2                         |
+| ---------------- | ---------------------------- | --------------------- | ------------------------------- | ----------------------------- | ------------------------------------- |
+| again.mp3        | Quick_Slash                  | Hiveblood             | Steady_Body                     | Heavy_Blow                    | Shaman_Stone                          |
+| again.mp3        | Extra Damage Against Bosses  | Krampus Sack          | Spring Season Change            | Winter Season Change          | Autumn Season Change                  |
+| automate.mp3     | belt-immunity-equipment      | lubricant             | battery                         | uranium-ammo                  | concrete                              |
+| automate.mp3     | Recipe: Power Shard (5)      | Recipe: Copper Sheet  | Building: Geothermal Generator  | Inflated Pocket Dimension     | Recipe: Rubber                        |
+| Deathclaw99TS    | Eternal Coat                 | Radiant Orb           | Eternal Crown                   | Shattered Orb                 | Bombardment                           |
+| Deathclaw99Terra | Post-Goblin Army             | Reward: Lava Charm    | Reward: Obsidian Rose           | Reward: Magic Quiver          | Reward: Lavaproof Fishing Line        |
+| Deathclaw99OOT   | Progressive Wallet           | Zora Tunic            | Hylian Shield                   | Goron Tunic                   | Deku Shield                           |
+| SylskoTunic      | Muffling Bell                | Gun                   | Magic Wand                      | Anklet                        | Magic Dagger                          |
+| SynRogue         | Talaria Attachment           | Eternal Coat          | Bombardment                     | Eternal Crown                 | Shattered Orb                         |
+| SynRegret        | Functioning Brain            | Boat                  | Puzzle Skip                     | Puzzle Skip                   | Puzzle Skip                           |
+| Soleyeer         | Brewing Hat                  | Time Stop Hat         | Fast Hatter Badge               | Projectile Badge              | Sprint Hat                            |
+| ThatFirey        | Revolver - Marksman          | Shotgun - Pump Charge | Railcannon - Electric           | Rocket Launcher - Freezeframe | Knuckleblaster                        |
+| CaesiusHIT       | Badge Pin                    | Fast Hatter Badge     | Badge Pin                       | Item Magnet Badge             | Hover Badge                           |
+| CaesiusSM64      | Ground Pound                 | Cannon Unlock WF      | Power Star                      | Cannon Unlock JRB             | Kick                                  |
+| mars.            | Fragile_Strength             | Shade_Soul            | Shaman_Stone                    | Soul_Eater                    | Quick_Slash                           |
+| mars three.      | Eternal Crown                | Talaria Attachment    | Eternal Coat                    | Selen's Bangle                | Galaxy Earrings                       |
+| TripleSDV        | Progressive Barn             | Progressive House     | Return Scepter                  | Progressive Coop              | Progressive Fishing Rod               |
+| DragoSpinsDeath  | Tablet                       | Succubus Hairpin      | Security Keycard A              | Gas Mask                      | Plasma Orb                            |
+| HatKillsDrago    | Relic (Red Crayon)           | Relic (Blue Crayon)   | Relic (Green Crayon)            | Time Stop Hat                 | Relic (Crayon Box)                    |
+| DragoLookAtDeath | Jungle Laser Shortcut (Door) | Eraser                | Quarry Entry 1 (Panel)          | Keep Shortcuts                | Mountain Floor 2 Staircase Far (Door) |
+| Alex230-Doom     | Allow Using Yellow Key       | Allow Using Blue Key  | Allow Using Red Key             | Automap                       | Allow Using Exit                      |
+| BroneyLTTP       | Progressive Bow              | Progressive Mail      | Cape                            | Cane of Byrna                 | Magic Mirror                          |
+| BroneyFactorio   | progressive-turret           | battery               | lubricant                       | concrete                      | progressive-armor                     |
+| BroneySM         | Power Bomb                   | Space Jump            | Screw Attack                    | Bomb                          | Wave Beam                             |
+| FloriTerra       | Reward: Black Belt           | Reward: Tabi          | Post-Goblin Army                | Reward: Hermes Boots          | Reward: Rod of Discord                |
+| heshpseudo       | Solar Wind                   | Sun Greaves           | Small Key                       | Ascendant Light               | Slide                                 |
+| heshmuda         | Random Song                  | Random Song           | Random Song                     | Random Song                   | Random Song                           |
+| heshut           | Mettaton Plush               | Complete Skeleton     | Fish                            | Core Key                      | Ruins Key                             |
+| sheen_pr         | Small Key                    | Small Key             | Small Key                       | Small Key                     | Small Key                             |
+| Kritzmaker       | Revolver - Sharpshooter      | Shotgun - Sawed-On    | Rocket Launcher - S.R.S. Cannon | Nailgun - JumpStart           | Nailgun - Attractor                   |
 
 # vault notes
 
@@ -232,6 +234,10 @@ sheen_pr         | Progressive Slide
 sheen_pr         | Small Key
 sheen_pr         | Small Key
 sheen_pr         | Small Key
+Kritzmaker       | Revolver - Sharpshooter
+Kritzmaker       | Shotgun - Sawed-On
+Kritzmaker       | Rocket Launcher - S.R.S. Cannon
+Kritzmaker       | Railcannon - Electric
 
 # shop notes
 
@@ -303,6 +309,8 @@ heshut's Hotland Key
 heshut's Waterfall Key
 sheen_pr's Sun Greaves
 sheen_pr's Cling Gem
+Kritzmaker's Whiplash
+Kritzmaker's Revolver - Marksman
 
 ### useful
 
@@ -360,3 +368,5 @@ heshut's Core Key
 heshut's Ruins Key
 sheen_pr's Small Key
 sheen_pr's Small Key (2)
+Kritzmaker's Nailgun - JumpStart
+Kritzmaker's Nailgun - Attractor

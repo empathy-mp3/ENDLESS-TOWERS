@@ -6,7 +6,7 @@ TUNIC:
   keys_behind_bosses: 'false'
   ability_shuffling: 'true'
   shuffle_ladders: 'true'
-  entrance_rando: yes
+  entrance_rando: no
   fixed_shop: 'false'
   logic_rules: restricted
   fool_traps: normal

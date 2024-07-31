@@ -432,6 +432,22 @@
         "requires": "|Vault Key:108|"
     },
     {
+        "name": "Locker 109",
+        "requires": "|Vault Key:109|"
+    },
+    {
+        "name": "Locker 110",
+        "requires": "|Vault Key:110|"
+    },
+    {
+        "name": "Locker 111",
+        "requires": "|Vault Key:111|"
+    },
+    {
+        "name": "Locker 112",
+        "requires": "|Vault Key:112|"
+    },
+    {
         "name": "victory",
         "victory": true
     }

@@ -1,0 +1,180 @@
+
+#Feel free to read this file! Ive detailed how the settings effect the run!
+
+ULTRAKILL:
+  goal: "P_2" 
+  #Hardest level as goal. Playing on VIOLENT difficulty.
+
+  goal_requirement:
+    random-range-20-25: 1
+  #Maximum level requirement. Doesnt require EVERY secret level.
+
+  include_secret_mission_completion: true
+  #Adds 6 levels to the Goal Requirement (including a visual novel and a powerwashing simulator level)
+
+  unlock_type:
+    layers: 1
+    levels: 1
+  trap_percent:
+    random-range-0-5: 1
+  # Percentage chance for a trap item to spawn, which consist of
+  # 1: Radiant Aura - Multiplies all enemy stats for a short time.
+  # 2: Lack of wall jumps
+  # 3: Hard Damage - Uses an ingame mechanic to lower the players maximum health.
+  # 4: something else i forgot - i havent had traps enabled in like 8 games
+
+  boss_rewards: extended
+  #Secret/main bosses in 0-3, 0-5, 1-2, 1-4, 2-4, 3-2, 4-3, 4-4, 5-4, 6-2, 7-1, and 7-4
+
+  challenge_rewards: false
+  #Challenges are extra things to do in a level, such as fighting a secret encounter, or using a level-specific gimmick. Adds 1 check per level.
+
+  p_rank_rewards:
+    false: 50
+    true: 50
+  #Adds 1 check per level. Requires no deaths and a S rank in time, kills, and style.
+
+  hank_rewards: false
+  #Checks from building Hank and Hank Junior in 1-4 and 5-3. The name is derived from the textbox that appears.
+
+  randomize_clash_mode: false
+  #im not playing crash bandicoot
+
+  fish_rewards: true
+  #FISHING!!!!!
+
+  cleaning_rewards:
+    false: 1
+    true: 1
+  # Rewards for each room in the powerwashing simulator level 7-S
+  
+  chess_reward: false
+  # reward for playing the chess easter egg in the credits museum (im bad at chess)
+  
+  rocket_race_reward:
+    false: 1
+    true: 1
+  # requires the Freezeframe Rocket Launcher and its alt-fire, reward for playing fun minigame
+  
+  starting_weapon: any_weapon
+  # Randomized starting weapon. i hope it isnt a railcannon
+  
+  randomize_secondary_fire:
+    false: 1
+    true: 1
+  # Locks the ability to use a weapon's alternate fire behind items that must be found in the multiworld.
+  
+  start_with_arm: true
+  # Gives the feedbacker arm to start, like the basegame. This allows parrying and reflecting projectiles.
+  
+  starting_stamina:
+    random-range-1-3: 1
+  # Start with 1/3 stamina bars.
+  
+  starting_walljumps:
+    random-range-1-3: 1
+  # Starting with 1/3 wall jumps. Allows for insane movement still with Slam Storage.
+  
+  start_with_slide:
+    false: 1
+    true: 5
+  # Choose whether or not to start the game with the ability to slide.
+  
+  start_with_slam:
+    false: 1
+    true: 5
+  # Choose whether or not to start the game with the ability to slam/Slam storage.
+  
+  revolver_form:
+    standard: 1
+    alternate: 1
+  shotgun_form:
+    standard: 2
+    alternate: 5
+  nailgun_form:
+    standard: 2
+    alternate: 5
+  # Standard / Alternate, chooses between the default firing mode for said weapon.
+  # which are normally unlocked in secrets. (said secrets contain checks now)
+  
+  randomize_skulls:
+    false: 1
+    true: 1
+  # This adds ~35 new required checks in total. Spawns red and blue skulls in levels. 
+  # Each skull for each level must be unlocked, some techniques exist (in logic) to bypass skulls.
+  
+  randomize_limbo_switches:
+    false: 1
+    true: 1
+  # Creates 4 checks, one for each level of Limbo. Getting the switch checks allow you to access the Alt-Revolver check in 1-4.
+  
+  randomize_violence_switches:
+    false: 1
+    true: 1
+  # Creates 3 checks, all contained in 7-2. Getting these switch checks allow you to access the Alt-Shotgun check in 7-2
+  
+  point_multiplier: 1
+  #Money multiplier. Becomes useless after all weapons are bought.
+  
+  ui_color_randomizer: disabled
+  gun_color_randomizer: disabled
+  music_randomizer: false
+  
+  cybergrind_hints: true
+  # Endless mode gives RANDOM hints every 5 waves.
+  
+  death_link: true
+  progression_balancing: 50
+  accessibility: items
+  plando_items:
+    - item:
+        Whiplash: 1
+      location: Kritzmaker's Whiplash
+      world: The Shop
+      force: true
+    - item:
+        Revolver - Marksman: 1
+      location: Kritzmaker's Revolver - Marksman
+      world: The Shop
+      force: true
+    - item:
+        Nailgun - JumpStart: 1
+      location: Kritzmaker's Nailgun - JumpStart
+      world: The Shop
+      force: true
+    - item:
+        Nailgun - Attractor: 1
+      location: Kritzmaker's Nailgun - Attractor
+      world: The Shop
+      force: true
+    - item:
+        Revolver - Sharpshooter: 1
+      location: Locker 109
+      world: The Vault
+      force: true
+    - item:
+        Shotgun - Sawed-On: 1
+      location: Locker 110
+      world: The Vault
+      force: true
+    - item:
+        Rocket Launcher - S.R.S. Cannon: 1
+      location: Locker 111
+      world: The Vault
+      force: true
+    - item:
+        Railcannon - Electric: 1
+      location: Locker 112
+      world: The Vault
+      force: true
+game: ULTRAKILL
+name: Kritzmaker
+
+## ULTRAKILL NOTES
+# the only out of logic tech currently is extremely specific skips ("Pipe clip", Freezeframe in 2-3/5-1, Out-Of-Logic 4-2 Completion, 1-1 Rocket Clip)
+# said out of logic checks only consist of 1 or 2 each, and require VERY specific circumstances. except 4-2.
+#
+# After many iterations, most softlocks come from the Violence layer (layer 7/final), but have been thoroughly patched in versions since.
+#
+# Note 2: ENDLESS TOWERS EXCLUSIVE - i will be playing on VIOLENT difficulty. this makes the game easier in some cases due to reflecting back more attacks.
+# Overall, im more used to Violent difficulty rather than Brutal, due to it being newer.
