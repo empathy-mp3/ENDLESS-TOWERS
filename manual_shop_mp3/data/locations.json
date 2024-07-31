@@ -1,6 +1,6 @@
 [
     {
-        "name": "hollow.mp3's Desolate_Dive",
+        "name": "again.mp3's Desolate_Dive / Tent",
         "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
@@ -8,7 +8,7 @@
         ]
     },
     {
-        "name": "hollow.mp3's Lumafly_Lantern",
+        "name": "again.mp3's Lumafly_Lantern / Boards",
         "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
@@ -16,7 +16,7 @@
         ]
     },
     {
-        "name": "hollow.mp3's Shaman_Stone",
+        "name": "again.mp3's Shaman_Stone / Winter Season Change",
         "requires": "|Cold Hard Cash:9|",
         "category": [
             "Everything",
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "name": "hollow.mp3's Heavy_Blow",
+        "name": "again.mp3's Heavy_Blow / Autumn Season Change",
         "requires": "|Cold Hard Cash:9|",
         "category": [
             "Everything",
@@ -32,7 +32,7 @@
         ]
     },
     {
-        "name": "factorio.mp3's progressive-science-pack",
+        "name": "automate.mp3's progressive-science-pack / Building: AWESOME Shop",
         "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
@@ -40,7 +40,7 @@
         ]
     },
     {
-        "name": "factorio.mp3's progressive-science-pack (2)",
+        "name": "automate.mp3's progressive-science-pack / Building: Refinery",
         "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "name": "factorio.mp3's uranium-ammo",
+        "name": "automate.mp3's uranium-ammo / Inflated Pocket Dimension",
         "requires": "|Cold Hard Cash:9|",
         "category": [
             "Everything",
@@ -56,7 +56,7 @@
         ]
     },
     {
-        "name": "factorio.mp3's concrete",
+        "name": "automate.mp3's concrete / Recipe: Rubber",
         "requires": "|Cold Hard Cash:9|",
         "category": [
             "Everything",
@@ -601,38 +601,6 @@
     },
     {
         "name": "Alex230-Doom's Allow Using Exit",
-        "requires": "|Cold Hard Cash:9|",
-        "category": [
-            "Everything",
-            "useful"
-        ]
-    },
-    {
-        "name": "dst.mp3's Tent",
-        "requires": "|Cold Hard Cash:24|",
-        "category": [
-            "Everything",
-            "prog"
-        ]
-    },
-    {
-        "name": "dst.mp3's Boards",
-        "requires": "|Cold Hard Cash:24|",
-        "category": [
-            "Everything",
-            "prog"
-        ]
-    },
-    {
-        "name": "dst.mp3's Winter Season Change",
-        "requires": "|Cold Hard Cash:9|",
-        "category": [
-            "Everything",
-            "useful"
-        ]
-    },
-    {
-        "name": "dst.mp3's Autumn Season Change",
         "requires": "|Cold Hard Cash:9|",
         "category": [
             "Everything",

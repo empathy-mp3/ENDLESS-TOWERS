@@ -67,8 +67,10 @@ finished players (0):
 
 | slot             | shop prog 1              | shop prog 2                  | vault prog                         | filler                          | trap                 |
 | ---------------- | ------------------------ | ---------------------------- | ---------------------------------- | ------------------------------- | -------------------- |
-| hollow.mp3       | Desolate_Dive            | Lumafly_Lantern              | Mothwing_Cloak                     | Geo_Chest-Soul_Master           |                      |
-| factorio.mp3     | progressive-science-pack | progressive-science-pack     | progressive-science-pack           | progressive-mining-productivity | Cluster Grenade Trap |
+| again.mp3        | Desolate_Dive            | Lumafly_Lantern              | Mothwing_Cloak                     | Geo_Chest-Soul_Master           |                      |
+| again.mp3        | Tent                     | Boards                       | Rope                               | Eye Mask                        | Summer Trap          |
+| automate.mp3     | progressive-science-pack | progressive-science-pack     | progressive-science-pack           | progressive-mining-productivity | Cluster Grenade Trap |
+| automate.mp3     | Building: AWESOME Shop   | Building: Refinery           | Building: MAM                      | Bundle: Quickwire               | Hog Basic            |
 | Deathclaw99TS    | Water Mask               | Lightwall                    | Elevator Keycard                   |                                 |                      |
 | Deathclaw99Terra | Post-Golem               | Post-Skeletron               | Hardmode                           |                                 |                      |
 | Deathclaw99OOT   | Megaton Hammer           | Hover Boots                  | Progressive Hookshot               | Rupees (200)                    |                      |
@@ -86,7 +88,6 @@ finished players (0):
 | HatKillsDrago    | Ice Hat                  | Yarn                         | Hookshot Badge                     | 100 Pons                        | Baby Trap            |
 | DragoLookAtDeath | Triangles                | Black/White Squares          | Cave Swamp Shortcut (Door)         | Puzzle Skip                     | Bonk                 |
 | Alex230-Doom     | Free Saves and Loads     | Allow Leaving Start Location | Turn Off GZChaos Mod               | Turn Off Entropy Mod            | Dark Sectors         |
-| dst.mp3          | Tent                     | Boards                       | Rope                               | Eye Mask                        | Summer Trap          |
 | BroneyLTTP       | Lamp                     | Moon Pearl                   | Hammer                             | Rupees (100)                    |                      |
 | BroneyFactorio   | progressive-science-pack | progressive-science-pack     | progressive-science-pack           | progressive-mining-productivity |                      |
 | BroneySM         | Morph Ball               | Varia Suit                   | Gravity Suit                       | Missile                         |                      |
@@ -96,46 +97,47 @@ finished players (0):
 | heshut           | Hotland Key              | Waterfall Key                | Snowdin Key                        |                                 |                      |
 
 
-| slot             | vault useful 1               | vault useful 2        | vault useful 3         | shop useful 1                 | shop useful 2                         |
-| ---------------- | ---------------------------- | --------------------- | ---------------------- | ----------------------------- | ------------------------------------- |
-| hollow.mp3       | Quick_Slash                  | Hiveblood             | Steady_Body            | Heavy_Blow                    | Shaman_Stone                          |
-| factorio.mp3     | belt-immunity-equipment      | lubricant             | battery                | uranium-ammo                  | concrete                              |
-| Deathclaw99TS    | Eternal Coat                 | Radiant Orb           | Eternal Crown          | Shattered Orb                 | Bombardment                           |
-| Deathclaw99Terra | Post-Goblin Army             | Reward: Lava Charm    | Reward: Obsidian Rose  | Reward: Magic Quiver          | Reward: Lavaproof Fishing Line        |
-| Deathclaw99OOT   | Progressive Wallet           | Zora Tunic            | Hylian Shield          | Goron Tunic                   | Deku Shield                           |
-| SylskoTunic      | Muffling Bell                | Gun                   | Magic Wand             | Anklet                        | Magic Dagger                          |
-| SynRogue         | Talaria Attachment           | Eternal Coat          | Bombardment            | Eternal Crown                 | Shattered Orb                         |
-| SynRegret        | Functioning Brain            | Boat                  | Puzzle Skip            | Puzzle Skip                   | Puzzle Skip                           |
-| Soleyeer         | Brewing Hat                  | Time Stop Hat         | Fast Hatter Badge      | Projectile Badge              | Sprint Hat                            |
-| ThatFirey        | Revolver - Marksman          | Shotgun - Pump Charge | Railcannon - Electric  | Rocket Launcher - Freezeframe | Knuckleblaster                        |
-| CaesiusHIT       | Badge Pin                    | Fast Hatter Badge     | Badge Pin              | Item Magnet Badge             | Hover Badge                           |
-| CaesiusSM64      | Ground Pound                 | Cannon Unlock WF      | Power Star             | Cannon Unlock JRB             | Kick                                  |
-| mars.            | Fragile_Strength             | Shade_Soul            | Shaman_Stone           | Soul_Eater                    | Quick_Slash                           |
-| mars three.      | Eternal Crown                | Talaria Attachment    | Eternal Coat           | Selen's Bangle                | Galaxy Earrings                       |
-| TripleSDV        | Progressive Barn             | Progressive House     | Return Scepter         | Progressive Coop              | Progressive Fishing Rod               |
-| DragoSpinsDeath  | Tablet                       | Succubus Hairpin      | Security Keycard A     | Gas Mask                      | Plasma Orb                            |
-| HatKillsDrago    | Relic (Red Crayon)           | Relic (Blue Crayon)   | Relic (Green Crayon)   | Time Stop Hat                 | Relic (Crayon Box)                    |
-| DragoLookAtDeath | Jungle Laser Shortcut (Door) | Eraser                | Quarry Entry 1 (Panel) | Keep Shortcuts                | Mountain Floor 2 Staircase Far (Door) |
-| Alex230-Doom     | Allow Using Yellow Key       | Allow Using Blue Key  | Allow Using Red Key    | Automap                       | Allow Using Exit                      |
-| dst.mp3          | Extra Damage Against Bosses  | Krampus Sack          | Spring Season Change   | Winter Season Change          | Autumn Season Change                  |
-| BroneyLTTP       | Progressive Bow              | Progressive Mail      | Cape                   | Cane of Byrna                 | Magic Mirror                          |
-| BroneyFactorio   | progressive-turret           | battery               | lubricant              | concrete                      | progressive-armor                     |
-| BroneySM         | Power Bomb                   | Space Jump            | Screw Attack           | Bomb                          | Wave Beam                             |
-| FloriTerra       | Reward: Black Belt           | Reward: Tabi          | Post-Goblin Army       | Reward: Hermes Boots          | Reward: Rod of Discord                |
-| heshpseudo       | Solar Wind                   | Sun Greaves           | Small Key              | Ascendant Light               | Slide                                 |
-| heshmuda         | Random Song                  | Random Song           | Random Song            | Random Song                   | Random Song                           |
-| heshut           | Mettaton Plush               | Complete Skeleton     | Fish                   | Core Key                      | Ruins Key                             |
+| slot             | vault useful 1               | vault useful 2        | vault useful 3                 | shop useful 1                 | shop useful 2                         |
+| ---------------- | ---------------------------- | --------------------- | ------------------------------ | ----------------------------- | ------------------------------------- |
+| again.mp3        | Quick_Slash                  | Hiveblood             | Steady_Body                    | Heavy_Blow                    | Shaman_Stone                          |
+| again.mp3        | Extra Damage Against Bosses  | Krampus Sack          | Spring Season Change           | Winter Season Change          | Autumn Season Change                  |
+| automate.mp3     | belt-immunity-equipment      | lubricant             | battery                        | uranium-ammo                  | concrete                              |
+| automate.mp3     | Recipe: Power Shard (5)      | Recipe: Copper Sheet  | Building: Geothermal Generator | Inflated Pocket Dimension     | Recipe: Rubber                        |
+| Deathclaw99TS    | Eternal Coat                 | Radiant Orb           | Eternal Crown                  | Shattered Orb                 | Bombardment                           |
+| Deathclaw99Terra | Post-Goblin Army             | Reward: Lava Charm    | Reward: Obsidian Rose          | Reward: Magic Quiver          | Reward: Lavaproof Fishing Line        |
+| Deathclaw99OOT   | Progressive Wallet           | Zora Tunic            | Hylian Shield                  | Goron Tunic                   | Deku Shield                           |
+| SylskoTunic      | Muffling Bell                | Gun                   | Magic Wand                     | Anklet                        | Magic Dagger                          |
+| SynRogue         | Talaria Attachment           | Eternal Coat          | Bombardment                    | Eternal Crown                 | Shattered Orb                         |
+| SynRegret        | Functioning Brain            | Boat                  | Puzzle Skip                    | Puzzle Skip                   | Puzzle Skip                           |
+| Soleyeer         | Brewing Hat                  | Time Stop Hat         | Fast Hatter Badge              | Projectile Badge              | Sprint Hat                            |
+| ThatFirey        | Revolver - Marksman          | Shotgun - Pump Charge | Railcannon - Electric          | Rocket Launcher - Freezeframe | Knuckleblaster                        |
+| CaesiusHIT       | Badge Pin                    | Fast Hatter Badge     | Badge Pin                      | Item Magnet Badge             | Hover Badge                           |
+| CaesiusSM64      | Ground Pound                 | Cannon Unlock WF      | Power Star                     | Cannon Unlock JRB             | Kick                                  |
+| mars.            | Fragile_Strength             | Shade_Soul            | Shaman_Stone                   | Soul_Eater                    | Quick_Slash                           |
+| mars three.      | Eternal Crown                | Talaria Attachment    | Eternal Coat                   | Selen's Bangle                | Galaxy Earrings                       |
+| TripleSDV        | Progressive Barn             | Progressive House     | Return Scepter                 | Progressive Coop              | Progressive Fishing Rod               |
+| DragoSpinsDeath  | Tablet                       | Succubus Hairpin      | Security Keycard A             | Gas Mask                      | Plasma Orb                            |
+| HatKillsDrago    | Relic (Red Crayon)           | Relic (Blue Crayon)   | Relic (Green Crayon)           | Time Stop Hat                 | Relic (Crayon Box)                    |
+| DragoLookAtDeath | Jungle Laser Shortcut (Door) | Eraser                | Quarry Entry 1 (Panel)         | Keep Shortcuts                | Mountain Floor 2 Staircase Far (Door) |
+| Alex230-Doom     | Allow Using Yellow Key       | Allow Using Blue Key  | Allow Using Red Key            | Automap                       | Allow Using Exit                      |
+| BroneyLTTP       | Progressive Bow              | Progressive Mail      | Cape                           | Cane of Byrna                 | Magic Mirror                          |
+| BroneyFactorio   | progressive-turret           | battery               | lubricant                      | concrete                      | progressive-armor                     |
+| BroneySM         | Power Bomb                   | Space Jump            | Screw Attack                   | Bomb                          | Wave Beam                             |
+| FloriTerra       | Reward: Black Belt           | Reward: Tabi          | Post-Goblin Army               | Reward: Hermes Boots          | Reward: Rod of Discord                |
+| heshpseudo       | Solar Wind                   | Sun Greaves           | Small Key                      | Ascendant Light               | Slide                                 |
+| heshmuda         | Random Song                  | Random Song           | Random Song                    | Random Song                   | Random Song                           |
+| heshut           | Mettaton Plush               | Complete Skeleton     | Fish                           | Core Key                      | Ruins Key                             |
 
 # vault notes
 
-hollow.mp3       | Mothwing_Cloak                
-hollow.mp3       | Quick_Slash            
-hollow.mp3       | Hiveblood  
-hollow.mp3       | Steady_Body           
-factorio.mp3     | battery                 
-factorio.mp3     | lubricant      
-factorio.mp3     | belt-immunity-equipment                  
-factorio.mp3     | progressive-science-pack
+again.mp3        | Mothwing_Cloak / Extra Damage Against Bosses            
+again.mp3        | Quick_Slash / Krampus Sack 
+again.mp3        | Hiveblood / Spring Season Change
+again.mp3        | Steady_Body / Rope     
+automate.mp3     | battery / Recipe: Copper Sheet                 
+automate.mp3     | lubricant / Building: MAM    
+automate.mp3     | belt-immunity-equipment / Recipe: Power Shard (5)             
+automate.mp3     | progressive-science-pack / Building: Geothermal Generator
 Deathclaw99TS    | Eternal Coat
 Deathclaw99TS    | Radiant Orb
 Deathclaw99TS    | Eternal Crown
@@ -204,10 +206,6 @@ Alex230-Doom     | Allow Using Red Key
 Alex230-Doom     | Turn Off GZChaos Mod 
 Alex230-Doom     | Allow Using Blue Key  
 Alex230-Doom     | Allow Using Yellow Key
-dst.mp3          | Extra Damage Against Bosses
-dst.mp3          | Krampus Sack
-dst.mp3          | Spring Season Change
-dst.mp3          | Rope
 BroneySM         | Power Bomb
 BroneySM         | Space Jump
 BroneySM         | Screw Attack
@@ -245,10 +243,10 @@ N/A
 
 ### progressive
 
-hollow.mp3's Desolate_Dive
-hollow.mp3's Lumafly_Lantern
-factorio.mp3's progressive-science-pack
-factorio.mp3's progressive-science-pack (2)
+again.mp3's Desolate_Dive / Tent
+again.mp3's Lumafly_Lantern / Boards
+automate.mp3's progressive-science-pack / Building: AWESOME Shop
+automate.mp3's progressive-science-pack / Building: Refinery
 Deathclaw99TS's Water Mask
 Deathclaw99TS's Lightwall
 Deathclaw99Terra's Post-Golem
@@ -283,8 +281,6 @@ DragoLookAtDeath's Triangles
 DragoLookAtDeath's Black/White Squares
 Alex230-Doom's Free Saves and Loads
 Alex230-Doom's Allow Leaving Start Location
-dst.mp3's Tent
-dst.mp3's Boards
 BroneyLTTP's Lamp
 BroneyLTTP's Moon Pearl
 BroneyFactorio's progressive-science-pack
@@ -302,10 +298,10 @@ heshut's Waterfall Key
 
 ### useful
 
-hollow.mp3's Shaman_Stone
-hollow.mp3's Heavy_Blow
-factorio.mp3's uranium-ammo
-factorio.mp3's concrete
+again.mp3's Shaman_Stone / Winter Season Change
+again.mp3's Heavy_Blow / Autumn Season Change
+automate.mp3's uranium-ammo / Inflated Pocket Dimension
+automate.mp3's concrete / Recipe: Rubber
 Deathclaw99TS's Shattered Orb
 Deathclaw99TS's Bombardment
 Deathclaw99Terra's Reward: Obsidian Rose
@@ -340,8 +336,6 @@ DragoLookAtDeath's Keep Shortcuts
 DragoLookAtDeath's Mountain Floor 2 Staircase Far (Door)
 Alex230-Doom's Automap
 Alex230-Doom's Allow Using Exit
-dst.mp3's Winter Season Change
-dst.mp3's Autumn Season Change
 BroneyLTTP's Cane of Byrna
 BroneyLTTP's Magic Mirror
 BroneyFactorio's concrete
