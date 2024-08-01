@@ -9,7 +9,7 @@ shops have 6 items, and are restocked daily
     - temp life refills: (1, +2 cost per additional one purchased per run) 3 stock
     - temp filler item: (1, +1 cost per additional of that particular filler item purchased per run) 3 stock
 - reroll is (5, +2 cost per reroll per day)
-- send X random traps is (X = 8 + uses) cash is (+1 cash, +0.2 cash per use, not rounded)
+- send X random traps is (X = 7 + uses) cash is (+1 cash, +0.2 cash per use, not rounded)
 all prices increase by 1 every time 2 players finish
 
 # current status
@@ -48,7 +48,7 @@ here are the wares!
 other impermanent things:
 
 `reroll & restock` (5 cost)
-`send 8 random traps` (+1 Cold Hard Cash) ~ 2 in stock
+`send 7 random traps` (+1 Cold Hard Cash) ~ 2 in stock
 
 updated (insert relative discord timestamp)
 
@@ -97,6 +97,7 @@ finished players (0):
 | heshut           | Hotland Key              | Waterfall Key                | Snowdin Key                        |                                 |                      |
 | sheen_pr         | Sun Greaves              | Cling Gem                    | Progressive Slide                  | Health Piece                    |                      |
 | Kritzmaker       | Whiplash                 | Revolver - Marksman          | Railcannon - Electric              |                                 | Hard Damage          |
+| JudosiiOOT       | Progressive Hookshot     | Bomb Bag                     | Magic Meter                        |                                 | Ice Trap             |
 
 
 | slot             | vault useful 1               | vault useful 2        | vault useful 3                  | shop useful 1                 | shop useful 2                         |
@@ -131,6 +132,7 @@ finished players (0):
 | heshut           | Mettaton Plush               | Complete Skeleton     | Fish                            | Core Key                      | Ruins Key                             |
 | sheen_pr         | Small Key                    | Small Key             | Small Key                       | Small Key                     | Small Key                             |
 | Kritzmaker       | Revolver - Sharpshooter      | Shotgun - Sawed-On    | Rocket Launcher - S.R.S. Cannon | Nailgun - JumpStart           | Nailgun - Attractor                   |
+| JudosiiOOT       | Song of Time                 | Slingshot             | Farores Wind                    | Nayrus Love                   | Suns Song                             |
 
 # vault notes
 
@@ -238,6 +240,10 @@ Kritzmaker       | Revolver - Sharpshooter
 Kritzmaker       | Shotgun - Sawed-On
 Kritzmaker       | Rocket Launcher - S.R.S. Cannon
 Kritzmaker       | Railcannon - Electric
+JudosiiOOT       | Magic Meter
+JudosiiOOT       | Song of Time
+JudosiiOOT       | Slingshot
+JudosiiOOT       | Farores Wind
 
 # shop notes
 
@@ -311,6 +317,8 @@ sheen_pr's Sun Greaves
 sheen_pr's Cling Gem
 Kritzmaker's Whiplash
 Kritzmaker's Revolver - Marksman
+JudosiiOOT's Progressive Hookshot
+JudosiiOOT's Bomb Bag
 
 ### useful
 
@@ -370,3 +378,5 @@ sheen_pr's Small Key
 sheen_pr's Small Key (2)
 Kritzmaker's Nailgun - JumpStart
 Kritzmaker's Nailgun - Attractor
+JudosiiOOT's Nayrus Love
+JudosiiOOT's Suns Song
