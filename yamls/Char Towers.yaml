@@ -1,0 +1,283 @@
+﻿name: Char Past
+
+game: A Link to the Past
+
+A Link to the Past:
+
+  progression_balancing: 50
+
+  accessibility: locations
+
+  start_inventory:
+    {Progressive Sword: 1}
+
+  goal: pedestal
+
+  mode: open
+
+  glitches_required: no_glitches
+
+  dark_room_logic: lamp
+
+  crystals_needed_for_gt: 0
+
+  entrance_shuffle: dungeons_full
+
+  big_key_shuffle: start_with
+
+  small_key_shuffle: universal
+
+  key_drop_shuffle: true
+
+  compass_shuffle: start_with
+
+  map_shuffle: start_with
+
+  restrict_dungeon_item_on_boss: false
+
+  item_pool: easy
+
+  item_functionality: normal
+
+  progressive: on
+
+  swordless: false
+
+  retro_bow: false
+
+  retro_caves: false
+
+  hints: full
+
+  scams: all
+
+  boss_shuffle: basic
+
+  pot_shuffle: false
+
+  enemy_shuffle: false
+
+  killable_thieves: true
+
+  bush_shuffle: false
+
+  shop_item_slots: 30
+
+  shuffle_shop_inventories: true
+
+  include_witch_hut: false
+
+  randomize_shop_prices: true
+
+  randomize_cost_types: false
+
+  shop_price_modifier: 50
+
+  shuffle_capacity_upgrades: on_combined
+
+  bombless_start: false
+
+  tile_shuffle: true
+
+  beemizer_total_chance: 0
+
+  timer: display
+
+  death_link: true
+
+  heartbeep: off
+
+  heartcolor: blue
+
+  quickswap: false
+
+  reduceflashing: true
+
+  sprite: Eevee
+  
+  plando_items:
+    - item:
+        Cane of Somaria: 1
+      location: Char Past's Cane of Somaria
+      world: The Shop
+      force: true
+    - item:
+        Hookshot: 1
+      location: Char Past's Hookshot
+      world: The Shop
+      force: true
+    - item:
+        Bombos: 1
+      location: Char Past's Bombos
+      world: The Shop
+      force: true
+    - item:
+        Lamp: 1
+      location: Char Past's Lamp
+      world: The Shop
+      force: true
+    - item:
+        Hammer: 1
+      location: Locker 129
+      world: The Vault
+      force: true
+    - item:
+        Magic Mirror: 1
+      location: Locker 130
+      world: The Vault
+      force: true
+    - item:
+        Moon Pearl: 1
+      location: Locker 131
+      world: The Vault
+      force: true
+    - item:
+        Flute: 1
+      location: Locker 132
+      world: The Vault
+      force: true
+
+---
+
+name: Char Forgotten
+
+game: Manual_KirbyForgottenLand_TailsMK4
+
+Manual_KirbyForgottenLand_TailsMK4:
+
+  progression_balancing: 50
+
+  accessibility: locations
+
+  goal: 100_percent_clear
+
+  randomize_big_rig_mouth: true
+
+  treasure_roads_include: true
+
+  waddle_dee_town_include: true
+
+  death_link: true
+  
+  plando_items:
+    - item:
+        Cone Mouth: 1
+      location: Char Forgotten's Cone Mouth
+      world: The Shop
+      force: true
+    - item:
+        Stairs Mouth: 1
+      location: Char Forgotten's Stairs Mouth
+      world: The Shop
+      force: true
+    - item:
+        Progressive Sword Ability: 1
+      location: Char Forgotten's Progressive Sword Ability
+      world: The Shop
+      force: true
+    - item:
+        Progressive Fire Ability: 1
+      location: Char Forgotten's Progressive Fire Ability
+      world: The Shop
+      force: true
+    - item:
+        Wise Waddle Dee Appears: 1
+      location: Locker 133
+      world: The Vault
+      force: true
+    - item:
+        Progressive Hammer Ability: 1
+      location: Locker 134
+      world: The Vault
+      force: true
+    - item:
+        Pipe Mouth: 1
+      location: Locker 135
+      world: The Vault
+      force: true
+    - item:
+        Progressive Bomb Ability: 1
+      location: Locker 136
+      world: The Vault
+      force: true
+
+---
+
+game: Manual_marioluigidreamteam_pixiuchu
+name: Char Dream Bros
+
+Manual_marioluigidreamteam_pixiuchu:
+  progression_balancing: 50
+  accessibility: locations
+
+  mid_game_levels: true
+  
+  late_game_levels: true
+
+  real_world_blocks: true
+  
+  dream_world_blocks: true
+  
+  optional_piillos: true
+  
+  optional_x_bosses: true
+  
+  optional_giant_x_bosses: true
+  
+  gear: true
+  
+  skillathon_and_broque_madame_challenges: true
+  
+  kylie_koopa_puzzles: true
+  
+  expert_challenges_include_attack_challenges: true
+  
+  expert_challenges_include_excellent_ten: true
+
+  expert_challenges_include_dodge_ten: true
+
+  expert_challenges_include_no_hitter: true
+
+  death_link: true
+  
+  plando_items:
+    - item:
+        Hammers: 1
+      location: Char Dream Bros's Hammers
+      world: The Shop
+      force: true
+    - item:
+        Mini Mario: 1
+      location: Char Dream Bros's Mini Mario
+      world: The Shop
+      force: true
+    - item:
+        Luiginary Sneeze Wind: 1
+      location: Char Dream Bros's Luiginary Sneeze Wind
+      world: The Shop
+      force: true
+    - item:
+        Ball Hop: 1
+      location: Char Dream Bros's Ball Hop
+      world: The Shop
+      force: true
+    - item:
+        Spin Jump: 1
+      location: Locker 137
+      world: The Vault
+      force: true
+    - item:
+        Mole Mario: 1
+      location: Locker 138
+      world: The Vault
+      force: true
+    - item:
+        Side Drill: 1
+      location: Locker 139
+      world: The Vault
+      force: true
+    - item:
+        Luiginary Stache Tree: 1
+      location: Locker 140
+      world: The Vault
+      force: true

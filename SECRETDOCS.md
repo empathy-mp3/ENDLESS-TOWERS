@@ -101,6 +101,9 @@ finished players (0):
 | ConnorHK         | Vengeful_Spirit          | Mothwing_Cloak               | Shade_Cloak                        | Geo_Chest-Watcher_Knights       |                      |
 | HPfunmanKH       | Green Trinity            | Hollow Bastion               | Olympus Coliseum                   |                                 |                      |
 | HPfunmanBS       | Wall Climb Ability       | Blood Perpetuated in Sand    | Dash Ability                       |                                 |                      |
+| Char Past        | Cane of Somaria          | Hookshot                     | Hammer                             | Rupees (300)                    |                      |
+| Char Forgotten   | Cone Mouth               | Stairs Mouth                 | Wise Waddle Dee Appears            | Rare Stone                      |                      |
+| Char Dream Bros  | Hammers                  | Mini Mario                   | Spin Jump                          | Max Candy                       |                      |
 
 
 | slot             | vault useful 1               | vault useful 2        | vault useful 3                  | shop useful 1                 | shop useful 2                         |
@@ -139,6 +142,9 @@ finished players (0):
 | ConnorHK         | Shaman_Stone                 | Longnail              | Dirtmouth_Stag                  | Fragile_Strength              | Quick_Slash                           |
 | HPfunmanKH       | Progressive Thunder          | Second Chance         | Cosmic Arts                     | Progressive Cure              | Accessory Slot Increase               |
 | HPfunmanBS       | Apodictic Heart of Mea Culpa | Cloistered Ruby       | Reliquary of the Fervent Heart  | Mea Culpa Upgrade             | Tiento to your Thorned Hairs          |
+| Char Past        | Magic Mirror                 | Moon Pearl            | Flute                           | Bombos                        | Lamp                                  |
+| Char Forgotten   | Progressive Hammer Ability   | Pipe Mouth            | Progressive Bomb Ability        | Progressive Sword Ability     | Progressive Fire Ability              |
+| Char Dream Bros  | Mole Mario                   | Side Drill            | Luiginary Stache Tree           | Luiginary Sneeze Wind         | Ball Hop                              |
 
 # vault notes
 
@@ -263,6 +269,18 @@ HPfunmanBS       | Dash Ability
 HPfunmanBS       | Apodictic Heart of Mea Culpa
 HPfunmanBS       | Cloistered Ruby
 HPfunmanBS       | Reliquary of the Fervent Heart
+Char Past        | Hammer
+Char Past        | Magic Mirror
+Char Past        | Moon Pearl
+Char Past        | Flute
+Char Forgotten   | Wise Waddle Dee Appears
+Char Forgotten   | Progressive Hammer Ability
+Char Forgotten   | Pipe Mouth
+Char Forgotten   | Progressive Bomb Ability
+Char Dream Bros  | Spin Jump
+Char Dream Bros  | Mole Mario
+Char Dream Bros  | Side Drill
+Char Dream Bros  | Luiginary Stache Tree
 
 # shop notes
 
@@ -344,6 +362,12 @@ HPfunmanKH's Green Trinity
 HPfunmanKH's Hollow Bastion           
 HPfunmanBS's Wall Climb Ability
 HPfunmanBS's Blood Perpetuated in Sand
+Char Past's Cane of Somaria
+Char Past's Hookshot
+Char Forgotten's Cone Mouth
+Char Forgotten's Stairs Mouth
+Char Dream Bros's Hammers
+Char Dream Bros's Mini Mario
 
 ### useful
 
@@ -411,3 +435,9 @@ HPfunmanKH's Progressive Cure
 HPfunmanKH's Accessory Slot Increase           
 HPfunmanBS's Mea Culpa Upgrade
 HPfunmanBS's Tiento to your Thorned Hairs
+Char Past's Bombos
+Char Past's Lamp
+Char Forgotten's Progressive Sword Ability
+Char Forgotten's Progressive Fire Ability
+Char Dream Bros's Luiginary Sneeze Wind
+Char Dream Bros's Ball Hop

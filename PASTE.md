@@ -20,8 +20,6 @@ PEARL: "Yeah, Marina's got your back, and I've got your back, too!"
 
 ---
 
-PING MILLIE FOR YAML SUBMISSION!!!!
-
 # the first run has begun
 
 room: (room link)
@@ -46,6 +44,3 @@ a vault key has been discovered, and it has unlocked the first vault locker.
 inside was `inscryption.mp3's 49er`.
 it persists between runs.
 lockers unlocked: 1
-
-# the first Cold Hard Cash has been discovered
-
