@@ -1,0 +1,135 @@
+Hollow Knight:
+  progression_balancing: 0
+  accessibility: items
+  RandomizeDreamers: 'true'
+  RandomizeSkills: 'true'
+  RandomizeFocus: 'true'
+  RandomizeSwim: 'true'
+  RandomizeCharms: random
+  RandomizeKeys: 'true'
+  RandomizeMaskShards: random
+  RandomizeVesselFragments: random
+  RandomizeCharmNotches: random
+  RandomizePaleOre: 'true'
+  RandomizeGeoChests: random
+  RandomizeJunkPitChests: random
+  RandomizeRancidEggs: random
+  RandomizeRelics: random
+  RandomizeWhisperingRoots: random
+  RandomizeBossEssence: 'true'
+  RandomizeGrubs: 'true'
+  RandomizeMimics: random
+  RandomizeMaps: random
+  RandomizeStags: random
+  RandomizeLifebloodCocoons: random
+  RandomizeGrimmkinFlames: random
+  RandomizeJournalEntries: 'false'
+  RandomizeNail: 'false'
+  RandomizeGeoRocks: random
+  RandomizeBossGeo: 'true'
+  RandomizeSoulTotems: random
+  RandomizeLoreTablets: random
+  RandomizeElevatorPass: 'true'
+  PreciseMovement: 'false'
+  ProficientCombat: 'true'
+  BackgroundObjectPogos: 'false'
+  EnemyPogos: 'false'
+  ObscureSkips: 'false'
+  ShadeSkips: 'false'
+  InfectionSkips: 'false'
+  FireballSkips: 'false'
+  SpikeTunnels: 'false'
+  AcidSkips: 'false'
+  DamageBoosts: 'false'
+  DangerousSkips: 'false'
+  DarkRooms: 'false'
+  ComplexSkips: 'false'
+  DifficultSkips: 'false'
+  RemoveSpellUpgrades: 'false'
+  Goal: random
+  WhitePalace: exclude
+  ExtraPlatforms: 'true'
+  AddUnshuffledLocations: random
+  StartingGeo: random
+  DeathLink: 'true'
+  DeathLinkShade: shade
+  DeathLinkBreaksFragileCharms: 'true'
+  MinimumGeoPrice: random
+  MaximumGeoPrice: '100'
+  MinimumGrubPrice: random
+  MaximumGrubPrice: random
+  MinimumEssencePrice: random
+  MaximumEssencePrice: random
+  MinimumCharmPrice: random
+  MaximumCharmPrice: random
+  RandomCharmCosts: random
+  MinimumEggPrice: random
+  MaximumEggPrice: random
+  EggShopSlots: random
+  SlyShopSlots: random
+  SlyKeyShopSlots: random
+  IseldaShopSlots: random
+  SalubraShopSlots: random
+  SalubraCharmShopSlots: random
+  LegEaterShopSlots: random
+  GrubfatherRewardSlots: random
+  SeerRewardSlots: random
+  ExtraShopSlots: random
+  exclude_locations:
+    - Grub-Queen's_Gardens_Top
+    - Mask_Shard-Grey_Mourner
+    - Simple_Key-Lurker
+  priority_locations:
+    - Monomon
+    - Lurien
+    - Herrah
+    - World_Sense
+    - Queen_Fragment
+    - Void_Heart
+    - Pale_Ore-Colosseum
+    - Charm_Notch-Colosseum
+    - Mask_Shard-Bretta
+    - Boss_Essence-Grey_Prince_Zote
+  plando_items:
+    - item:
+        Vengeful_Spirit: 1
+      location: ConnorHK's Vengeful_Spirit
+      world: The Shop
+      force: true
+    - item:
+        Mothwing_Cloak: 1
+      location: ConnorHK's Mothwing_Cloak
+      world: The Shop
+      force: true
+    - item:
+        Fragile_Strength: 1
+      location: ConnorHK's Fragile_Strength
+      world: The Shop
+      force: true
+    - item:
+        Quick_Slash: 1
+      location: ConnorHK's Quick_Slash
+      world: The Shop
+      force: true
+    - item:
+        Shade_Cloak: 1
+      location: Locker 117
+      world: The Vault
+      force: true
+    - item:
+        Shaman_Stone: 1
+      location: Locker 118
+      world: The Vault
+      force: true
+    - item:
+        Longnail: 1
+      location: Locker 119
+      world: The Vault
+      force: true
+    - item:
+        Dirtmouth_Stag: 1
+      location: Locker 120
+      world: The Vault
+      force: true
+game: Hollow Knight
+name: ConnorHK

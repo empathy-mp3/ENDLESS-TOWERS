@@ -928,6 +928,102 @@
         ]
     },
     {
+        "name": "ConnorHK's Vengeful_Spirit",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "ConnorHK's Mothwing_Cloak",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "ConnorHK's Fragile_Strength",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "ConnorHK's Quick_Slash",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "HPfunmanKH's Green Trinity",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "HPfunmanKH's Hollow Bastion",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "HPfunmanKH's Progressive Cure",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "HPfunmanKH's Accessory Slot Increase",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "HPfunmanBS's Wall Climb Ability",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "HPfunmanBS's Blood Perpetuated in Sand",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "HPfunmanBS's Mea Culpa Upgrade",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "HPfunmanBS's Tiento to your Thorned Hairs",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
         "name": "victory",
         "victory": true
     }

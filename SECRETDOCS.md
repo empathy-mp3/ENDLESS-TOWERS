@@ -6,8 +6,8 @@ shops have 6 items, and are restocked daily
 - four are useful/minor progression items (2 cost) 1 stock
   - logically require 1/10 (rounded down) of existing money
   - should a slot lose all possible stock, it will be replaced with one of the following:
-    - temp life refills: (1, +2 cost per additional one purchased per run) 3 stock
-    - temp filler item: (1, +1 cost per additional of that particular filler item purchased per run) 3 stock
+    - temp life refills: (1, +2 cost per additional one purchased per run) 3 stock (scales with every 2 finishes, not 1)
+    - temp filler item: (1, +1 cost per additional of that particular filler item purchased per run) 3 stock (does not scale with finishes)
 - reroll is (5, +2 cost per reroll per day)
 - send X random traps is (X = 7 + uses) cash is (+1 cash, +0.2 cash per use, not rounded)
 all prices increase by 1 every time 2 players finish
@@ -98,6 +98,9 @@ finished players (0):
 | sheen_pr         | Sun Greaves              | Cling Gem                    | Progressive Slide                  | Health Piece                    |                      |
 | Kritzmaker       | Whiplash                 | Revolver - Marksman          | Railcannon - Electric              |                                 | Hard Damage          |
 | JudosiiOOT       | Progressive Hookshot     | Bomb Bag                     | Magic Meter                        |                                 | Ice Trap             |
+| ConnorHK         | Vengeful_Spirit          | Mothwing_Cloak               | Shade_Cloak                        | Geo_Chest-Watcher_Knights       |                      |
+| HPfunmanKH       | Green Trinity            | Hollow Bastion               | Olympus Coliseum                   |                                 |                      |
+| HPfunmanBS       | Wall Climb Ability       | Blood Perpetuated in Sand    | Dash Ability                       |                                 |                      |
 
 
 | slot             | vault useful 1               | vault useful 2        | vault useful 3                  | shop useful 1                 | shop useful 2                         |
@@ -133,9 +136,13 @@ finished players (0):
 | sheen_pr         | Small Key                    | Small Key             | Small Key                       | Small Key                     | Small Key                             |
 | Kritzmaker       | Revolver - Sharpshooter      | Shotgun - Sawed-On    | Rocket Launcher - S.R.S. Cannon | Nailgun - JumpStart           | Nailgun - Attractor                   |
 | JudosiiOOT       | Song of Time                 | Slingshot             | Farores Wind                    | Nayrus Love                   | Suns Song                             |
+| ConnorHK         | Shaman_Stone                 | Longnail              | Dirtmouth_Stag                  | Fragile_Strength              | Quick_Slash                           |
+| HPfunmanKH       | Progressive Thunder          | Second Chance         | Cosmic Arts                     | Progressive Cure              | Accessory Slot Increase               |
+| HPfunmanBS       | Apodictic Heart of Mea Culpa | Cloistered Ruby       | Reliquary of the Fervent Heart  | Mea Culpa Upgrade             | Tiento to your Thorned Hairs          |
 
 # vault notes
 
+ ~ all above this has been obtained ~
 again.mp3        | Mothwing_Cloak / Extra Damage Against Bosses            
 again.mp3        | Quick_Slash / Krampus Sack 
 again.mp3        | Hiveblood / Spring Season Change
@@ -244,6 +251,18 @@ JudosiiOOT       | Magic Meter
 JudosiiOOT       | Song of Time
 JudosiiOOT       | Slingshot
 JudosiiOOT       | Farores Wind
+ConnorHK         | Shade_Cloak
+ConnorHK         | Shaman_Stone
+ConnorHK         | Longnail
+ConnorHK         | Dirtmouth_Stag
+HPfunmanKH       | Olympus Coliseum
+HPfunmanKH       | Progressive Thunder
+HPfunmanKH       | Second Chance
+HPfunmanKH       | Cosmic Arts
+HPfunmanBS       | Dash Ability
+HPfunmanBS       | Apodictic Heart of Mea Culpa
+HPfunmanBS       | Cloistered Ruby
+HPfunmanBS       | Reliquary of the Fervent Heart
 
 # shop notes
 
@@ -319,6 +338,12 @@ Kritzmaker's Whiplash
 Kritzmaker's Revolver - Marksman
 JudosiiOOT's Progressive Hookshot
 JudosiiOOT's Bomb Bag
+ConnorHK's Vengeful_Spirit
+ConnorHK's Mothwing_Cloak
+HPfunmanKH's Green Trinity
+HPfunmanKH's Hollow Bastion           
+HPfunmanBS's Wall Climb Ability
+HPfunmanBS's Blood Perpetuated in Sand
 
 ### useful
 
@@ -380,3 +405,9 @@ Kritzmaker's Nailgun - JumpStart
 Kritzmaker's Nailgun - Attractor
 JudosiiOOT's Nayrus Love
 JudosiiOOT's Suns Song
+ConnorHK's Fragile_Strength
+ConnorHK's Quick_Slash
+HPfunmanKH's Progressive Cure
+HPfunmanKH's Accessory Slot Increase           
+HPfunmanBS's Mea Culpa Upgrade
+HPfunmanBS's Tiento to your Thorned Hairs

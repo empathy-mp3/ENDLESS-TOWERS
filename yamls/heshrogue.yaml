@@ -104,47 +104,99 @@ Pseudoregalia:
     # When you die, everyone dies. Of course the reverse is true too.
     false: 00
     true: 50
-  plando_items:
-    - item:
-        Major Key - Sansa Keep: 1
-      location: heshpseudo's Major Key - Sansa Keep
-      world: The Shop
-      force: true
-    - item:
-        Sunsetter: 1
-      location: heshpseudo's Sunsetter
-      world: The Shop
-      force: true
-    - item:
-        Ascendant Light: 1
-      location: heshpseudo's Ascendant Light
-      world: The Shop
-      force: true
-    - item:
-        Slide: 1
-      location: heshpseudo's Slide
-      world: The Shop
-      force: true
-    - item:
-        Cling Gem: 1
-      location: Locker 97
-      world: The Vault
-      force: true
-    - item:
-        Small Key: 1
-      location: Locker 98
-      world: The Vault
-      force: true
-    - item:
-        Sun Greaves: 1
-      location: Locker 99
-      world: The Vault
-      force: true
-    - item:
-        Solar Wind: 1
-      location: Locker 100
-      world: The Vault
-      force: true
+  triggers:    
+      - option_category: Pseudoregalia
+        option_name: progressive_slide
+        option_result: true
+        options:
+          Pseudoregalia:
+            plando_items:
+              - item:
+                  Major Key - Sansa Keep: 1
+                location: heshpseudo's Major Key - Sansa Keep
+                world: The Shop
+                force: true
+              - item:
+                  Sunsetter: 1
+                location: heshpseudo's Sunsetter
+                world: The Shop
+                force: true
+              - item:
+                  Ascendant Light: 1
+                location: heshpseudo's Ascendant Light
+                world: The Shop
+                force: true
+              - item:
+                  Progressive Slide: 1
+                location: heshpseudo's Slide
+                world: The Shop
+                force: true
+              - item:
+                  Cling Gem: 1
+                location: Locker 97
+                world: The Vault
+                force: true
+              - item:
+                  Small Key: 1
+                location: Locker 98
+                world: The Vault
+                force: true
+              - item:
+                  Sun Greaves: 1
+                location: Locker 99
+                world: The Vault
+                force: true
+              - item:
+                  Progressive Slide: 1
+                location: Locker 100
+                world: The Vault
+                force: true    
+      - option_category: Pseudoregalia
+        option_name: progressive_slide
+        option_result: false
+        options:
+          Pseudoregalia:
+            plando_items:
+              - item:
+                  Major Key - Sansa Keep: 1
+                location: heshpseudo's Major Key - Sansa Keep
+                world: The Shop
+                force: true
+              - item:
+                  Sunsetter: 1
+                location: heshpseudo's Sunsetter
+                world: The Shop
+                force: true
+              - item:
+                  Ascendant Light: 1
+                location: heshpseudo's Ascendant Light
+                world: The Shop
+                force: true
+              - item:
+                  Slide: 1
+                location: heshpseudo's Slide
+                world: The Shop
+                force: true
+              - item:
+                  Cling Gem: 1
+                location: Locker 97
+                world: The Vault
+                force: true
+              - item:
+                  Small Key: 1
+                location: Locker 98
+                world: The Vault
+                force: true
+              - item:
+                  Sun Greaves: 1
+                location: Locker 99
+                world: The Vault
+                force: true
+              - item:
+                  Solar Wind: 1
+                location: Locker 100
+                world: The Vault
+                force: true
 
 ---
 
