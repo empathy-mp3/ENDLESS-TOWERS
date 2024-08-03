@@ -1,0 +1,109 @@
+name: WidowRain61
+game: Risk of Rain 2
+description: Widow's Risky Roguelike Async
+Risk of Rain 2:
+  progression_balancing: '0'
+  accessibility: items
+  goal: explore
+  victory:
+    limbo: 1
+    mithrix: 1
+    voidling: 1
+  total_revivals: '0'
+  start_with_revive: 'true'
+  final_stage_death: 'false'
+  dlc_sotv: 'true'
+  death_link: 'true'
+  item_pickup_step: '5'
+  shrine_use_step: '3'
+  enable_trap: 'true'
+  enable_lunar: 'true'
+  scavengers_per_stage: '1'
+  scanner_per_stage: '1'
+  altars_per_stage: '2'
+  require_stages: 'true'
+  progressive_stages: 'true'
+  total_locations: '40'
+  item_weights: default
+  item_pool_presets: 'false'
+  white_scrap: '0'
+  green_scrap: '0'
+  yellow_scrap: '0'
+  red_scrap: '0'
+  common_item: '60'
+  uncommon_item: '40'
+  legendary_item: '15'
+  boss_item: '5'
+  lunar_item: '0'
+  void_item: '5'
+  equipment: '5'
+  money: '10'
+  lunar_coin: '0'
+  experience: '10'
+  mountain_trap: '10'
+  time_warp_trap: '10'
+  combat_trap: '10'
+  teleport_trap: '10'
+  chests_per_stage: random-range-4-10
+  shrines_per_stage: random-range-2-5
+  local_items:
+    Stages: 1
+    Abandoned Aqueduct: 1
+    Abyssal Depths: 1
+    Aphelian Sanctuary: 1
+    Distant Roost: 1
+    Distant Roost (2): 1
+    Rallypoint Delta: 1
+    Scorched Acres: 1
+    Siphoned Forest: 1
+    Siren's Call: 1
+    Sky Meadow: 1
+    Sulfur Pools: 1
+    Sundered Grove: 1
+    Titanic Plains: 1
+    Titanic Plains (2): 1
+    Verdant Falls: 1
+    Wetland Aspect: 1
+  start_inventory:
+    'Hidden Realm: A Moment, Fractured': 1
+  plando_items:
+    - item:
+        The Planetarium: 1
+      location: WidowRain61's The Planetarium
+      world: The Shop
+      force: true
+    - item:
+        "Hidden Realm: A Moment, Whole": 1
+      location: "WidowRain61's Hidden Realm: A Moment, Whole"
+      world: The Shop
+      force: true
+    - item:
+        Boss Item: 1
+      location: WidowRain61's Boss Item
+      world: The Shop
+      force: true
+    - item:
+        Legendary Item: 1
+      location: WidowRain61's Legendary Item
+      world: The Shop
+      force: true
+    - item:
+        Commencement: 1
+      location: Locker 205
+      world: The Vault
+      force: true
+    - item:
+        Legendary Item: 1
+      location: Locker 206
+      world: The Vault
+      force: true
+    - item:
+        Boss Item: 1
+      location: Locker 207
+      world: The Vault
+      force: true
+    - item:
+        "Hidden Realm: Bazaar Between Time": 1
+      location: Locker 208
+      world: The Vault
+      force: true
