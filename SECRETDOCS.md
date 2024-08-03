@@ -166,9 +166,41 @@ finished players (0):
 | superTUNCEndless | Magic Dagger                 | Gun                      | Shield                          | Magic Wand                    | Sword Upgrade                         |
 | superUTEndless   | Butterscotch Pie             | Instant Noodles          | Snowman Piece                   | Snowman Piece                 | Snowman Piece                         |
 
+## rhythm
+
+| slot             | shop prog 1               | shop prog 2              | vault prog          |
+| ---------------- | ------------------------- | ------------------------ | ------------------- |
+| rhythm scrybe    | Inspectometer Battery     | Film Roll                | Camera Replica      |
+| rhythm meritous  | PSI Key 3                 | PSI Key 2                | PSI Key 1           |
+| rhythm m prime   | Artifact of Chozo         | Space Jump Boots         | Morph Ball          |
+| rhythmmetoid0mis | Space Jump                | Varia Suit               | Bomb                |
+| rhythm minit     | ItemSwim                  | ItemWateringCan          | ItemShoes           |
+| rhythm pseudo    | Major Key - Tower Remains | Cling Gem                | Progressive Slide   |
+| rhythm sadx      | Dynamite                  | Train                    | Hotel Keys          |
+| rhythm sa2b      | Sonic - Light Shoes       | Knuckles - Shovel Claws  | Rouge - Pick Nails  |
+| rhythm sm64      | Triple Jump               | Basement Key             | Second Floor Key    |
+| rhythm sm        | Gravity Suit              | Varia Suit               | Space Jump          |
+| rhythm wl4       | Progressive Grab          | Progressive Ground Pound | Enemy Jump          |
+| rhythm yu-gi-oh  | Progressive Duelist       | Progressive Duelist      | Progressive Duelist |
+
+| slot             | vault useful 1        | vault useful 2               | vault useful 3           | shop useful 1           | shop useful 2             |
+| ---------------- | --------------------- | ---------------------------- | ------------------------ | ----------------------- | ------------------------- |
+| rhythm scrybe    | Dock's Clover Plant   | Oil Painting's Clover Plant  | Ring                     | Extra Candle            | Bee Figurine              |
+| rhythm meritous  | Metabolism            | Shield Boost                 | Circuit Booster          | Map                     | Dodge Enhancer            |
+| rhythm m prime   | Varia Suit            | Phazon Suit                  | Morph Ball Bomb          | Gravity Suit            | Boost Ball                |
+| rhythmmetoid0mis | Hi-Jump               | Speed Booster                | Gravity Suit             | Power Grip              | Screw Attack              |
+| rhythm minit     | ItemCoffee            | ItemPressPass                | ItemFlashLight           | ItemGrinder             | ItemThrow                 |
+| rhythm pseudo    | Air Kick              | Small Key                    | Progressive Slide        | Sunsetter               | Progressive Dream Breaker |
+| rhythm sadx      | Ancient Light         | Shovel Claw                  | Jet Booster              | Life Belt               | Light Shoes               |
+| rhythm sa2b      | Green Chaos Emerald   | Sonic - Bounce Bracelet      | Sonic - Flame Ring       | Yellow Chaos Emerald    | Tails - Booster           |
+| rhythm sm64      | Wing Cap              | Backflip                     | Ledge Grab               | Long Jump               | Dive                      |
+| rhythm sm        | Screw Attack          | Bomb                         | Hi-Jump Boots            | Energy Tank             | Speed Booster             |
+| rhythm wl4       | Top Right Topaz Piece | Top Right Golden Jewel Piece | Top Right Sapphire Piece | Top Right Emerald Piece | Top Right Ruby Piece      |
+| rhythm yu-gi-oh  | Starchips x25         | Starchips x25                | Starchips x25            | Starchips x25           | Starchips x25             |
+
 # vault notes
 
- ~ all above this has been obtained ~
+ ~ all above this has been obtained ~ vault keys: 0 ~
 again.mp3        | Mothwing_Cloak / Extra Damage Against Bosses            
 again.mp3        | Quick_Slash / Krampus Sack 
 again.mp3        | Hiveblood / Spring Season Change
@@ -341,6 +373,18 @@ superUTEndless   | Core Key
 superUTEndless   | Butterscotch Pie
 superUTEndless   | Instant Noodles
 superUTEndless   | Snowman Piece
+rhythm.ChampaU6  | vault prog
+rhythm.ChampaU6  | vault useful 1
+rhythm.ChampaU6  | vault useful 2
+rhythm.ChampaU6  | vault useful 3
+rhythm.BeerusU7  | vault prog
+rhythm.BeerusU7  | vault useful 1
+rhythm.BeerusU7  | vault useful 2
+rhythm.BeerusU7  | vault useful 3
+rhythm.LiquiirU8 | vault prog
+rhythm.LiquiirU8 | vault useful 1
+rhythm.LiquiirU8 | vault useful 2
+rhythm.LiquiirU8 | vault useful 3
 
 # shop notes
 
@@ -438,6 +482,12 @@ superTUNCEndless's Magic Orb
 superTUNCEndless's Scavenger Mask
 superUTEndless's Waterfall Key
 superUTEndless's Mettaton Plush
+rhythm.ChampaU6's shop prog 1
+rhythm.ChampaU6's shop prog 2
+rhythm.BeerusU7's shop prog 1
+rhythm.BeerusU7's shop prog 2
+rhythm.LiquiirU8's shop prog 1
+rhythm.LiquiirU8's shop prog 2
 
 ### useful
 
@@ -531,6 +581,12 @@ superTUNCEndless's Magic Wand
 superTUNCEndless's Sword Upgrade
 superUTEndless's Snowman Piece
 superUTEndless's Snowman Piece (2)
+rhythm.ChampaU6's shop useful 1
+rhythm.ChampaU6's shop useful 2
+rhythm.BeerusU7's shop useful 1
+rhythm.BeerusU7's shop useful 2
+rhythm.LiquiirU8's shop useful 1
+rhythm.LiquiirU8's shop useful 2
 
 ## unpurchased
 

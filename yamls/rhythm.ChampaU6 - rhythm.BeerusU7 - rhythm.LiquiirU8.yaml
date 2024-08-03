@@ -1,0 +1,3206 @@
+name: rhythm.ChampaU6
+description: Universe 6's Mystery yaml for ENDLESS TOWERS Rogue-Lite async
+game: # Champa Modifier: All games and chances equalized within reason.
+  Inscryption: 1
+  Meritous: 1 # I'm pretty likely to die in this so... Let's play it less often.
+  Metroid Prime: 2
+  Metroid Zero Mission: 2
+  Minit: 1
+  Pseudoregalia: 1
+  Sonic Adventure DX: 2
+  Sonic Adventure 2 Battle: 1
+  Super Mario 64: 1 # I'm pretty likely to die in this in some stupid way from a stray jump so... Let's play it a bit less often.
+  Super Metroid: 2
+  Wario Land 4: 1 # Less familiar with the game. Have a friend helping me learn though.
+  Yu-Gi-Oh! Forbidden Memories: 1
+
+# APWorlds mass-downloaded 7/30/2024
+
+#
+Inscryption:
+  progression_balancing: 0
+  deathlink: true
+  act1_deathlink_behaviour: sacrificed
+  goal: full_story_any_order
+  randomize_codes: true
+  randomize_deck: disable
+  randomize_sigils: disable
+  optional_death_card: always_on
+  skip_tutorial: true
+  skip_epilogue: true
+  epitaph_pieces_randomization: 
+    all_pieces: 1
+    in_groups: 1
+    as_one_item: 1
+  painting_checks_balancing:
+    none: 1
+    balanced: 0
+    force_filler: 0
+  plando_items:
+    - item:
+        Inspectometer Battery: 1
+      location: rhythm.ChampaU6's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Film Roll: 1
+      location: rhythm.ChampaU6's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Extra Candle: 1
+      location: rhythm.ChampaU6's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Bee Figurine: 1
+      location: rhythm.ChampaU6's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Camera Replica: 1
+      location: Locker 181
+      world: The Vault
+      force: true
+    - item:
+        Dock's Clover Plant: 1
+      location: Locker 182
+      world: The Vault
+      force: true
+    - item:
+        Oil Painting's Clover Plant: 1
+      location: Locker 183
+      world: The Vault
+      force: true
+    - item:
+        Ring: 1
+      location: Locker 184
+      world: The Vault
+      force: true
+  
+#
+Meritous:
+  progression_balancing: 0
+  death_link: true
+  goal: 
+    return_the_cursed_seal: 1
+    any_ending: 1
+  include_psi_keys: true
+  include_evolution_traps: random
+  item_cache_cost: heavily_reduced
+  plando_items:
+    - item:
+        PSI Key 3: 1
+      location: rhythm.ChampaU6's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        PSI Key 2: 1
+      location: rhythm.ChampaU6's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Map: 1
+      location: rhythm.ChampaU6's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Dodge Enhancer: 1
+      location: rhythm.ChampaU6's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        PSI Key 1: 1
+      location: Locker 181
+      world: The Vault
+      force: true
+    - item:
+        Metabolism: 1
+      location: Locker 182
+      world: The Vault
+      force: true
+    - item:
+        Shield Boost: 1
+      location: Locker 183
+      world: The Vault
+      force: true
+    - item:
+        Circuit Booster: 1
+      location: Locker 184
+      world: The Vault
+      force: true
+#
+Metroid Prime:
+  progression_balancing: 0
+  death_link: true
+  required_artifacts: random
+  final_bosses: 
+    both: 1
+    ridley: 2
+    prime: 1
+    none: 1
+  artifact_hints: true
+  missile_launcher: 
+    false: 1
+    true: 1
+  main_power_bomb: 
+    false: 1
+    true: 1
+  shuffle_scan_visor: 
+    false: 1
+    true: 1
+  pre_scan_elevators: true
+  starting_room: 
+    normal: 1
+    safe: 1
+    buckle_up: 1
+  disable_starting_room_bk_prevention: 
+    false: 1
+    true: 1
+  progressive_beam_upgrades: random
+  non_varia_heat_damage: 
+    true: 1
+    false: 1
+  staggered_suit_damage: random
+  combat_logic_difficulty: normal_logic
+  trick_difficulty: no_tricks
+  flaahgra_power_bombs: false
+  backwards_lower_mines: false
+  remove_xray_requirements: false
+  remove_thermal_requirements: false
+  remove_hive_mecha: false
+  spring_ball: true
+  fusion_suit: 
+    false: 1
+    true: 1
+  hud_color: random
+  randomize_suit_colors:
+    false: 1
+    true: 1
+  show_suit_index_on_pause_menu: true
+  
+  triggers:
+    - option_category: Metroid Prime
+      option_name: shuffle_scan_visor
+      option_result: true
+      options:
+        Metroid Prime:
+          pre_scan_elevators: false
+  plando_items:
+    - item:
+        Artifact of Chozo: 1
+      location: rhythm.ChampaU6's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Space Jump Boots: 1
+      location: rhythm.ChampaU6's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Gravity Suit: 1
+      location: rhythm.ChampaU6's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Boost Ball: 1
+      location: rhythm.ChampaU6's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Morph Ball: 1
+      location: Locker 181
+      world: The Vault
+      force: true
+    - item:
+        Varia Suit: 1
+      location: Locker 182
+      world: The Vault
+      force: true
+    - item:
+        Phazon Suit: 1
+      location: Locker 183
+      world: The Vault
+      force: true
+    - item:
+        Morph Ball Bomb: 1
+      location: Locker 184
+      world: The Vault
+      force: true
+#
+Metroid Zero Mission:
+  progression_balancing: 0
+  death_link: true
+  chozodia_access: random
+  skip_chozodia_stealth: true
+  unknown_items_always_usable: true
+  layout_patches: true
+  morph_ball:
+    early: 1
+    normal: 1
+  ibj_in_logic: false
+  heatruns_lavadives: false
+  walljumps_in_logic: true
+  display_nonlocal_items: match_series
+  plando_items:
+    - item:
+        Space Jump: 1
+      location: rhythm.ChampaU6's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Varia Suit: 1
+      location: rhythm.ChampaU6's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Power Grip: 1
+      location: rhythm.ChampaU6's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Screw Attack: 1
+      location: rhythm.ChampaU6's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Bomb: 1
+      location: Locker 181
+      world: The Vault
+      force: true
+    - item:
+        Hi-Jump: 1
+      location: Locker 182
+      world: The Vault
+      force: true
+    - item:
+        Speed Booster: 1
+      location: Locker 183
+      world: The Vault
+      force: true
+    - item:
+        Gravity Suit: 1
+      location: Locker 184
+      world: The Vault
+      force: true
+#
+Minit:
+  progression_balancing: 0
+  death_link: true
+  death_amnisty_total: random-range-1-20 # WE SHALL LIVE AND DIE BY THE DICE ROLL OF FATE!
+  starting_sword: random
+  darkrooms: minor
+  obscure: false
+  progressive_sword:
+    forward_progressive: 9
+    reverse_progressive: 9
+    off: 2
+  chosen_goal: random # gets overridden by trigger
+  er_option: off
+  min_hp: random
+  damage_boosts: false
+  
+  triggers:
+    - option_category: Minit
+      option_name: progressive_sword
+      option_result: forward_progressive
+      options:
+        Minit:
+          chosen_goal: boss_fight
+    - option_category: Minit
+      option_name: progressive_sword
+      option_result: reverse_progressive
+      options:
+        Minit:
+          chosen_goal: toilet_goal
+    - option_category: Minit
+      option_name: progressive_sword
+      option_result: off
+      options:
+        Minit:
+          chosen_goal: any_goal
+  plando_items:
+    - item:
+        ItemSwim: 1
+      location: rhythm.ChampaU6's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        ItemWateringCan: 1
+      location: rhythm.ChampaU6's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        ItemGrinder: 1
+      location: rhythm.ChampaU6's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        ItemThrow: 1
+      location: rhythm.ChampaU6's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        ItemShoes: 1
+      location: Locker 181
+      world: The Vault
+      force: true
+    - item:
+        ItemCoffee: 1
+      location: Locker 182
+      world: The Vault
+      force: true
+    - item:
+        ItemPressPass: 1
+      location: Locker 183
+      world: The Vault
+      force: true
+    - item:
+        ItemFlashLight: 1
+      location: Locker 184
+      world: The Vault
+      force: true
+#
+Pseudoregalia:
+  progression_balancing: 0
+  death_link: true
+  logic_level: normal
+  obscure_logic: false
+  progressive_breaker: true
+  progressive_slide: true
+  split_sun_greaves: true
+  plando_items:
+    - item:
+        Major Key - Tower Remains: 1
+      location: rhythm.ChampaU6's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Cling Gem: 1
+      location: rhythm.ChampaU6's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Sunsetter: 1
+      location: rhythm.ChampaU6's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Progressive Dream Breaker: 1
+      location: rhythm.ChampaU6's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Progressive Slide: 1
+      location: Locker 181
+      world: The Vault
+      force: true
+    - item:
+        Air Kick: 1
+      location: Locker 182
+      world: The Vault
+      force: true
+    - item:
+        Small Key: 1
+      location: Locker 183
+      world: The Vault
+      force: true
+    - item:
+        Progressive Slide: 1
+      location: Locker 184
+      world: The Vault
+      force: true
+#
+Sonic Adventure DX:
+  progression_balancing: 0
+  death_link: true
+  ring_link: true
+  pinball_life_capsules: false
+  field_emblems_checks: random
+  random_starting_location: 
+    random_location: 1
+    random_location_no_items: 1
+    station_square: 1
+    station_square_no_items: 1
+  ring_loss: 
+    classic: 2
+    one_hit_k_o: 1
+  life_sanity: random
+  sub_level_checks: random
+  boss_checks: random
+  unify_chaos4: random
+  unify_chaos6: random
+  unify_egg_hornet: random
+  randomized_sonic_upgrades: true
+  randomized_tails_upgrades: true
+  randomized_knuckles_upgrades: true
+  randomized_amy_upgrades: true
+  randomized_big_upgrades: true
+  randomized_gamma_upgrades: true
+  emblems_percentage: random-range-60-100
+  sonic_missions: random
+  tails_missions:
+    none: 0
+    c: 1
+    c_b: 1
+    c_b_a: 1
+  knuckles_missions: random
+  amy_missions: random
+  gamma_missions: random
+  big_missions: random
+  plando_items:
+    - item:
+        Dynamite: 1
+      location: rhythm.ChampaU6's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Train: 1
+      location: rhythm.ChampaU6's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Life Belt: 1
+      location: rhythm.ChampaU6's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Light Shoes: 1
+      location: rhythm.ChampaU6's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Hotel Keys: 1
+      location: Locker 181
+      world: The Vault
+      force: true
+    - item:
+        Ancient Light: 1
+      location: Locker 182
+      world: The Vault
+      force: true
+    - item:
+        Shovel Claw: 1
+      location: Locker 183
+      world: The Vault
+      force: true
+    - item:
+        Jet Booster: 1
+      location: Locker 184
+      world: The Vault
+      force: true
+#
+Sonic Adventure 2 Battle:
+  progression_balancing: 0
+  death_link: true
+  ring_link: true
+  goal:
+    chaos_emerald_hunt: 1
+    finalhazard_chaos_emerald_hunt: 1
+  logic_difficulty: standard
+  required_rank: e
+  max_emblem_cap: 1000
+  ring_loss: 
+    classic: 2
+    ohko: 1
+  mission_shuffle: true
+  emblem_percentage_for_cannons_core: random-low
+  number_of_level_gates: random-low
+  level_gate_distribution: random
+  keysanity: random
+  beetlesanity: random
+  black_market_slots: random-high
+  black_market_unlock_costs: random
+  black_market_price_multiplier: 0
+  junk_fill_percentage: random-high
+  trap_fill_percentage: random-high
+  omochao_trap_weight: 
+    high: 50
+    low: 50
+  timestop_trap_weight: 
+    high: 50
+    low: 50
+  confusion_trap_weight: none
+  tiny_trap_weight: 
+    high: 50
+    low: 50
+  gravity_trap_weight: 
+    high: 50
+    low: 50
+  exposition_trap_weight: 
+    high: 50
+    low: 50
+  ice_trap_weight: 
+    high: 50
+    low: 50
+  slow_trap_weight: 
+    high: 50
+    low: 50
+  cutscene_trap_weight: 
+    high: 50
+    low: 50
+  reverse_trap_weight: none
+  pong_trap_weight: none
+  minigame_trap_difficulty: hard
+  speed_mission_count: random-range-1-4
+  speed_mission_2: 'false'
+  speed_mission_3: random
+  speed_mission_4: random
+  speed_mission_5: random
+  mech_mission_count: 5
+  mech_mission_2: 'true'
+  mech_mission_3: 'true'
+  mech_mission_4: 'true'
+  mech_mission_5: 'true'
+  hunt_mission_count: random-range-1-4
+  hunt_mission_2: 'false'
+  hunt_mission_3: random
+  hunt_mission_4: random
+  hunt_mission_5: random
+  kart_mission_count: random-range-1-3
+  kart_mission_2: random
+  kart_mission_3: 'false'
+  kart_mission_4: 'false'
+  kart_mission_5: random
+  cannons_core_mission_count: random-range-1-4
+  cannons_core_mission_2: 'false'
+  cannons_core_mission_3: 'true'
+  cannons_core_mission_4: 'true'
+  cannons_core_mission_5: 'true'
+  sadx_music: both
+  music_shuffle: full
+  voice_shuffle: 
+    none: 4
+    shuffled: 1
+    rude: 1
+    chao: 1
+    singularity: 1
+  narrator: 
+    tails: 2
+    eggman: 2
+    shadow: 2
+    omochao: 1
+    amy: 2
+    knuckles: 2
+    sonic: 2
+
+  exclude_locations: # I don't play most mech levels. This is the exclude set I usually use as a result along with for other disliked stages' chao boxes, with extra missions added to mech set for bloated emblem count.
+    #- Cannon's Core - 1
+    #- Cannon's Core - 3
+    #- Cannon's Core - 4
+    #- Cannon's Core - 5
+    - Cannon's Core - Chao Key 1
+    - Cannon's Core - Chao Key 2
+    - Cannon's Core - Chao Key 3
+    #- Cannon's Core - Gold Beetle
+    - Cosmic Wall - 1
+    - Cosmic Wall - 2
+    - Cosmic Wall - 3
+    - Cosmic Wall - 4
+    - Cosmic Wall - 5
+    - Cosmic Wall - Chao Key 1
+    - Cosmic Wall - Chao Key 2
+    - Cosmic Wall - Chao Key 3
+    - Cosmic Wall - Gold Beetle
+    - Cosmic Wall - Upgrade
+    #- Death Chamber - 1
+    #- Death Chamber - 3
+    #- Death Chamber - 4
+    #- Death Chamber - 5
+    - Death Chamber - Chao Key 1
+    - Death Chamber - Chao Key 2
+    - Death Chamber - Chao Key 3
+    #- Death Chamber - Gold Beetle
+    #- Death Chamber - Upgrade
+    #- Egg Quarters - 1
+    #- Egg Quarters - 3
+    #- Egg Quarters - 4
+    #- Egg Quarters - 5
+    - Egg Quarters - Chao Key 1
+    - Egg Quarters - Chao Key 2
+    - Egg Quarters - Chao Key 3
+    #- Egg Quarters - Gold Beetle
+    #- Egg Quarters - Upgrade
+    - Eternal Engine - 1
+    - Eternal Engine - 2
+    - Eternal Engine - 3
+    - Eternal Engine - 4
+    - Eternal Engine - 5
+    - Eternal Engine - Chao Key 1
+    - Eternal Engine - Chao Key 2
+    - Eternal Engine - Chao Key 3
+    - Eternal Engine - Gold Beetle
+    - Eternal Engine - Upgrade
+    - Hidden Base - 1
+    - Hidden Base - 2
+    - Hidden Base - 3
+    - Hidden Base - 4
+    - Hidden Base - 5
+    - Hidden Base - Chao Key 1
+    - Hidden Base - Chao Key 2
+    - Hidden Base - Gold Beetle
+    - Hidden Base - Upgrade
+    - Iron Gate - 1
+    - Iron Gate - 2
+    - Iron Gate - 3
+    - Iron Gate - 4
+    - Iron Gate - 5
+    - Iron Gate - Chao Key 1
+    - Iron Gate - Chao Key 2
+    - Iron Gate - Chao Key 3
+    - Iron Gate - Gold Beetle
+    - Iron Gate - Upgrade
+    - Lost Colony - 1
+    - Lost Colony - 2
+    - Lost Colony - 3
+    - Lost Colony - 4
+    - Lost Colony - 5
+    - Lost Colony - Chao Key 1
+    - Lost Colony - Chao Key 2
+    - Lost Colony - Chao Key 3
+    - Lost Colony - Gold Beetle
+    - Lost Colony - Upgrade
+    - Mission Street - 1
+    - Mission Street - 2
+    - Mission Street - 3
+    - Mission Street - 4
+    - Mission Street - 5
+    - Mission Street - Chao Key 1
+    - Mission Street - Chao Key 2
+    - Mission Street - Chao Key 3
+    - Mission Street - Gold Beetle
+    - Mission Street - Upgrade
+    - Prison Lane - 1
+    - Prison Lane - 2
+    - Prison Lane - 3
+    - Prison Lane - 4
+    - Prison Lane - 5
+    - Prison Lane - Chao Key 1
+    - Prison Lane - Chao Key 2
+    - Prison Lane - Chao Key 3
+    - Prison Lane - Gold Beetle
+    - Prison Lane - Upgrade
+    - Sand Ocean - 1
+    - Sand Ocean - 2
+    - Sand Ocean - 3
+    - Sand Ocean - 4
+    - Sand Ocean - 5
+    - Sand Ocean - Chao Key 1
+    - Sand Ocean - Chao Key 2
+    - Sand Ocean - Chao Key 3
+    - Sand Ocean - Gold Beetle
+    - Sand Ocean - Upgrade
+    - Weapons Bed - 1
+    - Weapons Bed - 2
+    - Weapons Bed - 3
+    - Weapons Bed - 4
+    - Weapons Bed - 5
+    - Weapons Bed - Chao Key 1
+    - Weapons Bed - Chao Key 2
+    - Weapons Bed - Chao Key 3
+    - Weapons Bed - Upgrade
+  plando_items:
+    - item: White Chaos Emerald
+      location: Cannon's Core - Gold Beetle
+    - item:
+        Sonic - Light Shoes: 1
+      location: rhythm.ChampaU6's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Knuckles - Shovel Claws: 1
+      location: rhythm.ChampaU6's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Yellow Chaos Emerald: 1
+      location: rhythm.ChampaU6's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Tails - Booster: 1
+      location: rhythm.ChampaU6's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Rouge - Pick Nails: 1
+      location: Locker 181
+      world: The Vault
+      force: true
+    - item:
+        Green Chaos Emerald: 1
+      location: Locker 182
+      world: The Vault
+      force: true
+    - item:
+        Sonic - Bounce Bracelet: 1
+      location: Locker 183
+      world: The Vault
+      force: true
+    - item:
+        Sonic - Flame Ring: 1
+      location: Locker 184
+      world: The Vault
+      force: true
+#
+Super Mario 64:
+  progression_balancing: 0
+  death_link: true
+  area_rando:
+    courses_only: 1
+    courses_and_secrets_separate: 1
+    courses_and_secrets: 1
+  buddy_checks: random
+  exclamation_boxes: random
+  progressive_keys: false
+  enable_coin_stars: random
+  enable_move_rando: random
+  move_rando_actions: ['Triple Jump', 'Long Jump', 'Backflip', 'Dive', 'Kick', 'Ledge Grab']
+  strict_cap_requirements: true
+  strict_cannon_requirements: true
+  strict_move_requirements: true
+  amount_of_stars: 120
+  first_bowser_star_door_cost: random
+  basement_star_door_cost: random
+  second_floor_star_door_cost: random
+  mips1_cost: random
+  mips2_cost: random
+  stars_to_finish: random
+  completion_type: last_bowser_stage
+  exclude_locations:
+    # Prevent these locations from having an important item
+    - 'RR: Tricky Triangles!'
+    - 'RR: The Big House in the Sky'
+    - 'RR: Swingin'' in the Breeze'
+    - 'RR: Somewhere Over the Rainbow'
+    - 'RR: Cruiser Crossing the Rainbow'
+    - 'RR: Coins Amassed in a Maze'
+    - 'RR: Bob-omb Buddy'
+    - 'RR: 1Up Block Under Fly Guy'
+    - 'RR: 1Up Block Top of Red Coin Maze'
+    - 'RR: 1Up Block On House in the Sky'
+    - 'RR: 100 Coins'
+    - 'DDD: 100 Coins'
+    - 'JRB: 100 Coins'
+    - 'TTC: 100 Coins'
+    - 'WDW: 100 Coins'
+    - 'WDW: Go to Town for Red Coins'
+    - 'WDW: 100 Coins'
+    - 'WDW: 1Up Block in Downtown'
+    - 'WDW: Quick Race Through Downtown!'
+    - 'Bowser in the Sky Red Coins'
+    - 'Bowser in the Sky 1Up Block'
+  plando_items:
+    - item:
+        Triple Jump: 1
+      location: rhythm.ChampaU6's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Basement Key: 1
+      location: rhythm.ChampaU6's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Long Jump: 1
+      location: rhythm.ChampaU6's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Dive: 1
+      location: rhythm.ChampaU6's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Second Floor Key: 1
+      location: Locker 181
+      world: The Vault
+      force: true
+    - item:
+        Wing Cap: 1
+      location: Locker 182
+      world: The Vault
+      force: true
+    - item:
+        Backflip: 1
+      location: Locker 183
+      world: The Vault
+      force: true
+    - item:
+        Ledge Grab: 1
+      location: Locker 184
+      world: The Vault
+      force: true
+#
+Super Metroid:
+  progression_balancing: 0
+  death_link: enable_survive
+  preset: varia_custom
+  varia_custom_preset: rhythmlycan
+  start_location: random
+  remote_items: true 
+  max_difficulty: hard
+  morph_placement: 
+    early: 1
+    normal: 1
+  hide_items: false
+  strict_minors: false
+  missile_qty: 
+    30: 0
+    random-range-10-30: 1
+  super_qty: 
+    20: 0
+    random-range-10-30: 1
+  power_bomb_qty: 
+    10: 0
+    random-range-10-30: 1
+  minor_qty: 100
+  energy_qty: vanilla
+  area_randomization: 
+    off: 15
+    light: 0
+    full: 0
+  area_layout: # for area rando only apparently
+    false: 0
+    true: 1
+  doors_colors_rando: 
+    false: 1
+    true: 1
+  allow_grey_doors: false
+  boss_randomization: 
+    false: 1
+    true: 1
+  escape_rando: true
+  remove_escape_enemies: true
+  fun_combat: false
+  fun_movement: false
+  fun_suits: false
+  layout_patches: true
+  varia_tweaks: true
+  nerfed_charge: false
+  gravity_behaviour: 
+    balanced: 1
+    progressive: 1
+  elevators_speed: true
+  fast_doors: true
+  spin_jump_restart: true
+  rando_speed: true
+  infinite_space_jump: true
+  refill_before_save: true
+  hud: true
+  animals: false
+  no_music: false
+  random_music: false
+  tourian: 
+    vanilla: 1
+    fast: 2
+    disabled: 3
+  custom_objective: true
+  custom_objective_list: ['random']
+  custom_objective_count: random-range-high-1-5
+  objective: ['kill all G4']
+  relaxed_round_robin_cf: true
+  plando_items:
+    - item:
+        Gravity Suit: 1
+      location: rhythm.ChampaU6's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Varia Suit: 1
+      location: rhythm.ChampaU6's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Energy Tank: 1
+      location: rhythm.ChampaU6's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Speed Booster: 1
+      location: rhythm.ChampaU6's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Space Jump: 1
+      location: Locker 181
+      world: The Vault
+      force: true
+    - item:
+        Screw Attack: 1
+      location: Locker 182
+      world: The Vault
+      force: true
+    - item:
+        Bomb: 1
+      location: Locker 183
+      world: The Vault
+      force: true
+    - item:
+        Hi-Jump Boots: 1
+      location: Locker 184
+      world: The Vault
+      force: true
+#
+Wario Land 4:
+  progression_balancing: 0
+  death_link: true
+  logic: basic
+  goal:
+    golden_diva: 1
+    golden_treasure_hunt: 1
+    golden_diva_treasure_hunt: 1
+    local_golden_treasure_hunt: 1
+    local_golden_diva_treasure_hunt: 1
+  golden_treasure_count: random
+  difficulty: 
+    normal: 15
+    hard: 4
+    s_hard: 1
+  pool_jewels: random-range-high-2-4
+  golden_jewels: 2
+  required_jewels: 1
+  open_doors: closed_diva
+  portal: vanilla
+  send_locations_to_server: on_escape
+  trap_behavior: random
+  smash_through_hard_blocks: true
+  non_local_items: ["Full Health Item"]
+  exclude_locations: # Copied an exclude set from what my friend uses.
+    ["Pinball Zone - Full Health Item Box", 
+    "Toy Block Tower - Full Health Item Box", 
+    "The Big Board - Full Health Item Box", 
+    "Fiery Cavern - CD Box"]
+  plando_items:
+    - item:
+        Progressive Grab: 1
+      location: rhythm.ChampaU6's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Progressive Ground Pound: 1
+      location: rhythm.ChampaU6's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Top Right Emerald Piece: 1
+      location: rhythm.ChampaU6's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Top Right Ruby Piece: 1
+      location: rhythm.ChampaU6's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Enemy Jump: 1
+      location: Locker 181
+      world: The Vault
+      force: true
+    - item:
+        Top Right Topaz Piece: 1
+      location: Locker 182
+      world: The Vault
+      force: true
+    - item:
+        Top Right Golden Jewel Piece: 1
+      location: Locker 183
+      world: The Vault
+      force: true
+    - item:
+        Top Right Sapphire Piece: 1
+      location: Locker 184
+      world: The Vault
+      force: true
+
+#
+Yu-Gi-Oh! Forbidden Memories:
+  progression_balancing: 0
+  death_link: true
+  duelist_progression:
+    thematic: 1
+    campaign: 1
+  local_starchips: false
+  final6_sequence: random
+  atec_logic: pegasus_only
+  atec_trap: acid_trap_hole
+  drop_rate_logic: 64
+  plando_items:
+    - item:
+        Progressive Duelist: 1
+      location: rhythm.ChampaU6's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Progressive Duelist: 1
+      location: rhythm.ChampaU6's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Starchips x25: 1
+      location: rhythm.ChampaU6's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Starchips x25: 1
+      location: rhythm.ChampaU6's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Progressive Duelist: 1
+      location: Locker 181
+      world: The Vault
+      force: true
+    - item:
+        Starchips x25: 1
+      location: Locker 182
+      world: The Vault
+      force: true
+    - item:
+        Starchips x25: 1
+      location: Locker 183
+      world: The Vault
+      force: true
+    - item:
+        Starchips x25: 1
+      location: Locker 184
+      world: The Vault
+      force: true
+---
+name: rhythm.BeerusU7
+description: Universe 7's Mystery yaml for ENDLESS TOWERS Rogue-Lite async
+game: # Beerus Modifier: Plays main games more often.
+  Inscryption: 2
+  Meritous: 1 # I'm pretty likely to die in this so... Let's play it less often.
+  Metroid Prime: 6
+  Metroid Zero Mission: 10
+  Minit: 6
+  Pseudoregalia: 4
+  Sonic Adventure DX: 8
+  Sonic Adventure 2 Battle: 6
+  Super Mario 64: 1 # I'm pretty likely to die in this in some stupid way from a stray jump so... Let's play it a bit less often.
+  Super Metroid: 12
+  Wario Land 4: 2 # Less familiar with the game. Have a friend helping me learn though.
+  Yu-Gi-Oh! Forbidden Memories: 1
+
+# APWorlds mass-downloaded 7/30/2024
+
+#
+Inscryption:
+  progression_balancing: 0
+  deathlink: true
+  act1_deathlink_behaviour: sacrificed
+  goal: full_story_any_order
+  randomize_codes: true
+  ranzomide_deck: disable
+  randomize_sigils: disable
+  optional_death_card: always_on
+  skip_tutorial: true
+  skip_epilogue: true
+  epitaph_pieces_randomization: 
+    all_pieces: 1
+    in_groups: 1
+    as_one_item: 1
+  painting_checks_balancing:
+    none: 1
+    balanced: 0
+    force_filler: 0
+  plando_items:
+    - item:
+        Inspectometer Battery: 1
+      location: rhythm.BeerusU7's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Film Roll: 1
+      location: rhythm.BeerusU7's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Extra Candle: 1
+      location: rhythm.BeerusU7's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Bee Figurine: 1
+      location: rhythm.BeerusU7's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Camera Replica: 1
+      location: Locker 185
+      world: The Vault
+      force: true
+    - item:
+        Dock's Clover Plant: 1
+      location: Locker 186
+      world: The Vault
+      force: true
+    - item:
+        Oil Painting's Clover Plant: 1
+      location: Locker 187
+      world: The Vault
+      force: true
+    - item:
+        Ring: 1
+      location: Locker 188
+      world: The Vault
+      force: true
+#
+Meritous:
+  progression_balancing: 0
+  death_link: true
+  goal: 
+    return_the_cursed_seal: 1
+    any_ending: 1
+  include_psi_keys: true
+  include_evolution_traps: random
+  item_cache_cost: heavily_reduced
+  plando_items:
+    - item:
+        PSI Key 3: 1
+      location: rhythm.BeerusU7's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        PSI Key 2: 1
+      location: rhythm.BeerusU7's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Map: 1
+      location: rhythm.BeerusU7's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Dodge Enhancer: 1
+      location: rhythm.BeerusU7's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        PSI Key 1: 1
+      location: Locker 185
+      world: The Vault
+      force: true
+    - item:
+        Metabolism: 1
+      location: Locker 186
+      world: The Vault
+      force: true
+    - item:
+        Shield Boost: 1
+      location: Locker 187
+      world: The Vault
+      force: true
+    - item:
+        Circuit Booster: 1
+      location: Locker 188
+      world: The Vault
+      force: true
+#
+Metroid Prime:
+  progression_balancing: 0
+  death_link: true
+  required_artifacts: random
+  final_bosses: 
+    both: 2
+    ridley: 5
+    prime: 2
+    none: 1
+  artifact_hints: true
+  missile_launcher: 
+    false: 3
+    true: 1
+  main_power_bomb: 
+    false: 3
+    true: 1
+  shuffle_scan_visor: 
+    false: 3
+    true: 1
+  pre_scan_elevators: true
+  starting_room: 
+    normal: 1
+    safe: 2
+    buckle_up: 3
+  disable_starting_room_bk_prevention: # Really low chance
+    false: 9
+    true: 1
+  progressive_beam_upgrades: random
+  non_varia_heat_damage: 
+    true: 3
+    false: 1
+  staggered_suit_damage: random
+  combat_logic_difficulty: normal_logic
+  trick_difficulty: no_tricks
+  flaahgra_power_bombs: false
+  backwards_lower_mines: false
+  remove_xray_requirements: false
+  remove_thermal_requirements: false
+  remove_hive_mecha: false
+  spring_ball: true
+  fusion_suit: 
+    false: 3
+    true: 1
+  hud_color: random
+  randomize_suit_colors:
+    false: 3
+    true: 1
+  show_suit_index_on_pause_menu: true
+  
+  triggers:
+    - option_category: Metroid Prime
+      option_name: shuffle_scan_visor
+      option_result: true
+      options:
+        Metroid Prime:
+          pre_scan_elevators: false
+  plando_items:
+    - item:
+        Artifact of Chozo: 1
+      location: rhythm.BeerusU7's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Space Jump Boots: 1
+      location: rhythm.BeerusU7's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Gravity Suit: 1
+      location: rhythm.BeerusU7's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Boost Ball: 1
+      location: rhythm.BeerusU7's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Morph Ball: 1
+      location: Locker 185
+      world: The Vault
+      force: true
+    - item:
+        Varia Suit: 1
+      location: Locker 186
+      world: The Vault
+      force: true
+    - item:
+        Phazon Suit: 1
+      location: Locker 187
+      world: The Vault
+      force: true
+    - item:
+        Morph Ball Bomb: 1
+      location: Locker 188
+      world: The Vault
+      force: true
+#
+Metroid Zero Mission:
+  progression_balancing: 0
+  death_link: true
+  chozodia_access: random
+  skip_chozodia_stealth: true
+  unknown_items_always_usable: true
+  layout_patches: true
+  morph_ball:
+    early: 3
+    normal: 1
+  ibj_in_logic: false
+  heatruns_lavadives: false
+  walljumps_in_logic: true
+  display_nonlocal_items: match_series
+  plando_items:
+    - item:
+        Space Jump: 1
+      location: rhythm.BeerusU7's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Varia Suit: 1
+      location: rhythm.BeerusU7's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Power Grip: 1
+      location: rhythm.BeerusU7's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Screw Attack: 1
+      location: rhythm.BeerusU7's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Bomb: 1
+      location: Locker 185
+      world: The Vault
+      force: true
+    - item:
+        Hi-Jump: 1
+      location: Locker 186
+      world: The Vault
+      force: true
+    - item:
+        Speed Booster: 1
+      location: Locker 187
+      world: The Vault
+      force: true
+    - item:
+        Gravity Suit: 1
+      location: Locker 188
+      world: The Vault
+      force: true
+#
+Minit:
+  progression_balancing: 0
+  death_link: true
+  death_amnisty_total: random-range-1-20 # WE SHALL LIVE AND DIE BY THE DICE ROLL OF FATE!
+  starting_sword: random
+  darkrooms: minor
+  obscure: false
+  progressive_sword:
+    forward_progressive: 9
+    reverse_progressive: 9
+    off: 2
+  chosen_goal: random # gets overridden by trigger
+  er_option: off
+  min_hp: random
+  damage_boosts: false
+  
+  triggers:
+    - option_category: Minit
+      option_name: progressive_sword
+      option_result: forward_progressive
+      options:
+        Minit:
+          chosen_goal: boss_fight
+    - option_category: Minit
+      option_name: progressive_sword
+      option_result: reverse_progressive
+      options:
+        Minit:
+          chosen_goal: toilet_goal
+    - option_category: Minit
+      option_name: progressive_sword
+      option_result: off
+      options:
+        Minit:
+          chosen_goal: any_goal
+  plando_items:
+    - item:
+        ItemSwim: 1
+      location: rhythm.BeerusU7's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        ItemWateringCan: 1
+      location: rhythm.BeerusU7's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        ItemGrinder: 1
+      location: rhythm.BeerusU7's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        ItemThrow: 1
+      location: rhythm.BeerusU7's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        ItemShoes: 1
+      location: Locker 185
+      world: The Vault
+      force: true
+    - item:
+        ItemCoffee: 1
+      location: Locker 186
+      world: The Vault
+      force: true
+    - item:
+        ItemPressPass: 1
+      location: Locker 187
+      world: The Vault
+      force: true
+    - item:
+        ItemFlashLight: 1
+      location: Locker 188
+      world: The Vault
+      force: true
+#
+Pseudoregalia:
+  progression_balancing: 0
+  death_link: true
+  logic_level: normal
+  obscure_logic: false
+  progressive_breaker: true
+  progressive_slide: true
+  split_sun_greaves: true
+  plando_items:
+    - item:
+        Major Key - Tower Remains: 1
+      location: rhythm.BeerusU7's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Cling Gem: 1
+      location: rhythm.BeerusU7's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Sunsetter: 1
+      location: rhythm.BeerusU7's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Progressive Dream Breaker: 1
+      location: rhythm.BeerusU7's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Progressive Slide: 1
+      location: Locker 185
+      world: The Vault
+      force: true
+    - item:
+        Air Kick: 1
+      location: Locker 186
+      world: The Vault
+      force: true
+    - item:
+        Small Key: 1
+      location: Locker 187
+      world: The Vault
+      force: true
+    - item:
+        Progressive Slide: 1
+      location: Locker 188
+      world: The Vault
+      force: true
+#
+Sonic Adventure DX:
+  progression_balancing: 0
+  death_link: true
+  ring_link: true
+  pinball_life_capsules: false
+  field_emblems_checks: random
+  random_starting_location: 
+    random_location: 1
+    random_location_no_items: 1
+    station_square: 1
+    station_square_no_items: 1
+  ring_loss: 
+    classic: 2
+    one_hit_k_o: 1
+  life_sanity: random
+  sub_level_checks: random
+  boss_checks: random
+  unify_chaos4: random
+  unify_chaos6: random
+  unify_egg_hornet: random
+  randomized_sonic_upgrades: true
+  randomized_tails_upgrades: true
+  randomized_knuckles_upgrades: true
+  randomized_amy_upgrades: true
+  randomized_big_upgrades: true
+  randomized_gamma_upgrades: true
+  emblems_percentage: random-range-60-100
+  sonic_missions: random
+  tails_missions:
+    none: 0
+    c: 1
+    c_b: 1
+    c_b_a: 1
+  knuckles_missions: random
+  amy_missions: random
+  gamma_missions: random
+  big_missions: random
+  plando_items:
+    - item:
+        Dynamite: 1
+      location: rhythm.BeerusU7's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Train: 1
+      location: rhythm.BeerusU7's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Life Belt: 1
+      location: rhythm.BeerusU7's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Light Shoes: 1
+      location: rhythm.BeerusU7's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Hotel Keys: 1
+      location: Locker 185
+      world: The Vault
+      force: true
+    - item:
+        Ancient Light: 1
+      location: Locker 186
+      world: The Vault
+      force: true
+    - item:
+        Shovel Claw: 1
+      location: Locker 187
+      world: The Vault
+      force: true
+    - item:
+        Jet Booster: 1
+      location: Locker 188
+      world: The Vault
+      force: true
+#
+Sonic Adventure 2 Battle:
+  progression_balancing: 0
+  death_link: true
+  ring_link: true
+  goal:
+    chaos_emerald_hunt: 1
+    finalhazard_chaos_emerald_hunt: 1
+  logic_difficulty: standard
+  required_rank: e
+  max_emblem_cap: 1000
+  ring_loss: 
+    classic: 2
+    ohko: 1
+  mission_shuffle: true
+  emblem_percentage_for_cannons_core: random-low
+  number_of_level_gates: random-low
+  level_gate_distribution: random
+  keysanity: random
+  beetlesanity: random
+  black_market_slots: random-high
+  black_market_unlock_costs: random
+  black_market_price_multiplier: 0
+  junk_fill_percentage: random-high
+  trap_fill_percentage: random-high
+  omochao_trap_weight: 
+    high: 50
+    low: 50
+  timestop_trap_weight: 
+    high: 50
+    low: 50
+  confusion_trap_weight: none
+  tiny_trap_weight: 
+    high: 50
+    low: 50
+  gravity_trap_weight: 
+    high: 50
+    low: 50
+  exposition_trap_weight: 
+    high: 50
+    low: 50
+  ice_trap_weight: 
+    high: 50
+    low: 50
+  slow_trap_weight: 
+    high: 50
+    low: 50
+  cutscene_trap_weight: 
+    high: 50
+    low: 50
+  reverse_trap_weight: none
+  pong_trap_weight: none
+  minigame_trap_difficulty: hard
+  speed_mission_count: random-range-1-4
+  speed_mission_2: 'false'
+  speed_mission_3: random
+  speed_mission_4: random
+  speed_mission_5: random
+  mech_mission_count: 5
+  mech_mission_2: 'true'
+  mech_mission_3: 'true'
+  mech_mission_4: 'true'
+  mech_mission_5: 'true'
+  hunt_mission_count: random-range-1-4
+  hunt_mission_2: 'false'
+  hunt_mission_3: random
+  hunt_mission_4: random
+  hunt_mission_5: random
+  kart_mission_count: random-range-1-3
+  kart_mission_2: random
+  kart_mission_3: 'false'
+  kart_mission_4: 'false'
+  kart_mission_5: random
+  cannons_core_mission_count: random-range-1-4
+  cannons_core_mission_2: 'false'
+  cannons_core_mission_3: 'true'
+  cannons_core_mission_4: 'true'
+  cannons_core_mission_5: 'true'
+  sadx_music: both
+  music_shuffle: full
+  voice_shuffle: 
+    none: 4
+    shuffled: 1
+    rude: 1
+    chao: 1
+    singularity: 1
+  narrator: 
+    tails: 2
+    eggman: 2
+    shadow: 2
+    omochao: 1
+    amy: 2
+    knuckles: 2
+    sonic: 2
+
+  plando_items:
+    - item: White Chaos Emerald
+      location: Cannon's Core - Gold Beetle
+    - item:
+        Sonic - Light Shoes: 1
+      location: rhythm.BeerusU7's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Knuckles - Shovel Claws: 1
+      location: rhythm.BeerusU7's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Yellow Chaos Emerald: 1
+      location: rhythm.BeerusU7's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Tails - Booster: 1
+      location: rhythm.BeerusU7's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Rouge - Pick Nails: 1
+      location: Locker 185
+      world: The Vault
+      force: true
+    - item:
+        Green Chaos Emerald: 1
+      location: Locker 186
+      world: The Vault
+      force: true
+    - item:
+        Sonic - Bounce Bracelet: 1
+      location: Locker 187
+      world: The Vault
+      force: true
+    - item:
+        Sonic - Flame Ring: 1
+      location: Locker 188
+      world: The Vault
+      force: true
+
+  exclude_locations: # I don't play most mech levels. This is the exclude set I usually use as a result along with for other disliked stages' chao boxes, with extra missions added to mech set for bloated emblem count.
+    #- Cannon's Core - 1
+    #- Cannon's Core - 3
+    #- Cannon's Core - 4
+    #- Cannon's Core - 5
+    - Cannon's Core - Chao Key 1
+    - Cannon's Core - Chao Key 2
+    - Cannon's Core - Chao Key 3
+    #- Cannon's Core - Gold Beetle
+    - Cosmic Wall - 1
+    - Cosmic Wall - 2
+    - Cosmic Wall - 3
+    - Cosmic Wall - 4
+    - Cosmic Wall - 5
+    - Cosmic Wall - Chao Key 1
+    - Cosmic Wall - Chao Key 2
+    - Cosmic Wall - Chao Key 3
+    - Cosmic Wall - Gold Beetle
+    - Cosmic Wall - Upgrade
+    #- Death Chamber - 1
+    #- Death Chamber - 3
+    #- Death Chamber - 4
+    #- Death Chamber - 5
+    - Death Chamber - Chao Key 1
+    - Death Chamber - Chao Key 2
+    - Death Chamber - Chao Key 3
+    #- Death Chamber - Gold Beetle
+    #- Death Chamber - Upgrade
+    #- Egg Quarters - 1
+    #- Egg Quarters - 3
+    #- Egg Quarters - 4
+    #- Egg Quarters - 5
+    - Egg Quarters - Chao Key 1
+    - Egg Quarters - Chao Key 2
+    - Egg Quarters - Chao Key 3
+    #- Egg Quarters - Gold Beetle
+    #- Egg Quarters - Upgrade
+    - Eternal Engine - 1
+    - Eternal Engine - 2
+    - Eternal Engine - 3
+    - Eternal Engine - 4
+    - Eternal Engine - 5
+    - Eternal Engine - Chao Key 1
+    - Eternal Engine - Chao Key 2
+    - Eternal Engine - Chao Key 3
+    - Eternal Engine - Gold Beetle
+    - Eternal Engine - Upgrade
+    - Hidden Base - 1
+    - Hidden Base - 2
+    - Hidden Base - 3
+    - Hidden Base - 4
+    - Hidden Base - 5
+    - Hidden Base - Chao Key 1
+    - Hidden Base - Chao Key 2
+    - Hidden Base - Gold Beetle
+    - Hidden Base - Upgrade
+    - Iron Gate - 1
+    - Iron Gate - 2
+    - Iron Gate - 3
+    - Iron Gate - 4
+    - Iron Gate - 5
+    - Iron Gate - Chao Key 1
+    - Iron Gate - Chao Key 2
+    - Iron Gate - Chao Key 3
+    - Iron Gate - Gold Beetle
+    - Iron Gate - Upgrade
+    - Lost Colony - 1
+    - Lost Colony - 2
+    - Lost Colony - 3
+    - Lost Colony - 4
+    - Lost Colony - 5
+    - Lost Colony - Chao Key 1
+    - Lost Colony - Chao Key 2
+    - Lost Colony - Chao Key 3
+    - Lost Colony - Gold Beetle
+    - Lost Colony - Upgrade
+    - Mission Street - 1
+    - Mission Street - 2
+    - Mission Street - 3
+    - Mission Street - 4
+    - Mission Street - 5
+    - Mission Street - Chao Key 1
+    - Mission Street - Chao Key 2
+    - Mission Street - Chao Key 3
+    - Mission Street - Gold Beetle
+    - Mission Street - Upgrade
+    - Prison Lane - 1
+    - Prison Lane - 2
+    - Prison Lane - 3
+    - Prison Lane - 4
+    - Prison Lane - 5
+    - Prison Lane - Chao Key 1
+    - Prison Lane - Chao Key 2
+    - Prison Lane - Chao Key 3
+    - Prison Lane - Gold Beetle
+    - Prison Lane - Upgrade
+    - Sand Ocean - 1
+    - Sand Ocean - 2
+    - Sand Ocean - 3
+    - Sand Ocean - 4
+    - Sand Ocean - 5
+    - Sand Ocean - Chao Key 1
+    - Sand Ocean - Chao Key 2
+    - Sand Ocean - Chao Key 3
+    - Sand Ocean - Gold Beetle
+    - Sand Ocean - Upgrade
+    - Weapons Bed - 1
+    - Weapons Bed - 2
+    - Weapons Bed - 3
+    - Weapons Bed - 4
+    - Weapons Bed - 5
+    - Weapons Bed - Chao Key 1
+    - Weapons Bed - Chao Key 2
+    - Weapons Bed - Chao Key 3
+    - Weapons Bed - Upgrade
+#
+Super Mario 64:
+  progression_balancing: 0
+  death_link: true
+  area_rando:
+    courses_only: 1
+    courses_and_secrets_separate: 1
+    courses_and_secrets: 1
+  buddy_checks: random
+  exclamation_boxes: random
+  progressive_keys: false
+  enable_coin_stars: random
+  enable_move_rando: random
+  move_rando_actions: ['Triple Jump', 'Long Jump', 'Backflip', 'Dive', 'Kick', 'Ledge Grab']
+  strict_cap_requirements: true
+  strict_cannon_requirements: true
+  strict_move_requirements: true
+  amount_of_stars: 120
+  first_bowser_star_door_cost: random
+  basement_star_door_cost: random
+  second_floor_star_door_cost: random
+  mips1_cost: random
+  mips2_cost: random
+  stars_to_finish: random
+  completion_type: last_bowser_stage
+  exclude_locations:
+    # Prevent these locations from having an important item
+    - 'RR: Tricky Triangles!'
+    - 'RR: The Big House in the Sky'
+    - 'RR: Swingin'' in the Breeze'
+    - 'RR: Somewhere Over the Rainbow'
+    - 'RR: Cruiser Crossing the Rainbow'
+    - 'RR: Coins Amassed in a Maze'
+    - 'RR: Bob-omb Buddy'
+    - 'RR: 1Up Block Under Fly Guy'
+    - 'RR: 1Up Block Top of Red Coin Maze'
+    - 'RR: 1Up Block On House in the Sky'
+    - 'RR: 100 Coins'
+    - 'DDD: 100 Coins'
+    - 'JRB: 100 Coins'
+    - 'TTC: 100 Coins'
+    - 'WDW: 100 Coins'
+    - 'WDW: Go to Town for Red Coins'
+    - 'WDW: 100 Coins'
+    - 'WDW: 1Up Block in Downtown'
+    - 'WDW: Quick Race Through Downtown!'
+    - 'Bowser in the Sky Red Coins'
+    - 'Bowser in the Sky 1Up Block'
+  plando_items:
+    - item:
+        Triple Jump: 1
+      location: rhythm.BeerusU7's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Basement Key: 1
+      location: rhythm.BeerusU7's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Long Jump: 1
+      location: rhythm.BeerusU7's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Dive: 1
+      location: rhythm.BeerusU7's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Second Floor Key: 1
+      location: Locker 185
+      world: The Vault
+      force: true
+    - item:
+        Wing Cap: 1
+      location: Locker 186
+      world: The Vault
+      force: true
+    - item:
+        Backflip: 1
+      location: Locker 187
+      world: The Vault
+      force: true
+    - item:
+        Ledge Grab: 1
+      location: Locker 188
+      world: The Vault
+      force: true
+#
+Super Metroid:
+  progression_balancing: 0
+  death_link: enable_survive
+  preset: varia_custom
+  varia_custom_preset: rhythmlycan
+  start_location: random
+  remote_items: true 
+  max_difficulty: hard
+  morph_placement: 
+    early: 3
+    normal: 1
+  hide_items: false
+  strict_minors: false
+  missile_qty: 
+    30: 0
+    random-range-10-30: 1
+  super_qty: 
+    20: 0
+    random-range-10-30: 1
+  power_bomb_qty: 
+    10: 0
+    random-range-10-30: 1
+  minor_qty: 100
+  energy_qty: vanilla
+  area_randomization: 
+    off: 15
+    light: 3
+    full: 2
+  area_layout: # for area rando only apparently
+    false: 0
+    true: 1
+  doors_colors_rando: 
+    false: 7
+    true: 2
+  allow_grey_doors: false
+  boss_randomization: 
+    false: 7
+    true: 2
+  escape_rando: true
+  remove_escape_enemies: true
+  fun_combat: false
+  fun_movement: false
+  fun_suits: false
+  layout_patches: true
+  varia_tweaks: true
+  nerfed_charge: false
+  gravity_behaviour: 
+    balanced: 1
+    progressive: 1
+  elevators_speed: true
+  fast_doors: true
+  spin_jump_restart: true
+  rando_speed: true
+  infinite_space_jump: true
+  refill_before_save: true
+  hud: true
+  animals: false
+  no_music: false
+  random_music: false
+  tourian: 
+    vanilla: 1
+    fast: 2
+    disabled: 3
+  custom_objective: true
+  custom_objective_list: ['random']
+  custom_objective_count: random-range-high-1-5
+  objective: ['kill all G4']
+  relaxed_round_robin_cf: true
+  plando_items:
+    - item:
+        Gravity Suit: 1
+      location: rhythm.BeerusU7's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Varia Suit: 1
+      location: rhythm.BeerusU7's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Energy Tank: 1
+      location: rhythm.BeerusU7's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Speed Booster: 1
+      location: rhythm.BeerusU7's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Space Jump: 1
+      location: Locker 185
+      world: The Vault
+      force: true
+    - item:
+        Screw Attack: 1
+      location: Locker 186
+      world: The Vault
+      force: true
+    - item:
+        Bomb: 1
+      location: Locker 187
+      world: The Vault
+      force: true
+    - item:
+        Hi-Jump Boots: 1
+      location: Locker 188
+      world: The Vault
+      force: true
+#
+Wario Land 4:
+  progression_balancing: 0
+  death_link: true
+  logic: basic
+  goal:
+    golden_diva: 1
+    golden_treasure_hunt: 3
+    golden_diva_treasure_hunt: 2
+    local_golden_treasure_hunt: 3
+    local_golden_diva_treasure_hunt: 2
+  golden_treasure_count: random
+  difficulty: 
+    normal: 15
+    hard: 4
+    s_hard: 1
+  pool_jewels: random-range-high-2-4
+  golden_jewels: 2
+  required_jewels: 1
+  open_doors: closed_diva
+  portal: vanilla
+  send_locations_to_server: on_escape
+  trap_behavior: random
+  smash_through_hard_blocks: true
+  non_local_items: ["Full Health Item"]
+  exclude_locations: # Copied an exclude set from what my friend uses.
+    ["Pinball Zone - Full Health Item Box", 
+    "Toy Block Tower - Full Health Item Box", 
+    "The Big Board - Full Health Item Box", 
+    "Fiery Cavern - CD Box"]
+  plando_items:
+    - item:
+        Progressive Grab: 1
+      location: rhythm.BeerusU7's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Progressive Ground Pound: 1
+      location: rhythm.BeerusU7's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Top Right Emerald Piece: 1
+      location: rhythm.BeerusU7's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Top Right Ruby Piece: 1
+      location: rhythm.BeerusU7's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Enemy Jump: 1
+      location: Locker 185
+      world: The Vault
+      force: true
+    - item:
+        Top Right Topaz Piece: 1
+      location: Locker 186
+      world: The Vault
+      force: true
+    - item:
+        Top Right Golden Jewel Piece: 1
+      location: Locker 187
+      world: The Vault
+      force: true
+    - item:
+        Top Right Sapphire Piece: 1
+      location: Locker 188
+      world: The Vault
+      force: true
+
+#
+Yu-Gi-Oh! Forbidden Memories:
+  progression_balancing: 0
+  death_link: true
+  duelist_progression:
+    thematic: 1
+    campaign: 1
+  local_starchips: false
+  final6_sequence: random
+  atec_logic: pegasus_only
+  atec_trap: acid_trap_hole
+  drop_rate_logic: 64
+  plando_items:
+    - item:
+        Progressive Duelist: 1
+      location: rhythm.BeerusU7's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Progressive Duelist: 1
+      location: rhythm.BeerusU7's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Starchips x25: 1
+      location: rhythm.BeerusU7's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Starchips x25: 1
+      location: rhythm.BeerusU7's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Progressive Duelist: 1
+      location: Locker 185
+      world: The Vault
+      force: true
+    - item:
+        Starchips x25: 1
+      location: Locker 186
+      world: The Vault
+      force: true
+    - item:
+        Starchips x25: 1
+      location: Locker 187
+      world: The Vault
+      force: true
+    - item:
+        Starchips x25: 1
+      location: Locker 188
+      world: The Vault
+      force: true
+---
+name: rhythm.LiquiirU8
+description: Universe 8's Mystery yaml for ENDLESS TOWERS Rogue-Lite async
+game: # Liquiir Modifier: Harder settings roll more often. More variance. (Not too many changes but, it works.)
+  Inscryption: 2
+  Meritous: 1 # I'm pretty likely to die in this so... Let's play it less often.
+  Metroid Prime: 4
+  Metroid Zero Mission: 4
+  Minit: 2
+  Pseudoregalia: 2
+  Sonic Adventure DX: 3
+  Sonic Adventure 2 Battle: 2
+  Super Mario 64: 2 # I'm pretty likely to die in this in some stupid way from a stray jump so... Let's play it a bit less often.
+  Super Metroid: 4
+  Wario Land 4: 2 # Less familiar with the game. Have a friend helping me learn though.
+  Yu-Gi-Oh! Forbidden Memories: 1
+
+# APWorlds mass-downloaded 7/30/2024
+
+#
+Inscryption:
+  progression_balancing: 0
+  deathlink: true
+  act1_deathlink_behaviour: sacrificed
+  goal: full_story_any_order
+  randomize_codes: true
+  ranzomide_deck: disable
+  randomize_sigils: disable
+  optional_death_card: always_on
+  skip_tutorial: true
+  skip_epilogue: true
+  epitaph_pieces_randomization: 
+    all_pieces: 3
+    in_groups: 2
+    as_one_item: 1
+  painting_checks_balancing:
+    none: 1
+    balanced: 0
+    force_filler: 0
+  plando_items:
+    - item:
+        Inspectometer Battery: 1
+      location: rhythm.LiquiirU8's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Film Roll: 1
+      location: rhythm.LiquiirU8's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Extra Candle: 1
+      location: rhythm.LiquiirU8's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Bee Figurine: 1
+      location: rhythm.LiquiirU8's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Camera Replica: 1
+      location: Locker 189
+      world: The Vault
+      force: true
+    - item:
+        Dock's Clover Plant: 1
+      location: Locker 190
+      world: The Vault
+      force: true
+    - item:
+        Oil Painting's Clover Plant: 1
+      location: Locker 191
+      world: The Vault
+      force: true
+    - item:
+        Ring: 1
+      location: Locker 192
+      world: The Vault
+      force: true
+#
+Meritous:
+  progression_balancing: 0
+  death_link: true
+  goal: 
+    return_the_cursed_seal: 1
+    any_ending: 1
+  include_psi_keys: true
+  include_evolution_traps: random
+  item_cache_cost: heavily_reduced
+  plando_items:
+    - item:
+        PSI Key 3: 1
+      location: rhythm.LiquiirU8's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        PSI Key 2: 1
+      location: rhythm.LiquiirU8's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Map: 1
+      location: rhythm.LiquiirU8's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Dodge Enhancer: 1
+      location: rhythm.LiquiirU8's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        PSI Key 1: 1
+      location: Locker 189
+      world: The Vault
+      force: true
+    - item:
+        Metabolism: 1
+      location: Locker 190
+      world: The Vault
+      force: true
+    - item:
+        Shield Boost: 1
+      location: Locker 191
+      world: The Vault
+      force: true
+    - item:
+        Circuit Booster: 1
+      location: Locker 192
+      world: The Vault
+      force: true
+#
+Metroid Prime:
+  progression_balancing: 0
+  death_link: true
+  required_artifacts: random
+  final_bosses: 
+    both: 2
+    ridley: 5
+    prime: 2
+    none: 1
+  artifact_hints: true
+  missile_launcher: 
+    false: 1
+    true: 3
+  main_power_bomb: 
+    false: 1
+    true: 3
+  shuffle_scan_visor: 
+    false: 1
+    true: 3
+  pre_scan_elevators: true
+  starting_room: 
+    normal: 1
+    safe: 1
+    buckle_up: 8
+  disable_starting_room_bk_prevention: # Really low chance
+    false: 0
+    true: 1
+  progressive_beam_upgrades: random
+  non_varia_heat_damage: 
+    true: 3
+    false: 1
+  staggered_suit_damage: random
+  combat_logic_difficulty: normal_logic
+  trick_difficulty: no_tricks
+  flaahgra_power_bombs: false
+  backwards_lower_mines: false
+  remove_xray_requirements: false
+  remove_thermal_requirements: false
+  remove_hive_mecha: false
+  spring_ball: true
+  fusion_suit: 
+    false: 3
+    true: 1
+  hud_color: random
+  randomize_suit_colors:
+    false: 3
+    true: 1
+  show_suit_index_on_pause_menu: true
+  
+  triggers:
+    - option_category: Metroid Prime
+      option_name: shuffle_scan_visor
+      option_result: true
+      options:
+        Metroid Prime:
+          pre_scan_elevators: false
+  plando_items:
+    - item:
+        Artifact of Chozo: 1
+      location: rhythm.LiquiirU8's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Space Jump Boots: 1
+      location: rhythm.LiquiirU8's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Gravity Suit: 1
+      location: rhythm.LiquiirU8's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Boost Ball: 1
+      location: rhythm.LiquiirU8's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Morph Ball: 1
+      location: Locker 189
+      world: The Vault
+      force: true
+    - item:
+        Varia Suit: 1
+      location: Locker 190
+      world: The Vault
+      force: true
+    - item:
+        Phazon Suit: 1
+      location: Locker 191
+      world: The Vault
+      force: true
+    - item:
+        Morph Ball Bomb: 1
+      location: Locker 192
+      world: The Vault
+      force: true
+#
+Metroid Zero Mission:
+  progression_balancing: 0
+  death_link: true
+  chozodia_access: random
+  skip_chozodia_stealth: true
+  unknown_items_always_usable: true
+  layout_patches: true
+  morph_ball:
+    early: 3
+    normal: 2
+  ibj_in_logic: false
+  heatruns_lavadives: false
+  walljumps_in_logic: true
+  display_nonlocal_items: match_series
+  plando_items:
+    - item:
+        Space Jump: 1
+      location: rhythm.LiquiirU8's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Varia Suit: 1
+      location: rhythm.LiquiirU8's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Power Grip: 1
+      location: rhythm.LiquiirU8's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Screw Attack: 1
+      location: rhythm.LiquiirU8's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Bomb: 1
+      location: Locker 189
+      world: The Vault
+      force: true
+    - item:
+        Hi-Jump: 1
+      location: Locker 190
+      world: The Vault
+      force: true
+    - item:
+        Speed Booster: 1
+      location: Locker 191
+      world: The Vault
+      force: true
+    - item:
+        Gravity Suit: 1
+      location: Locker 192
+      world: The Vault
+      force: true
+#
+Minit:
+  progression_balancing: 0
+  death_link: true
+  death_amnisty_total: random-range-1-20 # WE SHALL LIVE AND DIE BY THE DICE ROLL OF FATE!
+  starting_sword: random
+  darkrooms: minor
+  obscure: false
+  progressive_sword:
+    forward_progressive: 9
+    reverse_progressive: 9
+    off: 2
+  chosen_goal: random # gets overridden by trigger
+  er_option: off
+  min_hp: random
+  damage_boosts: false
+  
+  triggers:
+    - option_category: Minit
+      option_name: progressive_sword
+      option_result: forward_progressive
+      options:
+        Minit:
+          chosen_goal: boss_fight
+    - option_category: Minit
+      option_name: progressive_sword
+      option_result: reverse_progressive
+      options:
+        Minit:
+          chosen_goal: toilet_goal
+    - option_category: Minit
+      option_name: progressive_sword
+      option_result: off
+      options:
+        Minit:
+          chosen_goal: any_goal
+  plando_items:
+    - item:
+        ItemSwim: 1
+      location: rhythm.LiquiirU8's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        ItemWateringCan: 1
+      location: rhythm.LiquiirU8's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        ItemGrinder: 1
+      location: rhythm.LiquiirU8's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        ItemThrow: 1
+      location: rhythm.LiquiirU8's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        ItemShoes: 1
+      location: Locker 189
+      world: The Vault
+      force: true
+    - item:
+        ItemCoffee: 1
+      location: Locker 190
+      world: The Vault
+      force: true
+    - item:
+        ItemPressPass: 1
+      location: Locker 191
+      world: The Vault
+      force: true
+    - item:
+        ItemFlashLight: 1
+      location: Locker 192
+      world: The Vault
+      force: true
+#
+Pseudoregalia:
+  progression_balancing: 0
+  death_link: true
+  logic_level: normal
+  obscure_logic: false
+  progressive_breaker: true
+  progressive_slide: true
+  split_sun_greaves: true
+  plando_items:
+    - item:
+        Major Key - Tower Remains: 1
+      location: rhythm.LiquiirU8's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Cling Gem: 1
+      location: rhythm.LiquiirU8's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Sunsetter: 1
+      location: rhythm.LiquiirU8's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Progressive Dream Breaker: 1
+      location: rhythm.LiquiirU8's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Progressive Slide: 1
+      location: Locker 189
+      world: The Vault
+      force: true
+    - item:
+        Air Kick: 1
+      location: Locker 190
+      world: The Vault
+      force: true
+    - item:
+        Small Key: 1
+      location: Locker 191
+      world: The Vault
+      force: true
+    - item:
+        Progressive Slide: 1
+      location: Locker 192
+      world: The Vault
+      force: true
+#
+Sonic Adventure DX:
+  progression_balancing: 0
+  death_link: true
+  ring_link: true
+  pinball_life_capsules: false
+  field_emblems_checks: random
+  random_starting_location: 
+    random_location: 1
+    random_location_no_items: 1
+    station_square: 1
+    station_square_no_items: 1
+  ring_loss: 
+    classic: 2
+    one_hit_k_o: 1
+  life_sanity: random
+  sub_level_checks: random
+  boss_checks: random
+  unify_chaos4: random
+  unify_chaos6: random
+  unify_egg_hornet: random
+  randomized_sonic_upgrades: true
+  randomized_tails_upgrades: true
+  randomized_knuckles_upgrades: true
+  randomized_amy_upgrades: true
+  randomized_big_upgrades: true
+  randomized_gamma_upgrades: true
+  emblems_percentage: random-range-60-100
+  sonic_missions: random
+  tails_missions:
+    none: 0
+    c: 1
+    c_b: 1
+    c_b_a: 1
+  knuckles_missions: random
+  amy_missions: random
+  gamma_missions: random
+  big_missions: random
+  plando_items:
+    - item:
+        Dynamite: 1
+      location: rhythm.LiquiirU8's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Train: 1
+      location: rhythm.LiquiirU8's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Life Belt: 1
+      location: rhythm.LiquiirU8's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Light Shoes: 1
+      location: rhythm.LiquiirU8's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Hotel Keys: 1
+      location: Locker 189
+      world: The Vault
+      force: true
+    - item:
+        Ancient Light: 1
+      location: Locker 190
+      world: The Vault
+      force: true
+    - item:
+        Shovel Claw: 1
+      location: Locker 191
+      world: The Vault
+      force: true
+    - item:
+        Jet Booster: 1
+      location: Locker 192
+      world: The Vault
+      force: true
+#
+Sonic Adventure 2 Battle:
+  progression_balancing: 0
+  death_link: true
+  ring_link: true
+  goal:
+    chaos_emerald_hunt: 1
+    finalhazard_chaos_emerald_hunt: 1
+  logic_difficulty: standard
+  required_rank: e
+  max_emblem_cap: 1000
+  ring_loss: 
+    classic: 1
+    ohko: 1
+  mission_shuffle: true
+  emblem_percentage_for_cannons_core: random-low
+  number_of_level_gates: random-low
+  level_gate_distribution: random
+  keysanity: random
+  beetlesanity: random
+  black_market_slots: random-high
+  black_market_unlock_costs: random
+  black_market_price_multiplier: 0
+  junk_fill_percentage: random-high
+  trap_fill_percentage: random-high
+  omochao_trap_weight: 
+    high: 50
+    low: 50
+  timestop_trap_weight: 
+    high: 50
+    low: 50
+  confusion_trap_weight: none
+  tiny_trap_weight: 
+    high: 50
+    low: 50
+  gravity_trap_weight: 
+    high: 50
+    low: 50
+  exposition_trap_weight: 
+    high: 50
+    low: 50
+  ice_trap_weight: 
+    high: 50
+    low: 50
+  slow_trap_weight: 
+    high: 50
+    low: 50
+  cutscene_trap_weight: 
+    high: 50
+    low: 50
+  reverse_trap_weight: none
+  pong_trap_weight: none
+  minigame_trap_difficulty: hard
+  speed_mission_count: random-range-1-4
+  speed_mission_2: 'false'
+  speed_mission_3: random
+  speed_mission_4: random
+  speed_mission_5: random
+  mech_mission_count: 5
+  mech_mission_2: 'true'
+  mech_mission_3: 'true'
+  mech_mission_4: 'true'
+  mech_mission_5: 'true'
+  hunt_mission_count: random-range-1-4
+  hunt_mission_2: 'false'
+  hunt_mission_3: random
+  hunt_mission_4: random
+  hunt_mission_5: random
+  kart_mission_count: random-range-1-3
+  kart_mission_2: random
+  kart_mission_3: 'false'
+  kart_mission_4: 'false'
+  kart_mission_5: random
+  cannons_core_mission_count: random-range-1-4
+  cannons_core_mission_2: 'false'
+  cannons_core_mission_3: 'true'
+  cannons_core_mission_4: 'true'
+  cannons_core_mission_5: 'true'
+  sadx_music: both
+  music_shuffle: full
+  voice_shuffle: 
+    none: 4
+    shuffled: 1
+    rude: 1
+    chao: 1
+    singularity: 1
+  narrator: 
+    tails: 2
+    eggman: 2
+    shadow: 2
+    omochao: 1
+    amy: 2
+    knuckles: 2
+    sonic: 2
+
+  plando_items:
+    - item: White Chaos Emerald
+      location: Cannon's Core - Gold Beetle
+    - item:
+        Sonic - Light Shoes: 1
+      location: rhythm.LiquiirU8's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Knuckles - Shovel Claws: 1
+      location: rhythm.LiquiirU8's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Yellow Chaos Emerald: 1
+      location: rhythm.LiquiirU8's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Tails - Booster: 1
+      location: rhythm.LiquiirU8's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Rouge - Pick Nails: 1
+      location: Locker 189
+      world: The Vault
+      force: true
+    - item:
+        Green Chaos Emerald: 1
+      location: Locker 190
+      world: The Vault
+      force: true
+    - item:
+        Sonic - Bounce Bracelet: 1
+      location: Locker 191
+      world: The Vault
+      force: true
+    - item:
+        Sonic - Flame Ring: 1
+      location: Locker 192
+      world: The Vault
+      force: true
+
+  exclude_locations: # I don't play most mech levels. This is the exclude set I usually use as a result along with for other disliked stages' chao boxes, with extra missions added to mech set for bloated emblem count.
+    #- Cannon's Core - 1
+    #- Cannon's Core - 3
+    #- Cannon's Core - 4
+    #- Cannon's Core - 5
+    - Cannon's Core - Chao Key 1
+    - Cannon's Core - Chao Key 2
+    - Cannon's Core - Chao Key 3
+    #- Cannon's Core - Gold Beetle
+    - Cosmic Wall - 1
+    - Cosmic Wall - 2
+    - Cosmic Wall - 3
+    - Cosmic Wall - 4
+    - Cosmic Wall - 5
+    - Cosmic Wall - Chao Key 1
+    - Cosmic Wall - Chao Key 2
+    - Cosmic Wall - Chao Key 3
+    - Cosmic Wall - Gold Beetle
+    - Cosmic Wall - Upgrade
+    #- Death Chamber - 1
+    #- Death Chamber - 3
+    #- Death Chamber - 4
+    #- Death Chamber - 5
+    - Death Chamber - Chao Key 1
+    - Death Chamber - Chao Key 2
+    - Death Chamber - Chao Key 3
+    #- Death Chamber - Gold Beetle
+    #- Death Chamber - Upgrade
+    #- Egg Quarters - 1
+    #- Egg Quarters - 3
+    #- Egg Quarters - 4
+    #- Egg Quarters - 5
+    - Egg Quarters - Chao Key 1
+    - Egg Quarters - Chao Key 2
+    - Egg Quarters - Chao Key 3
+    #- Egg Quarters - Gold Beetle
+    #- Egg Quarters - Upgrade
+    - Eternal Engine - 1
+    - Eternal Engine - 2
+    - Eternal Engine - 3
+    - Eternal Engine - 4
+    - Eternal Engine - 5
+    - Eternal Engine - Chao Key 1
+    - Eternal Engine - Chao Key 2
+    - Eternal Engine - Chao Key 3
+    - Eternal Engine - Gold Beetle
+    - Eternal Engine - Upgrade
+    - Hidden Base - 1
+    - Hidden Base - 2
+    - Hidden Base - 3
+    - Hidden Base - 4
+    - Hidden Base - 5
+    - Hidden Base - Chao Key 1
+    - Hidden Base - Chao Key 2
+    - Hidden Base - Gold Beetle
+    - Hidden Base - Upgrade
+    - Iron Gate - 1
+    - Iron Gate - 2
+    - Iron Gate - 3
+    - Iron Gate - 4
+    - Iron Gate - 5
+    - Iron Gate - Chao Key 1
+    - Iron Gate - Chao Key 2
+    - Iron Gate - Chao Key 3
+    - Iron Gate - Gold Beetle
+    - Iron Gate - Upgrade
+    - Lost Colony - 1
+    - Lost Colony - 2
+    - Lost Colony - 3
+    - Lost Colony - 4
+    - Lost Colony - 5
+    - Lost Colony - Chao Key 1
+    - Lost Colony - Chao Key 2
+    - Lost Colony - Chao Key 3
+    - Lost Colony - Gold Beetle
+    - Lost Colony - Upgrade
+    - Mission Street - 1
+    - Mission Street - 2
+    - Mission Street - 3
+    - Mission Street - 4
+    - Mission Street - 5
+    - Mission Street - Chao Key 1
+    - Mission Street - Chao Key 2
+    - Mission Street - Chao Key 3
+    - Mission Street - Gold Beetle
+    - Mission Street - Upgrade
+    - Prison Lane - 1
+    - Prison Lane - 2
+    - Prison Lane - 3
+    - Prison Lane - 4
+    - Prison Lane - 5
+    - Prison Lane - Chao Key 1
+    - Prison Lane - Chao Key 2
+    - Prison Lane - Chao Key 3
+    - Prison Lane - Gold Beetle
+    - Prison Lane - Upgrade
+    - Sand Ocean - 1
+    - Sand Ocean - 2
+    - Sand Ocean - 3
+    - Sand Ocean - 4
+    - Sand Ocean - 5
+    - Sand Ocean - Chao Key 1
+    - Sand Ocean - Chao Key 2
+    - Sand Ocean - Chao Key 3
+    - Sand Ocean - Gold Beetle
+    - Sand Ocean - Upgrade
+    - Weapons Bed - 1
+    - Weapons Bed - 2
+    - Weapons Bed - 3
+    - Weapons Bed - 4
+    - Weapons Bed - 5
+    - Weapons Bed - Chao Key 1
+    - Weapons Bed - Chao Key 2
+    - Weapons Bed - Chao Key 3
+    - Weapons Bed - Upgrade
+#
+Super Mario 64:
+  progression_balancing: 0
+  death_link: true
+  area_rando:
+    courses_only: 1
+    courses_and_secrets_separate: 1
+    courses_and_secrets: 1
+  buddy_checks: random
+  exclamation_boxes: random
+  progressive_keys: false
+  enable_coin_stars: random
+  enable_move_rando: random
+  move_rando_actions: ['Triple Jump', 'Long Jump', 'Backflip', 'Dive', 'Kick', 'Ledge Grab']
+  strict_cap_requirements: true
+  strict_cannon_requirements: true
+  strict_move_requirements: true
+  amount_of_stars: 120
+  first_bowser_star_door_cost: random
+  basement_star_door_cost: random
+  second_floor_star_door_cost: random
+  mips1_cost: random
+  mips2_cost: random
+  stars_to_finish: random
+  completion_type: last_bowser_stage
+  exclude_locations:
+    # Prevent these locations from having an important item
+    - 'RR: Tricky Triangles!'
+    - 'RR: The Big House in the Sky'
+    - 'RR: Swingin'' in the Breeze'
+    - 'RR: Somewhere Over the Rainbow'
+    - 'RR: Cruiser Crossing the Rainbow'
+    - 'RR: Coins Amassed in a Maze'
+    - 'RR: Bob-omb Buddy'
+    - 'RR: 1Up Block Under Fly Guy'
+    - 'RR: 1Up Block Top of Red Coin Maze'
+    - 'RR: 1Up Block On House in the Sky'
+    - 'RR: 100 Coins'
+    - 'DDD: 100 Coins'
+    - 'JRB: 100 Coins'
+    - 'TTC: 100 Coins'
+    - 'WDW: 100 Coins'
+    - 'WDW: Go to Town for Red Coins'
+    - 'WDW: 100 Coins'
+    - 'WDW: 1Up Block in Downtown'
+    - 'WDW: Quick Race Through Downtown!'
+    - 'Bowser in the Sky Red Coins'
+    - 'Bowser in the Sky 1Up Block'
+  plando_items:
+    - item:
+        Triple Jump: 1
+      location: rhythm.LiquiirU8's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Basement Key: 1
+      location: rhythm.LiquiirU8's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Long Jump: 1
+      location: rhythm.LiquiirU8's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Dive: 1
+      location: rhythm.LiquiirU8's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Second Floor Key: 1
+      location: Locker 189
+      world: The Vault
+      force: true
+    - item:
+        Wing Cap: 1
+      location: Locker 190
+      world: The Vault
+      force: true
+    - item:
+        Backflip: 1
+      location: Locker 191
+      world: The Vault
+      force: true
+    - item:
+        Ledge Grab: 1
+      location: Locker 192
+      world: The Vault
+      force: true
+#
+Super Metroid:
+  progression_balancing: 0
+  death_link: enable_survive
+  preset: varia_custom
+  varia_custom_preset: rhythmlycan
+  start_location: random
+  remote_items: true 
+  max_difficulty: hard
+  morph_placement: 
+    early: 3
+    normal: 2
+  hide_items: false
+  strict_minors: false
+  missile_qty: 
+    30: 0
+    random-range-10-60: 1
+  super_qty: 
+    20: 0
+    random-range-10-60: 1
+  power_bomb_qty: 
+    10: 0
+    random-range-10-60: 1
+  minor_qty: 100
+  energy_qty: vanilla
+  area_randomization: 
+    off: 15
+    light: 0
+    full: 0
+  area_layout: # for area rando only apparently
+    false: 0
+    true: 1
+  doors_colors_rando: 
+    false: 0
+    true: 2
+  allow_grey_doors: true
+  boss_randomization: 
+    false: 5
+    true: 3
+  escape_rando: true
+  remove_escape_enemies: true
+  fun_combat: false
+  fun_movement: false
+  fun_suits: false
+  layout_patches: true
+  varia_tweaks: true
+  nerfed_charge: false
+  gravity_behaviour: 
+    balanced: 1
+    progressive: 1
+  elevators_speed: true
+  fast_doors: true
+  spin_jump_restart: true
+  rando_speed: true
+  infinite_space_jump: true
+  refill_before_save: true
+  hud: true
+  animals: false
+  no_music: false
+  random_music: false
+  tourian: 
+    vanilla: 1
+    fast: 2
+    disabled: 3
+  custom_objective: true
+  custom_objective_list: ['random']
+  custom_objective_count: random-range-high-1-5
+  objective: ['kill all G4']
+  relaxed_round_robin_cf: true
+  plando_items:
+    - item:
+        Gravity Suit: 1
+      location: rhythm.LiquiirU8's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Varia Suit: 1
+      location: rhythm.LiquiirU8's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Energy Tank: 1
+      location: rhythm.LiquiirU8's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Speed Booster: 1
+      location: rhythm.LiquiirU8's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Space Jump: 1
+      location: Locker 189
+      world: The Vault
+      force: true
+    - item:
+        Screw Attack: 1
+      location: Locker 190
+      world: The Vault
+      force: true
+    - item:
+        Bomb: 1
+      location: Locker 191
+      world: The Vault
+      force: true
+    - item:
+        Hi-Jump Boots: 1
+      location: Locker 192
+      world: The Vault
+      force: true
+#
+Wario Land 4:
+  progression_balancing: 0
+  death_link: true
+  logic: basic
+  goal:
+    golden_diva: 1
+    golden_treasure_hunt: 3
+    golden_diva_treasure_hunt: 2
+    local_golden_treasure_hunt: 3
+    local_golden_diva_treasure_hunt: 2
+  golden_treasure_count: random
+  difficulty: 
+    normal: 15
+    hard: 4
+    s_hard: 1
+  pool_jewels: random-range-high-2-4
+  golden_jewels: 2
+  required_jewels: 1
+  open_doors: closed_diva
+  portal: vanilla
+  send_locations_to_server: on_escape
+  trap_behavior: random
+  smash_through_hard_blocks: true
+  non_local_items: ["Full Health Item"]
+  exclude_locations: # Copied an exclude set from what my friend uses.
+    ["Pinball Zone - Full Health Item Box", 
+    "Toy Block Tower - Full Health Item Box", 
+    "The Big Board - Full Health Item Box", 
+    "Fiery Cavern - CD Box"]
+  plando_items:
+    - item:
+        Progressive Grab: 1
+      location: rhythm.LiquiirU8's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Progressive Ground Pound: 1
+      location: rhythm.LiquiirU8's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Top Right Emerald Piece: 1
+      location: rhythm.LiquiirU8's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Top Right Ruby Piece: 1
+      location: rhythm.LiquiirU8's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Enemy Jump: 1
+      location: Locker 189
+      world: The Vault
+      force: true
+    - item:
+        Top Right Topaz Piece: 1
+      location: Locker 190
+      world: The Vault
+      force: true
+    - item:
+        Top Right Golden Jewel Piece: 1
+      location: Locker 191
+      world: The Vault
+      force: true
+    - item:
+        Top Right Sapphire Piece: 1
+      location: Locker 192
+      world: The Vault
+      force: true
+
+#
+Yu-Gi-Oh! Forbidden Memories:
+  progression_balancing: 0
+  death_link: true
+  duelist_progression:
+    thematic: 1
+    campaign: 1
+  local_starchips: false
+  final6_sequence: random
+  atec_logic: pegasus_only
+  atec_trap: acid_trap_hole
+  drop_rate_logic: 64
+  plando_items:
+    - item:
+        Progressive Duelist: 1
+      location: rhythm.LiquiirU8's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Progressive Duelist: 1
+      location: rhythm.LiquiirU8's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Starchips x25: 1
+      location: rhythm.LiquiirU8's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Starchips x25: 1
+      location: rhythm.LiquiirU8's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Progressive Duelist: 1
+      location: Locker 189
+      world: The Vault
+      force: true
+    - item:
+        Starchips x25: 1
+      location: Locker 190
+      world: The Vault
+      force: true
+    - item:
+        Starchips x25: 1
+      location: Locker 191
+      world: The Vault
+      force: true
+    - item:
+        Starchips x25: 1
+      location: Locker 192
+      world: The Vault
+      force: true

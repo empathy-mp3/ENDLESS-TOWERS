@@ -720,6 +720,54 @@
         "requires": "|Vault Key:180|"
     },
     {
+        "name": "Locker 181",
+        "requires": "|Vault Key:181|"
+    },
+    {
+        "name": "Locker 182",
+        "requires": "|Vault Key:182|"
+    },
+    {
+        "name": "Locker 183",
+        "requires": "|Vault Key:183|"
+    },
+    {
+        "name": "Locker 184",
+        "requires": "|Vault Key:184|"
+    },
+    {
+        "name": "Locker 185",
+        "requires": "|Vault Key:185|"
+    },
+    {
+        "name": "Locker 186",
+        "requires": "|Vault Key:186|"
+    },
+    {
+        "name": "Locker 187",
+        "requires": "|Vault Key:187|"
+    },
+    {
+        "name": "Locker 188",
+        "requires": "|Vault Key:188|"
+    },
+    {
+        "name": "Locker 189",
+        "requires": "|Vault Key:189|"
+    },
+    {
+        "name": "Locker 190",
+        "requires": "|Vault Key:190|"
+    },
+    {
+        "name": "Locker 191",
+        "requires": "|Vault Key:191|"
+    },
+    {
+        "name": "Locker 192",
+        "requires": "|Vault Key:192|"
+    },
+    {
         "name": "victory",
         "victory": true
     }
