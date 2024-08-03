@@ -96,7 +96,7 @@
         ]
     },
     {
-        "name": "Deathclaw99Terra's Post-Golem",
+        "name": "Deathclaw99SM64's Second Floor Key",
         "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
@@ -104,7 +104,7 @@
         ]
     },
     {
-        "name": "Deathclaw99Terra's Post-Skeletron",
+        "name": "Deathclaw99SM64's Long Jump",
         "requires": "|Cold Hard Cash:24|",
         "category": [
             "Everything",
@@ -112,7 +112,7 @@
         ]
     },
     {
-        "name": "Deathclaw99Terra's Reward: Obsidian Rose",
+        "name": "Deathclaw99SM64's Power Star",
         "requires": "|Cold Hard Cash:9|",
         "category": [
             "Everything",
@@ -120,7 +120,7 @@
         ]
     },
     {
-        "name": "Deathclaw99Terra's Reward: Magic Quiver",
+        "name": "Deathclaw99SM64's Power Star (2)",
         "requires": "|Cold Hard Cash:9|",
         "category": [
             "Everything",
@@ -1113,6 +1113,166 @@
     },
     {
         "name": "Char Dream Bros's Ball Hop",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "MauveMuse's Music Sheet",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "MauveMuse's Music Sheet (2)",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "MauveMuse's Random Song",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "MauveMuse's Random Song (2)",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "MauvePenitent's Purified Hand of the Nun",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "MauvePenitent's Wall Climb Ability",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "MauvePenitent's Linen of Golden Thread",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "MauvePenitent's Nail Uprooted from Dirt",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "FKKirby's Copy Ability - Hammer",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "FKKirby's Copy Ability - Starship",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "FKKirby's Copy Ability - Paint",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "FKKirby's Copy Ability - Crash",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "coolhollowguy's Mothwing_Cloak",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "coolhollowguy's Desolate_Dive",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "coolhollowguy's Hiveblood",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "coolhollowguy's Great_Slash",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "CoolGuyCompany's Titan",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "CoolGuyCompany's Company Building",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "CoolGuyCompany's Extension ladder",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "CoolGuyCompany's Jetpack",
         "requires": "|Cold Hard Cash:9|",
         "category": [
             "Everything",

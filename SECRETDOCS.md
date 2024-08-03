@@ -72,7 +72,7 @@ finished players (0):
 | automate.mp3     | progressive-science-pack | progressive-science-pack     | progressive-science-pack           | progressive-mining-productivity | Cluster Grenade Trap |
 | automate.mp3     | Building: AWESOME Shop   | Building: Refinery           | Building: MAM                      | Bundle: Quickwire               | Hog Basic            |
 | Deathclaw99TS    | Water Mask               | Lightwall                    | Elevator Keycard                   |                                 |                      |
-| Deathclaw99Terra | Post-Golem               | Post-Skeletron               | Hardmode                           |                                 |                      |
+| Deathclaw99SM64  | Second Floor Key         | Long Jump                    | Basement Key                       |                                 |                      |
 | Deathclaw99OOT   | Megaton Hammer           | Hover Boots                  | Progressive Hookshot               | Rupees (200)                    |                      |
 | SylskoTunic      | Pages 24-25 (Prayer)     | Hero's Laurels               | Magic Orb                          | Money x100                      | Fool Trap            |
 | SynRogue         | Celestial Sash           | Water Mask                   | Security Keycard B                 |                                 |                      |
@@ -104,47 +104,57 @@ finished players (0):
 | Char Past        | Cane of Somaria          | Hookshot                     | Hammer                             | Rupees (300)                    |                      |
 | Char Forgotten   | Cone Mouth               | Stairs Mouth                 | Wise Waddle Dee Appears            | Rare Stone                      |                      |
 | Char Dream Bros  | Hammers                  | Mini Mario                   | Spin Jump                          | Max Candy                       |                      |
+| MauveMuse        | Music Sheet              | Music Sheet                  | Music Sheet                        |                                 |                      |
+| MauvePenitent    | Purified Hand of the Nun | Wall Climb Ability           | Dash Ability                       |                                 |                      |
+| FKKirby          | Copy Ability - Hammer    | Copy Ability - Starship      | Copy Ability - Meta Knight         |                                 |                      |
+| coolhollowguy    | Mothwing_Cloak           | Desolate_Dive                | Lumafly_Lantern                    | Geo_Chest-Watcher_Knights       |                      |
+| CoolGuyCompany   | 8 Titan                  | Company Building             | 220 Assurance                      | Money                           |                      |
 
 
-| slot             | vault useful 1               | vault useful 2        | vault useful 3                  | shop useful 1                 | shop useful 2                         |
-| ---------------- | ---------------------------- | --------------------- | ------------------------------- | ----------------------------- | ------------------------------------- |
-| again.mp3        | Quick_Slash                  | Hiveblood             | Steady_Body                     | Heavy_Blow                    | Shaman_Stone                          |
-| again.mp3        | Extra Damage Against Bosses  | Krampus Sack          | Spring Season Change            | Winter Season Change          | Autumn Season Change                  |
-| automate.mp3     | belt-immunity-equipment      | lubricant             | battery                         | uranium-ammo                  | concrete                              |
-| automate.mp3     | Recipe: Power Shard (5)      | Recipe: Copper Sheet  | Building: Geothermal Generator  | Inflated Pocket Dimension     | Recipe: Rubber                        |
-| Deathclaw99TS    | Eternal Coat                 | Radiant Orb           | Eternal Crown                   | Shattered Orb                 | Bombardment                           |
-| Deathclaw99Terra | Post-Goblin Army             | Reward: Lava Charm    | Reward: Obsidian Rose           | Reward: Magic Quiver          | Reward: Lavaproof Fishing Line        |
-| Deathclaw99OOT   | Progressive Wallet           | Zora Tunic            | Hylian Shield                   | Goron Tunic                   | Deku Shield                           |
-| SylskoTunic      | Muffling Bell                | Gun                   | Magic Wand                      | Anklet                        | Magic Dagger                          |
-| SynRogue         | Talaria Attachment           | Eternal Coat          | Bombardment                     | Eternal Crown                 | Shattered Orb                         |
-| SynRegret        | Functioning Brain            | Boat                  | Puzzle Skip                     | Puzzle Skip                   | Puzzle Skip                           |
-| Soleyeer         | Brewing Hat                  | Time Stop Hat         | Fast Hatter Badge               | Projectile Badge              | Sprint Hat                            |
-| ThatFirey        | Revolver - Marksman          | Shotgun - Pump Charge | Railcannon - Electric           | Rocket Launcher - Freezeframe | Knuckleblaster                        |
-| CaesiusHIT       | Badge Pin                    | Fast Hatter Badge     | Badge Pin                       | Item Magnet Badge             | Hover Badge                           |
-| CaesiusSM64      | Ground Pound                 | Cannon Unlock WF      | Power Star                      | Cannon Unlock JRB             | Kick                                  |
-| mars.            | Fragile_Strength             | Shade_Soul            | Shaman_Stone                    | Soul_Eater                    | Quick_Slash                           |
-| mars three.      | Eternal Crown                | Talaria Attachment    | Eternal Coat                    | Selen's Bangle                | Galaxy Earrings                       |
-| TripleSDV        | Progressive Barn             | Progressive House     | Return Scepter                  | Progressive Coop              | Progressive Fishing Rod               |
-| DragoSpinsDeath  | Tablet                       | Succubus Hairpin      | Security Keycard A              | Gas Mask                      | Plasma Orb                            |
-| HatKillsDrago    | Relic (Red Crayon)           | Relic (Blue Crayon)   | Relic (Green Crayon)            | Time Stop Hat                 | Relic (Crayon Box)                    |
-| DragoLookAtDeath | Jungle Laser Shortcut (Door) | Eraser                | Quarry Entry 1 (Panel)          | Keep Shortcuts                | Mountain Floor 2 Staircase Far (Door) |
-| Alex230-Doom     | Allow Using Yellow Key       | Allow Using Blue Key  | Allow Using Red Key             | Automap                       | Allow Using Exit                      |
-| BroneyLTTP       | Progressive Bow              | Progressive Mail      | Cape                            | Cane of Byrna                 | Magic Mirror                          |
-| BroneyFactorio   | progressive-turret           | battery               | lubricant                       | concrete                      | progressive-armor                     |
-| BroneySM         | Power Bomb                   | Space Jump            | Screw Attack                    | Bomb                          | Wave Beam                             |
-| FloriTerra       | Reward: Black Belt           | Reward: Tabi          | Post-Goblin Army                | Reward: Hermes Boots          | Reward: Rod of Discord                |
-| heshpseudo       | Solar Wind                   | Sun Greaves           | Small Key                       | Ascendant Light               | Slide                                 |
-| heshmuda         | Random Song                  | Random Song           | Random Song                     | Random Song                   | Random Song                           |
-| heshut           | Mettaton Plush               | Complete Skeleton     | Fish                            | Core Key                      | Ruins Key                             |
-| sheen_pr         | Small Key                    | Small Key             | Small Key                       | Small Key                     | Small Key                             |
-| Kritzmaker       | Revolver - Sharpshooter      | Shotgun - Sawed-On    | Rocket Launcher - S.R.S. Cannon | Nailgun - JumpStart           | Nailgun - Attractor                   |
-| JudosiiOOT       | Song of Time                 | Slingshot             | Farores Wind                    | Nayrus Love                   | Suns Song                             |
-| ConnorHK         | Shaman_Stone                 | Longnail              | Dirtmouth_Stag                  | Fragile_Strength              | Quick_Slash                           |
-| HPfunmanKH       | Progressive Thunder          | Second Chance         | Cosmic Arts                     | Progressive Cure              | Accessory Slot Increase               |
-| HPfunmanBS       | Apodictic Heart of Mea Culpa | Cloistered Ruby       | Reliquary of the Fervent Heart  | Mea Culpa Upgrade             | Tiento to your Thorned Hairs          |
-| Char Past        | Magic Mirror                 | Moon Pearl            | Flute                           | Bombos                        | Lamp                                  |
-| Char Forgotten   | Progressive Hammer Ability   | Pipe Mouth            | Progressive Bomb Ability        | Progressive Sword Ability     | Progressive Fire Ability              |
-| Char Dream Bros  | Mole Mario                   | Side Drill            | Luiginary Stache Tree           | Luiginary Sneeze Wind         | Ball Hop                              |
+| slot             | vault useful 1               | vault useful 2           | vault useful 3                  | shop useful 1                 | shop useful 2                         |
+| ---------------- | ---------------------------- | ------------------------ | ------------------------------- | ----------------------------- | ------------------------------------- |
+| again.mp3        | Quick_Slash                  | Hiveblood                | Steady_Body                     | Heavy_Blow                    | Shaman_Stone                          |
+| again.mp3        | Extra Damage Against Bosses  | Krampus Sack             | Spring Season Change            | Winter Season Change          | Autumn Season Change                  |
+| automate.mp3     | belt-immunity-equipment      | lubricant                | battery                         | uranium-ammo                  | concrete                              |
+| automate.mp3     | Recipe: Power Shard (5)      | Recipe: Copper Sheet     | Building: Geothermal Generator  | Inflated Pocket Dimension     | Recipe: Rubber                        |
+| Deathclaw99TS    | Eternal Coat                 | Radiant Orb              | Eternal Crown                   | Shattered Orb                 | Bombardment                           |
+| Deathclaw99SM64  | Metal Cap                    | Power Star               | Power Star                      | Power Star                    | Power Star                            |
+| Deathclaw99OOT   | Progressive Wallet           | Zora Tunic               | Hylian Shield                   | Goron Tunic                   | Deku Shield                           |
+| SylskoTunic      | Muffling Bell                | Gun                      | Magic Wand                      | Anklet                        | Magic Dagger                          |
+| SynRogue         | Talaria Attachment           | Eternal Coat             | Bombardment                     | Eternal Crown                 | Shattered Orb                         |
+| SynRegret        | Functioning Brain            | Boat                     | Puzzle Skip                     | Puzzle Skip                   | Puzzle Skip                           |
+| Soleyeer         | Brewing Hat                  | Time Stop Hat            | Fast Hatter Badge               | Projectile Badge              | Sprint Hat                            |
+| ThatFirey        | Revolver - Marksman          | Shotgun - Pump Charge    | Railcannon - Electric           | Rocket Launcher - Freezeframe | Knuckleblaster                        |
+| CaesiusHIT       | Badge Pin                    | Fast Hatter Badge        | Badge Pin                       | Item Magnet Badge             | Hover Badge                           |
+| CaesiusSM64      | Ground Pound                 | Cannon Unlock WF         | Power Star                      | Cannon Unlock JRB             | Kick                                  |
+| mars.            | Fragile_Strength             | Shade_Soul               | Shaman_Stone                    | Soul_Eater                    | Quick_Slash                           |
+| mars three.      | Eternal Crown                | Talaria Attachment       | Eternal Coat                    | Selen's Bangle                | Galaxy Earrings                       |
+| TripleSDV        | Progressive Barn             | Progressive House        | Return Scepter                  | Progressive Coop              | Progressive Fishing Rod               |
+| DragoSpinsDeath  | Tablet                       | Succubus Hairpin         | Security Keycard A              | Gas Mask                      | Plasma Orb                            |
+| HatKillsDrago    | Relic (Red Crayon)           | Relic (Blue Crayon)      | Relic (Green Crayon)            | Time Stop Hat                 | Relic (Crayon Box)                    |
+| DragoLookAtDeath | Jungle Laser Shortcut (Door) | Eraser                   | Quarry Entry 1 (Panel)          | Keep Shortcuts                | Mountain Floor 2 Staircase Far (Door) |
+| Alex230-Doom     | Allow Using Yellow Key       | Allow Using Blue Key     | Allow Using Red Key             | Automap                       | Allow Using Exit                      |
+| BroneyLTTP       | Progressive Bow              | Progressive Mail         | Cape                            | Cane of Byrna                 | Magic Mirror                          |
+| BroneyFactorio   | progressive-turret           | battery                  | lubricant                       | concrete                      | progressive-armor                     |
+| BroneySM         | Power Bomb                   | Space Jump               | Screw Attack                    | Bomb                          | Wave Beam                             |
+| FloriTerra       | Reward: Black Belt           | Reward: Tabi             | Post-Goblin Army                | Reward: Hermes Boots          | Reward: Rod of Discord                |
+| heshpseudo       | Solar Wind                   | Sun Greaves              | Small Key                       | Ascendant Light               | Slide                                 |
+| heshmuda         | Random Song                  | Random Song              | Random Song                     | Random Song                   | Random Song                           |
+| heshut           | Mettaton Plush               | Complete Skeleton        | Fish                            | Core Key                      | Ruins Key                             |
+| sheen_pr         | Small Key                    | Small Key                | Small Key                       | Small Key                     | Small Key                             |
+| Kritzmaker       | Revolver - Sharpshooter      | Shotgun - Sawed-On       | Rocket Launcher - S.R.S. Cannon | Nailgun - JumpStart           | Nailgun - Attractor                   |
+| JudosiiOOT       | Song of Time                 | Slingshot                | Farores Wind                    | Nayrus Love                   | Suns Song                             |
+| ConnorHK         | Shaman_Stone                 | Longnail                 | Dirtmouth_Stag                  | Fragile_Strength              | Quick_Slash                           |
+| HPfunmanKH       | Progressive Thunder          | Second Chance            | Cosmic Arts                     | Progressive Cure              | Accessory Slot Increase               |
+| HPfunmanBS       | Apodictic Heart of Mea Culpa | Cloistered Ruby          | Reliquary of the Fervent Heart  | Mea Culpa Upgrade             | Tiento to your Thorned Hairs          |
+| Char Past        | Magic Mirror                 | Moon Pearl               | Flute                           | Bombos                        | Lamp                                  |
+| Char Forgotten   | Progressive Hammer Ability   | Pipe Mouth               | Progressive Bomb Ability        | Progressive Sword Ability     | Progressive Fire Ability              |
+| Char Dream Bros  | Mole Mario                   | Side Drill               | Luiginary Stache Tree           | Luiginary Sneeze Wind         | Ball Hop                              |
+| MauveMuse        | Random Song                  | Random Song              | Random Song                     | Random Song                   | Random Song                           |
+| MauvePenitent    | Blood Perpetuated in Sand    | Silvered Lung of Dolphos | Three Gnarled Tongues           | Linen of Golden Thread        | Nail Uprooted from Dirt               |
+| FKKirby          | Copy Ability - Mike          | Copy Ability - Cook      | Copy Ability - Wheel            | Copy Ability - Paint          | Copy Ability - Crash                  |
+| coolhollowguy    | Dash_Slash                   | Shaman_Stone             | Cyclone_Slash                   | Hiveblood                     | Great_Slash                           |
+| CoolGuyCompany   | Scanner                      | Shovel                   | Pro-flashlight                  | Jetpack                       | Extension ladder                      |
 
 # vault notes
 
@@ -161,10 +171,10 @@ Deathclaw99TS    | Eternal Coat
 Deathclaw99TS    | Radiant Orb
 Deathclaw99TS    | Eternal Crown
 Deathclaw99TS    | Elevator Keycard                         
-Deathclaw99Terra | Reward: Obsidian Rose      
-Deathclaw99Terra | Reward: Lava Charm         
-Deathclaw99Terra | Hardmode                          
-Deathclaw99Terra | Post-Goblin Army     
+Deathclaw99SM64  | Metal Cap
+Deathclaw99SM64  | Power Star         
+Deathclaw99SM64  | Power Star                          
+Deathclaw99SM64  | Basement Key     
 Deathclaw99OOT   | Hylian Shield     
 Deathclaw99OOT   | Progressive Hookshot              
 Deathclaw99OOT   | Zora Tunic             
@@ -281,18 +291,28 @@ Char Dream Bros  | Spin Jump
 Char Dream Bros  | Mole Mario
 Char Dream Bros  | Side Drill
 Char Dream Bros  | Luiginary Stache Tree
+MauveMuse        | Music Sheet
+MauveMuse        | Random Song
+MauveMuse        | Random Song
+MauveMuse        | Random Song
+MauvePenitent    | Dash Ability
+MauvePenitent    | Blood Perpetuated in Sand
+MauvePenitent    | Silvered Lung of Dolphos
+MauvePenitent    | Three Gnarled Tongues
+FKKirby          | Copy Ability - Meta Knight
+FKKirby          | Copy Ability - Mike
+FKKirby          | Copy Ability - Cook
+FKKirby          | Copy Ability - Wheel
+coolhollowguy    | Lumafly_Lantern
+coolhollowguy    | Dash_Slash
+coolhollowguy    | Shaman_Stone
+coolhollowguy    | Cyclone_Slash
+CoolGuyCompany   | 220 Assurance
+CoolGuyCompany   | Scanner
+CoolGuyCompany   | Shovel
+CoolGuyCompany   | Pro-flashlight
 
 # shop notes
-
-## unpurchased
-
-### progressive
-
-N/A
-
-### useful
-
-N/A
 
 ## purchased
 
@@ -304,8 +324,8 @@ automate.mp3's progressive-science-pack / Building: AWESOME Shop
 automate.mp3's progressive-science-pack / Building: Refinery
 Deathclaw99TS's Water Mask
 Deathclaw99TS's Lightwall
-Deathclaw99Terra's Post-Golem
-Deathclaw99Terra's Post-Skeletron
+Deathclaw99SM64's Second Floor Key
+Deathclaw99SM64's Long Jump
 Deathclaw99OOT's Megaton Hammer
 Deathclaw99OOT's Hover Boots
 SylskoTunic's Pages 24-25 (Prayer)
@@ -368,6 +388,16 @@ Char Forgotten's Cone Mouth
 Char Forgotten's Stairs Mouth
 Char Dream Bros's Hammers
 Char Dream Bros's Mini Mario
+MauveMuse's Music Sheet
+MauveMuse's Music Sheet (2)
+MauvePenitent's Purified Hand of the Nun
+MauvePenitent's Wall Climb Ability
+FKKirby's Copy Ability - Hammer
+FKKirby's Copy Ability - Starship
+coolhollowguy's Mothwing_Cloak
+coolhollowguy's Desolate_Dive
+CoolGuyCompany's 8 Titan
+CoolGuyCompany's Company Building
 
 ### useful
 
@@ -377,8 +407,8 @@ automate.mp3's uranium-ammo / Inflated Pocket Dimension
 automate.mp3's concrete / Recipe: Rubber
 Deathclaw99TS's Shattered Orb
 Deathclaw99TS's Bombardment
-Deathclaw99Terra's Reward: Obsidian Rose
-Deathclaw99Terra's Reward: Magic Quiver
+Deathclaw99SM64's Power Star
+Deathclaw99SM64's Power Star (2)
 Deathclaw99OOT's Goron Tunic
 Deathclaw99OOT's Deku Shield
 SylskoTunic's Anklet
@@ -441,3 +471,23 @@ Char Forgotten's Progressive Sword Ability
 Char Forgotten's Progressive Fire Ability
 Char Dream Bros's Luiginary Sneeze Wind
 Char Dream Bros's Ball Hop
+MauveMuse's Random Song
+MauveMuse's Random Song (2)
+MauvePenitent's Linen of Golden Thread
+MauvePenitent's Nail Uprooted from Dirt
+FKKirby's Copy Ability - Paint
+FKKirby's Copy Ability - Crash
+coolhollowguy's Hiveblood
+coolhollowguy's Great_Slash
+CoolGuyCompany's Extension ladder
+CoolGuyCompany's Jetpack
+
+## unpurchased
+
+### progressive
+
+N/A
+
+### useful
+
+N/A
