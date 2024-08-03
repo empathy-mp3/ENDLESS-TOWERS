@@ -640,6 +640,86 @@
         "requires": "|Vault Key:160|"
     },
     {
+        "name": "Locker 161",
+        "requires": "|Vault Key:161|"
+    },
+    {
+        "name": "Locker 162",
+        "requires": "|Vault Key:162|"
+    },
+    {
+        "name": "Locker 163",
+        "requires": "|Vault Key:163|"
+    },
+    {
+        "name": "Locker 164",
+        "requires": "|Vault Key:164|"
+    },
+    {
+        "name": "Locker 165",
+        "requires": "|Vault Key:165|"
+    },
+    {
+        "name": "Locker 166",
+        "requires": "|Vault Key:166|"
+    },
+    {
+        "name": "Locker 167",
+        "requires": "|Vault Key:167|"
+    },
+    {
+        "name": "Locker 168",
+        "requires": "|Vault Key:168|"
+    },
+    {
+        "name": "Locker 169",
+        "requires": "|Vault Key:169|"
+    },
+    {
+        "name": "Locker 170",
+        "requires": "|Vault Key:170|"
+    },
+    {
+        "name": "Locker 171",
+        "requires": "|Vault Key:171|"
+    },
+    {
+        "name": "Locker 172",
+        "requires": "|Vault Key:172|"
+    },
+    {
+        "name": "Locker 173",
+        "requires": "|Vault Key:173|"
+    },
+    {
+        "name": "Locker 174",
+        "requires": "|Vault Key:174|"
+    },
+    {
+        "name": "Locker 175",
+        "requires": "|Vault Key:175|"
+    },
+    {
+        "name": "Locker 176",
+        "requires": "|Vault Key:176|"
+    },
+    {
+        "name": "Locker 177",
+        "requires": "|Vault Key:177|"
+    },
+    {
+        "name": "Locker 178",
+        "requires": "|Vault Key:178|"
+    },
+    {
+        "name": "Locker 179",
+        "requires": "|Vault Key:179|"
+    },
+    {
+        "name": "Locker 180",
+        "requires": "|Vault Key:180|"
+    },
+    {
         "name": "victory",
         "victory": true
     }

@@ -1,0 +1,369 @@
+﻿# original filename: numgasRogueTUNIC.yaml
+# Q. What is this file?
+# A. This file contains options which allow you to configure your multiworld experience while allowing
+#    others to play how they want as well.
+#
+# Q. How do I use it?
+# A. The options in this file are weighted. This means the higher number you assign to a value, the
+#    more chances you have for that option to be chosen. For example, an option like this:
+#
+#    map_shuffle:
+#      on: 5
+#      off: 15
+#
+#    Means you have 5 chances for map shuffle to occur, and 15 chances for map shuffle to be turned
+#    off.
+#
+# Q. I've never seen a file like this before. What characters am I allowed to use?
+# A. This is a .yaml file. You are allowed to use most characters.
+#    To test if your yaml is valid or not, you can use this website:
+#        http://www.yamllint.com/
+#    You can also verify that your Archipelago options are valid at this site:
+#        https://archipelago.gg/check
+
+# Your name in-game, limited to 16 characters.
+#     {player} will be replaced with the player's slot number.
+#     {PLAYER} will be replaced with the player's slot number, if that slot number is greater than 1.
+#     {number} will be replaced with the counter value of the name.
+#     {NUMBER} will be replaced with the counter value of the name, if the counter value is greater than 1.
+name: numgasRogueTUNIC
+
+# Used to describe your yaml. Useful if you have multiple files.
+description: Roguelike Tunic babeeeey
+
+game: TUNIC
+requires:
+  version: 0.5.0 # Version of Archipelago required for this yaml to work as expected.
+
+TUNIC:
+  # Game Options
+  progression_balancing:
+    # A system that can move progression earlier, to try and prevent the player from getting stuck and bored early.
+    # 
+    # A lower setting means more getting stuck. A higher setting means less getting stuck.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 99
+    random: 50
+    random-low: 0
+    random-high: 0
+    disabled: 0 # equivalent to 0
+    normal: 0 # equivalent to 50
+    extreme: 0 # equivalent to 99
+
+  accessibility:
+    # Set rules for reachability of your items/locations.
+    # 
+    # - **Locations:** ensure everything can be reached and acquired.
+    # - **Items:** ensure all logically relevant items can be acquired.
+    # - **Minimal:** ensure what is needed to reach your goal can be acquired.
+    locations: 0
+    items: 50
+    minimal: 0
+
+  sword_progression:
+    # Adds four sword upgrades to the item pool that will progressively grant stronger melee weapons, including two new swords with increased range and attack power.
+    'false': 0
+    'true': 50
+
+  start_with_sword:
+    # Start with a sword in the player's inventory. Does not count towards Sword Progression.
+    'false': 50
+    'true': 0
+
+  keys_behind_bosses:
+    # Places the three hexagon keys behind their respective boss fight in your world.
+    'false': 50
+    'true': 0
+
+  ability_shuffling:
+    # Locks the usage of Prayer, Holy Cross*, and the Icebolt combo until the relevant pages of the manual have been found.
+    # If playing Hexagon Quest, abilities are instead randomly unlocked after obtaining 25%, 50%, and 75% of the required Hexagon goal amount.
+    # * Certain Holy Cross usages are still allowed, such as the free bomb codes, the seeking spell, and other player-facing codes.
+    'false': 0
+    'true': 50
+
+  shuffle_ladders:
+    # Turns several ladders in the game into items that must be found before they can be climbed on.
+    # Adds more layers of progression to the game by blocking access to many areas early on.
+    # "Ladders were a mistake."
+    # —Andrew Shouldice
+    'false': 25
+    'true': 25
+
+  entrance_rando:
+    # Randomize the connections between scenes.
+    # A small, very lost fox on a big adventure.
+    # 
+    # If you set this option's value to a string, it will be used as a custom seed.
+    # Every player who uses the same custom seed will have the same entrances, choosing the most restrictive settings among these players for the purpose of pairing entrances.
+    'no': 25
+    'yes': 25
+
+  fixed_shop:
+    # Forces the Windmill entrance to lead to a shop, and removes the remaining shops from the pool.
+    # Adds another entrance in Rooted Ziggurat Lower to keep an even number of entrances.
+    # Has no effect if Entrance Rando is not enabled.
+    'false': 50
+    'true': 0
+
+  fool_traps:
+    # Replaces low-to-medium value money rewards in the item pool with fool traps, which cause random negative effects to the player.
+    'off': 0
+    normal: 50
+    double: 0
+    onslaught: 0
+
+  hexagon_quest:
+    # An alternate goal that shuffles Gold "Questagon" items into the item pool and allows the game to be completed after collecting the required number of them.
+    'false': 0
+    'true': 50
+
+  hexagon_goal:
+    # How many Gold Questagons are required to complete the game on Hexagon Quest.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 15
+    # Maximum value is 50
+    20: 0
+    random: 50
+    random-low: 0
+    random-high: 0
+
+  extra_hexagon_percentage:
+    # How many extra Gold Questagons are shuffled into the item pool, taken as a percentage of the goal amount.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 100
+    50: 0
+    random: 50
+    random-low: 0
+    random-high: 0
+
+  laurels_location:
+    # Force the Hero's Laurels to be placed at a location in your world.
+    # For if you want to avoid or specify early or late Laurels.
+    anywhere: 50
+    6_coins: 0
+    10_coins: 0
+    10_fairies: 0
+
+  plando_connections:
+    # Generic connection plando. Format is:
+    # - entrance: "Entrance Name"
+    #   exit: "Exit Name"
+    #   percentage: 100
+    # Percentage is an integer from 0 to 100 which determines whether that connection will be made. Defaults to 100 if omitted.
+    []
+
+  # Logic Options
+  logic_rules:
+    # Set which logic rules to use for your world.
+    # Restricted: Standard logic, no glitches.
+    # No Major Glitches: Sneaky Laurels zips, ice grapples through doors, shooting the west bell, and boss quick kills are included in logic.
+    # * Ice grappling through the Ziggurat door is not in logic since you will get stuck in there without Prayer.
+    # Unrestricted: Logic in No Major Glitches, as well as ladder storage to get to certain places early.
+    # * Torch is given to the player at the start of the game due to the high softlock potential with various tricks. Using the torch is not required in logic.
+    # * Using Ladder Storage to get to individual chests is not in logic to avoid tedium.
+    # * Getting knocked out of the air by enemies during Ladder Storage to reach places is not in logic, except for in Rooted Ziggurat Lower. This is so you're not punished for playing with enemy rando on.
+    restricted: 50
+    no_major_glitches: 0
+    unrestricted: 0
+
+  lanternless:
+    # Choose whether you require the Lantern for dark areas.
+    # When enabled, the Lantern is marked as Useful instead of Progression.
+    'false': 50
+    'true': 0
+
+  maskless:
+    # Choose whether you require the Scavenger's Mask for Lower Quarry.
+    # When enabled, the Scavenger's Mask is marked as Useful instead of Progression.
+    'false': 50
+    'true': 0
+
+  # Item & Location Options
+  local_items:
+    # Forces these items to be in their native world.
+    []
+
+  non_local_items:
+    # Forces these items to be outside their native world.
+    []
+
+  start_inventory:
+    # Start with these items.
+    {}
+
+  start_hints:
+    # Start with these item's locations prefilled into the ``!hint`` command.
+    []
+
+  start_location_hints:
+    # Start with these locations and their item prefilled into the ``!hint`` command.
+    []
+
+  exclude_locations:
+    # Prevent these locations from having an important item.
+    []
+
+  priority_locations:
+    # Prevent these locations from having an unimportant item.
+    []
+
+  item_links:
+    # Share part of your item pool with other players.
+    []
+
+  start_inventory_from_pool:
+    # Start with these items and don't place them in the world.
+    # 
+    # The game decides what the replacement items will be.
+    {}
+  plando_items:
+    - item:
+        Pages 24-25 (Prayer): 1
+      location: numgasRogueTUNIC's Pages 24-25 (Prayer)
+      world: The Shop
+      force: true
+    - item:
+        Pages 42-43 (Holy Cross): 1
+      location: numgasRogueTUNIC's Pages 42-43 (Holy Cross)
+      world: The Shop
+      force: true
+    - item:
+        Sword Upgrade: 1
+      location: numgasRogueTUNIC's Sword Upgrade
+      world: The Shop
+      force: true
+    - item:
+        Sword Upgrade: 1
+      location: numgasRogueTUNIC's Sword Upgrade (2)
+      world: The Shop
+      force: true
+    - item:
+        Hero's Laurels: 1
+      location: Locker 161
+      world: The Vault
+      force: true
+    - item:
+        Magic Wand: 1
+      location: Locker 162
+      world: The Vault
+      force: true
+    - item:
+        Sword Upgrade: 1
+      location: Locker 163
+      world: The Vault
+      force: true
+    - item:
+        Sword Upgrade: 1
+      location: Locker 164
+      world: The Vault
+      force: true
+
+---
+# original filename: numRogueINSCRYPT.yaml
+Inscryption:
+  progression_balancing: 50
+  accessibility: items
+  
+  # false: Only die when you die (vanilla).
+  # true: When other players using deathlink die, you die as well.
+  deathlink: 'true'
+  
+  # 0: Send a death when sacrificed by Leshy. Receiving a death will extinguish all candles.
+  # 1: Send a death when a candle is extinguished. Receiving a death will extinguish a candle.
+  act1_deathlink_behaviour: 0
+  
+  # 0: Complete each act and the epilogue in order. You can return to previously completed acts.
+  # 1: Complete each act in any order, then the epilogue. All acts are available from the start.
+  # 2: Complete Act 1 by finding the New Game button. Great for a smaller scale randomizer.
+  goal: 1
+
+  # false: No code randomization (vanilla)
+  # true: randomizes certain codes and passwords so that you can't unlock everything by memory.  
+  randomize_codes: 'false'
+  
+  # 0: No deck randomization (vanilla).
+  # 1: Randomize cards within their type on each encounter (keep rarity/scrybe type).
+  # 2: Randomize cards completely on each encounter.
+  # 3: Randomize cards from starter decks only (start of act 1 runs, start of act 2 and 3).
+  randomize_deck: 3
+  
+  # 0: No sigil randomization (vanilla).
+  # 1: Randomize sigils added from sacrifices or other means every encounter.
+  # 2: Randomize every sigils contained on cards every encounter.
+  randomize_sigils: 0
+  
+  # 0: Make a death card on every act 1 death (vanilla).
+  # 1: Gain the option to skip death cards on every act 1 death.
+  # 2: Gain the option to skip death cards only when dying from death link in act 1.
+  optional_death_card: 0
+  
+  # false: Play through the tutorial (vanilla).
+  # true: Skip the first few tutorial runs. Bones are available from the start.
+  skip_tutorial: 'true'
+  
+  # false: Play through the epilogue to reach the goal.
+  # true: Reach the goal after completing the required acts without playing the epilogue.
+  skip_epilogue: 'true'
+  
+  # 0: Randomizes all nine pieces as their own item.
+  # 1: Randomizes pieces in groups of three.
+  # 2: Group all nine pieces as a single item.
+  epitaph_pieces_randomization: 1
+  
+  # 0: Adds no progression logic to the 2nd and 3rd painting checks. They will all count as sphere 1 (reachable early game checks).
+  # 1: Adds rules to the 2nd and 3rd painting checks. Early game items are less likely to appear into these paintings.
+  # 2: For when you dislike doing these last two paintings. Their checks will only contain filler items.
+  painting_checks_balancing: 0
+  plando_items:
+    - item:
+        Inspectometer Battery: 1
+      location: numRogueINSCRYPT's Inspectometer Battery
+      world: The Shop
+      force: true
+    - item:
+        Gem Module: 1
+      location: numRogueINSCRYPT's Gem Module
+      world: The Shop
+      force: true
+    - item:
+        Bee Figurine: 1
+      location: numRogueINSCRYPT's Bee Figurine
+      world: The Shop
+      force: true
+    - item:
+        Ourobot Card: 1
+      location: numRogueINSCRYPT's Ourobot Card
+      world: The Shop
+      force: true
+    - item:
+        Film Roll: 1
+      location: Locker 165
+      world: The Vault
+      force: true
+    - item:
+        Extra Candle: 1
+      location: Locker 166
+      world: The Vault
+      force: true
+    - item:
+        Mrs. Bomb's Remote: 1
+      location: Locker 167
+      world: The Vault
+      force: true
+    - item:
+        Dock's Clover Plant: 1
+      location: Locker 168
+      world: The Vault
+      force: true
+  
+description: 'Template file from https://github.com/DrBibop/Archipelago_Inscryption/releases'
+game: Inscryption
+
+# Change this to your own username
+name: numRogueINSCRYPT

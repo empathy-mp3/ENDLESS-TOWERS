@@ -108,7 +108,12 @@ finished players (0):
 | MauvePenitent    | Purified Hand of the Nun | Wall Climb Ability           | Dash Ability                       |                                 |                      |
 | FKKirby          | Copy Ability - Hammer    | Copy Ability - Starship      | Copy Ability - Meta Knight         |                                 |                      |
 | coolhollowguy    | Mothwing_Cloak           | Desolate_Dive                | Lumafly_Lantern                    | Geo_Chest-Watcher_Knights       |                      |
-| CoolGuyCompany   | 8 Titan                  | Company Building             | 220 Assurance                      | Money                           |                      |
+| CoolGuyCompany   | Titan                    | Company Building             | Assurance                          | Money                           |                      |
+| numgasRogueTUNIC | Pages 24-25 (Prayer)     | Pages 42-43 (Holy Cross)     | Hero's Laurels                     | Lure                            |                      |
+| numRogueINSCRYPT | Inspectometer Battery    | Gem Module                   | Film Roll                          | Card Pack                       |                      |
+| superMessEndless | Rope Dart                | Wingsuit                     | Lightfoot Tabi                     | Time Shard (500)                |                      |
+| superTUNCEndless | Magic Orb                | Scavenger Mask               | Lantern                            | Lure x2                         |                      |
+| superUTEndless   | Waterfall Key            | Mettaton Plush               | Core Key                           | 1000G                           |                      |
 
 
 | slot             | vault useful 1               | vault useful 2           | vault useful 3                  | shop useful 1                 | shop useful 2                         |
@@ -155,6 +160,11 @@ finished players (0):
 | FKKirby          | Copy Ability - Mike          | Copy Ability - Cook      | Copy Ability - Wheel            | Copy Ability - Paint          | Copy Ability - Crash                  |
 | coolhollowguy    | Dash_Slash                   | Shaman_Stone             | Cyclone_Slash                   | Hiveblood                     | Great_Slash                           |
 | CoolGuyCompany   | Scanner                      | Shovel                   | Pro-flashlight                  | Jetpack                       | Extension ladder                      |
+| numgasRogueTUNIC | Magic Wand                   | Sword Upgrade            | Sword Upgrade                   | Sword Upgrade                 | Sword Upgrade                         |
+| numRogueINSCRYPT | Extra Candle                 | Mrs. Bomb's Remote       | Dock's Clover Plant             | Bee Figurine                  | Ourobot Card                          |
+| superMessEndless | Second Wind                  | Karuta Plates            | Strike of the Ninja             | Path of Resilience            | Meditation                            |
+| superTUNCEndless | Magic Dagger                 | Gun                      | Shield                          | Magic Wand                    | Sword Upgrade                         |
+| superUTEndless   | Butterscotch Pie             | Instant Noodles          | Snowman Piece                   | Snowman Piece                 | Snowman Piece                         |
 
 # vault notes
 
@@ -307,10 +317,30 @@ coolhollowguy    | Lumafly_Lantern
 coolhollowguy    | Dash_Slash
 coolhollowguy    | Shaman_Stone
 coolhollowguy    | Cyclone_Slash
-CoolGuyCompany   | 220 Assurance
+CoolGuyCompany   | Assurance
 CoolGuyCompany   | Scanner
 CoolGuyCompany   | Shovel
 CoolGuyCompany   | Pro-flashlight
+numgasRogueTUNIC | Hero's Laurels
+numgasRogueTUNIC | Magic Wand
+numgasRogueTUNIC | Sword Upgrade
+numgasRogueTUNIC | Sword Upgrade
+numRogueINSCRYPT | Film Roll
+numRogueINSCRYPT | Extra Candle
+numRogueINSCRYPT | Mrs. Bomb's Remote
+numRogueINSCRYPT | Dock's Clover Plant
+superMessEndless | Lightfoot Tabi
+superMessEndless | Second Wind
+superMessEndless | Karuta Plates
+superMessEndless | Strike of the Ninja
+superTUNCEndless | Lantern
+superTUNCEndless | Magic Dagger
+superTUNCEndless | Gun
+superTUNCEndless | Shield
+superUTEndless   | Core Key
+superUTEndless   | Butterscotch Pie
+superUTEndless   | Instant Noodles
+superUTEndless   | Snowman Piece
 
 # shop notes
 
@@ -396,8 +426,18 @@ FKKirby's Copy Ability - Hammer
 FKKirby's Copy Ability - Starship
 coolhollowguy's Mothwing_Cloak
 coolhollowguy's Desolate_Dive
-CoolGuyCompany's 8 Titan
+CoolGuyCompany's Titan
 CoolGuyCompany's Company Building
+numgasRogueTUNIC's Pages 24-25 (Prayer)
+numgasRogueTUNIC's Pages 42-43 (Holy Cross)
+numRogueINSCRYPT's Inspectometer Battery
+numRogueINSCRYPT's Gem Module
+superMessEndless's Rope Dart
+superMessEndless's Wingsuit
+superTUNCEndless's Magic Orb
+superTUNCEndless's Scavenger Mask
+superUTEndless's Waterfall Key
+superUTEndless's Mettaton Plush
 
 ### useful
 
@@ -481,6 +521,16 @@ coolhollowguy's Hiveblood
 coolhollowguy's Great_Slash
 CoolGuyCompany's Extension ladder
 CoolGuyCompany's Jetpack
+numgasRogueTUNIC's Sword Upgrade
+numgasRogueTUNIC's Sword Upgrade (2)
+numRogueINSCRYPT's Bee Figurine
+numRogueINSCRYPT's Ourobot Card
+superMessEndless's Path of Resilience
+superMessEndless's Meditation
+superTUNCEndless's Magic Wand
+superTUNCEndless's Sword Upgrade
+superUTEndless's Snowman Piece
+superUTEndless's Snowman Piece (2)
 
 ## unpurchased
 

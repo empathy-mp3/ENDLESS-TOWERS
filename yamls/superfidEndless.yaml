@@ -1,0 +1,680 @@
+﻿# original filename: The Messenger.yaml
+name: superMessEndless
+
+# Used to describe your yaml. Useful if you have multiple files.
+description: Default The Messenger Template
+
+game: The Messenger
+requires:
+  version: 0.5.0 # Version of Archipelago required for this yaml to work as expected.
+
+The Messenger:
+  # Game Options
+  progression_balancing:
+    # A system that can move progression earlier, to try and prevent the player from getting stuck and bored early.
+    # 
+    # A lower setting means more getting stuck. A higher setting means less getting stuck.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 99
+    random: 0
+    random-low: 0
+    random-high: 0
+    disabled: 0 # equivalent to 0
+    normal: 50 # equivalent to 50
+    extreme: 0 # equivalent to 99
+
+  accessibility:
+    # Set rules for reachability of your items/locations.
+    # 
+    # - **Locations:** ensure everything can be reached and acquired.
+    # - **Items:** ensure all logically relevant items can be acquired.
+    # - **Minimal:** ensure what is needed to reach your goal can be acquired.
+    locations: 0
+    items: 0
+    minimal: 50
+
+  death_link:
+    # When you die, everyone dies. Of course the reverse is true too.
+    'false': 0
+    'true': 50
+
+  logic_level:
+    # The level of logic to use when determining what locations in your world are accessible.
+    # 
+    # Normal: Can require damage boosts, but otherwise approachable for someone who has beaten the game.
+    # Hard: Expects more knowledge and tighter execution. Has leashing, normal clips and much tighter d-boosting in logic.
+    normal: 50
+    hard: 0
+
+  shuffle_shards:
+    # Whether mega shards should be item locations.
+    'false': 1
+    'true': 4
+
+  limited_movement:
+    # Removes either rope dart or wingsuit from the itempool. Forces logic to at least hard and accessibility to minimal.
+    'false': 50
+    'true': 0
+
+  early_meditation:
+    # Guarantees meditation will be found early
+    'false': 0
+    'true': 50
+
+  available_portals:
+    # Number of portals that are available from the start. Autumn Hills, Howling Grotto, and Glacial Peak are always available. If portal outputs are not randomized, Searing Crags will also be available.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 3
+    # Maximum value is 6
+    6: 0
+    random: 50
+    random-low: 0
+    random-high: 0
+
+  shuffle_portals:
+    # Whether the portals lead to random places.
+    # Entering a portal from its vanilla area will always lead to HQ, and will unlock it if relevant.
+    # Supports plando.
+    # 
+    # None: Portals will take you where they're supposed to.
+    # Shops: Portals can lead to any area except Music Box and Elemental Skylands, with each portal output guaranteed to not overlap with another portal's. Will only put you at a portal or a shop.
+    # Checkpoints: Like Shops except checkpoints without shops are also valid drop points.
+    # Anywhere: Like Checkpoints except it's possible for multiple portals to output to the same map.
+    none: 90
+    shops: 0
+    checkpoints: 0
+    anywhere: 10
+
+  goal:
+    # Requirement to finish the game. To win with the power seal hunt goal, you must enter the Music Box through the shop chest.
+    open_music_box: 2
+    power_seal_hunt: 1
+
+  music_box:
+    # Whether the music box gauntlet needs to be done.
+    'false': 50
+    'true': 50
+
+  notes_needed:
+    # How many notes are needed to access the Music Box.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 6
+    random-range-3-6: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  total_seals:
+    # Number of power seals that exist in the item pool when power seal hunt is the goal.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 85
+    random-range-30-60: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  percent_seals_required:
+    # Percentage of total seals required to open the shop chest.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 10
+    # Maximum value is 100
+    random-range-90-100: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  traps:
+    # Whether traps should be included in the itempool.
+    'false': 2
+    'true': 1
+
+  shop_price:
+    # Percentage modifier for shuffled item prices in shops
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 25
+    # Maximum value is 400
+    25: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  shop_price_plan:
+    # Plan specific prices on shop slots. Supports weighting
+    {}
+
+  portal_plando:
+    # Plando connections to be used with portal shuffle. Direction is ignored.
+    # List of valid connections can be found here: https://github.com/ArchipelagoMW/Archipelago/blob/main/worlds/messenger/portals.py#L12.
+    # The entering Portal should *not* have "Portal" appended.
+    # For the exits, those in checkpoints and shops should just be the name of the spot, while portals should have " Portal" at the end.
+    # Example:
+    # - entrance: Riviere Turquoise
+    #   exit: Wingsuit
+    # - entrance: Sunken Shrine
+    #   exit: Sunny Day
+    # - entrance: Searing Crags
+    #   exit: Glacial Peak Portal
+    []
+
+  # Item & Location Options
+  local_items:
+    # Forces these items to be in their native world.
+    []
+
+  non_local_items:
+    # Forces these items to be outside their native world.
+    []
+
+  start_inventory:
+    # Start with these items and don't place them in the world.
+    # 
+    # The game decides what the replacement items will be.
+    {}
+
+  start_hints:
+    # Start with these item's locations prefilled into the ``!hint`` command.
+    []
+
+  start_location_hints:
+    # Start with these locations and their item prefilled into the ``!hint`` command.
+    []
+
+  exclude_locations:
+    # Prevent these locations from having an important item.
+    []
+
+  priority_locations:
+    # Prevent these locations from having an unimportant item.
+    []
+
+  item_links:
+    # Share part of your item pool with other players.
+    []
+  plando_items:
+    - item:
+        Rope Dart: 1
+      location: superMessEndless's Rope Dart
+      world: The Shop
+      force: true
+    - item:
+        Wingsuit: 1
+      location: superMessEndless's Wingsuit
+      world: The Shop
+      force: true
+    - item:
+        Path of Resilience: 1
+      location: superMessEndless's Path of Resilience
+      world: The Shop
+      force: true
+    - item:
+        Meditation: 1
+      location: superMessEndless's Meditation
+      world: The Shop
+      force: true
+    - item:
+        Lightfoot Tabi: 1
+      location: Locker 169
+      world: The Vault
+      force: true
+    - item:
+        Second Wind: 1
+      location: Locker 170
+      world: The Vault
+      force: true
+    - item:
+        Karuta Plates: 1
+      location: Locker 171
+      world: The Vault
+      force: true
+    - item:
+        Strike of the Ninja: 1
+      location: Locker 172
+      world: The Vault
+      force: true
+
+---
+# original filename: TUNIC.yaml
+name: superTUNCEndless
+
+# Used to describe your yaml. Useful if you have multiple files.
+description: Default TUNIC Template
+
+game: TUNIC
+requires:
+  version: 0.5.0 # Version of Archipelago required for this yaml to work as expected.
+
+TUNIC:
+  # Game Options
+  progression_balancing:
+    # A system that can move progression earlier, to try and prevent the player from getting stuck and bored early.
+    # 
+    # A lower setting means more getting stuck. A higher setting means less getting stuck.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 99
+    random: 0
+    random-low: 0
+    random-high: 0
+    disabled: 0 # equivalent to 0
+    normal: 50 # equivalent to 50
+    extreme: 0 # equivalent to 99
+
+  accessibility:
+    # Set rules for reachability of your items/locations.
+    # 
+    # - **Locations:** ensure everything can be reached and acquired.
+    # - **Items:** ensure all logically relevant items can be acquired.
+    # - **Minimal:** ensure what is needed to reach your goal can be acquired.
+    locations: 0
+    items: 50
+    minimal: 0
+
+  sword_progression:
+    # Adds four sword upgrades to the item pool that will progressively grant stronger melee weapons, including two new swords with increased range and attack power.
+    'false': 1
+    'true': 2
+
+  start_with_sword:
+    # Start with a sword in the player's inventory. Does not count towards Sword Progression.
+    'false': 90
+    'true': 10
+
+  keys_behind_bosses:
+    # Places the three hexagon keys behind their respective boss fight in your world.
+    'false': 4
+    'true': 1
+
+  ability_shuffling:
+    # Locks the usage of Prayer, Holy Cross*, and the Icebolt combo until the relevant pages of the manual have been found.
+    # If playing Hexagon Quest, abilities are instead randomly unlocked after obtaining 25%, 50%, and 75% of the required Hexagon goal amount.
+    # * Certain Holy Cross usages are still allowed, such as the free bomb codes, the seeking spell, and other player-facing codes.
+    'false': 5
+    'true': 95
+
+  shuffle_ladders:
+    # Turns several ladders in the game into items that must be found before they can be climbed on.
+    # Adds more layers of progression to the game by blocking access to many areas early on.
+    # "Ladders were a mistake."
+    # —Andrew Shouldice
+    'false': 1
+    'true': 3
+
+  entrance_rando:
+    # Randomize the connections between scenes.
+    # A small, very lost fox on a big adventure.
+    # 
+    # If you set this option's value to a string, it will be used as a custom seed.
+    # Every player who uses the same custom seed will have the same entrances, choosing the most restrictive settings among these players for the purpose of pairing entrances.
+    'no': 50
+    'yes': 0
+
+  fixed_shop:
+    # Forces the Windmill entrance to lead to a shop, and removes the remaining shops from the pool.
+    # Adds another entrance in Rooted Ziggurat Lower to keep an even number of entrances.
+    # Has no effect if Entrance Rando is not enabled.
+    'false': 50
+    'true': 0
+
+  fool_traps:
+    # Replaces low-to-medium value money rewards in the item pool with fool traps, which cause random negative effects to the player.
+    'off': 2
+    normal: 3
+    double: 2
+    onslaught: 1
+
+  hexagon_quest:
+    # An alternate goal that shuffles Gold "Questagon" items into the item pool and allows the game to be completed after collecting the required number of them.
+    'false': 1
+    'true': 1
+
+  hexagon_goal:
+    # How many Gold Questagons are required to complete the game on Hexagon Quest.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 15
+    # Maximum value is 50
+    random-range-15-25: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  extra_hexagon_percentage:
+    # How many extra Gold Questagons are shuffled into the item pool, taken as a percentage of the goal amount.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 100
+    50: 0
+    random: 50
+    random-low: 0
+    random-high: 0
+
+  laurels_location:
+    # Force the Hero's Laurels to be placed at a location in your world.
+    # For if you want to avoid or specify early or late Laurels.
+    anywhere: 7
+    6_coins: 0
+    10_coins: 0
+    10_fairies: 3
+
+  plando_connections:
+    # Generic connection plando. Format is:
+    # - entrance: "Entrance Name"
+    #   exit: "Exit Name"
+    #   percentage: 100
+    # Percentage is an integer from 0 to 100 which determines whether that connection will be made. Defaults to 100 if omitted.
+    []
+
+  # Logic Options
+  logic_rules:
+    # Set which logic rules to use for your world.
+    # Restricted: Standard logic, no glitches.
+    # No Major Glitches: Sneaky Laurels zips, ice grapples through doors, shooting the west bell, and boss quick kills are included in logic.
+    # * Ice grappling through the Ziggurat door is not in logic since you will get stuck in there without Prayer.
+    # Unrestricted: Logic in No Major Glitches, as well as ladder storage to get to certain places early.
+    # * Torch is given to the player at the start of the game due to the high softlock potential with various tricks. Using the torch is not required in logic.
+    # * Using Ladder Storage to get to individual chests is not in logic to avoid tedium.
+    # * Getting knocked out of the air by enemies during Ladder Storage to reach places is not in logic, except for in Rooted Ziggurat Lower. This is so you're not punished for playing with enemy rando on.
+    restricted: 50
+    no_major_glitches: 0
+    unrestricted: 0
+
+  lanternless:
+    # Choose whether you require the Lantern for dark areas.
+    # When enabled, the Lantern is marked as Useful instead of Progression.
+    'false': 50
+    'true': 0
+
+  maskless:
+    # Choose whether you require the Scavenger's Mask for Lower Quarry.
+    # When enabled, the Scavenger's Mask is marked as Useful instead of Progression.
+    'false': 50
+    'true': 0
+
+  # Item & Location Options
+  local_items:
+    # Forces these items to be in their native world.
+    []
+
+  non_local_items:
+    # Forces these items to be outside their native world.
+    []
+
+  start_inventory:
+    # Start with these items.
+    Money x200: 20
+
+  start_hints:
+    # Start with these item's locations prefilled into the ``!hint`` command.
+    []
+
+  start_location_hints:
+    # Start with these locations and their item prefilled into the ``!hint`` command.
+    []
+
+  exclude_locations:
+    # Prevent these locations from having an important item.
+    []
+
+  priority_locations:
+    # Prevent these locations from having an unimportant item.
+    []
+
+  item_links:
+    # Share part of your item pool with other players.
+    []
+
+  start_inventory_from_pool:
+    # Start with these items and don't place them in the world.
+    # 
+    # The game decides what the replacement items will be.
+    {}
+  plando_items:
+    - item:
+        Magic Orb: 1
+      location: superTUNCEndless's Magic Orb
+      world: The Shop
+      force: true
+    - item:
+        Scavenger Mask: 1
+      location: superTUNCEndless's Scavenger Mask
+      world: The Shop
+      force: true
+    - item:
+        Magic Wand: 1
+      location: superTUNCEndless's Magic Wand
+      world: The Shop
+      force: true
+    - item:
+        Sword Upgrade: 1
+      location: superTUNCEndless's Sword Upgrade
+      world: The Shop
+      force: true
+    - item:
+        Lantern: 1
+      location: Locker 173
+      world: The Vault
+      force: true
+    - item:
+        Magic Dagger: 1
+      location: Locker 174
+      world: The Vault
+      force: true
+    - item:
+        Gun: 1
+      location: Locker 175
+      world: The Vault
+      force: true
+    - item:
+        Shield: 1
+      location: Locker 176
+      world: The Vault
+      force: true
+
+---
+# original filename: Undertale.yaml
+name: superUTEndless
+
+# Used to describe your yaml. Useful if you have multiple files.
+description: Default Undertale Template
+
+game: Undertale
+requires:
+  version: 0.5.0 # Version of Archipelago required for this yaml to work as expected.
+
+Undertale:
+  # Game Options
+  progression_balancing:
+    # A system that can move progression earlier, to try and prevent the player from getting stuck and bored early.
+    # 
+    # A lower setting means more getting stuck. A higher setting means less getting stuck.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 99
+    random: 0
+    random-low: 0
+    random-high: 0
+    disabled: 0 # equivalent to 0
+    normal: 50 # equivalent to 50
+    extreme: 0 # equivalent to 99
+
+  accessibility:
+    # Set rules for reachability of your items/locations.
+    # 
+    # - **Locations:** ensure everything can be reached and acquired.
+    # - **Items:** ensure all logically relevant items can be acquired.
+    # - **Minimal:** ensure what is needed to reach your goal can be acquired.
+    locations: 0
+    items: 50
+    minimal: 0
+
+  triggers:
+  - option_category: Undertale
+    option_name: no_equips
+    option_result: true
+    options:
+      Undertale:
+        only_flakes: false
+  - option_category: Undertale
+    option_name: only_flakes
+    option_result: true
+    options:
+      Undertale:
+        no_equips: false
+
+  route_required:
+    # Main route of the game required to win.
+    neutral: 0
+    pacifist: 0
+    genocide: 50
+    all_routes: 0
+
+  starting_area:
+    # Which area to start with access to.
+    ruins: 2
+    snowdin: 2
+    waterfall: 0
+    hotland: 1
+    core: 0
+
+  key_hunt:
+    # Adds Key Pieces to the item pool, you need all of them to enter the last corridor.
+    'false': 1
+    'true': 4
+
+  key_pieces:
+    # How many Key Pieces are added to the pool, only matters with Key Piece Hunt enabled.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 10
+    random-range-3-10: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  rando_love:
+    # Adds LOVE to the pool. Only matters if your goal includes Genocide route
+    'false': 0
+    'true': 50
+
+  rando_stats:
+    # Makes each stat increase from LV a separate item. Only matters if your goal includes Genocide route
+    # Warning: This tends to spam chat with sending out checks.
+    'false': 0
+    'true': 50
+
+  temy_include:
+    # Adds Temmy Armor to the item pool.
+    'false': 3
+    'true': 1
+
+  no_equips:
+    # Removes all equippable items.
+    'false': 9
+    'true': 1
+
+  only_flakes:
+    # Replaces all non-required items, except equipment, with Temmie Flakes.
+    'false': 90
+    'true': 10
+
+  prog_armor:
+    # Makes the armor progressive.
+    'false': 1
+    'true': 3
+
+  prog_weapons:
+    # Makes the weapons progressive.
+    'false': 1
+    'true': 3
+
+  rando_item_button:
+    # Turns the ITEM button in battle into an item you have to receive.
+    'false': 8
+    'true': 2
+
+  # Item & Location Options
+  local_items:
+    # Forces these items to be in their native world.
+    []
+
+  non_local_items:
+    # Forces these items to be outside their native world.
+    []
+
+  start_inventory:
+    # Start with these items.
+    {}
+
+  start_hints:
+    # Start with these item's locations prefilled into the ``!hint`` command.
+    []
+
+  start_location_hints:
+    # Start with these locations and their item prefilled into the ``!hint`` command.
+    []
+
+  exclude_locations:
+    # Prevent these locations from having an important item.
+    []
+
+  priority_locations:
+    # Prevent these locations from having an unimportant item.
+    []
+
+  item_links:
+    # Share part of your item pool with other players.
+    []
+  plando_items:
+    - item:
+        Waterfall Key: 1
+      location: superUTEndless's Waterfall Key
+      world: The Shop
+      force: true
+    - item:
+        Mettaton Plush: 1
+      location: superUTEndless's Mettaton Plush
+      world: The Shop
+      force: true
+    - item:
+        Snowman Piece: 1
+      location: superUTEndless's Snowman Piece
+      world: The Shop
+      force: true
+    - item:
+        Snowman Piece: 1
+      location: superUTEndless's Snowman Piece (2)
+      world: The Shop
+      force: true
+    - item:
+        Core Key: 1
+      location: Locker 177
+      world: The Vault
+      force: true
+    - item:
+        Butterscotch Pie: 1
+      location: Locker 178
+      world: The Vault
+      force: true
+    - item:
+        Instant Noodles: 1
+      location: Locker 179
+      world: The Vault
+      force: true
+    - item:
+        Snowman Piece: 1
+      location: Locker 180
+      world: The Vault
+      force: true

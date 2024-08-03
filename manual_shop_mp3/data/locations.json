@@ -1280,6 +1280,166 @@
         ]
     },
     {
+        "name": "numgasRogueTUNIC's Pages 24-25 (Prayer)",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "numgasRogueTUNIC's Pages 42-43 (Holy Cross)",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "numgasRogueTUNIC's Sword Upgrade",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "numgasRogueTUNIC's Sword Upgrade (2)",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "numRogueINSCRYPT's Inspectometer Battery",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "numRogueINSCRYPT's Gem Module",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "numRogueINSCRYPT's Bee Figurine",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "numRogueINSCRYPT's Ourobot Card",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "superMessEndless's Rope Dart",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "superMessEndless's Wingsuit",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "superMessEndless's Path of Resilience",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "superMessEndless's Meditation",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "superTUNCEndless's Magic Orb",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "superTUNCEndless's Scavenger Mask",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "superTUNCEndless's Magic Wand",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "superTUNCEndless's Sword Upgrade",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "superUTEndless's Waterfall Key",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "superUTEndless's Mettaton Plush",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "superUTEndless's Snowman Piece",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "superUTEndless's Snowman Piece (2)",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
         "name": "victory",
         "victory": true
     }
