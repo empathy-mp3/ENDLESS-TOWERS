@@ -547,7 +547,7 @@ Blasphemous:
       force: true
     - item:
         Dash Ability: 1
-      location: Locker 125
+      location: Locker 37
       world: The Vault
       force: true
     - item:

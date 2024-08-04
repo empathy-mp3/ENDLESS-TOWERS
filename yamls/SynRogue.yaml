@@ -121,7 +121,7 @@ Timespinner:
       force: true
     - item:
         Talaria Attachment: 1
-      location: Locker 94
+      location: Locker 102
       world: The Vault
       force: true
     - item:
