@@ -59,22 +59,22 @@ Inscryption:
       force: true
     - item:
         Camera Replica: 1
-      location: Locker 181
+      location: Locker 187
       world: The Vault
       force: true
     - item:
         Dock's Clover Plant: 1
-      location: Locker 182
+      location: Locker 197
       world: The Vault
       force: true
     - item:
         Oil Painting's Clover Plant: 1
-      location: Locker 183
+      location: Locker 5
       world: The Vault
       force: true
     - item:
         Ring: 1
-      location: Locker 184
+      location: Locker 51
       world: The Vault
       force: true
   
@@ -111,22 +111,22 @@ Meritous:
       force: true
     - item:
         PSI Key 1: 1
-      location: Locker 181
+      location: Locker 187
       world: The Vault
       force: true
     - item:
         Metabolism: 1
-      location: Locker 182
+      location: Locker 197
       world: The Vault
       force: true
     - item:
         Shield Boost: 1
-      location: Locker 183
+      location: Locker 5
       world: The Vault
       force: true
     - item:
         Circuit Booster: 1
-      location: Locker 184
+      location: Locker 51
       world: The Vault
       force: true
 #
@@ -209,22 +209,22 @@ Metroid Prime:
       force: true
     - item:
         Morph Ball: 1
-      location: Locker 181
+      location: Locker 187
       world: The Vault
       force: true
     - item:
         Varia Suit: 1
-      location: Locker 182
+      location: Locker 197
       world: The Vault
       force: true
     - item:
         Phazon Suit: 1
-      location: Locker 183
+      location: Locker 5
       world: The Vault
       force: true
     - item:
         Morph Ball Bomb: 1
-      location: Locker 184
+      location: Locker 51
       world: The Vault
       force: true
 #
@@ -265,22 +265,22 @@ Metroid Zero Mission:
       force: true
     - item:
         Bomb: 1
-      location: Locker 181
+      location: Locker 187
       world: The Vault
       force: true
     - item:
         Hi-Jump: 1
-      location: Locker 182
+      location: Locker 197
       world: The Vault
       force: true
     - item:
         Speed Booster: 1
-      location: Locker 183
+      location: Locker 5
       world: The Vault
       force: true
     - item:
         Gravity Suit: 1
-      location: Locker 184
+      location: Locker 51
       world: The Vault
       force: true
 #
@@ -342,22 +342,22 @@ Minit:
       force: true
     - item:
         ItemShoes: 1
-      location: Locker 181
+      location: Locker 187
       world: The Vault
       force: true
     - item:
         ItemCoffee: 1
-      location: Locker 182
+      location: Locker 197
       world: The Vault
       force: true
     - item:
         ItemPressPass: 1
-      location: Locker 183
+      location: Locker 5
       world: The Vault
       force: true
     - item:
         ItemFlashLight: 1
-      location: Locker 184
+      location: Locker 51
       world: The Vault
       force: true
 #
@@ -392,22 +392,22 @@ Pseudoregalia:
       force: true
     - item:
         Progressive Slide: 1
-      location: Locker 181
+      location: Locker 187
       world: The Vault
       force: true
     - item:
         Air Kick: 1
-      location: Locker 182
+      location: Locker 197
       world: The Vault
       force: true
     - item:
         Small Key: 1
-      location: Locker 183
+      location: Locker 5
       world: The Vault
       force: true
     - item:
         Progressive Slide: 1
-      location: Locker 184
+      location: Locker 51
       world: The Vault
       force: true
 #
@@ -471,22 +471,22 @@ Sonic Adventure DX:
       force: true
     - item:
         Hotel Keys: 1
-      location: Locker 181
+      location: Locker 187
       world: The Vault
       force: true
     - item:
         Ancient Light: 1
-      location: Locker 182
+      location: Locker 197
       world: The Vault
       force: true
     - item:
         Shovel Claw: 1
-      location: Locker 183
+      location: Locker 5
       world: The Vault
       force: true
     - item:
         Jet Booster: 1
-      location: Locker 184
+      location: Locker 51
       world: The Vault
       force: true
 #
@@ -724,22 +724,22 @@ Sonic Adventure 2 Battle:
       force: true
     - item:
         Rouge - Pick Nails: 1
-      location: Locker 181
+      location: Locker 187
       world: The Vault
       force: true
     - item:
         Green Chaos Emerald: 1
-      location: Locker 182
+      location: Locker 197
       world: The Vault
       force: true
     - item:
         Sonic - Bounce Bracelet: 1
-      location: Locker 183
+      location: Locker 5
       world: The Vault
       force: true
     - item:
         Sonic - Flame Ring: 1
-      location: Locker 184
+      location: Locker 51
       world: The Vault
       force: true
 #
@@ -813,22 +813,22 @@ Super Mario 64:
       force: true
     - item:
         Second Floor Key: 1
-      location: Locker 181
+      location: Locker 187
       world: The Vault
       force: true
     - item:
         Wing Cap: 1
-      location: Locker 182
+      location: Locker 197
       world: The Vault
       force: true
     - item:
         Backflip: 1
-      location: Locker 183
+      location: Locker 5
       world: The Vault
       force: true
     - item:
         Ledge Grab: 1
-      location: Locker 184
+      location: Locker 51
       world: The Vault
       force: true
 #
@@ -923,22 +923,22 @@ Super Metroid:
       force: true
     - item:
         Space Jump: 1
-      location: Locker 181
+      location: Locker 187
       world: The Vault
       force: true
     - item:
         Screw Attack: 1
-      location: Locker 182
+      location: Locker 197
       world: The Vault
       force: true
     - item:
         Bomb: 1
-      location: Locker 183
+      location: Locker 5
       world: The Vault
       force: true
     - item:
         Hi-Jump Boots: 1
-      location: Locker 184
+      location: Locker 51
       world: The Vault
       force: true
 #
@@ -994,22 +994,22 @@ Wario Land 4:
       force: true
     - item:
         Enemy Jump: 1
-      location: Locker 181
+      location: Locker 187
       world: The Vault
       force: true
     - item:
         Top Right Topaz Piece: 1
-      location: Locker 182
+      location: Locker 197
       world: The Vault
       force: true
     - item:
         Top Right Golden Jewel Piece: 1
-      location: Locker 183
+      location: Locker 5
       world: The Vault
       force: true
     - item:
         Top Right Sapphire Piece: 1
-      location: Locker 184
+      location: Locker 51
       world: The Vault
       force: true
 
@@ -1048,22 +1048,22 @@ Yu-Gi-Oh! Forbidden Memories:
       force: true
     - item:
         Progressive Duelist: 1
-      location: Locker 181
+      location: Locker 187
       world: The Vault
       force: true
     - item:
         Starchips x25: 1
-      location: Locker 182
+      location: Locker 197
       world: The Vault
       force: true
     - item:
         Starchips x25: 1
-      location: Locker 183
+      location: Locker 5
       world: The Vault
       force: true
     - item:
         Starchips x25: 1
-      location: Locker 184
+      location: Locker 51
       world: The Vault
       force: true
 ---
@@ -1128,22 +1128,22 @@ Inscryption:
       force: true
     - item:
         Camera Replica: 1
-      location: Locker 185
+      location: Locker 144
       world: The Vault
       force: true
     - item:
         Dock's Clover Plant: 1
-      location: Locker 186
+      location: Locker 158
       world: The Vault
       force: true
     - item:
         Oil Painting's Clover Plant: 1
-      location: Locker 187
+      location: Locker 59
       world: The Vault
       force: true
     - item:
         Ring: 1
-      location: Locker 188
+      location: Locker 216
       world: The Vault
       force: true
 #
@@ -1179,22 +1179,22 @@ Meritous:
       force: true
     - item:
         PSI Key 1: 1
-      location: Locker 185
+      location: Locker 144
       world: The Vault
       force: true
     - item:
         Metabolism: 1
-      location: Locker 186
+      location: Locker 158
       world: The Vault
       force: true
     - item:
         Shield Boost: 1
-      location: Locker 187
+      location: Locker 59
       world: The Vault
       force: true
     - item:
         Circuit Booster: 1
-      location: Locker 188
+      location: Locker 216
       world: The Vault
       force: true
 #
@@ -1277,22 +1277,22 @@ Metroid Prime:
       force: true
     - item:
         Morph Ball: 1
-      location: Locker 185
+      location: Locker 144
       world: The Vault
       force: true
     - item:
         Varia Suit: 1
-      location: Locker 186
+      location: Locker 158
       world: The Vault
       force: true
     - item:
         Phazon Suit: 1
-      location: Locker 187
+      location: Locker 59
       world: The Vault
       force: true
     - item:
         Morph Ball Bomb: 1
-      location: Locker 188
+      location: Locker 216
       world: The Vault
       force: true
 #
@@ -1333,22 +1333,22 @@ Metroid Zero Mission:
       force: true
     - item:
         Bomb: 1
-      location: Locker 185
+      location: Locker 144
       world: The Vault
       force: true
     - item:
         Hi-Jump: 1
-      location: Locker 186
+      location: Locker 158
       world: The Vault
       force: true
     - item:
         Speed Booster: 1
-      location: Locker 187
+      location: Locker 59
       world: The Vault
       force: true
     - item:
         Gravity Suit: 1
-      location: Locker 188
+      location: Locker 216
       world: The Vault
       force: true
 #
@@ -1410,22 +1410,22 @@ Minit:
       force: true
     - item:
         ItemShoes: 1
-      location: Locker 185
+      location: Locker 144
       world: The Vault
       force: true
     - item:
         ItemCoffee: 1
-      location: Locker 186
+      location: Locker 158
       world: The Vault
       force: true
     - item:
         ItemPressPass: 1
-      location: Locker 187
+      location: Locker 59
       world: The Vault
       force: true
     - item:
         ItemFlashLight: 1
-      location: Locker 188
+      location: Locker 216
       world: The Vault
       force: true
 #
@@ -1460,22 +1460,22 @@ Pseudoregalia:
       force: true
     - item:
         Progressive Slide: 1
-      location: Locker 185
+      location: Locker 144
       world: The Vault
       force: true
     - item:
         Air Kick: 1
-      location: Locker 186
+      location: Locker 158
       world: The Vault
       force: true
     - item:
         Small Key: 1
-      location: Locker 187
+      location: Locker 59
       world: The Vault
       force: true
     - item:
         Progressive Slide: 1
-      location: Locker 188
+      location: Locker 216
       world: The Vault
       force: true
 #
@@ -1539,22 +1539,22 @@ Sonic Adventure DX:
       force: true
     - item:
         Hotel Keys: 1
-      location: Locker 185
+      location: Locker 144
       world: The Vault
       force: true
     - item:
         Ancient Light: 1
-      location: Locker 186
+      location: Locker 158
       world: The Vault
       force: true
     - item:
         Shovel Claw: 1
-      location: Locker 187
+      location: Locker 59
       world: The Vault
       force: true
     - item:
         Jet Booster: 1
-      location: Locker 188
+      location: Locker 216
       world: The Vault
       force: true
 #
@@ -1677,22 +1677,22 @@ Sonic Adventure 2 Battle:
       force: true
     - item:
         Rouge - Pick Nails: 1
-      location: Locker 185
+      location: Locker 144
       world: The Vault
       force: true
     - item:
         Green Chaos Emerald: 1
-      location: Locker 186
+      location: Locker 158
       world: The Vault
       force: true
     - item:
         Sonic - Bounce Bracelet: 1
-      location: Locker 187
+      location: Locker 59
       world: The Vault
       force: true
     - item:
         Sonic - Flame Ring: 1
-      location: Locker 188
+      location: Locker 216
       world: The Vault
       force: true
 
@@ -1882,22 +1882,22 @@ Super Mario 64:
       force: true
     - item:
         Second Floor Key: 1
-      location: Locker 185
+      location: Locker 144
       world: The Vault
       force: true
     - item:
         Wing Cap: 1
-      location: Locker 186
+      location: Locker 158
       world: The Vault
       force: true
     - item:
         Backflip: 1
-      location: Locker 187
+      location: Locker 59
       world: The Vault
       force: true
     - item:
         Ledge Grab: 1
-      location: Locker 188
+      location: Locker 216
       world: The Vault
       force: true
 #
@@ -1992,22 +1992,22 @@ Super Metroid:
       force: true
     - item:
         Space Jump: 1
-      location: Locker 185
+      location: Locker 144
       world: The Vault
       force: true
     - item:
         Screw Attack: 1
-      location: Locker 186
+      location: Locker 158
       world: The Vault
       force: true
     - item:
         Bomb: 1
-      location: Locker 187
+      location: Locker 59
       world: The Vault
       force: true
     - item:
         Hi-Jump Boots: 1
-      location: Locker 188
+      location: Locker 216
       world: The Vault
       force: true
 #
@@ -2063,22 +2063,22 @@ Wario Land 4:
       force: true
     - item:
         Enemy Jump: 1
-      location: Locker 185
+      location: Locker 144
       world: The Vault
       force: true
     - item:
         Top Right Topaz Piece: 1
-      location: Locker 186
+      location: Locker 158
       world: The Vault
       force: true
     - item:
         Top Right Golden Jewel Piece: 1
-      location: Locker 187
+      location: Locker 59
       world: The Vault
       force: true
     - item:
         Top Right Sapphire Piece: 1
-      location: Locker 188
+      location: Locker 216
       world: The Vault
       force: true
 
@@ -2117,22 +2117,22 @@ Yu-Gi-Oh! Forbidden Memories:
       force: true
     - item:
         Progressive Duelist: 1
-      location: Locker 185
+      location: Locker 144
       world: The Vault
       force: true
     - item:
         Starchips x25: 1
-      location: Locker 186
+      location: Locker 158
       world: The Vault
       force: true
     - item:
         Starchips x25: 1
-      location: Locker 187
+      location: Locker 59
       world: The Vault
       force: true
     - item:
         Starchips x25: 1
-      location: Locker 188
+      location: Locker 216
       world: The Vault
       force: true
 ---
@@ -2197,22 +2197,22 @@ Inscryption:
       force: true
     - item:
         Camera Replica: 1
-      location: Locker 189
+      location: Locker 156
       world: The Vault
       force: true
     - item:
         Dock's Clover Plant: 1
-      location: Locker 190
+      location: Locker 142
       world: The Vault
       force: true
     - item:
         Oil Painting's Clover Plant: 1
-      location: Locker 191
+      location: Locker 212
       world: The Vault
       force: true
     - item:
         Ring: 1
-      location: Locker 192
+      location: Locker 188
       world: The Vault
       force: true
 #
@@ -2248,22 +2248,22 @@ Meritous:
       force: true
     - item:
         PSI Key 1: 1
-      location: Locker 189
+      location: Locker 156
       world: The Vault
       force: true
     - item:
         Metabolism: 1
-      location: Locker 190
+      location: Locker 142
       world: The Vault
       force: true
     - item:
         Shield Boost: 1
-      location: Locker 191
+      location: Locker 212
       world: The Vault
       force: true
     - item:
         Circuit Booster: 1
-      location: Locker 192
+      location: Locker 188
       world: The Vault
       force: true
 #
@@ -2346,22 +2346,22 @@ Metroid Prime:
       force: true
     - item:
         Morph Ball: 1
-      location: Locker 189
+      location: Locker 156
       world: The Vault
       force: true
     - item:
         Varia Suit: 1
-      location: Locker 190
+      location: Locker 142
       world: The Vault
       force: true
     - item:
         Phazon Suit: 1
-      location: Locker 191
+      location: Locker 212
       world: The Vault
       force: true
     - item:
         Morph Ball Bomb: 1
-      location: Locker 192
+      location: Locker 188
       world: The Vault
       force: true
 #
@@ -2402,22 +2402,22 @@ Metroid Zero Mission:
       force: true
     - item:
         Bomb: 1
-      location: Locker 189
+      location: Locker 156
       world: The Vault
       force: true
     - item:
         Hi-Jump: 1
-      location: Locker 190
+      location: Locker 142
       world: The Vault
       force: true
     - item:
         Speed Booster: 1
-      location: Locker 191
+      location: Locker 212
       world: The Vault
       force: true
     - item:
         Gravity Suit: 1
-      location: Locker 192
+      location: Locker 188
       world: The Vault
       force: true
 #
@@ -2479,22 +2479,22 @@ Minit:
       force: true
     - item:
         ItemShoes: 1
-      location: Locker 189
+      location: Locker 156
       world: The Vault
       force: true
     - item:
         ItemCoffee: 1
-      location: Locker 190
+      location: Locker 142
       world: The Vault
       force: true
     - item:
         ItemPressPass: 1
-      location: Locker 191
+      location: Locker 212
       world: The Vault
       force: true
     - item:
         ItemFlashLight: 1
-      location: Locker 192
+      location: Locker 188
       world: The Vault
       force: true
 #
@@ -2529,22 +2529,22 @@ Pseudoregalia:
       force: true
     - item:
         Progressive Slide: 1
-      location: Locker 189
+      location: Locker 156
       world: The Vault
       force: true
     - item:
         Air Kick: 1
-      location: Locker 190
+      location: Locker 142
       world: The Vault
       force: true
     - item:
         Small Key: 1
-      location: Locker 191
+      location: Locker 212
       world: The Vault
       force: true
     - item:
         Progressive Slide: 1
-      location: Locker 192
+      location: Locker 188
       world: The Vault
       force: true
 #
@@ -2608,22 +2608,22 @@ Sonic Adventure DX:
       force: true
     - item:
         Hotel Keys: 1
-      location: Locker 189
+      location: Locker 156
       world: The Vault
       force: true
     - item:
         Ancient Light: 1
-      location: Locker 190
+      location: Locker 142
       world: The Vault
       force: true
     - item:
         Shovel Claw: 1
-      location: Locker 191
+      location: Locker 212
       world: The Vault
       force: true
     - item:
         Jet Booster: 1
-      location: Locker 192
+      location: Locker 188
       world: The Vault
       force: true
 #
@@ -2746,22 +2746,22 @@ Sonic Adventure 2 Battle:
       force: true
     - item:
         Rouge - Pick Nails: 1
-      location: Locker 189
+      location: Locker 156
       world: The Vault
       force: true
     - item:
         Green Chaos Emerald: 1
-      location: Locker 190
+      location: Locker 142
       world: The Vault
       force: true
     - item:
         Sonic - Bounce Bracelet: 1
-      location: Locker 191
+      location: Locker 212
       world: The Vault
       force: true
     - item:
         Sonic - Flame Ring: 1
-      location: Locker 192
+      location: Locker 188
       world: The Vault
       force: true
 
@@ -2951,22 +2951,22 @@ Super Mario 64:
       force: true
     - item:
         Second Floor Key: 1
-      location: Locker 189
+      location: Locker 156
       world: The Vault
       force: true
     - item:
         Wing Cap: 1
-      location: Locker 190
+      location: Locker 142
       world: The Vault
       force: true
     - item:
         Backflip: 1
-      location: Locker 191
+      location: Locker 212
       world: The Vault
       force: true
     - item:
         Ledge Grab: 1
-      location: Locker 192
+      location: Locker 188
       world: The Vault
       force: true
 #
@@ -3061,22 +3061,22 @@ Super Metroid:
       force: true
     - item:
         Space Jump: 1
-      location: Locker 189
+      location: Locker 156
       world: The Vault
       force: true
     - item:
         Screw Attack: 1
-      location: Locker 190
+      location: Locker 142
       world: The Vault
       force: true
     - item:
         Bomb: 1
-      location: Locker 191
+      location: Locker 212
       world: The Vault
       force: true
     - item:
         Hi-Jump Boots: 1
-      location: Locker 192
+      location: Locker 188
       world: The Vault
       force: true
 #
@@ -3132,22 +3132,22 @@ Wario Land 4:
       force: true
     - item:
         Enemy Jump: 1
-      location: Locker 189
+      location: Locker 156
       world: The Vault
       force: true
     - item:
         Top Right Topaz Piece: 1
-      location: Locker 190
+      location: Locker 142
       world: The Vault
       force: true
     - item:
         Top Right Golden Jewel Piece: 1
-      location: Locker 191
+      location: Locker 212
       world: The Vault
       force: true
     - item:
         Top Right Sapphire Piece: 1
-      location: Locker 192
+      location: Locker 188
       world: The Vault
       force: true
 
@@ -3186,21 +3186,21 @@ Yu-Gi-Oh! Forbidden Memories:
       force: true
     - item:
         Progressive Duelist: 1
-      location: Locker 189
+      location: Locker 156
       world: The Vault
       force: true
     - item:
         Starchips x25: 1
-      location: Locker 190
+      location: Locker 142
       world: The Vault
       force: true
     - item:
         Starchips x25: 1
-      location: Locker 191
+      location: Locker 212
       world: The Vault
       force: true
     - item:
         Starchips x25: 1
-      location: Locker 192
+      location: Locker 188
       world: The Vault
       force: true

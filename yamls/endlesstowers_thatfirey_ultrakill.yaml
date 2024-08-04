@@ -157,22 +157,22 @@ ULTRAKILL:
       force: true
     - item:
         Railcannon - Electric: 1
-      location: Locker 37
+      location: Locker 220
       world: The Vault
       force: true
     - item:
         Revolver - Marksman: 1
-      location: Locker 38
+      location: Locker 175
       world: The Vault
       force: true
     - item:
         Shotgun - Pump Charge: 1
-      location: Locker 39
+      location: Locker 182
       world: The Vault
       force: true
     - item:
         Whiplash: 1
-      location: Locker 40
+      location: Locker 96
       world: The Vault
       force: true
 game: ULTRAKILL

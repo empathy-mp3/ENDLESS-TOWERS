@@ -81,22 +81,22 @@ Timespinner:
       force: true
     - item:
         Timespinner Gear 3: 1
-      location: Locker 197
+      location: Locker 237
       world: The Vault
       force: true
     - item:
         Empire Crown: 1
-      location: Locker 198
+      location: Locker 98
       world: The Vault
       force: true
     - item:
         Fire Orb: 1
-      location: Locker 199
+      location: Locker 180
       world: The Vault
       force: true
     - item:
         Water Mask: 1
-      location: Locker 200
+      location: Locker 57
       world: The Vault
       force: true
 
@@ -185,21 +185,21 @@ Muse Dash:
       force: true
     - item:
         Music Sheet: 1
-      location: Locker 201
+      location: Locker 88
       world: The Vault
       force: true
     - item:
         heterodoxy: 1
-      location: Locker 202
+      location: Locker 61
       world: The Vault
       force: true
     - item:
         OBLIVION: 1
-      location: Locker 203
+      location: Locker 164
       world: The Vault
       force: true
     - item:
         marooned night: 1
-      location: Locker 204
+      location: Locker 15
       world: The Vault
       force: true

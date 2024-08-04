@@ -205,22 +205,22 @@ A Hat in Time:
       force: true
     - item:
         Dweller Mask: 1
-      location: Locker 213
+      location: Locker 53
       world: The Vault
       force: true
     - item:
         Sprint Hat: 1
-      location: Locker 214
+      location: Locker 13
       world: The Vault
       force: true
     - item:
         Badge Pin: 1
-      location: Locker 215
+      location: Locker 97
       world: The Vault
       force: true
     - item:
         Badge Pin: 1
-      location: Locker 216
+      location: Locker 153
       world: The Vault
       force: true
 
@@ -284,7 +284,7 @@ Muse Dash:
       locations: 
         - Grim-Muse's Music Sheet
         - Grim-Muse's Music Sheet (2)
-        - Locker 217
+        - Locker 159
       world: 
         - The Shop
         - The Vault
@@ -941,9 +941,9 @@ Muse Dash:
       locations:
         - Grim-Muse's Random Song
         - Grim-Muse's Random Song (2)
-        - Locker 218
+        - Locker 90
+        - Locker 107
         - Locker 219
-        - Locker 220
       world: 
         - The Shop
         - The Vault
@@ -1175,21 +1175,21 @@ Sonic Adventure 2 Battle:
       force: true
     - item:
         Tails - Booster: 1
-      location: Locker 221
+      location: Locker 239
       world: The Vault
       force: true
     - item:
         Eggman - Protective Armor: 1
-      location: Locker 222
+      location: Locker 162
       world: The Vault
       force: true
     - item:
         Eggman - Mystic Melody: 1
-      location: Locker 223
+      location: Locker 14
       world: The Vault
       force: true
     - item:
         Knuckles - Air Necklace: 1
-      location: Locker 224
+      location: Locker 83
       world: The Vault
       force: true

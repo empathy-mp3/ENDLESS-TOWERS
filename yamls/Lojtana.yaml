@@ -68,21 +68,21 @@ Kingdom Hearts:
       force: true
     - item:
         Hollow Bastion: 1
-      location: Locker 209
+      location: Locker 160
       world: The Vault
       force: true
     - item:
         Second Chance: 1
-      location: Locker 210
+      location: Locker 28
       world: The Vault
       force: true
     - item:
         Cosmic Arts: 1
-      location: Locker 211
+      location: Locker 86
       world: The Vault
       force: true
     - item:
         Crystal Crown: 1
-      location: Locker 212
+      location: Locker 43
       world: The Vault
       force: true

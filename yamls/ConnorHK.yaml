@@ -113,22 +113,22 @@ Hollow Knight:
       force: true
     - item:
         Shade_Cloak: 1
-      location: Locker 117
+      location: Locker 21
       world: The Vault
       force: true
     - item:
         Shaman_Stone: 1
-      location: Locker 118
+      location: Locker 234
       world: The Vault
       force: true
     - item:
         Longnail: 1
-      location: Locker 119
+      location: Locker 178
       world: The Vault
       force: true
     - item:
         Dirtmouth_Stag: 1
-      location: Locker 120
+      location: Locker 78
       world: The Vault
       force: true
 game: Hollow Knight

@@ -100,21 +100,21 @@ A Link to the Past:
       force: true
     - item:
         Moon Pearl: 1
-      location: Locker 193
+      location: Locker 62
       world: The Vault
       force: true
     - item:
         Progressive Sword: 1
-      location: Locker 194
+      location: Locker 54
       world: The Vault
       force: true
     - item:
         Progressive Shield: 1
-      location: Locker 195
+      location: Locker 213
       world: The Vault
       force: true
     - item:
         Pegasus Boots: 1
-      location: Locker 196
+      location: Locker 194
       world: The Vault
       force: true

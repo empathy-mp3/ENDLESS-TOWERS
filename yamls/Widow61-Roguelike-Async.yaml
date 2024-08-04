@@ -89,21 +89,21 @@ Risk of Rain 2:
       force: true
     - item:
         Commencement: 1
-      location: Locker 205
+      location: Locker 121
       world: The Vault
       force: true
     - item:
         Legendary Item: 1
-      location: Locker 206
+      location: Locker 125
       world: The Vault
       force: true
     - item:
         Boss Item: 1
-      location: Locker 207
+      location: Locker 166
       world: The Vault
       force: true
     - item:
         "Hidden Realm: Bazaar Between Time": 1
-      location: Locker 208
+      location: Locker 56
       world: The Vault
       force: true

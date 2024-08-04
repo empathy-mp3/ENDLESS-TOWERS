@@ -24,8 +24,8 @@ Super Metroid:
     # - **Locations:** ensure everything can be reached and acquired.
     # - **Items:** ensure all logically relevant items can be acquired.
     # - **Minimal:** ensure what is needed to reach your goal can be acquired.
-    locations: 50
-    items: 0
+    locations: 0
+    items: 50
     minimal: 0
 
   start_inventory_removes_from_pool:
@@ -435,22 +435,22 @@ Super Metroid:
       force: true
     - item:
         Gravity Suit: 1
-      location: Locker 81
+      location: Locker 109
       world: The Vault
       force: true
     - item:
         Power Bomb: 1
-      location: Locker 82
+      location: Locker 26
       world: The Vault
       force: true
     - item:
         Space Jump: 1
-      location: Locker 83
+      location: Locker 184
       world: The Vault
       force: true
     - item:
         Screw Attack: 1
-      location: Locker 84
+      location: Locker 91
       world: The Vault
       force: true
 
@@ -1214,22 +1214,22 @@ A Link to the Past:
       force: true
     - item:
         Hammer: 1
-      location: Locker 85
+      location: Locker 179
       world: The Vault
       force: true
     - item:
         Progressive Bow: 1
-      location: Locker 86
+      location: Locker 161
       world: The Vault
       force: true
     - item:
         Progressive Mail: 1
-      location: Locker 87
+      location: Locker 233
       world: The Vault
       force: true
     - item:
         Cape: 1
-      location: Locker 88
+      location: Locker 30
       world: The Vault
       force: true
 
@@ -1689,21 +1689,21 @@ Factorio:
       force: true
     - item:
         progressive-science-pack: 1
-      location: Locker 89
+      location: Locker 148
       world: The Vault
       force: true
     - item:
         progressive-turret: 1
-      location: Locker 90
+      location: Locker 87
       world: The Vault
       force: true
     - item:
         battery: 1
-      location: Locker 91
+      location: Locker 34
       world: The Vault
       force: true
     - item:
         lubricant: 1
-      location: Locker 92
+      location: Locker 221
       world: The Vault
       force: true

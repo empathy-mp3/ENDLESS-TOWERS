@@ -155,21 +155,21 @@ Super Metroid:
       force: true
     - item:
         Varia Suit: 1
-      location: Locker 225
+      location: Locker 60
       world: The Vault
       force: true
     - item:
         Hi-Jump Boots: 1
-      location: Locker 226
+      location: Locker 149
       world: The Vault
       force: true
     - item:
         Ice Beam: 1
-      location: Locker 227
+      location: Locker 58
       world: The Vault
       force: true
     - item:
         Power Bomb: 1
-      location: Locker 228
+      location: Locker 146
       world: The Vault
       force: true

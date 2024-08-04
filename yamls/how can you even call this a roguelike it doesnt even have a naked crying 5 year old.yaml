@@ -66,22 +66,22 @@ Hollow Knight:
       force: true
     - item:
         Shaman_Stone: 1
-      location: Locker 49
+      location: Locker 116
       world: The Vault
       force: true
     - item:
         Shade_Soul: 1
-      location: Locker 50
+      location: Locker 114
       world: The Vault
       force: true
     - item:
         Fragile_Strength: 1
-      location: Locker 51
+      location: Locker 228
       world: The Vault
       force: true
     - item:
         Monarch_Wings: 1
-      location: Locker 52
+      location: Locker 205
       world: The Vault
       force: true
 
@@ -127,21 +127,21 @@ Timespinner:
       force: true
     - item:
         Eternal Coat: 1
-      location: Locker 53
+      location: Locker 9
       world: The Vault
       force: true
     - item:
         Talaria Attachment: 1
-      location: Locker 54
+      location: Locker 230
       world: The Vault
       force: true
     - item:
         Eternal Crown: 1
-      location: Locker 55
+      location: Locker 183
       world: The Vault
       force: true
     - item:
         Security Keycard B: 1
-      location: Locker 56
+      location: Locker 103
       world: The Vault
       force: true

@@ -90,21 +90,21 @@ A Hat in Time:
       force: true
     - item:
         Fast Hatter Badge: 1
-      location: Locker 33
+      location: Locker 65
       world: The Vault
       force: true
     - item:
         Brewing Hat: 1
-      location: Locker 34
+      location: Locker 223
       world: The Vault
       force: true
     - item:
         Time Stop Hat: 1
-      location: Locker 35
+      location: Locker 64
       world: The Vault
       force: true
     - item:
         Ice Hat: 1
-      location: Locker 36
+      location: Locker 42
       world: The Vault
       force: true

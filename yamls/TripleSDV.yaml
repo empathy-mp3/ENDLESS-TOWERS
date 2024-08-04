@@ -127,21 +127,21 @@ Stardew Valley:
       force: true
     - item:
         Return Scepter: 1
-      location: Locker 57
+      location: Locker 67
       world: The Vault
       force: true
     - item:
         Progressive Season: 1
-      location: Locker 58
+      location: Locker 189
       world: The Vault
       force: true
     - item:
         Progressive Barn: 1
-      location: Locker 59
+      location: Locker 151
       world: The Vault
       force: true
     - item:
         Progressive House: 1
-      location: Locker 60
+      location: Locker 120
       world: The Vault
       force: true

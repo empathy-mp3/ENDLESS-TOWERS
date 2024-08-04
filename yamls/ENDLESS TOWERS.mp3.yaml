@@ -183,22 +183,22 @@ Hollow Knight:
       force: true
     - item:
         Mothwing_Cloak: 1
-      location: Locker 1
+      location: Locker 224
       world: The Vault
       force: true
     - item:
         Quick_Slash: 1
-      location: Locker 2
+      location: Locker 29
       world: The Vault
       force: true
     - item:
         Hiveblood: 1
-      location: Locker 3
+      location: Locker 174
       world: The Vault
       force: true
     - item:
         Steady_Body: 1
-      location: Locker 4
+      location: Locker 45
       world: The Vault
       force: true
 
@@ -527,22 +527,22 @@ Don't Starve Together:
       force: true
     - item:
         Extra Damage Against Bosses: 1
-      location: Locker 1
+      location: Locker 224
       world: The Vault
       force: true
     - item:
         Krampus Sack: 1
-      location: Locker 2
+      location: Locker 29
       world: The Vault
       force: true
     - item:
         Spring Season Change: 1
-      location: Locker 3
+      location: Locker 174
       world: The Vault
       force: true
     - item:
         Rope: 1
-      location: Locker 4
+      location: Locker 45
       world: The Vault
       force: true
 
@@ -612,22 +612,22 @@ Factorio:
       force: true
     - item:
         battery: 1
-      location: Locker 5
+      location: Locker 229
       world: The Vault
       force: true
     - item:
         lubricant: 1
-      location: Locker 6
+      location: Locker 215
       world: The Vault
       force: true
     - item:
         belt-immunity-equipment: 1
-      location: Locker 7
+      location: Locker 192
       world: The Vault
       force: true
     - item:
         progressive-science-pack: 1
-      location: Locker 8
+      location: Locker 2
       world: The Vault
       force: true
 
@@ -830,21 +830,21 @@ Satisfactory:
       force: true
     - item:
         "Recipe: Copper Sheet": 1
-      location: Locker 5
+      location: Locker 229
       world: The Vault
       force: true
     - item:
         "Building: MAM": 1
-      location: Locker 6
+      location: Locker 215
       world: The Vault
       force: true
     - item:
         "Recipe: Power Shard (5)": 1
-      location: Locker 7
+      location: Locker 192
       world: The Vault
       force: true
     - item:
         "Building: Geothermal Generator": 1
-      location: Locker 8
+      location: Locker 2
       world: The Vault
       force: true

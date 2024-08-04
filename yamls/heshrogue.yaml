@@ -133,22 +133,22 @@ Pseudoregalia:
                 force: true
               - item:
                   Cling Gem: 1
-                location: Locker 97
+                location: Locker 55
                 world: The Vault
                 force: true
               - item:
                   Small Key: 1
-                location: Locker 98
+                location: Locker 136
                 world: The Vault
                 force: true
               - item:
                   Sun Greaves: 1
-                location: Locker 99
+                location: Locker 105
                 world: The Vault
                 force: true
               - item:
                   Progressive Slide: 1
-                location: Locker 100
+                location: Locker 214
                 world: The Vault
                 force: true    
       - option_category: Pseudoregalia
@@ -179,22 +179,22 @@ Pseudoregalia:
                 force: true
               - item:
                   Cling Gem: 1
-                location: Locker 97
+                location: Locker 55
                 world: The Vault
                 force: true
               - item:
                   Small Key: 1
-                location: Locker 98
+                location: Locker 136
                 world: The Vault
                 force: true
               - item:
                   Sun Greaves: 1
-                location: Locker 99
+                location: Locker 105
                 world: The Vault
                 force: true
               - item:
                   Solar Wind: 1
-                location: Locker 100
+                location: Locker 214
                 world: The Vault
                 force: true
 
@@ -291,7 +291,7 @@ Muse Dash:
       locations: 
         - heshmuda's Music Sheet
         - heshmuda's Music Sheet (2)
-        - Locker 101
+        - Locker 112
       world: 
         - The Shop
         - The Vault
@@ -948,9 +948,9 @@ Muse Dash:
       locations:
         - heshmuda's Random Song
         - heshmuda's Random Song (2)
-        - Locker 102
-        - Locker 103
-        - Locker 104
+        - Locker 46
+        - Locker 115
+        - Locker 143
       world: 
         - The Shop
         - The Vault
@@ -1148,21 +1148,21 @@ Undertale:
       force: true
     - item:
         Snowdin Key: 1
-      location: Locker 105
+      location: Locker 48
       world: The Vault
       force: true
     - item:
         Mettaton Plush: 1
-      location: Locker 106
+      location: Locker 75
       world: The Vault
       force: true
     - item:
         Complete Skeleton: 1
-      location: Locker 107
+      location: Locker 168
       world: The Vault
       force: true
     - item:
         Fish: 1
-      location: Locker 108
+      location: Locker 198
       world: The Vault
       force: true

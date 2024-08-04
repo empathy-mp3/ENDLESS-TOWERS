@@ -235,239 +235,250 @@ finished players (0):
 
 # vault notes
 
+(i just can't believe that adding BroneyFactorio and BroneyLTTP plando'd FOUR important items right at the end)
+
  ~ all above this has been obtained ~ vault keys: 0 ~
-again.mp3        | Mothwing_Cloak / Extra Damage Against Bosses            
-again.mp3        | Quick_Slash / Krampus Sack 
-again.mp3        | Hiveblood / Spring Season Change
-again.mp3        | Steady_Body / Rope     
-automate.mp3     | battery / Recipe: Copper Sheet                 
-automate.mp3     | lubricant / Building: MAM    
-automate.mp3     | belt-immunity-equipment / Recipe: Power Shard (5)             
-automate.mp3     | progressive-science-pack / Building: Geothermal Generator
-Deathclaw99TS    | Eternal Coat
-Deathclaw99TS    | Radiant Orb
-Deathclaw99TS    | Eternal Crown
-Deathclaw99TS    | Elevator Keycard                         
-Deathclaw99SM64  | Metal Cap
-Deathclaw99SM64  | Power Star         
-Deathclaw99SM64  | Power Star                          
-Deathclaw99SM64  | Basement Key     
-Deathclaw99OOT   | Hylian Shield     
-Deathclaw99OOT   | Progressive Hookshot              
-Deathclaw99OOT   | Zora Tunic             
-Deathclaw99OOT   | Progressive Wallet         
-SylskoTunic      | Magic Wand      
-SylskoTunic      | Gun                     
-SylskoTunic      | Muffling Bell               
-SylskoTunic      | Magic Orb                         
-SynRogue         | Bombardment                
-SynRogue         | Security Keycard B                 
-SynRogue         | Talaria Attachment    
-SynRogue         | Eternal Coat             
-SynRegret        | Puzzle Skip   
-SynRegret        | Boat              
-SynRegret        | Functioning Brain                 
-SynRegret        | Black/White Squares             
-Soleyeer         | Fast Hatter Badge       
-Soleyeer         | Brewing Hat                 
-Soleyeer         | Time Stop Hat            
-Soleyeer         | Ice Hat                           
-ThatFirey        | Railcannon - Electric       
-ThatFirey        | Revolver - Marksman   
-ThatFirey        | Shotgun - Pump Charge
-ThatFirey        | Whiplash                          
-CaesiusHIT       | Badge Pin             
-CaesiusHIT       | Badge Pin                   
-CaesiusHIT       | Fast Hatter Badge    
-CaesiusHIT       | Zipline Unlock - The Windmill Path
-CaesiusSM64      | Power Star            
-CaesiusSM64      | Ground Pound                
-CaesiusSM64      | Cannon Unlock WF     
-CaesiusSM64      | Progressive Key                   
-mars.            | Shaman_Stone          
-mars.            | Shade_Soul           
-mars.            | Fragile_Strength            
-mars.            | Monarch_Wings                     
-mars three.      | Eternal Coat          
-mars three.      | Talaria Attachment    
-mars three.      | Eternal Crown               
-mars three.      | Security Keycard B                
-TripleSDV        | Return Scepter  
-TripleSDV        | Progressive Season                
-TripleSDV        | Progressive Barn            
-TripleSDV        | Progressive House         
-DragoSpinsDeath  | Security Keycard A    
-DragoSpinsDeath  | Tablet                      
-DragoSpinsDeath  | Celestial Sash                    
-DragoSpinsDeath  | Succubus Hairpin     
-HatKillsDrago    | Relic (Red Crayon)          
-HatKillsDrago    | Relic (Blue Crayon)  
-HatKillsDrago    | Hookshot Badge                    
-HatKillsDrago    | Relic (Green Crayon)  
-DragoLookAtDeath | Quarry Entry 1 (Panel)
-DragoLookAtDeath | Jungle Laser Shortcut (Door)             
-DragoLookAtDeath | Cave Swamp Shortcut (Door)   
-DragoLookAtDeath | Eraser                       
-Alex230-Doom     | Allow Using Red Key          
-Alex230-Doom     | Turn Off GZChaos Mod 
-Alex230-Doom     | Allow Using Blue Key  
-Alex230-Doom     | Allow Using Yellow Key
-BroneySM         | Power Bomb
-BroneySM         | Space Jump
-BroneySM         | Screw Attack
-BroneySM         | Gravity Suit
-FloriTerra       | Reward: Black Belt
-FloriTerra       | Reward: Tabi
-FloriTerra       | Post-Goblin Army
-FloriTerra       | Post-Golem
-heshpseudo       | Solar Wind
-heshpseudo       | Sun Greaves
-heshpseudo       | Small Key
-heshpseudo       | Cling Gem 
-heshmuda         | Random Song
-heshmuda         | Random Song
-heshmuda         | Random Song
-heshmuda         | Music Sheet
-heshut           | Mettaton Plush
-heshut           | Complete Skeleton
-heshut           | Fish
-heshut           | Snowdin Key
-sheen_pr         | Progressive Slide
-sheen_pr         | Small Key
-sheen_pr         | Small Key
-sheen_pr         | Small Key
-Kritzmaker       | Revolver - Sharpshooter
-Kritzmaker       | Shotgun - Sawed-On
-Kritzmaker       | Rocket Launcher - S.R.S. Cannon
-Kritzmaker       | Railcannon - Electric
-JudosiiOOT       | Magic Meter
-JudosiiOOT       | Song of Time
-JudosiiOOT       | Slingshot
-JudosiiOOT       | Farores Wind
-ConnorHK         | Shade_Cloak
-ConnorHK         | Shaman_Stone
-ConnorHK         | Longnail
-ConnorHK         | Dirtmouth_Stag
-HPfunmanKH       | Olympus Coliseum
-HPfunmanKH       | Progressive Thunder
-HPfunmanKH       | Second Chance
-HPfunmanKH       | Cosmic Arts
-HPfunmanBS       | Dash Ability
-HPfunmanBS       | Apodictic Heart of Mea Culpa
-HPfunmanBS       | Cloistered Ruby
-HPfunmanBS       | Reliquary of the Fervent Heart
-Char Past        | Hammer
-Char Past        | Magic Mirror
-Char Past        | Moon Pearl
-Char Past        | Flute
-Char Forgotten   | Wise Waddle Dee Appears
-Char Forgotten   | Progressive Hammer Ability
-Char Forgotten   | Pipe Mouth
-Char Forgotten   | Progressive Bomb Ability
-Char Dream Bros  | Spin Jump
-Char Dream Bros  | Mole Mario
-Char Dream Bros  | Side Drill
-Char Dream Bros  | Luiginary Stache Tree
-MauveMuse        | Music Sheet
-MauveMuse        | Random Song
-MauveMuse        | Random Song
-MauveMuse        | Random Song
-MauvePenitent    | Dash Ability
-MauvePenitent    | Blood Perpetuated in Sand
-MauvePenitent    | Silvered Lung of Dolphos
-MauvePenitent    | Three Gnarled Tongues
-FKKirby          | Copy Ability - Meta Knight
-FKKirby          | Copy Ability - Mike
-FKKirby          | Copy Ability - Cook
-FKKirby          | Copy Ability - Wheel
-coolhollowguy    | Lumafly_Lantern
-coolhollowguy    | Dash_Slash
-coolhollowguy    | Shaman_Stone
-coolhollowguy    | Cyclone_Slash
-CoolGuyCompany   | Assurance
-CoolGuyCompany   | Scanner
-CoolGuyCompany   | Shovel
-CoolGuyCompany   | Pro-flashlight
-numgasRogueTUNIC | Hero's Laurels
-numgasRogueTUNIC | Magic Wand
-numgasRogueTUNIC | Sword Upgrade
-numgasRogueTUNIC | Sword Upgrade
-numRogueINSCRYPT | Film Roll
-numRogueINSCRYPT | Extra Candle
-numRogueINSCRYPT | Mrs. Bomb's Remote
-numRogueINSCRYPT | Dock's Clover Plant
-superMessEndless | Lightfoot Tabi
-superMessEndless | Second Wind
-superMessEndless | Karuta Plates
-superMessEndless | Strike of the Ninja
-superTUNCEndless | Lantern
-superTUNCEndless | Magic Dagger
-superTUNCEndless | Gun
-superTUNCEndless | Shield
-superUTEndless   | Core Key
-superUTEndless   | Butterscotch Pie
-superUTEndless   | Instant Noodles
-superUTEndless   | Snowman Piece
-rhythm.ChampaU6  | vault prog
-rhythm.ChampaU6  | vault useful 1
-rhythm.ChampaU6  | vault useful 2
-rhythm.ChampaU6  | vault useful 3
-rhythm.BeerusU7  | vault prog
-rhythm.BeerusU7  | vault useful 1
-rhythm.BeerusU7  | vault useful 2
-rhythm.BeerusU7  | vault useful 3
-rhythm.LiquiirU8 | vault prog
-rhythm.LiquiirU8 | vault useful 1
-rhythm.LiquiirU8 | vault useful 2
-rhythm.LiquiirU8 | vault useful 3
-GodlFireALTTP    | Moon Pearl
-GodlFireALTTP    | Progressive Sword
-GodlFireALTTP    | Progressive Shield
-GodlFireALTTP    | Pegasus Boots
-jf-time          | Timespinner Gear 3
-jf-time          | Empire Crown
-jf-time          | Fire Orb
-jf-time          | Water Mask
-jf-muse          | Music Sheet
-jf-muse          | heterodoxy
-jf-muse          | OBLIVION
-jf-muse          | marooned night
-WidowRain61      | Commencement
-WidowRain61      | Legendary Item
-WidowRain61      | Boss Item
-WidowRain61      | Hidden Realm: Bazaar Between Time
-Lojtana          | Hollow Bastion
-Lojtana          | Second Chance
-Lojtana          | Cosmic Arts
-Lojtana          | Crystal Crown
-Grim-aHiT        | Dweller Mask
-Grim-aHiT        | Sprint Hat
-Grim-aHiT        | Badge Pin
-Grim-aHiT        | Badge Pin
-Grim-Muse        | Music Sheet
-Grim-Muse        | Random Song
-Grim-Muse        | Random Song
-Grim-Muse        | Random Song
-Grim-SA2         | Tails - Booster
-Grim-SA2         | Eggman - Protective Armor
-Grim-SA2         | Eggman - Mystic Melody
-Grim-SA2         | Knuckles - Air Necklace
-Iridium          | Varia Suit
-Iridium          | Hi-Jump Boots
-Iridium          | Ice Beam
-Iridium          | Power Bomb
-StormHK          | Monarch_Wings
-StormHK          | Quick_Slash
-StormHK          | Pale_Ore
-StormHK          | Fragile_Strength
-StormTW          | Triangles
-StormTW          | Puzzle Skip
-StormTW          | Puzzle Skip
-StormTW          | Puzzle Skip  
-StormTW          | Air Dash
-StormC64         | Strawberry
-StormTW          | Breakable Blocks
-StormTW          | Coins
+
+    Char Dream Bros | Side Drill
+    automate.mp3 | progressive-science-pack / Building: Geothermal Generator
+    numRogueINSCRYPT | Dock's Clover Plant
+    superTUNCEndless | Shield
+    rhythm.ChampaU6 | vault useful 2
+    SylskoTunic | Muffling Bell
+    FloriTerra | Post-Goblin Army
+    StormTW | Puzzle Skip
+    mars three. | Eternal Coat
+    CaesiusSM64 | Cannon Unlock WF
+    superUTEndless | Butterscotch Pie
+    FKKirby | Copy Ability - Mike
+    Grim-aHiT | Sprint Hat
+    Grim-SA2 | Eggman - Mystic Melody
+    jf-muse | marooned night
+    sheen_pr | Progressive Slide
+    CoolGuyCompany | Pro-flashlight
+    superMessEndless | Karuta Plates
+    HPfunmanBS | Apodictic Heart of Mea Culpa
+    MauveMuse | Random Song
+    ConnorHK | Shade_Cloak
+    DragoLookAtDeath | Jungle Laser Shortcut (Door)
+    sheen_pr | Small Key
+    MauveMuse | Random Song
+    HPfunmanKH | Progressive Thunder
+    BroneySM | Power Bomb
+    numRogueINSCRYPT | Extra Candle
+    Lojtana | Second Chance
+    again.mp3 | Quick_Slash / Krampus Sack
+    BroneyLTTP | Cape
+    SylskoTunic | Magic Wand
+    HatKillsDrago | Relic (Green Crayon)
+    StormHK | Quick_Slash
+    BroneyFactorio | battery
+    coolhollowguy | Lumafly_Lantern
+    HPfunmanKH | Olympus Coliseum
+    HPfunmanBS | Dash Ability
+    CoolGuyCompany | Assurance
+    HPfunmanKH | Cosmic Arts
+    StormTW | Puzzle Skip
+    MauveMuse | Music Sheet
+    Soleyeer | Ice Hat
+    Lojtana | Crystal Crown
+    FloriTerra | Reward: Black Belt
+    again.mp3 | Steady_Body / Rope
+    heshmuda | Random Song
+    Char Forgotten | Pipe Mouth
+    heshut | Snowdin Key
+    MauvePenitent | Blood Perpetuated in Sand
+    SynRegret | Black/White Squares
+    rhythm.ChampaU6 | vault useful 3
+    CaesiusHIT | Badge Pin
+    Grim-aHiT | Dweller Mask
+    GodlFireALTTP | Progressive Sword
+    heshpseudo | Cling Gem
+    WidowRain61 | Hidden Realm: Bazaar Between Time
+    jf-time | Water Mask
+    Iridium | Ice Beam
+    rhythm.BeerusU7 | vault useful 2
+    Iridium | Varia Suit
+    jf-muse | heterodoxy
+    GodlFireALTTP | Moon Pearl
+    Kritzmaker | Revolver - Sharpshooter
+    Soleyeer | Time Stop Hat
+    Soleyeer | Fast Hatter Badge
+    Deathclaw99SM64 | Power Star
+    TripleSDV | Return Scepter
+    FKKirby | Copy Ability - Meta Knight
+    DragoLookAtDeath | Quarry Entry 1 (Panel)
+    superMessEndless | Strike of the Ninja
+    StormC64 | Air Dash
+    coolhollowguy | Shaman_Stone
+    superTUNCEndless | Gun
+    Char Past | Hammer
+    heshut | Mettaton Plush
+    Deathclaw99OOT | Hylian Shield
+    Deathclaw99OOT | Zora Tunic
+    ConnorHK | Dirtmouth_Stag
+    superTUNCEndless | Lantern
+    superMessEndless | Second Wind
+    superTUNCEndless | Magic Dagger
+    CoolGuyCompany | Scanner
+    Grim-SA2 | Knuckles - Air Necklace
+    Char Dream Bros | Mole Mario
+    Char Past | Moon Pearl
+    Lojtana | Cosmic Arts
+    BroneyFactorio | progressive-turret
+    jf-muse | Music Sheet
+    Deathclaw99TS | Radiant Orb
+    Grim-Muse | Random Song
+    BroneySM | Screw Attack
+    Char Dream Bros | Luiginary Stache Tree
+    Deathclaw99SM64 | Metal Cap
+    SynRogue | Security Keycard B
+    numRogueINSCRYPT | Mrs. Bomb's Remote
+    ThatFirey | Whiplash
+    Grim-aHiT | Badge Pin
+    jf-time | Empire Crown
+    superUTEndless | Snowman Piece
+    SynRegret | Functioning Brain
+    MauveMuse | Random Song
+    SynRogue | Talaria Attachment
+    mars three. | Security Keycard B
+    Kritzmaker | Railcannon - Electric
+    heshpseudo | Sun Greaves
+    JudosiiOOT | Slingshot
+    Grim-Muse | Random Song
+    JudosiiOOT | Farores Wind
+    BroneySM | Gravity Suit
+    Char Forgotten | Wise Waddle Dee Appears
+    JudosiiOOT | Magic Meter
+    heshmuda | Music Sheet
+    numRogueINSCRYPT | Film Roll
+    mars. | Shade_Soul
+    heshmuda | Random Song
+    mars. | Shaman_Stone
+    FloriTerra | Post-Golem
+    Deathclaw99TS | Eternal Coat
+    CaesiusSM64 | Progressive Key
+    TripleSDV | Progressive House
+    WidowRain61 | Commencement
+    superUTEndless | Instant Noodles
+    coolhollowguy | Dash_Slash
+    HatKillsDrago | Relic (Red Crayon)
+    WidowRain61 | Legendary Item
+    DragoSpinsDeath | Tablet
+    Deathclaw99OOT | Progressive Wallet
+    MauvePenitent | Three Gnarled Tongues
+    SylskoTunic | Gun
+    Deathclaw99OOT | Progressive Hookshot
+    Char Forgotten | Progressive Bomb Ability
+    CaesiusSM64 | Power Star
+    coolhollowguy | Cyclone_Slash
+    Alex230-Doom | Allow Using Yellow Key
+    CaesiusHIT | Fast Hatter Badge
+    heshpseudo | Small Key
+    Alex230-Doom | Allow Using Red Key
+    SylskoTunic | Magic Orb
+    sheen_pr | Small Key
+    DragoSpinsDeath | Celestial Sash
+    MauvePenitent | Silvered Lung of Dolphos
+    rhythm.LiquiirU8 | vault useful 1
+    heshmuda | Random Song
+    rhythm.BeerusU7 | vault prog
+    CaesiusHIT | Zipline Unlock - The Windmill Path
+    Iridium | Power Bomb
+    numgasRogueTUNIC | Magic Wand
+    BroneyFactorio | progressive-science-pack
+    Iridium | Hi-Jump Boots
+    Char Dream Bros | Spin Jump
+    TripleSDV | Progressive Barn
+    HPfunmanBS | Cloistered Ruby
+    Grim-aHiT | Badge Pin
+    sheen_pr | Small Key
+    numgasRogueTUNIC | Sword Upgrade
+    rhythm.LiquiirU8 | vault prog
+    FKKirby | Copy Ability - Wheel
+    rhythm.BeerusU7 | vault useful 1
+    Grim-Muse | Music Sheet
+    Lojtana | Hollow Bastion
+    BroneyLTTP | Progressive Bow
+    Grim-SA2 | Eggman - Protective Armor
+    numgasRogueTUNIC | Sword Upgrade
+    jf-muse | OBLIVION
+    CaesiusHIT | Badge Pin
+    WidowRain61 | Boss Item
+    Alex230-Doom | Turn Off GZChaos Mod
+    heshut | Complete Skeleton
+    StormTW | Puzzle Skip
+    CoolGuyCompany | Shovel
+    SynRogue | Bombardment
+    superMessEndless | Lightfoot Tabi
+    HatKillsDrago | Relic (Blue Crayon)
+    again.mp3 | Hiveblood / Spring Season Change
+    ThatFirey | Revolver - Marksman
+    Char Past | Flute
+    HatKillsDrago | Hookshot Badge
+    ConnorHK | Longnail
+    BroneyLTTP | Hammer
+    jf-time | Fire Orb
+    SynRogue | Eternal Coat
+    ThatFirey | Shotgun - Pump Charge
+    mars three. | Eternal Crown
+    BroneySM | Space Jump
+    Char Past | Magic Mirror
+    Deathclaw99TS | Eternal Crown
+    rhythm.ChampaU6 | vault prog
+    rhythm.LiquiirU8 | vault useful 3
+    TripleSDV | Progressive Season
+    numgasRogueTUNIC | Hero's Laurels
+    HPfunmanBS | Reliquary of the Fervent Heart
+    automate.mp3 | belt-immunity-equipment / Recipe: Power Shard (5)
+    Alex230-Doom | Allow Using Blue Key
+    GodlFireALTTP | Pegasus Boots
+    Char Forgotten | Progressive Hammer Ability
+    Kritzmaker | Shotgun - Sawed-On
+    rhythm.ChampaU6 | vault useful 1
+    heshut | Fish
+    DragoSpinsDeath | Succubus Hairpin
+    StormC64 | Breakable Blocks
+    StormC64 | Strawberry
+    DragoLookAtDeath | Eraser
+    DragoLookAtDeath | Cave Swamp Shortcut (Door)
+    StormHK | Pale_Ore
+    mars. | Monarch_Wings
+    DragoSpinsDeath | Security Keycard A
+    Deathclaw99TS | Elevator Keycard
+    Deathclaw99SM64 | Basement Key
+    StormHK | Monarch_Wings
+    MauvePenitent | Dash Ability
+    FloriTerra | Reward: Tabi
+    rhythm.LiquiirU8 | vault useful 2
+    GodlFireALTTP | Progressive Shield
+    heshpseudo | Solar Wind
+    automate.mp3 | lubricant / Building: MAM
+    rhythm.BeerusU7 | vault useful 3
+    superUTEndless | Core Key
+    FKKirby | Copy Ability - Cook
+    Grim-Muse | Random Song
+    ThatFirey | Railcannon - Electric
+    BroneyFactorio | lubricant
+    StormC64 | Coins
+    Soleyeer | Brewing Hat
+    again.mp3 | Mothwing_Cloak / Extra Damage Against Bosses
+    StormTW | Triangles
+    JudosiiOOT | Song of Time
+    HPfunmanKH | Second Chance
+    mars. | Fragile_Strength
+    automate.mp3 | battery / Recipe: Copper Sheet
+    mars three. | Talaria Attachment
+    StormHK | Fragile_Strength
+    Deathclaw99SM64 | Power Star
+    BroneyLTTP | Progressive Mail
+    ConnorHK | Shaman_Stone
+    Kritzmaker | Rocket Launcher - S.R.S. Cannon
+    SynRegret | Boat
+    jf-time | Timespinner Gear 3
+    CaesiusSM64 | Ground Pound
+    Grim-SA2 | Tails - Booster
+    SynRegret | Puzzle Skip
 
 # shop notes
 

@@ -669,22 +669,22 @@ A Hat in Time:
       force: true
     - item:
         Badge Pin: 1
-      location: Locker 41
+      location: Locker 52
       world: The Vault
       force: true
     - item:
         Badge Pin: 1
-      location: Locker 42
+      location: Locker 165
       world: The Vault
       force: true
     - item:
         Fast Hatter Badge: 1
-      location: Locker 43
+      location: Locker 135
       world: The Vault
       force: true
     - item:
         Zipline Unlock - The Windmill Path: 1
-      location: Locker 44
+      location: Locker 145
       world: The Vault
       force: true
   # Item & Location Options
@@ -926,22 +926,22 @@ Super Mario 64:
       force: true
     - item:
         Power Star: 1
-      location: Locker 45
+      location: Locker 132
       world: The Vault
       force: true
     - item:
         Ground Pound: 1
-      location: Locker 46
+      location: Locker 248
       world: The Vault
       force: true
     - item:
         Cannon Unlock WF: 1
-      location: Locker 47
+      location: Locker 10
       world: The Vault
       force: true
     - item:
         Progressive Key: 1
-      location: Locker 48
+      location: Locker 119
       world: The Vault
       force: true
   # Item & Location Options

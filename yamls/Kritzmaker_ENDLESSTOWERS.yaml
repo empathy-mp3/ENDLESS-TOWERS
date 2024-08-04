@@ -149,22 +149,22 @@ ULTRAKILL:
       force: true
     - item:
         Revolver - Sharpshooter: 1
-      location: Locker 109
+      location: Locker 63
       world: The Vault
       force: true
     - item:
         Shotgun - Sawed-On: 1
-      location: Locker 110
+      location: Locker 196
       world: The Vault
       force: true
     - item:
         Rocket Launcher - S.R.S. Cannon: 1
-      location: Locker 111
+      location: Locker 235
       world: The Vault
       force: true
     - item:
         Railcannon - Electric: 1
-      location: Locker 112
+      location: Locker 104
       world: The Vault
       force: true
 game: ULTRAKILL

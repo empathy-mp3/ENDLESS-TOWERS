@@ -133,21 +133,21 @@ Manual_KirbySuperStarUltra_FallenKingdoms:
       force: true
     - item:
         Copy Ability - Meta Knight: 1
-      location: Locker 149
+      location: Locker 68
       world: The Vault
       force: true
     - item:
         Copy Ability - Mike: 1
-      location: Locker 150
+      location: Locker 12
       world: The Vault
       force: true
     - item:
         Copy Ability - Cook: 1
-      location: Locker 151
+      location: Locker 217
       world: The Vault
       force: true
     - item:
         Copy Ability - Wheel: 1
-      location: Locker 152
+      location: Locker 157
       world: The Vault
       force: true

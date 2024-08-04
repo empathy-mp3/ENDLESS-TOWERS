@@ -111,22 +111,22 @@ Timespinner:
       force: true
     - item:
         Bombardment: 1
-      location: Locker 25
+      location: Locker 171
       world: The Vault
       force: true
     - item:
         Security Keycard B: 1
-      location: Locker 26
+      location: Locker 94
       world: The Vault
       force: true
     - item:
         Talaria Attachment: 1
-      location: Locker 27
+      location: Locker 94
       world: The Vault
       force: true
     - item:
         Eternal Coat: 1
-      location: Locker 28
+      location: Locker 181
       world: The Vault
       force: true
 
@@ -222,21 +222,21 @@ The Witness:
       force: true
     - item:
         Puzzle Skip: 1
-      location: Locker 29
+      location: Locker 240
       world: The Vault
       force: true
     - item:
         Boat: 1
-      location: Locker 30
+      location: Locker 236
       world: The Vault
       force: true
     - item:
         Functioning Brain: 1
-      location: Locker 31
+      location: Locker 100
       world: The Vault
       force: true
     - item:
         Black/White Squares: 1
-      location: Locker 32
+      location: Locker 50
       world: The Vault
       force: true

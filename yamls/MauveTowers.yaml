@@ -40,7 +40,7 @@ Muse Dash:
       locations: 
         - MauveMuse's Music Sheet
         - MauveMuse's Music Sheet (2)
-        - Locker 141
+        - Locker 41
       world: 
         - The Shop
         - The Vault
@@ -697,9 +697,9 @@ Muse Dash:
       locations:
         - MauveMuse's Random Song
         - MauveMuse's Random Song (2)
-        - Locker 142
-        - Locker 143
-        - Locker 144
+        - Locker 20
+        - Locker 24
+        - Locker 101
       world: 
         - The Shop
         - The Vault
@@ -758,21 +758,21 @@ Blasphemous:
       force: true
     - item:
         Dash Ability: 1
-      location: Locker 145
+      location: Locker 210
       world: The Vault
       force: true
     - item:
         Blood Perpetuated in Sand: 1
-      location: Locker 146
+      location: Locker 49
       world: The Vault
       force: true
     - item:
         Silvered Lung of Dolphos: 1
-      location: Locker 147
+      location: Locker 141
       world: The Vault
       force: true
     - item:
         Three Gnarled Tongues: 1
-      location: Locker 148
+      location: Locker 128
       world: The Vault
       force: true

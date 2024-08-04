@@ -118,22 +118,22 @@ A Link to the Past:
       force: true
     - item:
         Hammer: 1
-      location: Locker 129
+      location: Locker 74
       world: The Vault
       force: true
     - item:
         Magic Mirror: 1
-      location: Locker 130
+      location: Locker 185
       world: The Vault
       force: true
     - item:
         Moon Pearl: 1
-      location: Locker 131
+      location: Locker 85
       world: The Vault
       force: true
     - item:
         Flute: 1
-      location: Locker 132
+      location: Locker 176
       world: The Vault
       force: true
 
@@ -182,22 +182,22 @@ Manual_KirbyForgottenLand_TailsMK4:
       force: true
     - item:
         Wise Waddle Dee Appears: 1
-      location: Locker 133
+      location: Locker 110
       world: The Vault
       force: true
     - item:
         Progressive Hammer Ability: 1
-      location: Locker 134
+      location: Locker 195
       world: The Vault
       force: true
     - item:
         Pipe Mouth: 1
-      location: Locker 135
+      location: Locker 47
       world: The Vault
       force: true
     - item:
         Progressive Bomb Ability: 1
-      location: Locker 136
+      location: Locker 131
       world: The Vault
       force: true
 
@@ -263,21 +263,21 @@ Manual_marioluigidreamteam_pixiuchu:
       force: true
     - item:
         Spin Jump: 1
-      location: Locker 137
+      location: Locker 150
       world: The Vault
       force: true
     - item:
         Mole Mario: 1
-      location: Locker 138
+      location: Locker 84
       world: The Vault
       force: true
     - item:
         Side Drill: 1
-      location: Locker 139
+      location: Locker 1
       world: The Vault
       force: true
     - item:
         Luiginary Stache Tree: 1
-      location: Locker 140
+      location: Locker 92
       world: The Vault
       force: true

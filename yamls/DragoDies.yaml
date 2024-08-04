@@ -100,22 +100,22 @@ Timespinner:
       force: true
     - item:
         Security Keycard A: 1
-      location: Locker 61
+      location: Locker 206
       world: The Vault
       force: true
     - item:
         Tablet: 1
-      location: Locker 62
+      location: Locker 126
       world: The Vault
       force: true
     - item:
         Celestial Sash: 1
-      location: Locker 63
+      location: Locker 140
       world: The Vault
       force: true
     - item:
         Succubus Hairpin: 1
-      location: Locker 64
+      location: Locker 199
       world: The Vault
       force: true
 
@@ -341,22 +341,22 @@ A Hat in Time:
       force: true
     - item:
         Relic (Red Crayon): 1
-      location: Locker 65
+      location: Locker 124
       world: The Vault
       force: true
     - item:
         Relic (Blue Crayon): 1
-      location: Locker 66
+      location: Locker 173
       world: The Vault
       force: true
     - item:
         Hookshot Badge: 1
-      location: Locker 67
+      location: Locker 177
       world: The Vault
       force: true
     - item:
         Relic (Green Crayon): 1
-      location: Locker 68
+      location: Locker 32
       world: The Vault
       force: true
     
@@ -467,16 +467,16 @@ The Witness:
       force: true
     - item:
         Jungle Laser Shortcut (Door): 1
-      location: Locker 70
+      location: Locker 22
       world: The Vault
       force: true
     - item:
         Caves Swamp Shortcut (Door): 1
-      location: Locker 71
+      location: Locker 203
       world: The Vault
       force: true
     - item:
         Eraser: 1
-      location: Locker 72
+      location: Locker 202
       world: The Vault
       force: true

@@ -26,22 +26,22 @@ Manual_SingleLevelEndless_Alexander230:
       force: true
     - item:
         Allow Using Red Key: 1
-      location: Locker 73
+      location: Locker 137
       world: The Vault
       force: true
     - item:
         Turn Off GZChaos Mod: 1
-      location: Locker 74
+      location: Locker 167
       world: The Vault
       force: true
     - item:
         Allow Using Blue Key: 1
-      location: Locker 75
+      location: Locker 193
       world: The Vault
       force: true
     - item:
         Allow Using Yellow Key: 1
-      location: Locker 76
+      location: Locker 134
       world: The Vault
       force: true
 

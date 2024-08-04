@@ -127,21 +127,21 @@ Pseudoregalia:
       force: true
     - item:
         Progressive Slide: 1
-      location: Locker 77
+      location: Locker 16
       world: The Vault
       force: true
     - item:
         Small Key: 1
-      location: Locker 78
+      location: Locker 23
       world: The Vault
       force: true
     - item:
         Small Key: 1
-      location: Locker 79
+      location: Locker 139
       world: The Vault
       force: true
     - item:
         Small Key: 1
-      location: Locker 80
+      location: Locker 154
       world: The Vault
       force: true

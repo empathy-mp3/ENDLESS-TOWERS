@@ -165,21 +165,21 @@ Ocarina of Time:
       force: true
     - item:
         Magic Meter: 1
-      location: Locker 113
+      location: Locker 111
       world: The Vault
       force: true
     - item:
         Song of Time: 1
-      location: Locker 114
+      location: Locker 226
       world: The Vault
       force: true
     - item:
         Slingshot: 1
-      location: Locker 115
+      location: Locker 106
       world: The Vault
       force: true
     - item:
         Farores Wind: 1
-      location: Locker 116
+      location: Locker 108
       world: The Vault
       force: true

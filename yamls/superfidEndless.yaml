@@ -222,22 +222,22 @@ The Messenger:
       force: true
     - item:
         Lightfoot Tabi: 1
-      location: Locker 169
+      location: Locker 172
       world: The Vault
       force: true
     - item:
         Second Wind: 1
-      location: Locker 170
+      location: Locker 80
       world: The Vault
       force: true
     - item:
         Karuta Plates: 1
-      location: Locker 171
+      location: Locker 18
       world: The Vault
       force: true
     - item:
         Strike of the Ninja: 1
-      location: Locker 172
+      location: Locker 70
       world: The Vault
       force: true
 
@@ -462,22 +462,22 @@ TUNIC:
       force: true
     - item:
         Lantern: 1
-      location: Locker 173
+      location: Locker 79
       world: The Vault
       force: true
     - item:
         Magic Dagger: 1
-      location: Locker 174
+      location: Locker 81
       world: The Vault
       force: true
     - item:
         Gun: 1
-      location: Locker 175
+      location: Locker 73
       world: The Vault
       force: true
     - item:
         Shield: 1
-      location: Locker 176
+      location: Locker 4
       world: The Vault
       force: true
 
@@ -660,21 +660,21 @@ Undertale:
       force: true
     - item:
         Core Key: 1
-      location: Locker 177
+      location: Locker 217
       world: The Vault
       force: true
     - item:
         Butterscotch Pie: 1
-      location: Locker 178
+      location: Locker 11
       world: The Vault
       force: true
     - item:
         Instant Noodles: 1
-      location: Locker 179
+      location: Locker 122
       world: The Vault
       force: true
     - item:
         Snowman Piece: 1
-      location: Locker 180
+      location: Locker 99
       world: The Vault
       force: true

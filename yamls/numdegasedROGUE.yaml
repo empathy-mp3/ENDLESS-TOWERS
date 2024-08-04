@@ -245,22 +245,22 @@ TUNIC:
       force: true
     - item:
         Hero's Laurels: 1
-      location: Locker 161
+      location: Locker 190
       world: The Vault
       force: true
     - item:
         Magic Wand: 1
-      location: Locker 162
+      location: Locker 147
+      world: The Vault
+      force: true
+    - item:
+        Sword Upgrade: 1
+      location: Locker 155
       world: The Vault
       force: true
     - item:
         Sword Upgrade: 1
       location: Locker 163
-      world: The Vault
-      force: true
-    - item:
-        Sword Upgrade: 1
-      location: Locker 164
       world: The Vault
       force: true
 
@@ -343,22 +343,22 @@ Inscryption:
       force: true
     - item:
         Film Roll: 1
-      location: Locker 165
+      location: Locker 113
       world: The Vault
       force: true
     - item:
         Extra Candle: 1
-      location: Locker 166
+      location: Locker 27
       world: The Vault
       force: true
     - item:
         Mrs. Bomb's Remote: 1
-      location: Locker 167
+      location: Locker 95
       world: The Vault
       force: true
     - item:
         Dock's Clover Plant: 1
-      location: Locker 168
+      location: Locker 3
       world: The Vault
       force: true
   

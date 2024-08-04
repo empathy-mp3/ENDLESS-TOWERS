@@ -114,22 +114,22 @@ Hollow Knight:
       force: true
     - item:
         Monarch_Wings: 1
-      location: Locker 229
+      location: Locker 209
       world: The Vault
       force: true
     - item:
         Quick_Slash: 1
-      location: Locker 230
+      location: Locker 33
       world: The Vault
       force: true
     - item:
         Pale_Ore: 1
-      location: Locker 231
+      location: Locker 204
       world: The Vault
       force: true
     - item:
         Fragile_Strength: 1
-      location: Locker 232
+      location: Locker 231
       world: The Vault
       force: true
 
@@ -190,22 +190,22 @@ The Witness:
       force: true
     - item:
         Triangles: 1
-      location: Locker 233
+      location: Locker 225
       world: The Vault
       force: true
     - item:
         Puzzle Skip: 1
-      location: Locker 234
+      location: Locker 8
       world: The Vault
       force: true
     - item:
         Puzzle Skip: 1
-      location: Locker 235
+      location: Locker 40
       world: The Vault
       force: true
     - item:
         Puzzle Skip: 1
-      location: Locker 236
+      location: Locker 169
       world: The Vault
       force: true
 
@@ -253,21 +253,21 @@ Celeste 64:
       force: true
     - item:
         Air Dash: 1
-      location: Locker 237
+      location: Locker 71
       world: The Vault
       force: true
     - item:
         Strawberry: 1
-      location: Locker 238
+      location: Locker 201
       world: The Vault
       force: true
     - item:
         Breakable Blocks: 1
-      location: Locker 239
+      location: Locker 200
       world: The Vault
       force: true
     - item:
         Coins: 1
-      location: Locker 240
+      location: Locker 222
       world: The Vault
       force: true

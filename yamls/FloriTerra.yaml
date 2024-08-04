@@ -43,21 +43,21 @@ Terraria:
       force: true
     - item:
         Post-Golem: 1
-      location: Locker 93
+      location: Locker 117
       world: The Vault
       force: true
     - item:
         Post-Goblin Army: 1
-      location: Locker 94
+      location: Locker 7
       world: The Vault
       force: true
     - item:
         'Reward: Tabi': 1
-      location: Locker 95
+      location: Locker 211
       world: The Vault
       force: true
     - item:
         'Reward: Black Belt': 1
-      location: Locker 96
+      location: Locker 44
       world: The Vault
       force: true
