@@ -20,6 +20,13 @@
         "requires": "|Vault Key:5|"
     },
     {
+        "name": "Locker 5 - Extra Item",
+        "requires": "|Vault Key:5|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
+    },
+    {
         "name": "Locker 6",
         "requires": "|Vault Key:6|"
     },
@@ -38,6 +45,13 @@
     {
         "name": "Locker 10",
         "requires": "|Vault Key:10|"
+    },
+    {
+        "name": "Locker 10 - Extra Item",
+        "requires": "|Vault Key:10|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
     },
     {
         "name": "Locker 11",
@@ -60,6 +74,13 @@
         "requires": "|Vault Key:15|"
     },
     {
+        "name": "Locker 15 - Extra Item",
+        "requires": "|Vault Key:15|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
+    },
+    {
         "name": "Locker 16",
         "requires": "|Vault Key:16|"
     },
@@ -78,6 +99,13 @@
     {
         "name": "Locker 20",
         "requires": "|Vault Key:20|"
+    },
+    {
+        "name": "Locker 20 - Extra Item",
+        "requires": "|Vault Key:20|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
     },
     {
         "name": "Locker 21",
@@ -100,6 +128,13 @@
         "requires": "|Vault Key:25|"
     },
     {
+        "name": "Locker 25 - Extra Item",
+        "requires": "|Vault Key:25|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
+    },
+    {
         "name": "Locker 26",
         "requires": "|Vault Key:26|"
     },
@@ -118,6 +153,13 @@
     {
         "name": "Locker 30",
         "requires": "|Vault Key:30|"
+    },
+    {
+        "name": "Locker 30 - Extra Item",
+        "requires": "|Vault Key:30|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
     },
     {
         "name": "Locker 31",
@@ -140,6 +182,13 @@
         "requires": "|Vault Key:35|"
     },
     {
+        "name": "Locker 35 - Extra Item",
+        "requires": "|Vault Key:35|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
+    },
+    {
         "name": "Locker 36",
         "requires": "|Vault Key:36|"
     },
@@ -158,6 +207,13 @@
     {
         "name": "Locker 40",
         "requires": "|Vault Key:40|"
+    },
+    {
+        "name": "Locker 40 - Extra Item",
+        "requires": "|Vault Key:40|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
     },
     {
         "name": "Locker 41",
@@ -180,6 +236,13 @@
         "requires": "|Vault Key:45|"
     },
     {
+        "name": "Locker 45 - Extra Item",
+        "requires": "|Vault Key:45|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
+    },
+    {
         "name": "Locker 46",
         "requires": "|Vault Key:46|"
     },
@@ -198,6 +261,13 @@
     {
         "name": "Locker 50",
         "requires": "|Vault Key:50|"
+    },
+    {
+        "name": "Locker 50 - Extra Item",
+        "requires": "|Vault Key:50|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
     },
     {
         "name": "Locker 51",
@@ -220,6 +290,13 @@
         "requires": "|Vault Key:55|"
     },
     {
+        "name": "Locker 55 - Extra Item",
+        "requires": "|Vault Key:55|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
+    },
+    {
         "name": "Locker 56",
         "requires": "|Vault Key:56|"
     },
@@ -238,6 +315,13 @@
     {
         "name": "Locker 60",
         "requires": "|Vault Key:60|"
+    },
+    {
+        "name": "Locker 60 - Extra Item",
+        "requires": "|Vault Key:60|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
     },
     {
         "name": "Locker 61",
@@ -260,6 +344,13 @@
         "requires": "|Vault Key:65|"
     },
     {
+        "name": "Locker 65 - Extra Item",
+        "requires": "|Vault Key:65|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
+    },
+    {
         "name": "Locker 66",
         "requires": "|Vault Key:66|"
     },
@@ -278,6 +369,13 @@
     {
         "name": "Locker 70",
         "requires": "|Vault Key:70|"
+    },
+    {
+        "name": "Locker 70 - Extra Item",
+        "requires": "|Vault Key:70|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
     },
     {
         "name": "Locker 71",
@@ -300,6 +398,13 @@
         "requires": "|Vault Key:75|"
     },
     {
+        "name": "Locker 75 - Extra Item",
+        "requires": "|Vault Key:75|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
+    },
+    {
         "name": "Locker 76",
         "requires": "|Vault Key:76|"
     },
@@ -318,6 +423,13 @@
     {
         "name": "Locker 80",
         "requires": "|Vault Key:80|"
+    },
+    {
+        "name": "Locker 80 - Extra Item",
+        "requires": "|Vault Key:80|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
     },
     {
         "name": "Locker 81",
@@ -340,6 +452,13 @@
         "requires": "|Vault Key:85|"
     },
     {
+        "name": "Locker 85 - Extra Item",
+        "requires": "|Vault Key:85|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
+    },
+    {
         "name": "Locker 86",
         "requires": "|Vault Key:86|"
     },
@@ -358,6 +477,13 @@
     {
         "name": "Locker 90",
         "requires": "|Vault Key:90|"
+    },
+    {
+        "name": "Locker 90 - Extra Item",
+        "requires": "|Vault Key:90|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
     },
     {
         "name": "Locker 91",
@@ -380,6 +506,13 @@
         "requires": "|Vault Key:95|"
     },
     {
+        "name": "Locker 95 - Extra Item",
+        "requires": "|Vault Key:95|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
+    },
+    {
         "name": "Locker 96",
         "requires": "|Vault Key:96|"
     },
@@ -398,6 +531,13 @@
     {
         "name": "Locker 100",
         "requires": "|Vault Key:100|"
+    },
+    {
+        "name": "Locker 100 - Extra Item",
+        "requires": "|Vault Key:100|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
     },
     {
         "name": "Locker 101",
@@ -420,6 +560,13 @@
         "requires": "|Vault Key:105|"
     },
     {
+        "name": "Locker 105 - Extra Item",
+        "requires": "|Vault Key:105|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
+    },
+    {
         "name": "Locker 106",
         "requires": "|Vault Key:106|"
     },
@@ -438,6 +585,13 @@
     {
         "name": "Locker 110",
         "requires": "|Vault Key:110|"
+    },
+    {
+        "name": "Locker 110 - Extra Item",
+        "requires": "|Vault Key:110|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
     },
     {
         "name": "Locker 111",
@@ -460,6 +614,13 @@
         "requires": "|Vault Key:115|"
     },
     {
+        "name": "Locker 115 - Extra Item",
+        "requires": "|Vault Key:115|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
+    },
+    {
         "name": "Locker 116",
         "requires": "|Vault Key:116|"
     },
@@ -478,6 +639,13 @@
     {
         "name": "Locker 120",
         "requires": "|Vault Key:120|"
+    },
+    {
+        "name": "Locker 120 - Extra Item",
+        "requires": "|Vault Key:120|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
     },
     {
         "name": "Locker 121",
@@ -500,6 +668,13 @@
         "requires": "|Vault Key:125|"
     },
     {
+        "name": "Locker 125 - Extra Item",
+        "requires": "|Vault Key:125|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
+    },
+    {
         "name": "Locker 126",
         "requires": "|Vault Key:126|"
     },
@@ -518,6 +693,13 @@
     {
         "name": "Locker 130",
         "requires": "|Vault Key:130|"
+    },
+    {
+        "name": "Locker 130 - Extra Item",
+        "requires": "|Vault Key:130|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
     },
     {
         "name": "Locker 131",
@@ -540,6 +722,13 @@
         "requires": "|Vault Key:135|"
     },
     {
+        "name": "Locker 135 - Extra Item",
+        "requires": "|Vault Key:135|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
+    },
+    {
         "name": "Locker 136",
         "requires": "|Vault Key:136|"
     },
@@ -558,6 +747,13 @@
     {
         "name": "Locker 140",
         "requires": "|Vault Key:140|"
+    },
+    {
+        "name": "Locker 140 - Extra Item",
+        "requires": "|Vault Key:140|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
     },
     {
         "name": "Locker 141",
@@ -580,6 +776,13 @@
         "requires": "|Vault Key:145|"
     },
     {
+        "name": "Locker 145 - Extra Item",
+        "requires": "|Vault Key:145|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
+    },
+    {
         "name": "Locker 146",
         "requires": "|Vault Key:146|"
     },
@@ -598,6 +801,13 @@
     {
         "name": "Locker 150",
         "requires": "|Vault Key:150|"
+    },
+    {
+        "name": "Locker 150 - Extra Item",
+        "requires": "|Vault Key:150|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
     },
     {
         "name": "Locker 151",
@@ -620,6 +830,13 @@
         "requires": "|Vault Key:155|"
     },
     {
+        "name": "Locker 155 - Extra Item",
+        "requires": "|Vault Key:155|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
+    },
+    {
         "name": "Locker 156",
         "requires": "|Vault Key:156|"
     },
@@ -638,6 +855,13 @@
     {
         "name": "Locker 160",
         "requires": "|Vault Key:160|"
+    },
+    {
+        "name": "Locker 160 - Extra Item",
+        "requires": "|Vault Key:160|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
     },
     {
         "name": "Locker 161",
@@ -660,6 +884,13 @@
         "requires": "|Vault Key:165|"
     },
     {
+        "name": "Locker 165 - Extra Item",
+        "requires": "|Vault Key:165|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
+    },
+    {
         "name": "Locker 166",
         "requires": "|Vault Key:166|"
     },
@@ -678,6 +909,13 @@
     {
         "name": "Locker 170",
         "requires": "|Vault Key:170|"
+    },
+    {
+        "name": "Locker 170 - Extra Item",
+        "requires": "|Vault Key:170|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
     },
     {
         "name": "Locker 171",
@@ -700,6 +938,13 @@
         "requires": "|Vault Key:175|"
     },
     {
+        "name": "Locker 175 - Extra Item",
+        "requires": "|Vault Key:175|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
+    },
+    {
         "name": "Locker 176",
         "requires": "|Vault Key:176|"
     },
@@ -718,6 +963,13 @@
     {
         "name": "Locker 180",
         "requires": "|Vault Key:180|"
+    },
+    {
+        "name": "Locker 180 - Extra Item",
+        "requires": "|Vault Key:180|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
     },
     {
         "name": "Locker 181",
@@ -740,6 +992,13 @@
         "requires": "|Vault Key:185|"
     },
     {
+        "name": "Locker 185 - Extra Item",
+        "requires": "|Vault Key:185|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
+    },
+    {
         "name": "Locker 186",
         "requires": "|Vault Key:186|"
     },
@@ -758,6 +1017,13 @@
     {
         "name": "Locker 190",
         "requires": "|Vault Key:190|"
+    },
+    {
+        "name": "Locker 190 - Extra Item",
+        "requires": "|Vault Key:190|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
     },
     {
         "name": "Locker 191",
@@ -780,6 +1046,13 @@
         "requires": "|Vault Key:195|"
     },
     {
+        "name": "Locker 195 - Extra Item",
+        "requires": "|Vault Key:195|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
+    },
+    {
         "name": "Locker 196",
         "requires": "|Vault Key:196|"
     },
@@ -798,6 +1071,13 @@
     {
         "name": "Locker 200",
         "requires": "|Vault Key:200|"
+    },
+    {
+        "name": "Locker 200 - Extra Item",
+        "requires": "|Vault Key:200|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
     },
     {
         "name": "Locker 201",
@@ -820,6 +1100,13 @@
         "requires": "|Vault Key:205|"
     },
     {
+        "name": "Locker 205 - Extra Item",
+        "requires": "|Vault Key:205|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
+    },
+    {
         "name": "Locker 206",
         "requires": "|Vault Key:206|"
     },
@@ -838,6 +1125,13 @@
     {
         "name": "Locker 210",
         "requires": "|Vault Key:210|"
+    },
+    {
+        "name": "Locker 210 - Extra Item",
+        "requires": "|Vault Key:210|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
     },
     {
         "name": "Locker 211",
@@ -860,6 +1154,13 @@
         "requires": "|Vault Key:215|"
     },
     {
+        "name": "Locker 215 - Extra Item",
+        "requires": "|Vault Key:215|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
+    },
+    {
         "name": "Locker 216",
         "requires": "|Vault Key:216|"
     },
@@ -878,6 +1179,13 @@
     {
         "name": "Locker 220",
         "requires": "|Vault Key:220|"
+    },
+    {
+        "name": "Locker 220 - Extra Item",
+        "requires": "|Vault Key:220|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
     },
     {
         "name": "Locker 221",
@@ -900,6 +1208,13 @@
         "requires": "|Vault Key:225|"
     },
     {
+        "name": "Locker 225 - Extra Item",
+        "requires": "|Vault Key:225|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
+    },
+    {
         "name": "Locker 226",
         "requires": "|Vault Key:226|"
     },
@@ -918,6 +1233,13 @@
     {
         "name": "Locker 230",
         "requires": "|Vault Key:230|"
+    },
+    {
+        "name": "Locker 230 - Extra Item",
+        "requires": "|Vault Key:230|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
     },
     {
         "name": "Locker 231",
@@ -940,6 +1262,13 @@
         "requires": "|Vault Key:235|"
     },
     {
+        "name": "Locker 235 - Extra Item",
+        "requires": "|Vault Key:235|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
+    },
+    {
         "name": "Locker 236",
         "requires": "|Vault Key:236|"
     },
@@ -958,6 +1287,13 @@
     {
         "name": "Locker 240",
         "requires": "|Vault Key:240|"
+    },
+    {
+        "name": "Locker 240 - Extra Item",
+        "requires": "|Vault Key:240|",
+        "dont_place_item": [
+            "Vault Key"
+        ]
     },
     {
         "name": "victory",
