@@ -6,7 +6,7 @@ A Link to the Past:
 
   progression_balancing: 50
 
-  accessibility: locations
+  accessibility: items
 
   start_inventory:
     {Progressive Sword: 1}
@@ -147,7 +147,7 @@ Manual_KirbyForgottenLand_TailsMK4:
 
   progression_balancing: 50
 
-  accessibility: locations
+  accessibility: items
 
   goal: 100_percent_clear
 
@@ -208,7 +208,7 @@ name: Char Dream Bros
 
 Manual_marioluigidreamteam_pixiuchu:
   progression_balancing: 50
-  accessibility: locations
+  accessibility: items
 
   mid_game_levels: true
   

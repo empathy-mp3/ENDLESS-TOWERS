@@ -497,7 +497,7 @@ Kingdom Hearts:
 ---
 Blasphemous:
   progression_balancing: 0
-  accessibility: locations
+  accessibility: items
   prie_dieu_warp: 'true'
   skip_cutscenes: 'true'
   corpse_hints: 'true'

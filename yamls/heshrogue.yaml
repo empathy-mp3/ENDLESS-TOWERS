@@ -27,7 +27,6 @@ Pseudoregalia:
     # Locations: ensure everything can be reached and acquired.
     # Items: ensure all logically relevant items can be acquired.
     # Minimal: ensure what is needed to reach your goal can be acquired.
-    locations: 25
     items: 25
     minimal: 25
 
@@ -210,10 +209,8 @@ Muse Dash:
     random-middle: 25
     random-high: 25
   accessibility:
-    locations: 25
     items: 25
     minimal: 25
-    random: 25
   starting_song_count:
     random: 25
     random-low: 25
@@ -1017,7 +1014,6 @@ Undertale:
     # - **Locations:** ensure everything can be reached and acquired.
     # - **Items:** ensure all logically relevant items can be acquired.
     # - **Minimal:** ensure what is needed to reach your goal can be acquired.
-    locations: 25
     items: 25
     minimal: 25
 
