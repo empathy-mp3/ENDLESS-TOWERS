@@ -28,7 +28,7 @@ updated (insert relative discord timestamp)
 # the shop
 
 should any Cold Hard Cash be sent to The Shop, we may make some purchases!
-the shop resets roughly every day (if i have the time to reset it), but we may reroll it to reset it early.
+the shop resets roughly every day (if i have the time to reset it).
 keep in mind that prices may change, especially if multiple of 1 thing is purchased.
 all items are permanent, unless specified otherwise.
 
@@ -58,7 +58,7 @@ updated (insert relative discord timestamp)
 this shop will be done via polls. i'll have each of these options in a poll as well as a "don't buy anything" option, and here's how it shall work:
 i'll buy the most highly requested ones, in order of amounts of the amount of votes (descending).
 should we have insufficient money for an item, the purchasing will end there. 
-if "don't buy anything" is voted enough that we have enough money when it comes to it, the purchasing will also end there.
+if "don't buy anything" is voted enough that we still have money when it comes to it, the purchasing will also end there.
 the "send X random traps" option works differently. if the option has half as many votes as the highest voted option, it'll count as 1 purchase, and if the option has 3/4 as many, it'll count as 2.
 there are two polls, but treat them as one. if you don't want anything from the "impermanent shop items (& "don't buy anything")" poll, don't vote there, and same with the other.
 if there is not currently a run going, the traps and hints will carry over to the next run at the very start.
@@ -130,6 +130,13 @@ finished players (0):
 | jf-muse          | Music Sheet              | Music Sheet                     | Music Sheet                        |                                 | Gray Scale Trap      |
 | WidowRain61      | The Planetarium          | "Hidden Realm: A Moment, Whole" | Commencement                       | Common Item                     | Lunar Item           |
 | Lojtana          | Red Trinity              | End of the World                | Hollow Bastion                     |                                 |                      |
+| Grim-aHiT        | Umbrella                 | Hookshot Badge                  | Dweller Mask                       | 100 Pons                        | Baby Trap            |
+| Grim-Muse        | Music Sheet              | Music Sheet                     | Music Sheet                        |                                 | Bad Apple Trap       |
+| Grim-SA2         | Yellow Chaos Emerald     | Knuckles - Shovel Claws         | Tails - Booster                    | Ten Rings                       | Slow Trap            |
+| Iridium          | Morph Ball               | Gravity Suit                    | Varia Suit                         | Missile                         |                      |
+| StormHK          | Focus                    | Dream_Nail                      | Monarch_Wings                      | Geo_Chest-Watcher_Knights       |                      |
+| StormTW          | Black/White Squares      | Shapers                         | Triangles                          | Speed_Boost                     |                      |
+| StormC64         | Climb                    | Ground Dash                     | Air Dash                           |                                 |                      |
 
 
 | slot             | vault useful 1               | vault useful 2           | vault useful 3                    | shop useful 1                 | shop useful 2                         |
@@ -186,6 +193,13 @@ finished players (0):
 | jf-muse          | heterodoxy                   | OBLIVION                 | marooned night                    | Jealousy                      | Paradise 2                            |
 | WidowRain61      | Legendary Item               | Boss Item                | Hidden Realm: Bazaar Between Time | Boss Item                     | Legendary Item                        |
 | Lojtana          | Second Chance                | Cosmic Arts              | Crystal Crown                     | Progressive Aero              | Progressive Cure                      |
+| Grim-aHiT        | Sprint Hat                   | Badge Pin                | Badge Pin                         | Fast Hatter Badge             | No Bonk Badge                         |
+| Grim-Muse        | Random Song                  | Random Song              | Random Song                       | Random Song                   | Random Song                           |
+| Grim-SA2         | Eggman - Protective Armor    | Eggman - Mystic Melody   | Knuckles - Air Necklace           | Knuckles - Sunglasses         | Rouge - Treasure Scope                |
+| Iridium          | Hi-Jump Boots                | Ice Beam                 | Power Bomb                        | Grappling Beam                | Energy Tank                           |
+| StormHK          | Quick_Slash                  | Pale_Ore                 | Fragile_Strength                  | Isma's_Tear                   | Shaman_Stone                          |
+| StormTW          | Puzzle Skip                  | Puzzle Skip              | Puzzle Skip                       | Puzzle Skip                   | Puzzle Skip                           |
+| StormC64         | Strawberry                   | Breakable Blocks         | Coins                             | Cassettes                     | Feathers                              |
 
 ## rhythm
 
@@ -426,6 +440,34 @@ Lojtana          | Hollow Bastion
 Lojtana          | Second Chance
 Lojtana          | Cosmic Arts
 Lojtana          | Crystal Crown
+Grim-aHiT        | Dweller Mask
+Grim-aHiT        | Sprint Hat
+Grim-aHiT        | Badge Pin
+Grim-aHiT        | Badge Pin
+Grim-Muse        | Music Sheet
+Grim-Muse        | Random Song
+Grim-Muse        | Random Song
+Grim-Muse        | Random Song
+Grim-SA2         | Tails - Booster
+Grim-SA2         | Eggman - Protective Armor
+Grim-SA2         | Eggman - Mystic Melody
+Grim-SA2         | Knuckles - Air Necklace
+Iridium          | Varia Suit
+Iridium          | Hi-Jump Boots
+Iridium          | Ice Beam
+Iridium          | Power Bomb
+StormHK          | Monarch_Wings
+StormHK          | Quick_Slash
+StormHK          | Pale_Ore
+StormHK          | Fragile_Strength
+StormTW          | Triangles
+StormTW          | Puzzle Skip
+StormTW          | Puzzle Skip
+StormTW          | Puzzle Skip  
+StormTW          | Air Dash
+StormC64         | Strawberry
+StormTW          | Breakable Blocks
+StormTW          | Coins
 
 # shop notes
 
@@ -539,6 +581,20 @@ WidowRain61's The Planetarium
 WidowRain61's Hidden Realm: A Moment, Whole
 Lojtana's Red Trinity
 Lojtana's End of the World
+Grim-aHiT's Umbrella
+Grim-aHiT's Hookshot Badge
+Grim-Muse's Music Sheet
+Grim-Muse's Music Sheet (2)
+Grim-SA2's Yellow Chaos Emerald
+Grim-SA2's Knuckles - Shovel Claws
+Iridium's Morph Ball
+Iridium's Gravity Suit
+StormHK's Focus
+StormHK's Dream_Nail
+StormTW's Black/White Squares
+StormTW's Shapers
+StormC64's Climb
+StormC64's Ground Dash
 
 ### useful
 
@@ -648,6 +704,20 @@ WidowRain61's Boss Item
 WidowRain61's Legendary Item
 Lojtana's Progressive Aero
 Lojtana's Progressive Cure
+Grim-aHiT's Fast Hatter Badge
+Grim-aHiT's No Bonk Badge
+Grim-Muse's Random Song
+Grim-Muse's Random Song (2)
+Grim-SA2's Knuckles - Sunglasses
+Grim-SA2's Rouge - Treasure Scope
+Iridium's Grappling Beam
+Iridium's Energy Tank
+StormHK's Isma's_Tear
+StormHK's Shaman_Stone
+StormTW's Puzzle Skip
+StormTW's Puzzle Skip (2)
+StormC64's Cassettes
+StormC64's Feathers
 
 ## unpurchased
 

@@ -1696,6 +1696,230 @@
         ]
     },
     {
+        "name": "Grim-aHiT's Umbrella",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "Grim-aHiT's Hookshot Badge",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "Grim-aHiT's Fast Hatter Badge",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "Grim-aHiT's No Bonk Badge",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "Grim-Muse's Music Sheet",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "Grim-Muse's Music Sheet (2)",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "Grim-Muse's Random Song",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "Grim-Muse's Random Song (2)",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "Grim-SA2's Yellow Chaos Emerald",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "Grim-SA2's Knuckles - Shovel Claws",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "Grim-SA2's Knuckles - Sunglasses",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "Grim-SA2's Rouge - Treasure Scope",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "Iridium's Morph Ball",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "Iridium's Gravity Suit",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "Iridium's Grappling Beam",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "Iridium's Energy Tank",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "StormHK's Focus",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "StormHK's Dream_Nail",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "StormHK's Isma's_Tear",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "StormHK's Shaman_Stone",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "StormTW's Black/White Squares",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "StormTW's Shapers",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "StormTW's Puzzle Skip",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "StormTW's Puzzle Skip (2)",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "StormC64's Climb",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "StormC64's Ground Dash",
+        "requires": "|Cold Hard Cash:24|",
+        "category": [
+            "Everything",
+            "prog"
+        ]
+    },
+    {
+        "name": "StormC64's Cassettes",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
+        "name": "StormC64's Feathers",
+        "requires": "|Cold Hard Cash:9|",
+        "category": [
+            "Everything",
+            "useful"
+        ]
+    },
+    {
         "name": "victory",
         "victory": true
     }

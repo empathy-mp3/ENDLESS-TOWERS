@@ -514,8 +514,8 @@ A Link to the Past:
     # - **Locations:** ensure everything can be reached and acquired.
     # - **Items:** ensure all logically relevant items can be acquired.
     # - **Minimal:** ensure what is needed to reach your goal can be acquired.
-    locations: 50
-    items: 0
+    locations: 0
+    items: 50
     minimal: 0
 
   plando_connections:

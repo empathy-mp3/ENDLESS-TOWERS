@@ -848,6 +848,118 @@
         "requires": "|Vault Key:212|"
     },
     {
+        "name": "Locker 213",
+        "requires": "|Vault Key:213|"
+    },
+    {
+        "name": "Locker 214",
+        "requires": "|Vault Key:214|"
+    },
+    {
+        "name": "Locker 215",
+        "requires": "|Vault Key:215|"
+    },
+    {
+        "name": "Locker 216",
+        "requires": "|Vault Key:216|"
+    },
+    {
+        "name": "Locker 217",
+        "requires": "|Vault Key:217|"
+    },
+    {
+        "name": "Locker 218",
+        "requires": "|Vault Key:218|"
+    },
+    {
+        "name": "Locker 219",
+        "requires": "|Vault Key:219|"
+    },
+    {
+        "name": "Locker 220",
+        "requires": "|Vault Key:220|"
+    },
+    {
+        "name": "Locker 221",
+        "requires": "|Vault Key:221|"
+    },
+    {
+        "name": "Locker 222",
+        "requires": "|Vault Key:222|"
+    },
+    {
+        "name": "Locker 223",
+        "requires": "|Vault Key:223|"
+    },
+    {
+        "name": "Locker 224",
+        "requires": "|Vault Key:224|"
+    },
+    {
+        "name": "Locker 225",
+        "requires": "|Vault Key:225|"
+    },
+    {
+        "name": "Locker 226",
+        "requires": "|Vault Key:226|"
+    },
+    {
+        "name": "Locker 227",
+        "requires": "|Vault Key:227|"
+    },
+    {
+        "name": "Locker 228",
+        "requires": "|Vault Key:228|"
+    },
+    {
+        "name": "Locker 229",
+        "requires": "|Vault Key:229|"
+    },
+    {
+        "name": "Locker 230",
+        "requires": "|Vault Key:230|"
+    },
+    {
+        "name": "Locker 231",
+        "requires": "|Vault Key:231|"
+    },
+    {
+        "name": "Locker 232",
+        "requires": "|Vault Key:232|"
+    },
+    {
+        "name": "Locker 233",
+        "requires": "|Vault Key:233|"
+    },
+    {
+        "name": "Locker 234",
+        "requires": "|Vault Key:234|"
+    },
+    {
+        "name": "Locker 235",
+        "requires": "|Vault Key:235|"
+    },
+    {
+        "name": "Locker 236",
+        "requires": "|Vault Key:236|"
+    },
+    {
+        "name": "Locker 237",
+        "requires": "|Vault Key:237|"
+    },
+    {
+        "name": "Locker 238",
+        "requires": "|Vault Key:238|"
+    },
+    {
+        "name": "Locker 239",
+        "requires": "|Vault Key:239|"
+    },
+    {
+        "name": "Locker 240",
+        "requires": "|Vault Key:240|"
+    },
+    {
         "name": "victory",
         "victory": true
     }

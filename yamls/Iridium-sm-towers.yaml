@@ -1,0 +1,175 @@
+﻿#⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀
+#⠀⠀⠀⠀⠀⠀⠀⢀⣠⡴⠾⠛⠋⠉⠉⠉⠉⠙⠛⠷⢦⣄⡀
+#⠀⠀⠀⠀⠀⣠⣴⠟⢁⣠⠖⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣦⣄
+#⠀⠀⠀⢀⣼⠟⠁⣰⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣧⡀
+#⠀⠀⢀⡾⠁⢠⣾⡟⠁⠀⠀⠀⣠⣾⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠈⢷⡀
+#⠀⢀⣾⠁⣠⣿⠏⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠈⣷⡀
+#⠀⢸⡇⠀⣿⠏⠀⠀⢀⣴⣷⡀⠻⣿⣿⣿⣿⠟⢀⣾⣦⡀⠀⠀⠀⠀⠀⢸⡇
+#⠀⢸⡇⠀⠀⠀⠀⠀⢸⣿⣿⣿⣦⣤⠈⠁⣤⣴⣿⣿⣿⡇⠀⠀⠀⢰⠃⢸⡇
+#⠀⠈⢿⡀⠀⠀⠀⠀⠀⠻⠿⡿⠿⠃⠀⠀⠘⠿⢿⠿⠟⠀⠀⠀⡰⠟⢀⡿⠁
+#⠀⠀⠈⢿⣤⡀⠀⣀⣤⣤⣤⣀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣤⣀⠀⢀⣤⡿⠁
+#⠀⠀⠀⠀⠉⠛⠛⠋⣡⣤⣌⠙⠻⠶⣦⣴⠶⠟⠋⣡⣤⣌⠙⠛⠛⠉
+#⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⢀⣴⣶⠄⠠⣶⣦⡀⣿⣿⣿⣷
+#⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⡏⠈⢿⣿⠀⠀⣿⡿⠁⢹⣿⣿⡿
+#⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⠀⠀⠉⠀⠀⠉⠀⠀⣿⣿⠟⠁
+#⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀⠀⠉
+name: Iridium
+description: If at first you don't succeed, try, try, try, try, try, try again.
+game: Super Metroid
+requires:
+  version: 0.5.0
+Super Metroid:
+  preset:
+    regular: 1
+    veteran: 1
+    expert: 1
+  start_location:
+    # No start locs that could force an early suit
+    landing_site: 1
+    gauntlet_top: 1
+    green_brinstar_elevator: 1
+    big_pink: 1
+    etecoons_supers: 1
+    wrecked_ship_main: 1
+    red_brinstar_elevator: 1
+    golden_four: 1
+  remote_items: true
+  death_link: enable_survive
+  max_difficulty:
+    hard: 1
+    harder: 1
+    hardcore: 1
+  missile_qty: random
+  super_qty: random
+  power_bomb_qty: random
+  minor_qty:
+    100: 70
+    50: 15
+    33: 10
+    16: 5
+  area_randomization:
+    off: 10
+    light: 30
+    full: 60
+  area_layout: true
+  doors_colors_rando:
+    false: 80
+    true: 20
+  allow_grey_doors:
+    false: 75
+    true: 25
+  escape_rando: random
+  varia_tweaks: true
+  relaxed_round_robin_cf:
+    false: 90
+    true: 10
+  tourian:
+    vanilla: 20
+    fast: 20
+    disabled: 1
+  custom_objective: true
+  custom_objective_count:
+    5: 16
+    4: 8
+    3: 4
+    2: 2
+    1: 1
+  custom_objective_list:
+    ##
+    # Bosses
+    ##
+    - kill all G4
+    - kill three G4
+    - kill two G4
+    # - kill one G4
+    - kill kraid
+    - kill draygon
+    - kill phantoon
+    - kill ridley
+    ##
+    # Minibosses
+    ##
+    - kill all mini bosses
+    - kill three minibosses
+    - kill two minibosses
+    # - kill one miniboss
+    - kill spore spawn
+    - kill crocomire
+    - kill botwoon
+    - kill golden torizo
+    ##
+    # Items
+    ##
+    # - collect 25% items
+    - collect 50% items
+    - collect 75% items
+    # - collect 100% items
+    # - collect all upgrades
+    ##
+    # Areas
+    ##
+    - clear crateria
+    - clear croc's lair
+    - clear east maridia
+    - clear green brinstar
+    - clear kraid's lair
+    - clear lower norfair
+    - clear red brinstar
+    - clear upper norfair
+    - clear west maridia
+    - clear wrecked ship
+    ##
+    # Memes
+    ##
+    - kill king cacatac
+    - kill shaktool
+    - kill the orange geemer
+    - tickle the red fish
+    - visit the animals
+    ##
+    # Other
+    ##
+    - activate chozo robots
+    # - finish scavenger hunt
+    # - nothing
+  plando_items:
+    - item:
+        Morph Ball: 1
+      location: Iridium's Morph Ball
+      world: The Shop
+      force: true
+    - item:
+        Gravity Suit: 1
+      location: Iridium's Gravity Suit
+      world: The Shop
+      force: true
+    - item:
+        Grappling Beam: 1
+      location: Iridium's Grappling Beam
+      world: The Shop
+      force: true
+    - item:
+        Energy Tank: 1
+      location: Iridium's Energy Tank
+      world: The Shop
+      force: true
+    - item:
+        Varia Suit: 1
+      location: Locker 225
+      world: The Vault
+      force: true
+    - item:
+        Hi-Jump Boots: 1
+      location: Locker 226
+      world: The Vault
+      force: true
+    - item:
+        Ice Beam: 1
+      location: Locker 227
+      world: The Vault
+      force: true
+    - item:
+        Power Bomb: 1
+      location: Locker 228
+      world: The Vault
+      force: true
