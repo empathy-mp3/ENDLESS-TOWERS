@@ -65,10 +65,35 @@ A Link to the Past:
   triforce_pieces_required: random
   triforce_pieces_available: random
   triforce_pieces_extra: random
-  big_key_shuffle: random
-  small_key_shuffle: random
-  compass_shuffle: random
-  map_shuffle: random
+  big_key_shuffle: 
+    original_dungeon: 1
+    own_dungeons: 0
+    own_world: 1
+    any_world: 1
+    different_world: 1
+    start_with: 1
+  small_key_shuffle: 
+    original_dungeon: 1
+    own_dungeons: 0
+    own_world: 1
+    any_world: 1
+    different_world: 1
+    start_with: 1
+    universal: 1
+  compass_shuffle: 
+    original_dungeon: 1
+    own_dungeons: 0
+    own_world: 1
+    any_world: 1
+    different_world: 1
+    start_with: 1
+  map_shuffle: 
+    original_dungeon: 1
+    own_dungeons: 0
+    own_world: 1
+    any_world: 1
+    different_world: 1
+    start_with: 1
   restrict_dungeon_item_on_boss: false
   retro_bow: random
   enemy_shuffle: random

@@ -81,7 +81,7 @@ Timespinner:
       force: true
     - item:
         Timespinner Gear 3: 1
-      location: Locker 237
+      location: Locker 154
       world: The Vault
       force: true
     - item:

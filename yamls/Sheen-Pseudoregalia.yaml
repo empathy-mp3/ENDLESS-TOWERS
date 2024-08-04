@@ -116,13 +116,13 @@ Pseudoregalia:
       world: The Shop
       force: true
     - item:
-        Small Key: 1
-      location: "sheen_pr's Small Key"
+        Health Piece: 1
+      location: "sheen_pr's Health Piece"
       world: The Shop
       force: true
     - item:
-        Small Key: 1
-      location: "sheen_pr's Small Key (2)"
+        Health Piece: 1
+      location: "sheen_pr's Health Piece (2)"
       world: The Shop
       force: true
     - item:
@@ -131,17 +131,17 @@ Pseudoregalia:
       world: The Vault
       force: true
     - item:
-        Small Key: 1
+        Health Piece: 1
       location: Locker 23
       world: The Vault
       force: true
     - item:
-        Small Key: 1
+        Health Piece: 1
       location: Locker 139
       world: The Vault
       force: true
     - item:
-        Small Key: 1
-      location: Locker 154
+        Health Piece: 1
+      location: Locker 237 
       world: The Vault
       force: true

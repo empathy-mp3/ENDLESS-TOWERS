@@ -351,12 +351,12 @@ A Hat in Time:
       force: true
     - item:
         Hookshot Badge: 1
-      location: Locker 177
+      location: Locker 32
       world: The Vault
       force: true
     - item:
         Relic (Green Crayon): 1
-      location: Locker 32
+      location: Locker 177
       world: The Vault
       force: true
     

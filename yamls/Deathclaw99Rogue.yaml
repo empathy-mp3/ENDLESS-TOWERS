@@ -115,12 +115,12 @@ Super Mario 64:
                 force: true
               - item:
                   Power Star: 1
-                location: Locker 232
+                location: Locker 66
                 world: The Vault
                 force: true
               - item:
                   Power Star: 1
-                location: Locker 15
+                location: Locker 232
                 world: The Vault
                 force: true
               - item:
@@ -409,7 +409,7 @@ Timespinner:
       force: true
     - item:
         Elevator Keycard: 1
-      location: Locker 207
+      location: Locker 89
       world: The Vault
       force: true
     - item:
@@ -419,7 +419,7 @@ Timespinner:
       force: true
     - item:
         Radiant Orb: 1
-      location: Locker 89
+      location: Locker 207
       world: The Vault
       force: true
     - item:

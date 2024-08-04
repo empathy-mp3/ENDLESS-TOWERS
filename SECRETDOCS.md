@@ -51,7 +51,7 @@ other impermanent things:
 
 `send 7 random traps` (+1 Cold Hard Cash) ~ 2 in stock
 `hint 7 Cold Hard Cash` (2 cost) ~ 1 in stock
-`hint 5 Vault Keys` (2 cost) ~ 1 in stock
+`hint 7 Vault Keys` (2 cost) ~ 1 in stock
 
 updated (insert relative discord timestamp)
 
@@ -169,7 +169,7 @@ finished players (0):
 | heshpseudo       | Solar Wind                   | Sun Greaves              | Small Key                         | Ascendant Light               | Slide                                 |
 | heshmuda         | Random Song                  | Random Song              | Random Song                       | Random Song                   | Random Song                           |
 | heshut           | Mettaton Plush               | Complete Skeleton        | Fish                              | Core Key                      | Ruins Key                             |
-| sheen_pr         | Small Key                    | Small Key                | Small Key                         | Small Key                     | Small Key                             |
+| sheen_pr         | Health Piece                 | Health Piece             | Health Piece                      | Health Piece                  | Health Piece                          |
 | Kritzmaker       | Revolver - Sharpshooter      | Shotgun - Sawed-On       | Rocket Launcher - S.R.S. Cannon   | Nailgun - JumpStart           | Nailgun - Attractor                   |
 | JudosiiOOT       | Song of Time                 | Slingshot                | Farores Wind                      | Nayrus Love                   | Suns Song                             |
 | ConnorHK         | Shaman_Stone                 | Longnail                 | Dirtmouth_Stag                    | Fragile_Strength              | Quick_Slash                           |
@@ -199,7 +199,7 @@ finished players (0):
 | Iridium          | Hi-Jump Boots                | Ice Beam                 | Power Bomb                        | Grappling Beam                | Energy Tank                           |
 | StormHK          | Quick_Slash                  | Pale_Ore                 | Fragile_Strength                  | Isma's_Tear                   | Shaman_Stone                          |
 | StormTW          | Puzzle Skip                  | Puzzle Skip              | Puzzle Skip                       | Puzzle Skip                   | Puzzle Skip                           |
-| StormC64         | Strawberry                   | Breakable Blocks         | Coins                             | Cassettes                     | Feathers                              |
+| StormC64         | Springs                      | Breakable Blocks         | Coins                             | Cassettes                     | Feathers                              |
 
 ## rhythm
 
@@ -261,7 +261,7 @@ finished players (0):
     MauveMuse | Random Song
     ConnorHK | Shade_Cloak
     DragoLookAtDeath | Jungle Laser Shortcut (Door)
-    sheen_pr | Small Key
+    sheen_pr | Health Piece
     MauveMuse | Random Song
     HPfunmanKH | Progressive Thunder
     BroneySM | Power Bomb
@@ -270,8 +270,8 @@ finished players (0):
     again.mp3 | Quick_Slash / Krampus Sack
     BroneyLTTP | Cape
     SylskoTunic | Magic Wand
-    HatKillsDrago | Relic (Green Crayon)
-    StormHK | Quick_Slash
+    HatKillsDrago | Hookshot Badge
+    StormHK | Monarch_Wings
     BroneyFactorio | battery
     coolhollowguy | Lumafly_Lantern
     HPfunmanKH | Olympus Coliseum
@@ -327,7 +327,7 @@ finished players (0):
     Lojtana | Cosmic Arts
     BroneyFactorio | progressive-turret
     jf-muse | Music Sheet
-    Deathclaw99TS | Radiant Orb
+    Deathclaw99TS | Elevator Keycard
     Grim-Muse | Random Song
     BroneySM | Screw Attack
     Char Dream Bros | Luiginary Stache Tree
@@ -370,14 +370,14 @@ finished players (0):
     SylskoTunic | Gun
     Deathclaw99OOT | Progressive Hookshot
     Char Forgotten | Progressive Bomb Ability
-    CaesiusSM64 | Power Star
+    CaesiusSM64 | Ground Pound
     coolhollowguy | Cyclone_Slash
     Alex230-Doom | Allow Using Yellow Key
     CaesiusHIT | Fast Hatter Badge
     heshpseudo | Small Key
     Alex230-Doom | Allow Using Red Key
     SylskoTunic | Magic Orb
-    sheen_pr | Small Key
+    sheen_pr | Health Piece
     DragoSpinsDeath | Celestial Sash
     MauvePenitent | Silvered Lung of Dolphos
     rhythm.LiquiirU8 | vault useful 1
@@ -392,7 +392,7 @@ finished players (0):
     TripleSDV | Progressive Barn
     HPfunmanBS | Cloistered Ruby
     Grim-aHiT | Badge Pin
-    sheen_pr | Small Key
+    jf-time | Timespinner Gear 3
     numgasRogueTUNIC | Sword Upgrade
     rhythm.LiquiirU8 | vault prog
     FKKirby | Copy Ability - Wheel
@@ -415,7 +415,7 @@ finished players (0):
     again.mp3 | Hiveblood / Spring Season Change
     ThatFirey | Revolver - Marksman
     Char Past | Flute
-    HatKillsDrago | Hookshot Badge
+    HatKillsDrago | Relic (Green Crayon)
     ConnorHK | Longnail
     BroneyLTTP | Hammer
     jf-time | Fire Orb
@@ -439,15 +439,15 @@ finished players (0):
     heshut | Fish
     DragoSpinsDeath | Succubus Hairpin
     StormC64 | Breakable Blocks
-    StormC64 | Strawberry
+    Grim-SA2 | Tails - Booster
     DragoLookAtDeath | Eraser
     DragoLookAtDeath | Cave Swamp Shortcut (Door)
     StormHK | Pale_Ore
     mars. | Monarch_Wings
     DragoSpinsDeath | Security Keycard A
-    Deathclaw99TS | Elevator Keycard
+    Deathclaw99TS | Radiant Orb
     Deathclaw99SM64 | Basement Key
-    StormHK | Monarch_Wings
+    StormHK | Quick_Slash
     MauvePenitent | Dash Ability
     FloriTerra | Reward: Tabi
     rhythm.LiquiirU8 | vault useful 2
@@ -475,9 +475,9 @@ finished players (0):
     ConnorHK | Shaman_Stone
     Kritzmaker | Rocket Launcher - S.R.S. Cannon
     SynRegret | Boat
-    jf-time | Timespinner Gear 3
-    CaesiusSM64 | Ground Pound
-    Grim-SA2 | Tails - Booster
+    sheen_pr | Health Piece
+    CaesiusSM64 | Power Star
+    StormC64 | Springs
     SynRegret | Puzzle Skip
 
 # shop notes
@@ -661,8 +661,8 @@ heshmuda's Random Song
 heshmuda's Random Song (2)
 heshut's Core Key
 heshut's Ruins Key
-sheen_pr's Small Key
-sheen_pr's Small Key (2)
+sheen_pr's Health Piece
+sheen_pr's Health Piece (2)
 Kritzmaker's Nailgun - JumpStart
 Kritzmaker's Nailgun - Attractor
 JudosiiOOT's Nayrus Love

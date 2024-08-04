@@ -114,12 +114,12 @@ Hollow Knight:
       force: true
     - item:
         Monarch_Wings: 1
-      location: Locker 209
+      location: Locker 33
       world: The Vault
       force: true
     - item:
         Quick_Slash: 1
-      location: Locker 33
+      location: Locker 209
       world: The Vault
       force: true
     - item:
@@ -257,8 +257,8 @@ Celeste 64:
       world: The Vault
       force: true
     - item:
-        Strawberry: 1
-      location: Locker 201
+        Springs: 1
+      location: Locker 239
       world: The Vault
       force: true
     - item:

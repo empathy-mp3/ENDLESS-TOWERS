@@ -926,12 +926,12 @@ Super Mario 64:
       force: true
     - item:
         Power Star: 1
-      location: Locker 132
+      location: Locker 238
       world: The Vault
       force: true
     - item:
         Ground Pound: 1
-      location: Locker 238
+      location: Locker 132
       world: The Vault
       force: true
     - item:
