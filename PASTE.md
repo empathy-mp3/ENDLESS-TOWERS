@@ -26,7 +26,7 @@ room: (room link)
 
 the walls are shifting...
 
-[spelunky.jpg](images/spelunky.jpg)
+search `endlesstowerstart` to find all the start run messages!
 
 ---
 
@@ -40,7 +40,5 @@ the walls are shifting...
 
 # the first locker has been unlocked
 
-a vault key has been discovered, and it has unlocked the first vault locker.
 inside was `inscryption.mp3's 49er`.
 it persists between runs.
-lockers unlocked: 1

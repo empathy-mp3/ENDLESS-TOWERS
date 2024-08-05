@@ -1,6 +1,6 @@
 shops have 6 items, and are restocked daily
 - one is always a permanent +1 life (1, 3, 5, 7, 9...) 1 stock
-- one is halved hint cost (2, 5, 9, 16, 24, 41). the hint costs themselves go: (100, 50, 25, 12.5, 6.25, 3.125, 1.5625) 1 stock
+- one is halved hint cost (2, 4, 9, 16, 24, 41). the hint costs themselves go: (100, 50, 25, 12.5, 6.25, 3.125, 1.5625) 1 stock
 - four are major progression items (5, +1 per finished player) 1 stock each
   - logically require 1/4 (rounded down) of existing money
 - four are useful/minor progression items (2 cost) 1 stock
@@ -9,18 +9,18 @@ shops have 6 items, and are restocked daily
     - temp life refills: (1, +2 cost per additional one purchased per run) 3 stock (scales with every 2 finishes, not 1)
     - temp filler item: (1, +1 cost per additional of that particular filler item purchased per run) 3 stock (does not scale with finishes)
 - reroll is (5, +2 cost per reroll per day)
-- send X random traps is (X = 7 + uses) cash is (+1 cash, +0.2 cash per use, not rounded)
+- send X random traps is (X = 7 + uses) cash is (+1 cash, +0.1 cash per use, not rounded)
 - hint X Cold Hard Cash is (X = 6 + uses) cost is (2, +2 per use) (resets at the start of each run)
 - hint X Vault Keys is (X = 6 + uses) cost is (2, +2 per use) (resets at the start of each run)
 all prices increase by 1 every time 2 players finish
 
 # current status
 
-current lives: 1/1
-current hint cost: 100%
-lockers unlocked: 0
+current lives: 3/3
+current hint cost: 50%
+lockers unlocked: 7
 cash total: 0
-purchased permanent shop items: 0
+purchased permanent shop items: 2
 finished players: 0
 
 updated (insert relative discord timestamp)
@@ -49,7 +49,7 @@ here are the wares!
 
 other impermanent things:
 
-`send 7 random traps` (+1 Cold Hard Cash) ~ 2 in stock
+`send 7 random traps` (+1 Cold Hard Cash) ~ 1 in stock
 `hint 7 Cold Hard Cash` (2 cost) ~ 1 in stock
 `hint 7 Vault Keys` (2 cost) ~ 1 in stock
 
@@ -65,12 +65,12 @@ if there is not currently a run going, the traps and hints will carry over to th
 
 # secret notes on current status of async
 
-current lives: 1/1
-current hint cost: 100%
-lockers unlocked: 0
+current lives: 3/3
+current hint cost: 50%
+lockers unlocked: 7
 cash total: 0
 cash acquired this run: 0
-[send traps] uses: 0
+[send traps] uses: 2
 finished players (0):
 - currently none
 
@@ -237,7 +237,6 @@ finished players (0):
 
 (i just can't believe that adding BroneyFactorio and BroneyLTTP plando'd FOUR important items right at the end)
 
- ~ all above this has been obtained ~ vault keys: 0 ~
 
     Char Dream Bros | Side Drill
     automate.mp3 | progressive-science-pack / Building: Geothermal Generator
@@ -246,6 +245,7 @@ finished players (0):
     rhythm.ChampaU6 | vault useful 2
     SylskoTunic | Muffling Bell
     FloriTerra | Post-Goblin Army
+ ~ all above this has been obtained ~ vault keys: 7 ~
     StormTW | Puzzle Skip
     mars three. | Eternal Coat
     CaesiusSM64 | Cannon Unlock WF
@@ -482,7 +482,7 @@ finished players (0):
 
 # shop notes
 
-## purchased
+## unpurchased
 
 ### progressive
 
@@ -528,7 +528,6 @@ BroneyLTTP's Lamp
 BroneyLTTP's Moon Pearl
 BroneyFactorio's progressive-science-pack
 BroneyFactorio's progressive-science-pack (2)
-BroneySM's Morph Ball
 BroneySM's Varia Suit
 FloriTerra's Hardmode
 FloriTerra's Post-Skeletron
@@ -571,7 +570,6 @@ numgasRogueTUNIC's Pages 42-43 (Holy Cross)
 numRogueINSCRYPT's Inspectometer Battery
 numRogueINSCRYPT's Gems Module
 superMessEndless's Rope Dart
-superMessEndless's Wingsuit
 superTUNCEndless's Magic Orb
 superTUNCEndless's Scavenger Mask
 superUTEndless's Waterfall Key
@@ -730,12 +728,33 @@ StormTW's Puzzle Skip (2)
 StormC64's Cassettes
 StormC64's Feathers
 
-## unpurchased
+## purchased
 
 ### progressive
 
-N/A
+BroneySM's Morph Ball
+superMessEndless's Wingsuit
 
 ### useful
 
 N/A
+
+# trap list
+
+again.mp3 | Summer Trap
+automate.mp3 | Cluster Grenade Trap/Hog Basic
+SylskoTunic | Fool Trap
+Soleyeer | Laser Trap
+ThatFirey | Hard Damage
+CaesiusHIT | Baby Trap     
+DragoSpinsDeath | Bee Trap
+HatKillsDrago | Baby Trap
+DragoLookAtDeath | Bonk
+Alex230-Doom | Dark Sectors      
+Kritzmaker | Hard Damage
+JudosiiOOT | Ice Trap
+jf-muse | Gray Scale Trap
+WidowRain61 | Lunar Item
+Grim-aHiT | Baby Trap
+Grim-Muse | Bad Apple Trap
+Grim-SA2 | Slow Trap
