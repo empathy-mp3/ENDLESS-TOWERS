@@ -8,10 +8,10 @@ shops have 6 items, and are restocked daily
   - should a slot lose all possible stock, it will be replaced with one of the following:
     - temp life refills: (1, +2 cost per additional one purchased per run) 3 stock (scales with every 2 finishes, not 1)
     - temp filler item: (1, +1 cost per additional of that particular filler item purchased per run) 3 stock (does not scale with finishes)
-- reroll is (5, +2 cost per reroll per day)
+- reroll is (6, +2 cost per reroll per day)
 - send X random traps is (X = 7 + uses) cash is (+1 cash, +0.1 cash per use, not rounded)
-- hint X Cold Hard Cash is (X = 6 + uses) cost is (2, +2 per use) (resets at the start of each run)
-- hint X Vault Keys is (X = 6 + uses) cost is (2, +2 per use) (resets at the start of each run)
+- hint X Cold Hard Cash is (X = 7 + uses) cost is (2, +2 per use) (resets at the start of each run)
+- hint X Vault Keys is (X = 8 + uses) cost is (2, +2 per use) (resets at the start of each run)
 all prices increase by 1 every time 2 players finish
 
 # current status
@@ -52,6 +52,7 @@ other impermanent things:
 `send 7 random traps` (+1 Cold Hard Cash) ~ 1 in stock
 `hint 7 Cold Hard Cash` (2 cost) ~ 1 in stock
 `hint 7 Vault Keys` (2 cost) ~ 1 in stock
+`reroll & restock` (6 cost) ~ infinite in stock
 
 updated (insert relative discord timestamp)
 
@@ -59,7 +60,7 @@ this shop will be done via polls. i'll have each of these options in a poll as w
 i'll buy the most highly requested ones, in order of amounts of the amount of votes (descending).
 should we have insufficient money for an item, the purchasing will end there. 
 if "don't buy anything" is voted enough that we still have money when it comes to it, the purchasing will also end there.
-the "send X random traps" option works differently. if the option has half as many votes as the highest voted option, it'll count as 1 purchase, and if the option has 3/4 as many, it'll count as 2.
+the "send X random traps" option works differently. if it gets enough votes (half of highest vote), it'll be sent out.
 there are two polls, but treat them as one. if you don't want anything from the "impermanent shop items (& "don't buy anything")" poll, don't vote there, and same with the other.
 if there is not currently a run going, the traps and hints will carry over to the next run at the very start.
 
@@ -245,12 +246,12 @@ finished players (0):
     rhythm.ChampaU6 | vault useful 2
     SylskoTunic | Muffling Bell
     FloriTerra | Post-Goblin Army
- ~ all above this has been obtained ~ vault keys: 7 ~
     StormTW | Puzzle Skip
     mars three. | Eternal Coat
     CaesiusSM64 | Cannon Unlock WF
     superUTEndless | Butterscotch Pie
     FKKirby | Copy Ability - Mike
+ ~ all above this has been obtained ~ vault keys: 12 ~
     Grim-aHiT | Sprint Hat
     Grim-SA2 | Eggman - Mystic Melody
     jf-muse | marooned night
@@ -528,7 +529,6 @@ BroneyLTTP's Lamp
 BroneyLTTP's Moon Pearl
 BroneyFactorio's progressive-science-pack
 BroneyFactorio's progressive-science-pack (2)
-BroneySM's Varia Suit
 FloriTerra's Hardmode
 FloriTerra's Post-Skeletron
 heshpseudo's Major Key - Sansa Keep
@@ -734,6 +734,7 @@ StormC64's Feathers
 
 BroneySM's Morph Ball
 superMessEndless's Wingsuit
+BroneySM's Varia Suit
 
 ### useful
 

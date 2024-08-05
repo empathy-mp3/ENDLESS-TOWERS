@@ -1,7 +1,7 @@
 name: again.mp3
 game: 
   Hollow Knight: 5
-  Don't Starve Together: 3
+  Don't Starve Together: 5
 description: empathy.mp3 hollow knight/DST game for ENDLESS TOWERS async
 Hollow Knight:
   progression_balancing: '50'
@@ -91,8 +91,8 @@ Hollow Knight:
   StartingGeo: random-range-1-500
   DeathLink: 'true'
   DeathLinkShade: 
-    shadeless: 2
-    shade: 1
+    shadeless: 1
+    shade: 2
   DeathLinkBreaksFragileCharms: 'true'
   MinimumGeoPrice: '1'
   MinimumGrubPrice: '1'
@@ -551,7 +551,7 @@ Don't Starve Together:
 name: automate.mp3
 game: 
   Factorio: 10
-  Satisfactory: 10
+  Satisfactory: 0
 description: empathy.mp3 factorio/satisfactory game for ENDLESS TOWERS async
 Factorio:
   progression_balancing: '50'

@@ -20,11 +20,9 @@ PEARL: "Yeah, Marina's got your back, and I've got your back, too!"
 
 ---
 
-# the first run has begun
+# the  run has begun
 
-room: (room link)
-
-the walls are shifting...
+room: 
 
 search `endlesstowerstart` to find all the start run messages!
 
