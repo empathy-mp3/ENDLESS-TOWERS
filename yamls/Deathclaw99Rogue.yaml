@@ -84,7 +84,7 @@ Super Mario 64:
                 force: true
       - option_category: Super Mario 64
         option_name: progressive_keys
-        option_result: false
+        option_result: true
         options:
           Super Mario 64:
             plando_items:

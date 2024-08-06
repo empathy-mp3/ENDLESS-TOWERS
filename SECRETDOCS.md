@@ -1,6 +1,6 @@
 shops have 6 items, and are restocked daily
 - one is always a permanent +1 life (1, 3, 5, 7, 9...) 1 stock
-- one is halved hint cost (2, 4, 9, 16, 24, 41). the hint costs themselves go: (100, 50, 25, 12.5, 6.25, 3.125, 1.5625) 1 stock
+- one is halved hint cost (2, 4, 9, 16, 24, 39). the hint costs themselves go: (100, 50, 25, 12.5, 6.25, 3.125, 1.5625) 1 stock
 - four are major progression items (5, +1 per finished player) 1 stock each
   - logically require 1/4 (rounded down) of existing money
 - four are useful/minor progression items (2 cost) 1 stock
@@ -16,11 +16,11 @@ all prices increase by 1 every time 2 players finish
 
 # current status
 
-current lives: 3/3
-current hint cost: 50%
-lockers unlocked: 7
+current lives: 4/4
+current hint cost: 25%
+lockers unlocked: 12
 cash total: 0
-purchased permanent shop items: 2
+purchased permanent shop items: 5
 finished players: 0
 
 updated (insert relative discord timestamp)
@@ -36,8 +36,8 @@ current Cold Hard Cash: 0
 
 here are the wares!
 
-`+1 additional life` (1 cost) ~ 1 in stock
-`halved hint cost` (2 cost) ~ 1 in stock
+`+1 additional life` (7 cost) ~ 1 in stock
+`halved hint cost` (9 cost) ~ 1 in stock
 `Deathclaw99TS's Lightwall` (5 cost) ~ 1 in stock
 `Soleyeer's Hookshot Badge` (5 cost) ~ 1 in stock
 `Soleyeer's Dweller Mask` (5 cost) ~ 1 in stock
@@ -50,11 +50,9 @@ here are the wares!
 other impermanent things:
 
 `send 7 random traps` (+1 Cold Hard Cash) ~ 1 in stock
-`hint 7 Cold Hard Cash` (2 cost) ~ 1 in stock
-`hint 7 Vault Keys` (2 cost) ~ 1 in stock
+`hint 9 Cold Hard Cash` (2 cost) ~ 1 in stock
+`hint 12 Vault Keys` (2 cost) ~ 1 in stock
 `reroll & restock` (6 cost) ~ infinite in stock
-
-updated (insert relative discord timestamp)
 
 this shop will be done via polls. i'll have each of these options in a poll as well as a "don't buy anything" option, and here's how it shall work:
 i'll buy the most highly requested ones, in order of amounts of the amount of votes (descending).
@@ -66,9 +64,9 @@ if there is not currently a run going, the traps and hints will carry over to th
 
 # secret notes on current status of async
 
-current lives: 3/3
+current lives: 4/4
 current hint cost: 50%
-lockers unlocked: 7
+lockers unlocked: 12
 cash total: 0
 cash acquired this run: 0
 [send traps] uses: 2
@@ -251,12 +249,12 @@ finished players (0):
     CaesiusSM64 | Cannon Unlock WF
     superUTEndless | Butterscotch Pie
     FKKirby | Copy Ability - Mike
- ~ all above this has been obtained ~ vault keys: 12 ~
     Grim-aHiT | Sprint Hat
     Grim-SA2 | Eggman - Mystic Melody
     jf-muse | marooned night
     sheen_pr | Progressive Slide
     CoolGuyCompany | Pro-flashlight
+ ~ all above this has been obtained ~ vault keys: 17 ~
     superMessEndless | Karuta Plates
     HPfunmanBS | Apodictic Heart of Mea Culpa
     MauveMuse | Random Song
@@ -503,7 +501,6 @@ SynRogue's Celestial Sash
 SynRogue's Water Mask
 SynRegret's Progressive Dots
 SynRegret's Shapers
-Soleyeer's Hookshot Badge
 Soleyeer's Dweller Mask
 ThatFirey's Stamina Bar
 ThatFirey's Wall Jump
@@ -515,7 +512,6 @@ mars.'s Desolate_Dive
 mars.'s Focus
 mars three.'s Celestial Sash
 mars three.'s Water Mask
-TripleSDV's Progressive Season
 TripleSDV's Progressive Season (2)
 DragoSpinsDeath's Water Mask
 DragoSpinsDeath's Security Keycard D
@@ -545,7 +541,6 @@ JudosiiOOT's Progressive Hookshot
 JudosiiOOT's Bomb Bag
 ConnorHK's Vengeful_Spirit
 ConnorHK's Mothwing_Cloak
-HPfunmanKH's Green Trinity
 HPfunmanKH's Hollow Bastion           
 HPfunmanBS's Wall Climb Ability
 HPfunmanBS's Blood Perpetuated in Sand
@@ -554,7 +549,6 @@ Char Past's Hookshot
 Char Forgotten's Cone Mouth
 Char Forgotten's Stairs Mouth
 Char Dream Bros's Hammers
-Char Dream Bros's Mini Mario
 MauveMuse's Music Sheet
 MauveMuse's Music Sheet (2)
 MauvePenitent's Purified Hand of the Nun
@@ -569,7 +563,6 @@ numgasRogueTUNIC's Pages 24-25 (Prayer)
 numgasRogueTUNIC's Pages 42-43 (Holy Cross)
 numRogueINSCRYPT's Inspectometer Battery
 numRogueINSCRYPT's Gems Module
-superMessEndless's Rope Dart
 superTUNCEndless's Magic Orb
 superTUNCEndless's Scavenger Mask
 superUTEndless's Waterfall Key
@@ -592,22 +585,18 @@ Lojtana's Red Trinity
 Lojtana's End of the World
 Grim-aHiT's Umbrella
 Grim-aHiT's Hookshot Badge
-Grim-Muse's Music Sheet
 Grim-Muse's Music Sheet (2)
 Grim-SA2's Yellow Chaos Emerald
 Grim-SA2's Knuckles - Shovel Claws
 Iridium's Morph Ball
 Iridium's Gravity Suit
-StormHK's Focus
 StormHK's Dream_Nail
 StormTW's Black/White Squares
 StormTW's Shapers
-StormC64's Climb
 StormC64's Ground Dash
 
 ### useful
 
-again.mp3's Shaman_Stone / Winter Season Change
 again.mp3's Heavy_Blow / Autumn Season Change
 automate.mp3's uranium-ammo / Inflated Pocket Dimension
 automate.mp3's concrete / Recipe: Rubber
@@ -628,7 +617,6 @@ Soleyeer's Sprint Hat
 ThatFirey's Rocket Launcher - Freezeframe
 ThatFirey's Knuckleblaster
 CaesiusHIT's Item Magnet Badge
-CaesiusHIT's Hover Badge
 CaesiusSM64's Cannon Unlock JRB
 CaesiusSM64's Kick
 mars.'s Soul_Eater
@@ -651,8 +639,6 @@ BroneyFactorio's concrete
 BroneyFactorio's progressive-armor
 BroneySM's Bomb
 BroneySM's Wave Beam
-FloriTerra's Reward: Hermes Boots
-FloriTerra's Reward: Rod of Discord
 heshpseudo's Ascendant Light
 heshpseudo's Slide
 heshmuda's Random Song
@@ -665,7 +651,6 @@ Kritzmaker's Nailgun - JumpStart
 Kritzmaker's Nailgun - Attractor
 JudosiiOOT's Nayrus Love
 JudosiiOOT's Suns Song
-ConnorHK's Fragile_Strength
 ConnorHK's Quick_Slash
 HPfunmanKH's Progressive Cure
 HPfunmanKH's Accessory Slot Increase           
@@ -677,7 +662,6 @@ Char Forgotten's Progressive Sword Ability
 Char Forgotten's Progressive Fire Ability
 Char Dream Bros's Luiginary Sneeze Wind
 Char Dream Bros's Ball Hop
-MauveMuse's Random Song
 MauveMuse's Random Song (2)
 MauvePenitent's Linen of Golden Thread
 MauvePenitent's Nail Uprooted from Dirt
@@ -687,7 +671,6 @@ coolhollowguy's Hiveblood
 coolhollowguy's Great_Slash
 CoolGuyCompany's Extension ladder
 CoolGuyCompany's Jetpack
-numgasRogueTUNIC's Sword Upgrade
 numgasRogueTUNIC's Sword Upgrade (2)
 numRogueINSCRYPT's Bee Figurine
 numRogueINSCRYPT's Ourobot Card
@@ -698,7 +681,6 @@ superTUNCEndless's Sword Upgrade
 superUTEndless's Snowman Piece
 superUTEndless's Snowman Piece (2)
 rhythm.ChampaU6's shop useful 1
-rhythm.ChampaU6's shop useful 2
 rhythm.BeerusU7's shop useful 1
 rhythm.BeerusU7's shop useful 2
 rhythm.LiquiirU8's shop useful 1
@@ -714,7 +696,6 @@ WidowRain61's Legendary Item
 Lojtana's Progressive Aero
 Lojtana's Progressive Cure
 Grim-aHiT's Fast Hatter Badge
-Grim-aHiT's No Bonk Badge
 Grim-Muse's Random Song
 Grim-Muse's Random Song (2)
 Grim-SA2's Knuckles - Sunglasses
@@ -735,27 +716,43 @@ StormC64's Feathers
 BroneySM's Morph Ball
 superMessEndless's Wingsuit
 BroneySM's Varia Suit
+Grim-Muse's Music Sheet
+StormC64's Climb
+HPfunmanKH's Green Trinity
+Soleyeer's Hookshot Badge
+Char Dream Bros's Mini Mario
+StormHK's Focus
+superMessEndless's Rope Dart
+TripleSDV's Progressive Season
 
 ### useful
 
-N/A
+FloriTerra's Reward: Hermes Boots
+rhythm.ChampaU6's shop useful 2
+FloriTerra's Reward: Rod of Discord
+CaesiusHIT's Hover Badge
+ConnorHK's Fragile_Strength
+MauveMuse's Random Song
+numgasRogueTUNIC's Sword Upgrade
+again.mp3's Shaman_Stone / Winter Season Change
+Grim-aHiT's No Bonk Badge
 
 # trap list
 
-again.mp3 | Summer Trap
-automate.mp3 | Cluster Grenade Trap/Hog Basic
-SylskoTunic | Fool Trap
-Soleyeer | Laser Trap
-ThatFirey | Hard Damage
-CaesiusHIT | Baby Trap     
-DragoSpinsDeath | Bee Trap
-HatKillsDrago | Baby Trap
-DragoLookAtDeath | Bonk
-Alex230-Doom | Dark Sectors      
-Kritzmaker | Hard Damage
-JudosiiOOT | Ice Trap
-jf-muse | Gray Scale Trap
-WidowRain61 | Lunar Item
-Grim-aHiT | Baby Trap
-Grim-Muse | Bad Apple Trap
-Grim-SA2 | Slow Trap
+/send again.mp3 Summer Trap
+/send automate.mp3 Cluster Grenade Trap
+/send SylskoTunic Fool Trap
+/send Soleyeer Laser Trap
+/send ThatFirey Hard Damage
+/send CaesiusHIT Baby Trap     
+/send DragoSpinsDeath Bee Trap
+/send HatKillsDrago Baby Trap
+/send DragoLookAtDeath Bonk
+/send Alex230-Doom Dark Sectors      
+/send Kritzmaker Hard Damage
+/send JudosiiOOT Ice Trap
+/send jf-muse Gray Scale Trap
+/send WidowRain61 Lunar Item
+/send Grim-aHiT Baby Trap
+/send Grim-Muse Bad Apple Trap
+/send Grim-SA2 Slow Trap

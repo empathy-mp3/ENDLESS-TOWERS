@@ -558,7 +558,7 @@ Factorio:
   accessibility: items
   max_science_pack: space_science_pack
   min_tech_cost: random-range-1-50
-  max_tech_cost: random-range-50-1000
+  max_tech_cost: random-range-50-100
   silo: randomize_recipe
   satellite: randomize_recipe
   recipe_time: chaos

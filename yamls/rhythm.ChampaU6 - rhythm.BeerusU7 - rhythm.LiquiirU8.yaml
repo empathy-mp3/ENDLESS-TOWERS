@@ -18,7 +18,9 @@ game: # Champa Modifier: All games and chances equalized within reason.
 
 #
 Inscryption:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   deathlink: true
   act1_deathlink_behaviour: sacrificed
   goal: full_story_any_order
@@ -80,7 +82,9 @@ Inscryption:
   
 #
 Meritous:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   goal: 
     return_the_cursed_seal: 1
@@ -131,7 +135,9 @@ Meritous:
       force: true
 #
 Metroid Prime:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   required_artifacts: random
   final_bosses: 
@@ -229,7 +235,9 @@ Metroid Prime:
       force: true
 #
 Metroid Zero Mission:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   chozodia_access: random
   skip_chozodia_stealth: true
@@ -285,7 +293,9 @@ Metroid Zero Mission:
       force: true
 #
 Minit:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   death_amnisty_total: random-range-1-20 # WE SHALL LIVE AND DIE BY THE DICE ROLL OF FATE!
   starting_sword: random
@@ -362,7 +372,9 @@ Minit:
       force: true
 #
 Pseudoregalia:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   logic_level: normal
   obscure_logic: false
@@ -412,7 +424,9 @@ Pseudoregalia:
       force: true
 #
 Sonic Adventure DX:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   ring_link: true
   pinball_life_capsules: false
@@ -439,6 +453,14 @@ Sonic Adventure DX:
   randomized_gamma_upgrades: true
   emblems_percentage: random-range-60-100
   sonic_missions: random
+  hard_ring_link: random
+  sonic_life_sanity: random
+  tails_life_sanity: random
+  knuckles_life_sanity: random
+  amy_life_sanity: random
+  big_life_sanity: random
+  gamma_life_sanity: random
+  junk_fill_percentage: 0
   tails_missions:
     none: 0
     c: 1
@@ -491,7 +513,9 @@ Sonic Adventure DX:
       force: true
 #
 Sonic Adventure 2 Battle:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   ring_link: true
   goal:
@@ -744,7 +768,9 @@ Sonic Adventure 2 Battle:
       force: true
 #
 Super Mario 64:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   area_rando:
     courses_only: 1
@@ -833,7 +859,9 @@ Super Mario 64:
       force: true
 #
 Super Metroid:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: enable_survive
   preset: varia_custom
   varia_custom_preset: rhythmlycan
@@ -943,7 +971,9 @@ Super Metroid:
       force: true
 #
 Wario Land 4:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   logic: basic
   goal:
@@ -1015,7 +1045,9 @@ Wario Land 4:
 
 #
 Yu-Gi-Oh! Forbidden Memories:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   duelist_progression:
     thematic: 1
@@ -1087,7 +1119,9 @@ game: # Beerus Modifier: Plays main games more often.
 
 #
 Inscryption:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   deathlink: true
   act1_deathlink_behaviour: sacrificed
   goal: full_story_any_order
@@ -1148,7 +1182,9 @@ Inscryption:
       force: true
 #
 Meritous:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   goal: 
     return_the_cursed_seal: 1
@@ -1199,7 +1235,9 @@ Meritous:
       force: true
 #
 Metroid Prime:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   required_artifacts: random
   final_bosses: 
@@ -1297,7 +1335,9 @@ Metroid Prime:
       force: true
 #
 Metroid Zero Mission:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   chozodia_access: random
   skip_chozodia_stealth: true
@@ -1353,7 +1393,9 @@ Metroid Zero Mission:
       force: true
 #
 Minit:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   death_amnisty_total: random-range-1-20 # WE SHALL LIVE AND DIE BY THE DICE ROLL OF FATE!
   starting_sword: random
@@ -1430,7 +1472,9 @@ Minit:
       force: true
 #
 Pseudoregalia:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   logic_level: normal
   obscure_logic: false
@@ -1480,7 +1524,9 @@ Pseudoregalia:
       force: true
 #
 Sonic Adventure DX:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   ring_link: true
   pinball_life_capsules: false
@@ -1513,6 +1559,14 @@ Sonic Adventure DX:
     c_b: 1
     c_b_a: 1
   knuckles_missions: random
+  hard_ring_link: random
+  sonic_life_sanity: random
+  tails_life_sanity: random
+  knuckles_life_sanity: random
+  amy_life_sanity: random
+  big_life_sanity: random
+  gamma_life_sanity: random
+  junk_fill_percentage: 0
   amy_missions: random
   gamma_missions: random
   big_missions: random
@@ -1559,7 +1613,9 @@ Sonic Adventure DX:
       force: true
 #
 Sonic Adventure 2 Battle:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   ring_link: true
   goal:
@@ -1813,7 +1869,9 @@ Sonic Adventure 2 Battle:
     - Weapons Bed - Upgrade
 #
 Super Mario 64:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   area_rando:
     courses_only: 1
@@ -1902,7 +1960,9 @@ Super Mario 64:
       force: true
 #
 Super Metroid:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: enable_survive
   preset: varia_custom
   varia_custom_preset: rhythmlycan
@@ -2012,7 +2072,9 @@ Super Metroid:
       force: true
 #
 Wario Land 4:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   logic: basic
   goal:
@@ -2084,7 +2146,9 @@ Wario Land 4:
 
 #
 Yu-Gi-Oh! Forbidden Memories:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   duelist_progression:
     thematic: 1
@@ -2156,7 +2220,9 @@ game: # Liquiir Modifier: Harder settings roll more often. More variance. (Not t
 
 #
 Inscryption:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   deathlink: true
   act1_deathlink_behaviour: sacrificed
   goal: full_story_any_order
@@ -2217,7 +2283,9 @@ Inscryption:
       force: true
 #
 Meritous:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   goal: 
     return_the_cursed_seal: 1
@@ -2268,7 +2336,9 @@ Meritous:
       force: true
 #
 Metroid Prime:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   required_artifacts: random
   final_bosses: 
@@ -2366,7 +2436,9 @@ Metroid Prime:
       force: true
 #
 Metroid Zero Mission:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   chozodia_access: random
   skip_chozodia_stealth: true
@@ -2422,7 +2494,9 @@ Metroid Zero Mission:
       force: true
 #
 Minit:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   death_amnisty_total: random-range-1-20 # WE SHALL LIVE AND DIE BY THE DICE ROLL OF FATE!
   starting_sword: random
@@ -2499,7 +2573,9 @@ Minit:
       force: true
 #
 Pseudoregalia:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   logic_level: normal
   obscure_logic: false
@@ -2549,7 +2625,9 @@ Pseudoregalia:
       force: true
 #
 Sonic Adventure DX:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   ring_link: true
   pinball_life_capsules: false
@@ -2566,6 +2644,14 @@ Sonic Adventure DX:
   sub_level_checks: random
   boss_checks: random
   unify_chaos4: random
+  hard_ring_link: random
+  sonic_life_sanity: random
+  tails_life_sanity: random
+  knuckles_life_sanity: random
+  amy_life_sanity: random
+  big_life_sanity: random
+  gamma_life_sanity: random
+  junk_fill_percentage: 0
   unify_chaos6: random
   unify_egg_hornet: random
   randomized_sonic_upgrades: true
@@ -2628,7 +2714,9 @@ Sonic Adventure DX:
       force: true
 #
 Sonic Adventure 2 Battle:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   ring_link: true
   goal:
@@ -2882,7 +2970,9 @@ Sonic Adventure 2 Battle:
     - Weapons Bed - Upgrade
 #
 Super Mario 64:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   area_rando:
     courses_only: 1
@@ -2971,7 +3061,9 @@ Super Mario 64:
       force: true
 #
 Super Metroid:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: enable_survive
   preset: varia_custom
   varia_custom_preset: rhythmlycan
@@ -3081,7 +3173,9 @@ Super Metroid:
       force: true
 #
 Wario Land 4:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   logic: basic
   goal:
@@ -3153,7 +3247,9 @@ Wario Land 4:
 
 #
 Yu-Gi-Oh! Forbidden Memories:
-  progression_balancing: 0
+  progression_balancing:
+    0: 3
+    random: 1
   death_link: true
   duelist_progression:
     thematic: 1
