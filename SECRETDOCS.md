@@ -1,6 +1,6 @@
 shops have 6 items, and are restocked daily
 - one is always a permanent +1 life (1, 3, 5, 7, 9...) 1 stock
-- one is halved hint cost (2, 4, 9, 16, 24, 39). the hint costs themselves go: (100, 50, 25, 12.5, 6.25, 3.125, 1.5625) 1 stock
+- one is halved hint cost (2, 4, 9, 15, 39, 31, 23). the hint costs themselves go: (100, 50, 25, 12.5 (13), 6.25 (6), 3.125 (3), 1.5625 (2), 0.78125 (1)) 1 stock
 - four are major progression items (5, +1 per finished player) 1 stock each
   - logically require 1/4 (rounded down) of existing money
 - four are useful/minor progression items (2 cost) 1 stock
@@ -36,8 +36,8 @@ current Cold Hard Cash: 0
 
 here are the wares!
 
-`+1 additional life` (7 cost) ~ 1 in stock
-`halved hint cost` (9 cost) ~ 1 in stock
+`+1 additional life` (9 cost) ~ 1 in stock
+`halved hint cost` (15 cost) ~ 1 in stock
 `Deathclaw99TS's Lightwall` (5 cost) ~ 1 in stock
 `Soleyeer's Hookshot Badge` (5 cost) ~ 1 in stock
 `Soleyeer's Dweller Mask` (5 cost) ~ 1 in stock
@@ -254,7 +254,6 @@ finished players (0):
     jf-muse | marooned night
     sheen_pr | Progressive Slide
     CoolGuyCompany | Pro-flashlight
- ~ all above this has been obtained ~ vault keys: 17 ~
     superMessEndless | Karuta Plates
     HPfunmanBS | Apodictic Heart of Mea Culpa
     MauveMuse | Random Song
@@ -266,6 +265,7 @@ finished players (0):
     BroneySM | Power Bomb
     numRogueINSCRYPT | Extra Candle
     Lojtana | Second Chance
+ ~ all above this has been obtained ~ vault keys: 28 ~
     again.mp3 | Quick_Slash / Krampus Sack
     BroneyLTTP | Cape
     SylskoTunic | Magic Wand
@@ -490,7 +490,6 @@ again.mp3's Lumafly_Lantern / Boards
 automate.mp3's progressive-science-pack / Building: AWESOME Shop
 automate.mp3's progressive-science-pack / Building: Refinery
 Deathclaw99TS's Water Mask
-Deathclaw99TS's Lightwall
 Deathclaw99SM64's Second Floor Key
 Deathclaw99SM64's Long Jump
 Deathclaw99OOT's Megaton Hammer
@@ -515,7 +514,6 @@ mars three.'s Water Mask
 TripleSDV's Progressive Season (2)
 DragoSpinsDeath's Water Mask
 DragoSpinsDeath's Security Keycard D
-HatKillsDrago's Ice Hat
 HatKillsDrago's Yarn
 DragoLookAtDeath's Triangles
 DragoLookAtDeath's Black/White Squares
@@ -559,7 +557,6 @@ coolhollowguy's Mothwing_Cloak
 coolhollowguy's Desolate_Dive
 CoolGuyCompany's Titan
 CoolGuyCompany's Company Building
-numgasRogueTUNIC's Pages 24-25 (Prayer)
 numgasRogueTUNIC's Pages 42-43 (Holy Cross)
 numRogueINSCRYPT's Inspectometer Battery
 numRogueINSCRYPT's Gems Module
@@ -592,15 +589,11 @@ Iridium's Morph Ball
 Iridium's Gravity Suit
 StormHK's Dream_Nail
 StormTW's Black/White Squares
-StormTW's Shapers
-StormC64's Ground Dash
 
 ### useful
 
 again.mp3's Heavy_Blow / Autumn Season Change
-automate.mp3's uranium-ammo / Inflated Pocket Dimension
 automate.mp3's concrete / Recipe: Rubber
-Deathclaw99TS's Shattered Orb
 Deathclaw99TS's Bombardment
 Deathclaw99SM64's Power Star
 Deathclaw99SM64's Power Star (2)
@@ -638,7 +631,6 @@ BroneyLTTP's Magic Mirror
 BroneyFactorio's concrete
 BroneyFactorio's progressive-armor
 BroneySM's Bomb
-BroneySM's Wave Beam
 heshpseudo's Ascendant Light
 heshpseudo's Slide
 heshmuda's Random Song
@@ -647,7 +639,6 @@ heshut's Core Key
 heshut's Ruins Key
 sheen_pr's Health Piece
 sheen_pr's Health Piece (2)
-Kritzmaker's Nailgun - JumpStart
 Kritzmaker's Nailgun - Attractor
 JudosiiOOT's Nayrus Love
 JudosiiOOT's Suns Song
@@ -657,7 +648,6 @@ HPfunmanKH's Accessory Slot Increase
 HPfunmanBS's Mea Culpa Upgrade
 HPfunmanBS's Tiento to your Thorned Hairs
 Char Past's Bombos
-Char Past's Lamp
 Char Forgotten's Progressive Sword Ability
 Char Forgotten's Progressive Fire Ability
 Char Dream Bros's Luiginary Sneeze Wind
@@ -724,6 +714,12 @@ Char Dream Bros's Mini Mario
 StormHK's Focus
 superMessEndless's Rope Dart
 TripleSDV's Progressive Season
+Deathclaw99TS's Lightwall
+numgasRogueTUNIC's Pages 24-25 (Prayer)
+HatKillsDrago's Ice Hat
+StormTW's Shapers
+StormC64's Ground Dash
+Char Past's Cane of Somaria
 
 ### useful
 
@@ -736,6 +732,11 @@ MauveMuse's Random Song
 numgasRogueTUNIC's Sword Upgrade
 again.mp3's Shaman_Stone / Winter Season Change
 Grim-aHiT's No Bonk Badge
+Deathclaw99TS's Shattered Orb
+Char Past's Lamp
+Kritzmaker's Nailgun - JumpStart
+BroneySM's Wave Beam
+automate.mp3's uranium-ammo / Inflated Pocket Dimension
 
 # trap list
 

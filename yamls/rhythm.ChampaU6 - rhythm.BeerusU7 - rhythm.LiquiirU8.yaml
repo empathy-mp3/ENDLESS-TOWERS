@@ -157,8 +157,8 @@ Metroid Prime:
     true: 1
   pre_scan_elevators: true
   starting_room: 
-    normal: 1
-    safe: 1
+    normal: 6
+    safe: 3
     buckle_up: 1
   disable_starting_room_bk_prevention: 
     false: 1
@@ -1257,9 +1257,9 @@ Metroid Prime:
     true: 1
   pre_scan_elevators: true
   starting_room: 
-    normal: 1
-    safe: 2
-    buckle_up: 3
+    normal: 6
+    safe: 3
+    buckle_up: 1
   disable_starting_room_bk_prevention: # Really low chance
     false: 9
     true: 1
@@ -2358,9 +2358,9 @@ Metroid Prime:
     true: 3
   pre_scan_elevators: true
   starting_room: 
-    normal: 1
-    safe: 1
-    buckle_up: 8
+    normal: 6
+    safe: 3
+    buckle_up: 1
   disable_starting_room_bk_prevention: # Really low chance
     false: 0
     true: 1

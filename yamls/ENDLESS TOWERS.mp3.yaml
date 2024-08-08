@@ -88,7 +88,7 @@ Hollow Knight:
   WhitePalace: kingfragment
   ExtraPlatforms: 'true'
   AddUnshuffledLocations: 'false'
-  StartingGeo: random-range-1-500
+  StartingGeo: random-high
   DeathLink: 'true'
   DeathLinkShade: 
     shadeless: 1
@@ -119,7 +119,7 @@ Hollow Knight:
   CostSanityEssenceWeight: random-range-1-4
   CostSanityCharmWeight: random-range-2-6
   CostSanityGeoWeight: random-range-6-10
-  MaximumGeoPrice: random-range-1-600
+  MaximumGeoPrice: random-range-1-500
   MaximumGrubPrice: random-range-11-44
   MaximumEssencePrice: random-range-400-1800
   MaximumCharmPrice: random-range-4-30
@@ -558,7 +558,7 @@ Factorio:
   accessibility: items
   max_science_pack: space_science_pack
   min_tech_cost: random-range-1-50
-  max_tech_cost: random-range-50-100
+  max_tech_cost: random-range-40-90
   silo: randomize_recipe
   satellite: randomize_recipe
   recipe_time: chaos
