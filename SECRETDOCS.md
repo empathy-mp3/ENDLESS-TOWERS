@@ -685,50 +685,50 @@ StormC64's Feathers
 
 ### progressive
 
-BroneySM's Morph Ball
-superMessEndless's Wingsuit
-BroneySM's Varia Suit
-Grim-Muse's Music Sheet
-StormC64's Climb
-HPfunmanKH's Green Trinity
-Soleyeer's Hookshot Badge
-Char Dream Bros's Mini Mario
-StormHK's Focus
-superMessEndless's Rope Dart
-TripleSDV's Progressive Season
-numgasRogueTUNIC's Pages 24-25 (Prayer)
-HatKillsDrago's Ice Hat
-StormTW's Shapers
-StormC64's Ground Dash
-Char Past's Cane of Somaria
-HatKillsDrago's Yarn
-mars.'s Focus
-BroneyLTTP's Moon Pearl
 automate.mp3's progressive-science-pack / Building: Refinery
-ThatFirey's Stamina Bar
-JudosiiOOT's Progressive Hookshot
 SylskoTunic's Pages 24-25 (Prayer)
+Soleyeer's Hookshot Badge
+ThatFirey's Stamina Bar
+mars.'s Focus
+TripleSDV's Progressive Season
+HatKillsDrago's Ice Hat
+HatKillsDrago's Yarn
+BroneyLTTP's Moon Pearl
+BroneySM's Morph Ball
+BroneySM's Varia Suit
+JudosiiOOT's Progressive Hookshot
+HPfunmanKH's Green Trinity
+Char Past's Cane of Somaria
+Char Dream Bros's Mini Mario
+numgasRogueTUNIC's Pages 24-25 (Prayer)
+superMessEndless's Rope Dart
+superMessEndless's Wingsuit
+Grim-Muse's Music Sheet
+StormHK's Focus
+StormTW's Shapers
+StormC64's Climb
+StormC64's Ground Dash
 
 ### useful
 
-FloriTerra's Reward: Hermes Boots
-rhythm.ChampaU6's shop useful 2
-FloriTerra's Reward: Rod of Discord
-CaesiusHIT's Hover Badge
-ConnorHK's Fragile_Strength
-MauveMuse's Random Song
-numgasRogueTUNIC's Sword Upgrade
 again.mp3's Shaman_Stone / Winter Season Change
-Grim-aHiT's No Bonk Badge
-Char Past's Lamp
-Kritzmaker's Nailgun - JumpStart
-BroneySM's Wave Beam
 automate.mp3's uranium-ammo / Inflated Pocket Dimension
 SynRogue's Eternal Crown
-rhythm.LiquiirU8's shop useful 1
-mars three.'s Selen's Bangle
-Char Past's Bombos
 ThatFirey's Rocket Launcher - Freezeframe
+CaesiusHIT's Hover Badge
+mars three.'s Selen's Bangle
+BroneySM's Wave Beam
+FloriTerra's Reward: Hermes Boots
+FloriTerra's Reward: Rod of Discord
+Kritzmaker's Nailgun - JumpStart
+ConnorHK's Fragile_Strength
+Char Past's Bombos
+Char Past's Lamp
+MauveMuse's Random Song
+numgasRogueTUNIC's Sword Upgrade
+rhythm.ChampaU6's shop useful 2
+rhythm.LiquiirU8's shop useful 1
+Grim-aHiT's No Bonk Badge
 
 ### collected shop items
 
