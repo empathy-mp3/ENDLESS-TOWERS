@@ -1,6 +1,6 @@
 shops have 6 items, and are restocked daily
 - one is always a permanent +1 life (1, 3, 5, 7, 9...) 1 stock
-- one is halved hint cost (2, 4, 9, 15, 39, 31, 23). the hint costs themselves go: (100, 50, 25, 12.5 (13), 6.25 (6), 3.125 (3), 1.5625 (2), 0.78125 (1)) 1 stock
+- one is halved hint cost (2, 4, 9, 15, 33, 30, 23). the hint costs themselves go: (100, 50, 25, 12.5 (13), 6.25 (6), 3.125 (3), 1.5625 (2), 0.78125 (1)) 1 stock
 - four are major progression items (5, +1 per finished player) 1 stock each
   - logically require 1/4 (rounded down) of existing money
 - four are useful/minor progression items (2 cost) 1 stock
@@ -8,7 +8,7 @@ shops have 6 items, and are restocked daily
   - should a slot lose all possible stock, it will be replaced with one of the following:
     - temp life refills: (1, +2 cost per additional one purchased per run) 3 stock (scales with every 2 finishes, not 1)
     - temp filler item: (1, +1 cost per additional of that particular filler item purchased per run) 3 stock (does not scale with finishes)
-- reroll is (6, +2 cost per reroll per day)
+- double stock for next shop is (6, +6 cost per use per day)
 - send X random traps is (X = 7 + uses) cash is (+1 cash, +0.1 cash per use, not rounded)
 - hint X Cold Hard Cash is (X = 7 + uses) cost is (2, +2 per use) (resets at the start of each run)
 - hint X Vault Keys is (X = 8 + uses) cost is (2, +2 per use) (resets at the start of each run)
@@ -16,8 +16,8 @@ all prices increase by 1 every time 2 players finish
 
 # current status
 
-current lives: 4/4
-current hint cost: 25%
+current lives: 6/6
+current hint cost: 6%
 lockers unlocked: 12
 cash total: 0
 purchased permanent shop items: 5
@@ -36,7 +36,7 @@ current Cold Hard Cash: 0
 
 here are the wares!
 
-`+1 additional life` (9 cost) ~ 1 in stock
+`+1 additional life` (11 cost) ~ 1 in stock
 `halved hint cost` (15 cost) ~ 1 in stock
 `Deathclaw99TS's Lightwall` (5 cost) ~ 1 in stock
 `Soleyeer's Hookshot Badge` (5 cost) ~ 1 in stock
@@ -52,7 +52,7 @@ other impermanent things:
 `send 7 random traps` (+1 Cold Hard Cash) ~ 1 in stock
 `hint 9 Cold Hard Cash` (2 cost) ~ 1 in stock
 `hint 12 Vault Keys` (2 cost) ~ 1 in stock
-`reroll & restock` (6 cost) ~ infinite in stock
+`double stock for next shop` (6 cost) ~ infinite in stock
 
 this shop will be done via polls. i'll have each of these options in a poll as well as a "don't buy anything" option, and here's how it shall work:
 i'll buy the most highly requested ones, in order of amounts of the amount of votes (descending).
@@ -71,7 +71,7 @@ cash total: 0
 cash acquired this run: 0
 [send traps] uses: 2
 finished players (0):
-- currently none
+- Deathclaw99TS
 
 # submission items
 
@@ -265,7 +265,6 @@ finished players (0):
     BroneySM | Power Bomb
     numRogueINSCRYPT | Extra Candle
     Lojtana | Second Chance
- ~ all above this has been obtained ~ vault keys: 28 ~
     again.mp3 | Quick_Slash / Krampus Sack
     BroneyLTTP | Cape
     SylskoTunic | Magic Wand
@@ -277,6 +276,7 @@ finished players (0):
     HPfunmanBS | Dash Ability
     CoolGuyCompany | Assurance
     HPfunmanKH | Cosmic Arts
+ ~ all above this has been obtained ~ vault keys: 39 ~
     StormTW | Puzzle Skip
     MauveMuse | Music Sheet
     Soleyeer | Ice Hat
@@ -488,39 +488,32 @@ finished players (0):
 again.mp3's Desolate_Dive / Tent
 again.mp3's Lumafly_Lantern / Boards
 automate.mp3's progressive-science-pack / Building: AWESOME Shop
-automate.mp3's progressive-science-pack / Building: Refinery
-Deathclaw99TS's Water Mask
 Deathclaw99SM64's Second Floor Key
 Deathclaw99SM64's Long Jump
 Deathclaw99OOT's Megaton Hammer
 Deathclaw99OOT's Hover Boots
-SylskoTunic's Pages 24-25 (Prayer)
 SylskoTunic's Hero's Laurels
 SynRogue's Celestial Sash
 SynRogue's Water Mask
 SynRegret's Progressive Dots
 SynRegret's Shapers
 Soleyeer's Dweller Mask
-ThatFirey's Stamina Bar
 ThatFirey's Wall Jump
 CaesiusHIT's Hookshot Badge
 CaesiusHIT's Umbrella
 CaesiusSM64's Side Flip
 CaesiusSM64's Wall Kick
 mars.'s Desolate_Dive
-mars.'s Focus
 mars three.'s Celestial Sash
 mars three.'s Water Mask
 TripleSDV's Progressive Season (2)
 DragoSpinsDeath's Water Mask
 DragoSpinsDeath's Security Keycard D
-HatKillsDrago's Yarn
 DragoLookAtDeath's Triangles
 DragoLookAtDeath's Black/White Squares
 Alex230-Doom's Free Saves and Loads
 Alex230-Doom's Allow Leaving Start Location
 BroneyLTTP's Lamp
-BroneyLTTP's Moon Pearl
 BroneyFactorio's progressive-science-pack
 BroneyFactorio's progressive-science-pack (2)
 FloriTerra's Hardmode
@@ -535,7 +528,6 @@ sheen_pr's Sun Greaves
 sheen_pr's Cling Gem
 Kritzmaker's Whiplash
 Kritzmaker's Revolver - Marksman
-JudosiiOOT's Progressive Hookshot
 JudosiiOOT's Bomb Bag
 ConnorHK's Vengeful_Spirit
 ConnorHK's Mothwing_Cloak
@@ -578,8 +570,6 @@ jf-muse's Music Sheet
 jf-muse's Music Sheet (2)
 WidowRain61's The Planetarium
 WidowRain61's Hidden Realm: A Moment, Whole
-Lojtana's Red Trinity
-Lojtana's End of the World
 Grim-aHiT's Umbrella
 Grim-aHiT's Hookshot Badge
 Grim-Muse's Music Sheet (2)
@@ -594,27 +584,23 @@ StormTW's Black/White Squares
 
 again.mp3's Heavy_Blow / Autumn Season Change
 automate.mp3's concrete / Recipe: Rubber
-Deathclaw99TS's Bombardment
 Deathclaw99SM64's Power Star
 Deathclaw99SM64's Power Star (2)
 Deathclaw99OOT's Goron Tunic
 Deathclaw99OOT's Deku Shield
 SylskoTunic's Anklet
 SylskoTunic's Magic Dagger
-SynRogue's Eternal Crown
 SynRogue's Shattered Orb
 SynRegret's Puzzle Skip
 SynRegret's Puzzle Skip (2)
 Soleyeer's Projectile Badge
 Soleyeer's Sprint Hat
-ThatFirey's Rocket Launcher - Freezeframe
 ThatFirey's Knuckleblaster
 CaesiusHIT's Item Magnet Badge
 CaesiusSM64's Cannon Unlock JRB
 CaesiusSM64's Kick
 mars.'s Soul_Eater
 mars.'s Quick_Slash
-mars three.'s Selen's Bangle
 mars three.'s Galaxy Earrings
 TripleSDV's Progressive Coop
 TripleSDV's Progressive Fishing Rod
@@ -647,7 +633,6 @@ HPfunmanKH's Progressive Cure
 HPfunmanKH's Accessory Slot Increase           
 HPfunmanBS's Mea Culpa Upgrade
 HPfunmanBS's Tiento to your Thorned Hairs
-Char Past's Bombos
 Char Forgotten's Progressive Sword Ability
 Char Forgotten's Progressive Fire Ability
 Char Dream Bros's Luiginary Sneeze Wind
@@ -673,7 +658,6 @@ superUTEndless's Snowman Piece (2)
 rhythm.ChampaU6's shop useful 1
 rhythm.BeerusU7's shop useful 1
 rhythm.BeerusU7's shop useful 2
-rhythm.LiquiirU8's shop useful 1
 rhythm.LiquiirU8's shop useful 2
 GodlFireALTTP's Progressive Mail
 GodlFireALTTP's Magic Powder
@@ -683,8 +667,6 @@ jf-muse's Jealousy
 jf-muse's Paradise 2
 WidowRain61's Boss Item
 WidowRain61's Legendary Item
-Lojtana's Progressive Aero
-Lojtana's Progressive Cure
 Grim-aHiT's Fast Hatter Badge
 Grim-Muse's Random Song
 Grim-Muse's Random Song (2)
@@ -714,12 +696,18 @@ Char Dream Bros's Mini Mario
 StormHK's Focus
 superMessEndless's Rope Dart
 TripleSDV's Progressive Season
-Deathclaw99TS's Lightwall
 numgasRogueTUNIC's Pages 24-25 (Prayer)
 HatKillsDrago's Ice Hat
 StormTW's Shapers
 StormC64's Ground Dash
 Char Past's Cane of Somaria
+HatKillsDrago's Yarn
+mars.'s Focus
+BroneyLTTP's Moon Pearl
+automate.mp3's progressive-science-pack / Building: Refinery
+ThatFirey's Stamina Bar
+JudosiiOOT's Progressive Hookshot
+SylskoTunic's Pages 24-25 (Prayer)
 
 ### useful
 
@@ -732,11 +720,26 @@ MauveMuse's Random Song
 numgasRogueTUNIC's Sword Upgrade
 again.mp3's Shaman_Stone / Winter Season Change
 Grim-aHiT's No Bonk Badge
-Deathclaw99TS's Shattered Orb
 Char Past's Lamp
 Kritzmaker's Nailgun - JumpStart
 BroneySM's Wave Beam
 automate.mp3's uranium-ammo / Inflated Pocket Dimension
+SynRogue's Eternal Crown
+rhythm.LiquiirU8's shop useful 1
+mars three.'s Selen's Bangle
+Char Past's Bombos
+ThatFirey's Rocket Launcher - Freezeframe
+
+### collected shop items
+
+Deathclaw99TS's Bombardment
+Deathclaw99TS's Shattered Orb
+Deathclaw99TS's Lightwall
+Deathclaw99TS's Water Mask
+Lojtana's Red Trinity
+Lojtana's End of the World
+Lojtana's Progressive Aero
+Lojtana's Progressive Cure
 
 # trap list
 

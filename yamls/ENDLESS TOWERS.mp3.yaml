@@ -558,7 +558,7 @@ Factorio:
   accessibility: items
   max_science_pack: space_science_pack
   min_tech_cost: random-range-1-50
-  max_tech_cost: random-range-40-90
+  max_tech_cost: random-range-30-250
   silo: randomize_recipe
   satellite: randomize_recipe
   recipe_time: chaos
@@ -586,7 +586,9 @@ Factorio:
   tech_tree_layout: random
   tech_cost_distribution: random
   tech_cost_mix: random
-  ramping_tech_costs: random
+  ramping_tech_costs: 
+    'true': 1
+    'false': 5
   free_samples: random
   tech_tree_information: random
   plando_items:
