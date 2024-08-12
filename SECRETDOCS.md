@@ -37,7 +37,7 @@ current Cold Hard Cash: 0
 here are the wares!
 
 `+1 additional life` (11 cost) ~ 1 in stock
-`halved hint cost` (15 cost) ~ 1 in stock
+`halved hint cost` (33 cost) ~ 1 in stock
 `Deathclaw99TS's Lightwall` (5 cost) ~ 1 in stock
 `Soleyeer's Hookshot Badge` (5 cost) ~ 1 in stock
 `Soleyeer's Dweller Mask` (5 cost) ~ 1 in stock
@@ -72,6 +72,8 @@ cash acquired this run: 0
 [send traps] uses: 2
 finished players (0):
 - Deathclaw99TS
+- Lojtana
+- FloriTerra
 
 # submission items
 
@@ -491,12 +493,10 @@ automate.mp3's progressive-science-pack / Building: AWESOME Shop
 Deathclaw99SM64's Second Floor Key
 Deathclaw99SM64's Long Jump
 Deathclaw99OOT's Megaton Hammer
-Deathclaw99OOT's Hover Boots
 SylskoTunic's Hero's Laurels
 SynRogue's Celestial Sash
 SynRogue's Water Mask
 SynRegret's Progressive Dots
-SynRegret's Shapers
 Soleyeer's Dweller Mask
 ThatFirey's Wall Jump
 CaesiusHIT's Hookshot Badge
@@ -513,29 +513,21 @@ DragoLookAtDeath's Triangles
 DragoLookAtDeath's Black/White Squares
 Alex230-Doom's Free Saves and Loads
 Alex230-Doom's Allow Leaving Start Location
-BroneyLTTP's Lamp
 BroneyFactorio's progressive-science-pack
 BroneyFactorio's progressive-science-pack (2)
-FloriTerra's Hardmode
-FloriTerra's Post-Skeletron
 heshpseudo's Major Key - Sansa Keep
 heshpseudo's Sunsetter
 heshmuda's Music Sheet
 heshmuda's Music Sheet (2)
 heshut's Hotland Key
-heshut's Waterfall Key
-sheen_pr's Sun Greaves
 sheen_pr's Cling Gem
 Kritzmaker's Whiplash
-Kritzmaker's Revolver - Marksman
 JudosiiOOT's Bomb Bag
 ConnorHK's Vengeful_Spirit
 ConnorHK's Mothwing_Cloak
 HPfunmanKH's Hollow Bastion           
 HPfunmanBS's Wall Climb Ability
 HPfunmanBS's Blood Perpetuated in Sand
-Char Past's Cane of Somaria
-Char Past's Hookshot
 Char Forgotten's Cone Mouth
 Char Forgotten's Stairs Mouth
 Char Dream Bros's Hammers
@@ -544,7 +536,6 @@ MauveMuse's Music Sheet (2)
 MauvePenitent's Purified Hand of the Nun
 MauvePenitent's Wall Climb Ability
 FKKirby's Copy Ability - Hammer
-FKKirby's Copy Ability - Starship
 coolhollowguy's Mothwing_Cloak
 coolhollowguy's Desolate_Dive
 CoolGuyCompany's Titan
@@ -556,29 +547,24 @@ superTUNCEndless's Magic Orb
 superTUNCEndless's Scavenger Mask
 superUTEndless's Waterfall Key
 superUTEndless's Mettaton Plush
-rhythm.ChampaU6's shop prog 1
 rhythm.ChampaU6's shop prog 2
 rhythm.BeerusU7's shop prog 1
-rhythm.BeerusU7's shop prog 2
 rhythm.LiquiirU8's shop prog 1
 rhythm.LiquiirU8's shop prog 2
 GodlFireALTTP's Progressive Glove
 GodlFireALTTP's Hammer
 jf-time's Timespinner Gear 2
 jf-time's Timespinner Gear 1
-jf-muse's Music Sheet
 jf-muse's Music Sheet (2)
 WidowRain61's The Planetarium
 WidowRain61's Hidden Realm: A Moment, Whole
 Grim-aHiT's Umbrella
-Grim-aHiT's Hookshot Badge
 Grim-Muse's Music Sheet (2)
 Grim-SA2's Yellow Chaos Emerald
 Grim-SA2's Knuckles - Shovel Claws
 Iridium's Morph Ball
 Iridium's Gravity Suit
 StormHK's Dream_Nail
-StormTW's Black/White Squares
 
 ### useful
 
@@ -598,12 +584,10 @@ Soleyeer's Sprint Hat
 ThatFirey's Knuckleblaster
 CaesiusHIT's Item Magnet Badge
 CaesiusSM64's Cannon Unlock JRB
-CaesiusSM64's Kick
 mars.'s Soul_Eater
 mars.'s Quick_Slash
 mars three.'s Galaxy Earrings
 TripleSDV's Progressive Coop
-TripleSDV's Progressive Fishing Rod
 DragoSpinsDeath's Gas Mask
 DragoSpinsDeath's Plasma Orb
 HatKillsDrago's Time Stop Hat
@@ -616,7 +600,6 @@ BroneyLTTP's Cane of Byrna
 BroneyLTTP's Magic Mirror
 BroneyFactorio's concrete
 BroneyFactorio's progressive-armor
-BroneySM's Bomb
 heshpseudo's Ascendant Light
 heshpseudo's Slide
 heshmuda's Random Song
@@ -628,10 +611,8 @@ sheen_pr's Health Piece (2)
 Kritzmaker's Nailgun - Attractor
 JudosiiOOT's Nayrus Love
 JudosiiOOT's Suns Song
-ConnorHK's Quick_Slash
 HPfunmanKH's Progressive Cure
 HPfunmanKH's Accessory Slot Increase           
-HPfunmanBS's Mea Culpa Upgrade
 HPfunmanBS's Tiento to your Thorned Hairs
 Char Forgotten's Progressive Sword Ability
 Char Forgotten's Progressive Fire Ability
@@ -641,13 +622,11 @@ MauveMuse's Random Song (2)
 MauvePenitent's Linen of Golden Thread
 MauvePenitent's Nail Uprooted from Dirt
 FKKirby's Copy Ability - Paint
-FKKirby's Copy Ability - Crash
 coolhollowguy's Hiveblood
 coolhollowguy's Great_Slash
 CoolGuyCompany's Extension ladder
 CoolGuyCompany's Jetpack
 numgasRogueTUNIC's Sword Upgrade (2)
-numRogueINSCRYPT's Bee Figurine
 numRogueINSCRYPT's Ourobot Card
 superMessEndless's Path of Resilience
 superMessEndless's Meditation
@@ -667,7 +646,6 @@ jf-muse's Jealousy
 jf-muse's Paradise 2
 WidowRain61's Boss Item
 WidowRain61's Legendary Item
-Grim-aHiT's Fast Hatter Badge
 Grim-Muse's Random Song
 Grim-Muse's Random Song (2)
 Grim-SA2's Knuckles - Sunglasses
@@ -686,26 +664,40 @@ StormC64's Feathers
 ### progressive
 
 automate.mp3's progressive-science-pack / Building: Refinery
+Deathclaw99OOT's Hover Boots
 SylskoTunic's Pages 24-25 (Prayer)
+SylskoTunic's Hero's Laurels
+SynRegret's Shapers
 Soleyeer's Hookshot Badge
 ThatFirey's Stamina Bar
 mars.'s Focus
 TripleSDV's Progressive Season
 HatKillsDrago's Ice Hat
 HatKillsDrago's Yarn
+BroneyLTTP's Lamp
 BroneyLTTP's Moon Pearl
 BroneySM's Morph Ball
 BroneySM's Varia Suit
+heshut's Waterfall Key
+sheen_pr's Sun Greaves
+Kritzmaker's Revolver - Marksman
 JudosiiOOT's Progressive Hookshot
 HPfunmanKH's Green Trinity
 Char Past's Cane of Somaria
+Char Past's Hookshot
 Char Dream Bros's Mini Mario
+FKKirby's Copy Ability - Starship
 numgasRogueTUNIC's Pages 24-25 (Prayer)
 superMessEndless's Rope Dart
 superMessEndless's Wingsuit
+rhythm.ChampaU6's shop prog 1
+rhythm.BeerusU7's shop prog 2
+jf-muse's Music Sheet
+Grim-aHiT's Hookshot Badge
 Grim-Muse's Music Sheet
 StormHK's Focus
 StormTW's Shapers
+StormTW's Black/White Squares
 StormC64's Climb
 StormC64's Ground Dash
 
@@ -716,18 +708,24 @@ automate.mp3's uranium-ammo / Inflated Pocket Dimension
 SynRogue's Eternal Crown
 ThatFirey's Rocket Launcher - Freezeframe
 CaesiusHIT's Hover Badge
+CaesiusSM64's Kick
 mars three.'s Selen's Bangle
+TripleSDV's Progressive Fishing Rod
+BroneySM's Bomb
 BroneySM's Wave Beam
-FloriTerra's Reward: Hermes Boots
-FloriTerra's Reward: Rod of Discord
 Kritzmaker's Nailgun - JumpStart
 ConnorHK's Fragile_Strength
+ConnorHK's Quick_Slash
+HPfunmanBS's Mea Culpa Upgrade
 Char Past's Bombos
 Char Past's Lamp
 MauveMuse's Random Song
+FKKirby's Copy Ability - Crash
 numgasRogueTUNIC's Sword Upgrade
+numRogueINSCRYPT's Bee Figurine
 rhythm.ChampaU6's shop useful 2
 rhythm.LiquiirU8's shop useful 1
+Grim-aHiT's Fast Hatter Badge
 Grim-aHiT's No Bonk Badge
 
 ### collected shop items
@@ -740,6 +738,10 @@ Lojtana's Red Trinity
 Lojtana's End of the World
 Lojtana's Progressive Aero
 Lojtana's Progressive Cure
+FloriTerra's Hardmode
+FloriTerra's Post-Skeletron
+FloriTerra's Reward: Hermes Boots
+FloriTerra's Reward: Rod of Discord
 
 # trap list
 

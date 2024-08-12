@@ -460,7 +460,8 @@ Sonic Adventure DX:
   amy_life_sanity: random
   big_life_sanity: random
   gamma_life_sanity: random
-  junk_fill_percentage: 0
+  junk_fill_percentage: random
+  trap_fill_percentage: 100
   tails_missions:
     none: 0
     c: 1
@@ -1566,7 +1567,8 @@ Sonic Adventure DX:
   amy_life_sanity: random
   big_life_sanity: random
   gamma_life_sanity: random
-  junk_fill_percentage: 0
+  junk_fill_percentage: random
+  trap_fill_percentage: 100
   amy_missions: random
   gamma_missions: random
   big_missions: random
@@ -2651,7 +2653,8 @@ Sonic Adventure DX:
   amy_life_sanity: random
   big_life_sanity: random
   gamma_life_sanity: random
-  junk_fill_percentage: 0
+  junk_fill_percentage: random
+  trap_fill_percentage: 100
   unify_chaos6: random
   unify_egg_hornet: random
   randomized_sonic_upgrades: true
