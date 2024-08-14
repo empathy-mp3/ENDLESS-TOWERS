@@ -431,11 +431,19 @@ Sonic Adventure DX:
   ring_link: true
   pinball_life_capsules: false
   field_emblems_checks: random
-  random_starting_location: 
-    random_location: 1
-    random_location_no_items: 1
-    station_square: 1
-    station_square_no_items: 1
+  random_starting_location: random
+  guaranteed_level: random
+  goal: 
+    emblems: 1
+    emerald_hunt: 6
+    emblems_and_emerald_hunt: 3
+  sub_level_checks_hard: random
+  emblems_percentage: random # changed from random range to full random
+  exclude_locations:
+    - Sky Chase Act 1 (Sub-Level - Mission B)
+    - Sky Chase Act 2 (Sub-Level - Mission A)
+    - Sky Chase Act 1 (Sub-Level - Mission B)
+    - Sky Chase Act 2 (Sub-Level - Mission A)
   ring_loss: 
     classic: 2
     one_hit_k_o: 1
@@ -451,7 +459,6 @@ Sonic Adventure DX:
   randomized_amy_upgrades: true
   randomized_big_upgrades: true
   randomized_gamma_upgrades: true
-  emblems_percentage: random-range-60-100
   sonic_missions: random
   hard_ring_link: random
   sonic_life_sanity: random
@@ -1532,11 +1539,19 @@ Sonic Adventure DX:
   ring_link: true
   pinball_life_capsules: false
   field_emblems_checks: random
-  random_starting_location: 
-    random_location: 1
-    random_location_no_items: 1
-    station_square: 1
-    station_square_no_items: 1
+  random_starting_location: random
+  guaranteed_level: random
+  goal: 
+    emblems: 1
+    emerald_hunt: 6
+    emblems_and_emerald_hunt: 3
+  sub_level_checks_hard: random
+  emblems_percentage: random # changed from random range to full random
+  exclude_locations:
+    - Sky Chase Act 1 (Sub-Level - Mission B)
+    - Sky Chase Act 2 (Sub-Level - Mission A)
+    - Sky Chase Act 1 (Sub-Level - Mission B)
+    - Sky Chase Act 2 (Sub-Level - Mission A)
   ring_loss: 
     classic: 2
     one_hit_k_o: 1
@@ -1552,7 +1567,6 @@ Sonic Adventure DX:
   randomized_amy_upgrades: true
   randomized_big_upgrades: true
   randomized_gamma_upgrades: true
-  emblems_percentage: random-range-60-100
   sonic_missions: random
   tails_missions:
     none: 0
@@ -2634,11 +2648,19 @@ Sonic Adventure DX:
   ring_link: true
   pinball_life_capsules: false
   field_emblems_checks: random
-  random_starting_location: 
-    random_location: 1
-    random_location_no_items: 1
-    station_square: 1
-    station_square_no_items: 1
+  random_starting_location: random
+  guaranteed_level: random
+  goal: 
+    emblems: 1
+    emerald_hunt: 6
+    emblems_and_emerald_hunt: 3
+  sub_level_checks_hard: random
+  emblems_percentage: random # changed from random range to full random
+  exclude_locations:
+    - Sky Chase Act 1 (Sub-Level - Mission B)
+    - Sky Chase Act 2 (Sub-Level - Mission A)
+    - Sky Chase Act 1 (Sub-Level - Mission B)
+    - Sky Chase Act 2 (Sub-Level - Mission A)
   ring_loss: 
     classic: 2
     one_hit_k_o: 1
@@ -2663,7 +2685,6 @@ Sonic Adventure DX:
   randomized_amy_upgrades: true
   randomized_big_upgrades: true
   randomized_gamma_upgrades: true
-  emblems_percentage: random-range-60-100
   sonic_missions: random
   tails_missions:
     none: 0

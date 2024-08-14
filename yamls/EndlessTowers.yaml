@@ -51,12 +51,12 @@ A Hat in Time:
     # Seal the Deal: Reach and complete the Seal the Deal death wish main objective.
     # Requires Death Wish content to be enabled.
     finale: 50
-    rush_hour: 0
+    rush_hour: 50
     seal_the_deal: 0
 
   ShuffleAlpineZiplines:
     # If enabled, Alpine's zipline paths leading to the peaks will be locked behind items.
-    'false': 0
+    'false': 25
     'true': 50
 
   LogicDifficulty:
@@ -71,7 +71,7 @@ A Hat in Time:
   ShuffleStorybookPages:
     # If enabled, each storybook page in the purple Time Rifts is an item check.
     # The Compass Badge can track these down for you.
-    'false': 0
+    'false': 50
     'true': 50
 
   ShuffleActContracts:
@@ -82,8 +82,8 @@ A Hat in Time:
   ShuffleSubconPaintings:
     # If enabled, shuffle items into the pool that unlock Subcon Forest fire spirit paintings.
     # These items are progressive, with the order of Village-Swamp-Courtyard.
-    'false': 50
-    'true': 0
+    'false': 25
+    'true': 50
 
   NoPaintingSkips:
     # If enabled, prevent Subcon fire wall skips from being in logic on higher difficulty settings.
@@ -127,8 +127,8 @@ A Hat in Time:
     # Maximum value is 10
     4: 0
     random: 0
-    random-low: 50
-    random-high: 0
+    random-low: 0
+    random-high: 50
 
   BadgeSellerMaxItems:
     # The largest number of items that the Badge Seller can have for sale.
@@ -352,7 +352,7 @@ A Hat in Time:
   HatItems:
     # Removes all yarn from the pool and turns the hats into individual items instead.
     'false': 50
-    'true': 0
+    'true': 50
 
   # Arctic Cruise Options
   EnableDLC1:
@@ -458,8 +458,8 @@ A Hat in Time:
     # Maximum value is 5
     2: 0
     random: 0
-    random-low: 50
-    random-high: 0
+    random-low: 0
+    random-high: 50
 
   NyakuzaThugMaxShopItems:
     # The largest number of items that the thugs in Nyakuza Metro can have for sale.
@@ -641,7 +641,7 @@ A Hat in Time:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 100
-    0: 50
+    25: 50
     random: 0
     random-low: 0
     random-high: 0
