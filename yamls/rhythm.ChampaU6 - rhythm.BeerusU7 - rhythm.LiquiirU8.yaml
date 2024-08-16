@@ -441,9 +441,10 @@ Sonic Adventure DX:
   emblems_percentage: random # changed from random range to full random
   exclude_locations:
     - Sky Chase Act 1 (Sub-Level - Mission B)
+    - Sky Chase Act 1 (Sub-Level - Mission A)
+    - Sky Chase Act 2 (Sub-Level - Mission B)
     - Sky Chase Act 2 (Sub-Level - Mission A)
-    - Sky Chase Act 1 (Sub-Level - Mission B)
-    - Sky Chase Act 2 (Sub-Level - Mission A)
+    - Sand Hill (Sub-Level - Mission A)
   ring_loss: 
     classic: 2
     one_hit_k_o: 1
@@ -1549,9 +1550,10 @@ Sonic Adventure DX:
   emblems_percentage: random # changed from random range to full random
   exclude_locations:
     - Sky Chase Act 1 (Sub-Level - Mission B)
+    - Sky Chase Act 1 (Sub-Level - Mission A)
+    - Sky Chase Act 2 (Sub-Level - Mission B)
     - Sky Chase Act 2 (Sub-Level - Mission A)
-    - Sky Chase Act 1 (Sub-Level - Mission B)
-    - Sky Chase Act 2 (Sub-Level - Mission A)
+    - Sand Hill (Sub-Level - Mission A)
   ring_loss: 
     classic: 2
     one_hit_k_o: 1
@@ -2658,9 +2660,10 @@ Sonic Adventure DX:
   emblems_percentage: random # changed from random range to full random
   exclude_locations:
     - Sky Chase Act 1 (Sub-Level - Mission B)
+    - Sky Chase Act 1 (Sub-Level - Mission A)
+    - Sky Chase Act 2 (Sub-Level - Mission B)
     - Sky Chase Act 2 (Sub-Level - Mission A)
-    - Sky Chase Act 1 (Sub-Level - Mission B)
-    - Sky Chase Act 2 (Sub-Level - Mission A)
+    - Sand Hill (Sub-Level - Mission A)
   ring_loss: 
     classic: 2
     one_hit_k_o: 1

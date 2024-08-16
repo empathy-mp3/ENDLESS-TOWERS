@@ -1,18 +1,10 @@
 shops have 6 items, and are restocked daily
 - one is always a permanent +1 life (1, 3, 5, 7, 9...) 1 stock
 - one is halved hint cost (2, 4, 9, 15, 33, 30, 23). the hint costs themselves go: (100, 50, 25, 12.5 (13), 6.25 (6), 3.125 (3), 1.5625 (2), 0.78125 (1)) 1 stock
-- four are major progression items (5, +1 per finished player) 1 stock each
-  - logically require 1/4 (rounded down) of existing money
-- four are useful/minor progression items (2 cost) 1 stock
-  - logically require 1/10 (rounded down) of existing money
-  - should a slot lose all possible stock, it will be replaced with one of the following:
-    - temp life refills: (1, +2 cost per additional one purchased per run) 3 stock (scales with every 2 finishes, not 1)
-    - temp filler item: (1, +1 cost per additional of that particular filler item purchased per run) 3 stock (does not scale with finishes)
-- double stock for next shop is (6, +6 cost per use per day)
-- send X random traps is (X = 7 + uses) cash is (+1 cash, +0.1 cash per use, not rounded)
-- hint X Cold Hard Cash is (X = 7 + uses) cost is (2, +2 per use) (resets at the start of each run)
-- hint X Vault Keys is (X = 8 + uses) cost is (2, +2 per use) (resets at the start of each run)
-all prices increase by 1 every time 2 players finish
+- two are major progression items (5, +1 per finished player) 1 stock each
+- two are useful/minor progression items (2 cost) 1 stock
+- temp life refills: (1, +2 cost per additional one purchased per run) 3 stock (scales with every 2 finishes, not 1)
+- temp filler item: (1, +1 cost per additional of that particular filler item purchased per run) 3 stock (does not scale with finishes)
 
 # current status
 
@@ -27,10 +19,11 @@ updated (insert relative discord timestamp)
 
 # the shop
 
-should any Cold Hard Cash be sent to The Shop, we may make some purchases!
-the shop resets roughly every day (if i have the time to reset it).
-keep in mind that prices may change, especially if multiple of 1 thing is purchased.
-all items are permanent, unless specified otherwise.
+the shop has been very much rebalanced (though is still welcome to rebalance ideas)!
+not only am i trying things that are absolutely necessary, i am also experimenting with some changes that sound interesting (within what resources i have)
+some items will now cost traps *in addition* to costing cash, meaning traps will be sent when it is purchased.
+some items will also have an amount of hours listed next to the item, meaning it will take effect that amount of time after it is purchased.
+the traps are *jank*, if i'm being honest, but i think this is a much more organic way of integrating them. i'm just trying them out!
 
 current Cold Hard Cash: 0
 
@@ -38,29 +31,12 @@ here are the wares!
 
 `+1 additional life` (11 cost) ~ 1 in stock
 `halved hint cost` (33 cost) ~ 1 in stock
-`Deathclaw99TS's Lightwall` (5 cost) ~ 1 in stock
-`Soleyeer's Hookshot Badge` (5 cost) ~ 1 in stock
-`Soleyeer's Dweller Mask` (5 cost) ~ 1 in stock
-`BroneySM's Varia Suit` (5 cost) ~ 1 in stock
-`BroneySM's Bomb` (2 cost) ~ 1 in stock
-`DragoLookAtDeath's Keep Shortcuts` (2 cost) ~ 1 in stock
-`mars.'s Quick_Slash` (2 cost) ~ 1 in stock
-`mars.'s Soul_Eater` (2 cost) ~ 1 in stock
-
-other impermanent things:
-
-`send 7 random traps` (+1 Cold Hard Cash) ~ 1 in stock
-`hint 9 Cold Hard Cash` (2 cost) ~ 1 in stock
-`hint 12 Vault Keys` (2 cost) ~ 1 in stock
-`double stock for next shop` (6 cost) ~ infinite in stock
-
-this shop will be done via polls. i'll have each of these options in a poll as well as a "don't buy anything" option, and here's how it shall work:
-i'll buy the most highly requested ones, in order of amounts of the amount of votes (descending).
-should we have insufficient money for an item, the purchasing will end there. 
-if "don't buy anything" is voted enough that we still have money when it comes to it, the purchasing will also end there.
-the "send X random traps" option works differently. if it gets enough votes (half of highest vote), it'll be sent out.
-there are two polls, but treat them as one. if you don't want anything from the "impermanent shop items (& "don't buy anything")" poll, don't vote there, and same with the other.
-if there is not currently a run going, the traps and hints will carry over to the next run at the very start.
+`major shop item 1` (5 cost, 2 traps) ~ 1 in stock
+`major shop item 2` (5 cost, 2 traps) ~ 1 in stock
+`minor shop item 1` (2 cost, 1 trap) ~ 1 in stock
+`minor shop item 2` (2 cost, 1 trap) ~ 1 in stock
+`+1 Cold Hard Cash starting hint` (1 cost) ~ 1 in stock
+`+1 Vault Key starting hint` (1 cost) ~ 1 in stock
 
 # secret notes on current status of async
 
@@ -506,19 +482,16 @@ mars three.'s Celestial Sash
 mars three.'s Water Mask
 TripleSDV's Progressive Season (2)
 DragoSpinsDeath's Water Mask
-DragoSpinsDeath's Security Keycard D
 DragoLookAtDeath's Triangles
 DragoLookAtDeath's Black/White Squares
 Alex230-Doom's Free Saves and Loads
 BroneyFactorio's progressive-science-pack
 BroneyFactorio's progressive-science-pack (2)
 heshpseudo's Major Key - Sansa Keep
-heshpseudo's Sunsetter
 heshmuda's Music Sheet
 heshmuda's Music Sheet (2)
 sheen_pr's Cling Gem
 Kritzmaker's Whiplash
-JudosiiOOT's Bomb Bag
 ConnorHK's Mothwing_Cloak
 HPfunmanBS's Wall Climb Ability
 HPfunmanBS's Blood Perpetuated in Sand
@@ -530,32 +503,23 @@ MauveMuse's Music Sheet (2)
 MauvePenitent's Purified Hand of the Nun
 MauvePenitent's Wall Climb Ability
 FKKirby's Copy Ability - Hammer
-coolhollowguy's Desolate_Dive
 CoolGuyCompany's Titan
-CoolGuyCompany's Company Building
 numgasRogueTUNIC's Pages 42-43 (Holy Cross)
-numRogueINSCRYPT's Inspectometer Battery
 numRogueINSCRYPT's Gems Module
 superTUNCEndless's Magic Orb
 superTUNCEndless's Scavenger Mask
-superUTEndless's Waterfall Key
-superUTEndless's Mettaton Plush
 rhythm.ChampaU6's shop prog 2
-rhythm.LiquiirU8's shop prog 1
 rhythm.LiquiirU8's shop prog 2
-GodlFireALTTP's Progressive Glove
 GodlFireALTTP's Hammer
 jf-time's Timespinner Gear 2
 jf-time's Timespinner Gear 1
 jf-muse's Music Sheet (2)
-WidowRain61's The Planetarium
 Grim-aHiT's Umbrella
 Grim-Muse's Music Sheet (2)
 Grim-SA2's Yellow Chaos Emerald
 Grim-SA2's Knuckles - Shovel Claws
 Iridium's Morph Ball
 Iridium's Gravity Suit
-StormHK's Dream_Nail
 
 ### useful
 
@@ -570,7 +534,6 @@ SynRogue's Shattered Orb
 SynRegret's Puzzle Skip
 SynRegret's Puzzle Skip (2)
 Soleyeer's Projectile Badge
-Soleyeer's Sprint Hat
 ThatFirey's Knuckleblaster
 CaesiusHIT's Item Magnet Badge
 CaesiusSM64's Cannon Unlock JRB
@@ -580,7 +543,6 @@ mars three.'s Galaxy Earrings
 TripleSDV's Progressive Coop
 DragoSpinsDeath's Gas Mask
 HatKillsDrago's Relic (Crayon Box)
-DragoLookAtDeath's Keep Shortcuts
 DragoLookAtDeath's Mountain Floor 2 Staircase Far (Door)
 Alex230-Doom's Automap
 Alex230-Doom's Allow Using Exit
@@ -613,30 +575,23 @@ numgasRogueTUNIC's Sword Upgrade (2)
 numRogueINSCRYPT's Ourobot Card
 superMessEndless's Path of Resilience
 superMessEndless's Meditation
-superTUNCEndless's Sword Upgrade
 superUTEndless's Snowman Piece
 superUTEndless's Snowman Piece (2)
 rhythm.BeerusU7's shop useful 1
-rhythm.BeerusU7's shop useful 2
 rhythm.LiquiirU8's shop useful 2
-GodlFireALTTP's Progressive Mail
 GodlFireALTTP's Magic Powder
 jf-time's Library Keycard V
-jf-time's Succubus Hairpin
 jf-muse's Jealousy
 jf-muse's Paradise 2
 WidowRain61's Boss Item
 WidowRain61's Legendary Item
 Grim-Muse's Random Song (2)
-Grim-SA2's Knuckles - Sunglasses
 Grim-SA2's Rouge - Treasure Scope
 Iridium's Grappling Beam
-Iridium's Energy Tank
 StormHK's Isma's_Tear
 StormHK's Shaman_Stone
 StormTW's Puzzle Skip
 StormTW's Puzzle Skip (2)
-StormC64's Feathers
 
 ## purchased
 
@@ -653,6 +608,7 @@ ThatFirey's Stamina Bar
 CaesiusSM64's Wall Kick
 mars.'s Focus
 TripleSDV's Progressive Season
+DragoSpinsDeath's Security Keycard D
 HatKillsDrago's Ice Hat
 HatKillsDrago's Yarn
 Alex230-Doom's Allow Leaving Start Location
@@ -660,11 +616,13 @@ BroneyLTTP's Lamp
 BroneyLTTP's Moon Pearl
 BroneySM's Morph Ball
 BroneySM's Varia Suit
-heshut's Waterfall Key
+heshpseudo's Sunsetter
 heshut's Hotland Key
+heshut's Waterfall Key
 sheen_pr's Sun Greaves
 Kritzmaker's Revolver - Marksman
 JudosiiOOT's Progressive Hookshot
+JudosiiOOT's Bomb Bag
 ConnorHK's Vengeful_Spirit
 HPfunmanKH's Green Trinity
 HPfunmanKH's Hollow Bastion
@@ -673,17 +631,26 @@ Char Past's Hookshot
 Char Dream Bros's Mini Mario
 FKKirby's Copy Ability - Starship
 coolhollowguy's Mothwing_Cloak
+coolhollowguy's Desolate_Dive
+CoolGuyCompany's Company Building
 numgasRogueTUNIC's Pages 24-25 (Prayer)
+numRogueINSCRYPT's Inspectometer Battery
 superMessEndless's Rope Dart
 superMessEndless's Wingsuit
+superUTEndless's Waterfall Key
+superUTEndless's Mettaton Plush
 rhythm.ChampaU6's shop prog 1
 rhythm.BeerusU7's shop prog 1
 rhythm.BeerusU7's shop prog 2
+rhythm.LiquiirU8's shop prog 1
+GodlFireALTTP's Progressive Glove
 jf-muse's Music Sheet
 WidowRain61's Hidden Realm: A Moment, Whole
+WidowRain61's The Planetarium
 Grim-aHiT's Hookshot Badge
 Grim-Muse's Music Sheet
 StormHK's Focus
+StormHK's Dream_Nail
 StormTW's Shapers
 StormTW's Black/White Squares
 StormC64's Climb
@@ -695,6 +662,7 @@ again.mp3's Shaman_Stone / Winter Season Change
 automate.mp3's uranium-ammo / Inflated Pocket Dimension
 Deathclaw99OOT's Deku Shield
 SynRogue's Eternal Crown
+Soleyeer's Sprint Hat
 ThatFirey's Rocket Launcher - Freezeframe
 CaesiusHIT's Hover Badge
 CaesiusSM64's Kick
@@ -702,6 +670,7 @@ mars three.'s Selen's Bangle
 TripleSDV's Progressive Fishing Rod
 DragoSpinsDeath's Plasma Orb
 HatKillsDrago's Time Stop Hat
+DragoLookAtDeath's Keep Shortcuts
 BroneySM's Bomb
 BroneySM's Wave Beam
 sheen_pr's Health Piece
@@ -720,13 +689,20 @@ FKKirby's Copy Ability - Crash
 numgasRogueTUNIC's Sword Upgrade
 numRogueINSCRYPT's Bee Figurine
 superTUNCEndless's Magic Wand
+superTUNCEndless's Sword Upgrade
 rhythm.ChampaU6's shop useful 1
 rhythm.ChampaU6's shop useful 2
+rhythm.BeerusU7's shop useful 2
 rhythm.LiquiirU8's shop useful 1
+GodlFireALTTP's Progressive Mail
+jf-time's Succubus Hairpin
 Grim-aHiT's Fast Hatter Badge
 Grim-aHiT's No Bonk Badge
 Grim-Muse's Random Song
+Grim-SA2's Knuckles - Sunglasses
+Iridium's Energy Tank
 StormC64's Cassettes
+StormC64's Feathers
 
 ### collected shop items
 
@@ -762,3 +738,63 @@ FloriTerra's Reward: Rod of Discord
 /send Grim-aHiT Baby Trap
 /send Grim-Muse Bad Apple Trap
 /send Grim-SA2 Slow Trap
+
+# player list
+
+again.mp3
+automate.mp3
+Deathclaw99SM64 
+Deathclaw99OOT  
+SylskoTunic     
+SynRogue        
+SynRegret       
+Soleyeer        
+ThatFirey       
+CaesiusHIT      
+CaesiusSM64     
+mars.           
+mars three.     
+TripleSDV       #temporarily excluded
+DragoSpinsDeath 
+HatKillsDrago   
+DragoLookAtDeath
+Alex230-Doom    
+BroneyLTTP      #temporarily excluded
+BroneyFactorio  #temporarily excluded
+BroneySM        #temporarily excluded
+heshpseudo      
+heshmuda        
+heshut          
+sheen_pr        
+Kritzmaker      
+JudosiiOOT      
+ConnorHK        
+HPfunmanKH      #temporarily excluded
+HPfunmanBS      #temporarily excluded
+Char Past       
+Char Forgotten  
+Char Dream Bros 
+MauveMuse       
+MauvePenitent   
+FKKirby         
+coolhollowguy   
+CoolGuyCompany  
+numgasRogueTUNIC
+numRogueINSCRYPT
+superMessEndless
+superTUNCEndless
+superUTEndless
+rhythm.ChampaU6
+rhythm.BeerusU7
+rhythm.LiquiirU8
+GodlFireALTTP   
+jf-time         
+jf-muse         
+WidowRain61
+Grim-aHiT       
+Grim-Muse       
+Grim-SA2        
+Iridium         
+StormHK         
+StormTW         
+StormC64
