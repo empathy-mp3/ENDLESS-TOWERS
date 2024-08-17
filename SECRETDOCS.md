@@ -1,11 +1,3 @@
-shops have 6 items, and are restocked daily
-- one is always a permanent +1 life (1, 3, 5, 7, 9...) 1 stock
-- one is halved hint cost (2, 4, 9, 15, 33, 30, 23). the hint costs themselves go: (100, 50, 25, 12.5 (13), 6.25 (6), 3.125 (3), 1.5625 (2), 0.78125 (1)) 1 stock
-- two are major progression items (5, +1 per finished player) 1 stock each
-- two are useful/minor progression items (2 cost) 1 stock
-- temp life refills: (1, +2 cost per additional one purchased per run) 3 stock (scales with every 2 finishes, not 1)
-- temp filler item: (1, +1 cost per additional of that particular filler item purchased per run) 3 stock (does not scale with finishes)
-
 # current status
 
 current lives: 6/6
@@ -16,27 +8,6 @@ purchased permanent shop items: 5
 finished players: 0
 
 updated (insert relative discord timestamp)
-
-# the shop
-
-the shop has been very much rebalanced (though is still welcome to rebalance ideas)!
-not only am i trying things that are absolutely necessary, i am also experimenting with some changes that sound interesting (within what resources i have)
-some items will now cost traps *in addition* to costing cash, meaning traps will be sent when it is purchased.
-some items will also have an amount of hours listed next to the item, meaning it will take effect that amount of time after it is purchased.
-the traps are *jank*, if i'm being honest, but i think this is a much more organic way of integrating them. i'm just trying them out!
-
-current Cold Hard Cash: 0
-
-here are the wares!
-
-`+1 additional life` (11 cost) ~ 1 in stock
-`halved hint cost` (33 cost) ~ 1 in stock
-`major shop item 1` (5 cost, 2 traps) ~ 1 in stock
-`major shop item 2` (5 cost, 2 traps) ~ 1 in stock
-`minor shop item 1` (2 cost, 1 trap) ~ 1 in stock
-`minor shop item 2` (2 cost, 1 trap) ~ 1 in stock
-`+1 Cold Hard Cash starting hint` (1 cost) ~ 1 in stock
-`+1 Vault Key starting hint` (1 cost) ~ 1 in stock
 
 # secret notes on current status of async
 
@@ -91,7 +62,7 @@ finished players (0):
 | HPfunmanBS       | Wall Climb Ability       | Blood Perpetuated in Sand       | Dash Ability                       |                                 |                      |
 | Char Past        | Cane of Somaria          | Hookshot                        | Hammer                             | Rupees (300)                    |                      |
 | Char Forgotten   | Cone Mouth               | Stairs Mouth                    | Wise Waddle Dee Appears            | Rare Stone                      |                      |
-| Char Dream Bros  | Hammers                  | Mini Mario                      | Spin Jump                          | Max Candy                       |                      |
+| Char Puzzle      | Red                      | Yellow                          | Gray                               | Puzzle Skip                     |                      |
 | MauveMuse        | Music Sheet              | Music Sheet                     | Music Sheet                        |                                 |                      |
 | MauvePenitent    | Purified Hand of the Nun | Wall Climb Ability              | Dash Ability                       |                                 |                      |
 | FKKirby          | Copy Ability - Hammer    | Copy Ability - Starship         | Copy Ability - Meta Knight         |                                 |                      |
@@ -154,7 +125,7 @@ finished players (0):
 | HPfunmanBS       | Apodictic Heart of Mea Culpa | Cloistered Ruby          | Reliquary of the Fervent Heart    | Mea Culpa Upgrade             | Tiento to your Thorned Hairs          |
 | Char Past        | Magic Mirror                 | Moon Pearl               | Flute                             | Bombos                        | Lamp                                  |
 | Char Forgotten   | Progressive Hammer Ability   | Pipe Mouth               | Progressive Bomb Ability          | Progressive Sword Ability     | Progressive Fire Ability              |
-| Char Dream Bros  | Mole Mario                   | Side Drill               | Luiginary Stache Tree             | Luiginary Sneeze Wind         | Ball Hop                              |
+| Char Puzzle      | Purple                       | Blue                     | Brown                             | Orange                        | Green                                 |
 | MauveMuse        | Random Song                  | Random Song              | Random Song                       | Random Song                   | Random Song                           |
 | MauvePenitent    | Blood Perpetuated in Sand    | Silvered Lung of Dolphos | Three Gnarled Tongues             | Linen of Golden Thread        | Nail Uprooted from Dirt               |
 | FKKirby          | Copy Ability - Mike          | Copy Ability - Cook      | Copy Ability - Wheel              | Copy Ability - Paint          | Copy Ability - Crash                  |
@@ -215,7 +186,7 @@ finished players (0):
 (i just can't believe that adding BroneyFactorio and BroneyLTTP plando'd FOUR important items right at the end)
 
 
-    Char Dream Bros | Side Drill
+    Char Puzzle | Blue
     automate.mp3 | progressive-science-pack / Building: Geothermal Generator
     numRogueINSCRYPT | Dock's Clover Plant
     superTUNCEndless | Shield
@@ -299,7 +270,7 @@ finished players (0):
     superTUNCEndless | Magic Dagger
     CoolGuyCompany | Scanner
     Grim-SA2 | Knuckles - Air Necklace
-    Char Dream Bros | Mole Mario
+    Char Puzzle | Purple
     Char Past | Moon Pearl
     Lojtana | Cosmic Arts
     BroneyFactorio | progressive-turret
@@ -307,7 +278,7 @@ finished players (0):
     Deathclaw99TS | Elevator Keycard
     Grim-Muse | Random Song
     BroneySM | Screw Attack
-    Char Dream Bros | Luiginary Stache Tree
+    Char Puzzle | Brown
     Deathclaw99SM64 | Metal Cap
     SynRogue | Security Keycard B
     numRogueINSCRYPT | Mrs. Bomb's Remote
@@ -365,7 +336,7 @@ finished players (0):
     numgasRogueTUNIC | Magic Wand
     BroneyFactorio | progressive-science-pack
     Iridium | Hi-Jump Boots
-    Char Dream Bros | Spin Jump
+    Char Puzzle | Gray
     TripleSDV | Progressive Barn
     HPfunmanBS | Cloistered Ruby
     Grim-aHiT | Badge Pin
@@ -497,7 +468,7 @@ HPfunmanBS's Wall Climb Ability
 HPfunmanBS's Blood Perpetuated in Sand
 Char Forgotten's Cone Mouth
 Char Forgotten's Stairs Mouth
-Char Dream Bros's Hammers
+Char Dream Bros's Hammers (Red)
 MauveMuse's Music Sheet
 MauveMuse's Music Sheet (2)
 MauvePenitent's Purified Hand of the Nun
@@ -561,8 +532,8 @@ Kritzmaker's Nailgun - Attractor
 JudosiiOOT's Nayrus Love
 JudosiiOOT's Suns Song      
 HPfunmanBS's Tiento to your Thorned Hairs
-Char Dream Bros's Luiginary Sneeze Wind
-Char Dream Bros's Ball Hop
+Char Dream Bros's Luiginary Sneeze Wind (Orange)
+Char Dream Bros's Ball Hop (Green)
 MauveMuse's Random Song (2)
 MauvePenitent's Linen of Golden Thread
 MauvePenitent's Nail Uprooted from Dirt
@@ -628,7 +599,7 @@ HPfunmanKH's Green Trinity
 HPfunmanKH's Hollow Bastion
 Char Past's Cane of Somaria
 Char Past's Hookshot
-Char Dream Bros's Mini Mario
+Char Dream Bros's Mini Mario (Yellow)
 FKKirby's Copy Ability - Starship
 coolhollowguy's Mothwing_Cloak
 coolhollowguy's Desolate_Dive
@@ -718,83 +689,3 @@ FloriTerra's Hardmode
 FloriTerra's Post-Skeletron
 FloriTerra's Reward: Hermes Boots
 FloriTerra's Reward: Rod of Discord
-
-# trap list
-
-/send again.mp3 Summer Trap
-/send automate.mp3 Cluster Grenade Trap
-/send SylskoTunic Fool Trap
-/send Soleyeer Laser Trap
-/send ThatFirey Hard Damage
-/send CaesiusHIT Baby Trap     
-/send DragoSpinsDeath Bee Trap
-/send HatKillsDrago Baby Trap
-/send DragoLookAtDeath Bonk
-/send Alex230-Doom Dark Sectors      
-/send Kritzmaker Hard Damage
-/send JudosiiOOT Ice Trap
-/send jf-muse Gray Scale Trap
-/send WidowRain61 Lunar Item
-/send Grim-aHiT Baby Trap
-/send Grim-Muse Bad Apple Trap
-/send Grim-SA2 Slow Trap
-
-# player list
-
-again.mp3
-automate.mp3
-Deathclaw99SM64 
-Deathclaw99OOT  
-SylskoTunic     
-SynRogue        
-SynRegret       
-Soleyeer        
-ThatFirey       
-CaesiusHIT      
-CaesiusSM64     
-mars.           
-mars three.     
-TripleSDV       #temporarily excluded
-DragoSpinsDeath 
-HatKillsDrago   
-DragoLookAtDeath
-Alex230-Doom    
-BroneyLTTP      #temporarily excluded
-BroneyFactorio  #temporarily excluded
-BroneySM        #temporarily excluded
-heshpseudo      
-heshmuda        
-heshut          
-sheen_pr        
-Kritzmaker      
-JudosiiOOT      
-ConnorHK        
-HPfunmanKH      #temporarily excluded
-HPfunmanBS      #temporarily excluded
-Char Past       
-Char Forgotten  
-Char Dream Bros 
-MauveMuse       
-MauvePenitent   
-FKKirby         
-coolhollowguy   
-CoolGuyCompany  
-numgasRogueTUNIC
-numRogueINSCRYPT
-superMessEndless
-superTUNCEndless
-superUTEndless
-rhythm.ChampaU6
-rhythm.BeerusU7
-rhythm.LiquiirU8
-GodlFireALTTP   
-jf-time         
-jf-muse         
-WidowRain61
-Grim-aHiT       
-Grim-Muse       
-Grim-SA2        
-Iridium         
-StormHK         
-StormTW         
-StormC64
