@@ -47,8 +47,12 @@ Hollow Knight:
   RandomizeGrubs: 
     'true': 1
     'false': 1
-  RandomizeMimics: 'false'
-  RandomizeMaps: 'false'
+  RandomizeMimics: 
+    'true': 4
+    'false': 1
+  RandomizeMaps: 
+    'true': 4
+    'false': 1
   RandomizeStags: 
     'true': 4
     'false': 1
@@ -66,9 +70,9 @@ Hollow Knight:
     'true': 2
     'false': 1
   PreciseMovement: 'false'
-  ProficientCombat: 'false'
+  ProficientCombat: 'true'
   BackgroundObjectPogos: 'true'
-  EnemyPogos: 'true'
+  EnemyPogos: 'false'
   ObscureSkips: 'false'
   ShadeSkips: 'false'
   InfectionSkips: 'false'
@@ -118,7 +122,7 @@ Hollow Knight:
   CostSanityGrubWeight: random-range-1-4
   CostSanityEssenceWeight: random-range-1-4
   CostSanityCharmWeight: random-range-2-6
-  CostSanityGeoWeight: random-range-6-10
+  CostSanityGeoWeight: random-range-10-20
   MaximumGeoPrice: random-range-1-500
   MaximumGrubPrice: random-range-11-44
   MaximumEssencePrice: random-range-400-1800
@@ -127,11 +131,10 @@ Hollow Knight:
   ExtraShopSlots: random-range-0-7
   local_items: Mimic_Grub
   suffering:
-    RandomizeFocus: 2
+    RandomizeFocus: 7
     RandomizeNail: 1
-    RemoveSpellUpgrades: 2
-    GodhomeGoal: 3
-    None: 13  
+    RemoveSpellUpgrades: 3
+    GodhomeGoal: 10
   triggers:
     - option_category: Hollow Knight
       option_name: suffering
@@ -564,9 +567,9 @@ Factorio:
   recipe_time: chaos
   recipe_ingredients: science_pack
   recipe_ingredients_offset:
-    -1: 1
+    -1: 2
     0: 5
-    1: 2
+    1: 1
   imported_blueprints: 'true'
   progressive: 'on'
   teleport_traps: random-range-1-20
@@ -589,7 +592,9 @@ Factorio:
   ramping_tech_costs: 
     'true': 1
     'false': 5
-  free_samples: random
+  free_samples: 
+    half_stack: 50
+    stack: 50
   tech_tree_information: random
   plando_items:
     - item:
