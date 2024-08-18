@@ -21,6 +21,7 @@ finished players (0):
 - Deathclaw99TS
 - Lojtana
 - FloriTerra
+- Deathclaw99SM64
 
 # submission items
 
@@ -230,7 +231,6 @@ finished players (0):
     Soleyeer | Ice Hat
     Lojtana | Crystal Crown
     FloriTerra | Reward: Black Belt
- ~ all above this has been obtained ~ vault keys: 44 ~
     again.mp3 | Steady_Body / Rope
     heshmuda | Random Song
     Char Forgotten | Pipe Mouth
@@ -241,6 +241,7 @@ finished players (0):
     CaesiusHIT | Badge Pin
     Grim-aHiT | Dweller Mask
     GodlFireALTTP | Progressive Sword
+ ~ all above this has been obtained ~ vault keys: 48 ~
     heshpseudo | Cling Gem
     WidowRain61 | Hidden Realm: Bazaar Between Time
     jf-time | Water Mask
@@ -459,7 +460,6 @@ Alex230-Doom's Free Saves and Loads
 BroneyFactorio's progressive-science-pack
 BroneyFactorio's progressive-science-pack (2)
 heshpseudo's Major Key - Sansa Keep
-heshmuda's Music Sheet
 heshmuda's Music Sheet (2)
 sheen_pr's Cling Gem
 Kritzmaker's Whiplash
@@ -488,7 +488,6 @@ jf-muse's Music Sheet (2)
 Grim-aHiT's Umbrella
 Grim-Muse's Music Sheet (2)
 Grim-SA2's Yellow Chaos Emerald
-Grim-SA2's Knuckles - Shovel Claws
 Iridium's Morph Ball
 Iridium's Gravity Suit
 
@@ -501,8 +500,6 @@ Deathclaw99SM64's Power Star (2)
 Deathclaw99OOT's Goron Tunic
 SylskoTunic's Anklet
 SylskoTunic's Magic Dagger
-SynRogue's Shattered Orb
-SynRegret's Puzzle Skip
 SynRegret's Puzzle Skip (2)
 Soleyeer's Projectile Badge
 ThatFirey's Knuckleblaster
@@ -588,6 +585,7 @@ BroneyLTTP's Moon Pearl
 BroneySM's Morph Ball
 BroneySM's Varia Suit
 heshpseudo's Sunsetter
+heshmuda's Music Sheet
 heshut's Hotland Key
 heshut's Waterfall Key
 sheen_pr's Sun Greaves
@@ -618,6 +616,7 @@ GodlFireALTTP's Progressive Glove
 jf-muse's Music Sheet
 WidowRain61's Hidden Realm: A Moment, Whole
 WidowRain61's The Planetarium
+Grim-SA2's Knuckles - Shovel Claws
 Grim-aHiT's Hookshot Badge
 Grim-Muse's Music Sheet
 StormHK's Focus
@@ -633,6 +632,8 @@ again.mp3's Shaman_Stone / Winter Season Change
 automate.mp3's uranium-ammo / Inflated Pocket Dimension
 Deathclaw99OOT's Deku Shield
 SynRogue's Eternal Crown
+SynRogue's Shattered Orb
+SynRegret's Puzzle Skip
 Soleyeer's Sprint Hat
 ThatFirey's Rocket Launcher - Freezeframe
 CaesiusHIT's Hover Badge

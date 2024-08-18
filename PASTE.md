@@ -10,11 +10,11 @@ shops have 6 items, and are restocked daily
 
 `send out 2 major and minor shop items` (5 cost, 1 hour) ~ 2 in stock
 `obtain 2 Vault Keys` (5 cost, 4 hour) ~ 2 in stock
-`send out 6 filler items and 2 traps` (3 cost) ~ 3 in stock
+`send out 7 filler items and 2 traps` (3 cost) ~ 3 in stock
 `replenish half (rounded down) of missing lives` (4 cost, 8 hours) ~ 1 in stock
 `open two vault lockers with unknown contents` (3 cost) ~ 2 in stock
-`one random slot does not lower the amount of lives when they send a death` (4 cost) ~ 1 in stock (lasts for 24 hours)
-`a specific enemy of your choice does not lower the amount of lives when it is the cause of death` (4 cost) ~ 1 in stock
+`one random slot does not lower the amount of lives when they send a death` (6 cost) ~ 1 in stock
+`a specific enemy of your choice does not lower the amount of lives when it is the cause of death` (2 cost) ~ 1 in stock
 `upon the run ending, instead it continues with half (rounded down) of max lives` (22 cost) ~ 1 in stock
 `1% hint cost` (9 cost) ~ 1 in stock
 
@@ -31,14 +31,18 @@ current Cold Hard Cash: 0
 
 here are the wares!
 
-`+1 additional life` (11 cost) ~ 1 in stock
+`+1 additional life` (13 cost) ~ 1 in stock
 `halved hint cost` (33 cost) ~ 1 in stock
 `major shop item 1` (5 cost) ~ 1 in stock
 `major shop item 2` (5 cost) ~ 1 in stock
+`major shop item 3` (5 cost) ~ 1 in stock
+`major shop item 4` (5 cost) ~ 1 in stock
 `minor shop item 1` (2 cost) ~ 1 in stock
 `minor shop item 2` (2 cost) ~ 1 in stock
-`+1 Cold Hard Cash starting hint` (1 cost) ~ 1 in stock
-`+1 Vault Key starting hint` (1 cost) ~ 1 in stock
+`minor shop item 3` (2 cost) ~ 1 in stock
+`minor shop item 4` (2 cost) ~ 1 in stock
+`+1 Cold Hard Cash starting hint` (2 cost) ~ 1 in stock
+`+1 Vault Key starting hint` (2 cost) ~ 1 in stock
 
 temporary shop items:
 
