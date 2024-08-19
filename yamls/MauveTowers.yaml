@@ -719,9 +719,9 @@ Blasphemous:
   difficulty: normal
   penitence: 'false'
   starting_location: albero
-  ending: ending_c
+  ending: random
   skip_long_quests: 'false'
-  thorn_shuffle: anywhere
+  thorn_shuffle: random
   dash_shuffle: 'true'
   wall_climb_shuffle: 'true'
   reliquary_shuffle: 'true'
@@ -729,7 +729,7 @@ Blasphemous:
   purified_hand: 'true'
   start_wheel: 'true'
   skill_randomizer: 'true'
-  enemy_randomizer: shuffled
+  enemy_randomizer: random
   enemy_groups: 'true'
   enemy_scaling: 'true'
   death_link: 'true'

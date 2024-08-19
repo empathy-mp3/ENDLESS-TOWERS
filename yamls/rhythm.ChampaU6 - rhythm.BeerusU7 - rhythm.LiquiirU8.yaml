@@ -479,6 +479,8 @@ Sonic Adventure DX:
   amy_missions: random
   gamma_missions: random
   big_missions: random
+  mission_mode_checks: random
+  non_stop_missions: random
   plando_items:
     - item:
         Dynamite: 1
@@ -1570,6 +1572,8 @@ Sonic Adventure DX:
   randomized_big_upgrades: true
   randomized_gamma_upgrades: true
   sonic_missions: random
+  mission_mode_checks: random
+  non_stop_missions: random
   tails_missions:
     none: 0
     c: 1
@@ -2698,6 +2702,8 @@ Sonic Adventure DX:
   amy_missions: random
   gamma_missions: random
   big_missions: random
+  mission_mode_checks: random
+  non_stop_missions: random
   plando_items:
     - item:
         Dynamite: 1

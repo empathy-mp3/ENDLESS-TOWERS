@@ -130,7 +130,7 @@ Muse Dash:
     marooned night: 1
     OBLIVION: 1
   song_difficulty_mode:
-    hard: 10
+    expert: 10
   song_difficulty_min:
     '4': 25
   song_difficulty_max:

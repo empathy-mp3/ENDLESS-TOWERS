@@ -8,7 +8,7 @@ shops have 6 items, and are restocked daily
 
 # shop temp items
 
-`send out 2 major and minor shop items` (5 cost, 1 hour) ~ 2 in stock
+`send out 2 major and minor shop items` (5 cost, 4 hour) ~ 2 in stock
 `obtain 2 Vault Keys` (5 cost, 4 hour) ~ 2 in stock
 `send out 7 filler items and 2 traps` (3 cost) ~ 3 in stock
 `replenish half (rounded down) of missing lives` (4 cost, 8 hours) ~ 1 in stock
@@ -18,10 +18,9 @@ shops have 6 items, and are restocked daily
 `upon the run ending, instead it continues with half (rounded down) of max lives` (22 cost) ~ 1 in stock
 `1% hint cost` (9 cost) ~ 1 in stock
 
-# the shop
+# the shop (day )
 
-the shop has been very much rebalanced (though is still welcome to rebalance ideas)!
-not only am i trying things that are absolutely necessary, i am also experimenting with some changes that sound interesting (within what resources i have)
+the 4/4 major/minor items have made their return!
 some items will have an amount of hours listed next to the item, meaning it will take effect that amount of time after it is purchased.
 all items are permanent, unless specified otherwise, and all temporary items last for only the current run, unless specified otherwise.
 if the run ends before a temporary item takes effect, it will never take effect.
@@ -31,7 +30,7 @@ current Cold Hard Cash: 0
 
 here are the wares!
 
-`+1 additional life` (13 cost) ~ 1 in stock
+`+1 additional life` (15 cost) ~ 1 in stock
 `halved hint cost` (33 cost) ~ 1 in stock
 `major shop item 1` (5 cost) ~ 1 in stock
 `major shop item 2` (5 cost) ~ 1 in stock
@@ -41,8 +40,8 @@ here are the wares!
 `minor shop item 2` (2 cost) ~ 1 in stock
 `minor shop item 3` (2 cost) ~ 1 in stock
 `minor shop item 4` (2 cost) ~ 1 in stock
-`+1 Cold Hard Cash starting hint` (2 cost) ~ 1 in stock
-`+1 Vault Key starting hint` (2 cost) ~ 1 in stock
+`+1 Cold Hard Cash starting hint` (3 cost) ~ 1 in stock
+`+1 Vault Key starting hint` (3 cost) ~ 1 in stock
 
 temporary shop items:
 

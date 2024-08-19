@@ -8,7 +8,6 @@
 /send CaesiusHIT Baby Trap     
 /send DragoSpinsDeath Bee Trap
 /send HatKillsDrago Baby Trap
-/send DragoLookAtDeath Bonk
 /send Alex230-Doom Dark Sectors      
 /send Kritzmaker Hard Damage
 /send JudosiiOOT Ice Trap
@@ -30,8 +29,7 @@
 /send CaesiusSM64 1Up Mushroom                     
 /send TripleSDV Iridium Sprinkler              
 /send DragoSpinsDeath Spaghetti                      
-/send HatKillsDrago 100 Pons                       
-/send DragoLookAtDeath Puzzle Skip                    
+/send HatKillsDrago 100 Pons                
 /send Alex230-Doom Turn Off Entropy Mod           
 /send BroneyLTTP Rupees (100)                   
 /send BroneyFactorio progressive-mining-productivity
@@ -44,8 +42,7 @@
 /send coolhollowguy Geo_Chest-Watcher_Knights      
 /send CoolGuyCompany Money                          
 /send numgasRogueTUNIC Lure                           
-/send numRogueINSCRYPT Card Pack                      
-/send superMessEndless Time Shard (500)               
+/send numRogueINSCRYPT Card Pack
 /send superTUNCEndless Lure x2                        
 /send superUTEndless 1000G                          
 /send GodlFireALTTP Rupees (300)                   

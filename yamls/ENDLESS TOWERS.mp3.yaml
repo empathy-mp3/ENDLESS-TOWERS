@@ -131,10 +131,11 @@ Hollow Knight:
   ExtraShopSlots: random-range-0-7
   local_items: Mimic_Grub
   suffering:
-    RandomizeFocus: 7
+    RandomizeFocus: 10
     RandomizeNail: 1
     RemoveSpellUpgrades: 3
-    GodhomeGoal: 10
+    GodhomeGoal: 7
+    None: 4
   triggers:
     - option_category: Hollow Knight
       option_name: suffering

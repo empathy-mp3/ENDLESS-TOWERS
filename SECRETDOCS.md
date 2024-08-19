@@ -22,6 +22,8 @@ finished players (0):
 - Lojtana
 - FloriTerra
 - Deathclaw99SM64
+- DragoLookAtDeath
+- superMessEndless
 
 # submission items
 
@@ -241,7 +243,7 @@ finished players (0):
     CaesiusHIT | Badge Pin
     Grim-aHiT | Dweller Mask
     GodlFireALTTP | Progressive Sword
- ~ all above this has been obtained ~ vault keys: 48 ~
+ ~ all above this has been obtained ~ vault keys: 54 ~
     heshpseudo | Cling Gem
     WidowRain61 | Hidden Realm: Bazaar Between Time
     jf-time | Water Mask
@@ -438,7 +440,6 @@ finished players (0):
 again.mp3's Desolate_Dive / Tent
 again.mp3's Lumafly_Lantern / Boards
 automate.mp3's progressive-science-pack / Building: AWESOME Shop
-Deathclaw99SM64's Second Floor Key
 Deathclaw99OOT's Megaton Hammer
 SylskoTunic's Hero's Laurels
 SynRogue's Celestial Sash
@@ -454,8 +455,6 @@ mars three.'s Celestial Sash
 mars three.'s Water Mask
 TripleSDV's Progressive Season (2)
 DragoSpinsDeath's Water Mask
-DragoLookAtDeath's Triangles
-DragoLookAtDeath's Black/White Squares
 Alex230-Doom's Free Saves and Loads
 BroneyFactorio's progressive-science-pack
 BroneyFactorio's progressive-science-pack (2)
@@ -471,12 +470,10 @@ Char Forgotten's Stairs Mouth
 Char Dream Bros's Hammers (Red)
 MauveMuse's Music Sheet
 MauveMuse's Music Sheet (2)
-MauvePenitent's Purified Hand of the Nun
 MauvePenitent's Wall Climb Ability
 FKKirby's Copy Ability - Hammer
 CoolGuyCompany's Titan
 numgasRogueTUNIC's Pages 42-43 (Holy Cross)
-numRogueINSCRYPT's Gems Module
 superTUNCEndless's Magic Orb
 superTUNCEndless's Scavenger Mask
 rhythm.ChampaU6's shop prog 2
@@ -485,8 +482,6 @@ GodlFireALTTP's Hammer
 jf-time's Timespinner Gear 2
 jf-time's Timespinner Gear 1
 jf-muse's Music Sheet (2)
-Grim-aHiT's Umbrella
-Grim-Muse's Music Sheet (2)
 Grim-SA2's Yellow Chaos Emerald
 Iridium's Morph Ball
 Iridium's Gravity Suit
@@ -495,13 +490,10 @@ Iridium's Gravity Suit
 
 again.mp3's Heavy_Blow / Autumn Season Change
 automate.mp3's concrete / Recipe: Rubber
-Deathclaw99SM64's Power Star
-Deathclaw99SM64's Power Star (2)
 Deathclaw99OOT's Goron Tunic
 SylskoTunic's Anklet
 SylskoTunic's Magic Dagger
 SynRegret's Puzzle Skip (2)
-Soleyeer's Projectile Badge
 ThatFirey's Knuckleblaster
 CaesiusHIT's Item Magnet Badge
 CaesiusSM64's Cannon Unlock JRB
@@ -511,7 +503,6 @@ mars three.'s Galaxy Earrings
 TripleSDV's Progressive Coop
 DragoSpinsDeath's Gas Mask
 HatKillsDrago's Relic (Crayon Box)
-DragoLookAtDeath's Mountain Floor 2 Staircase Far (Door)
 Alex230-Doom's Automap
 Alex230-Doom's Allow Using Exit
 BroneyLTTP's Cane of Byrna
@@ -527,7 +518,6 @@ heshut's Ruins Key
 sheen_pr's Health Piece (2)
 Kritzmaker's Nailgun - Attractor
 JudosiiOOT's Nayrus Love
-JudosiiOOT's Suns Song      
 HPfunmanBS's Tiento to your Thorned Hairs
 Char Dream Bros's Luiginary Sneeze Wind (Orange)
 Char Dream Bros's Ball Hop (Green)
@@ -541,9 +531,6 @@ CoolGuyCompany's Extension ladder
 CoolGuyCompany's Jetpack
 numgasRogueTUNIC's Sword Upgrade (2)
 numRogueINSCRYPT's Ourobot Card
-superMessEndless's Path of Resilience
-superMessEndless's Meditation
-superUTEndless's Snowman Piece
 superUTEndless's Snowman Piece (2)
 rhythm.BeerusU7's shop useful 1
 rhythm.LiquiirU8's shop useful 2
@@ -555,7 +542,6 @@ WidowRain61's Boss Item
 WidowRain61's Legendary Item
 Grim-Muse's Random Song (2)
 Grim-SA2's Rouge - Treasure Scope
-Iridium's Grappling Beam
 StormHK's Isma's_Tear
 StormHK's Shaman_Stone
 StormTW's Puzzle Skip
@@ -566,7 +552,6 @@ StormTW's Puzzle Skip (2)
 ### progressive
 
 automate.mp3's progressive-science-pack / Building: Refinery
-Deathclaw99SM64's Long Jump
 Deathclaw99OOT's Hover Boots
 SylskoTunic's Pages 24-25 (Prayer)
 SylskoTunic's Hero's Laurels
@@ -598,14 +583,14 @@ HPfunmanKH's Hollow Bastion
 Char Past's Cane of Somaria
 Char Past's Hookshot
 Char Dream Bros's Mini Mario (Yellow)
+MauvePenitent's Purified Hand of the Nun
 FKKirby's Copy Ability - Starship
 coolhollowguy's Mothwing_Cloak
 coolhollowguy's Desolate_Dive
 CoolGuyCompany's Company Building
 numgasRogueTUNIC's Pages 24-25 (Prayer)
 numRogueINSCRYPT's Inspectometer Battery
-superMessEndless's Rope Dart
-superMessEndless's Wingsuit
+numRogueINSCRYPT's Gems Module
 superUTEndless's Waterfall Key
 superUTEndless's Mettaton Plush
 rhythm.ChampaU6's shop prog 1
@@ -616,9 +601,11 @@ GodlFireALTTP's Progressive Glove
 jf-muse's Music Sheet
 WidowRain61's Hidden Realm: A Moment, Whole
 WidowRain61's The Planetarium
-Grim-SA2's Knuckles - Shovel Claws
+Grim-aHiT's Umbrella
 Grim-aHiT's Hookshot Badge
 Grim-Muse's Music Sheet
+Grim-Muse's Music Sheet (2)
+Grim-SA2's Knuckles - Shovel Claws
 StormHK's Focus
 StormHK's Dream_Nail
 StormTW's Shapers
@@ -634,6 +621,7 @@ Deathclaw99OOT's Deku Shield
 SynRogue's Eternal Crown
 SynRogue's Shattered Orb
 SynRegret's Puzzle Skip
+Soleyeer's Projectile Badge
 Soleyeer's Sprint Hat
 ThatFirey's Rocket Launcher - Freezeframe
 CaesiusHIT's Hover Badge
@@ -642,11 +630,11 @@ mars three.'s Selen's Bangle
 TripleSDV's Progressive Fishing Rod
 DragoSpinsDeath's Plasma Orb
 HatKillsDrago's Time Stop Hat
-DragoLookAtDeath's Keep Shortcuts
 BroneySM's Bomb
 BroneySM's Wave Beam
 sheen_pr's Health Piece
 Kritzmaker's Nailgun - JumpStart
+JudosiiOOT's Suns Song
 ConnorHK's Fragile_Strength
 ConnorHK's Quick_Slash
 HPfunmanKH's Progressive Cure
@@ -662,6 +650,7 @@ numgasRogueTUNIC's Sword Upgrade
 numRogueINSCRYPT's Bee Figurine
 superTUNCEndless's Magic Wand
 superTUNCEndless's Sword Upgrade
+superUTEndless's Snowman Piece
 rhythm.ChampaU6's shop useful 1
 rhythm.ChampaU6's shop useful 2
 rhythm.BeerusU7's shop useful 2
@@ -672,6 +661,7 @@ Grim-aHiT's Fast Hatter Badge
 Grim-aHiT's No Bonk Badge
 Grim-Muse's Random Song
 Grim-SA2's Knuckles - Sunglasses
+Iridium's Grappling Beam
 Iridium's Energy Tank
 StormC64's Cassettes
 StormC64's Feathers
@@ -690,3 +680,15 @@ FloriTerra's Hardmode
 FloriTerra's Post-Skeletron
 FloriTerra's Reward: Hermes Boots
 FloriTerra's Reward: Rod of Discord
+Deathclaw99SM64's Second Floor Key
+Deathclaw99SM64's Long Jump
+Deathclaw99SM64's Power Star
+Deathclaw99SM64's Power Star (2)
+DragoLookAtDeath's Triangles
+DragoLookAtDeath's Black/White Squares
+DragoLookAtDeath's Keep Shortcuts
+DragoLookAtDeath's Mountain Floor 2 Staircase Far (Door)
+superMessEndless's Rope Dart
+superMessEndless's Wingsuit
+superMessEndless's Path of Resilience
+superMessEndless's Meditation
