@@ -114,3 +114,18 @@ Iridium
 StormHK         
 StormTW         
 StormC64
+
+# release list
+
+/release Deathclaw99TS
+/release Lojtana
+/release FloriTerra
+/release Deathclaw99SM64
+/release DragoLookAtDeath
+/release superMessEndless
+/collect Deathclaw99TS
+/collect Lojtana
+/collect FloriTerra
+/collect Deathclaw99SM64
+/collect DragoLookAtDeath
+/collect superMessEndless

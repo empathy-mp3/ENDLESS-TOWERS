@@ -243,7 +243,6 @@ finished players (0):
     CaesiusHIT | Badge Pin
     Grim-aHiT | Dweller Mask
     GodlFireALTTP | Progressive Sword
- ~ all above this has been obtained ~ vault keys: 54 ~
     heshpseudo | Cling Gem
     WidowRain61 | Hidden Realm: Bazaar Between Time
     jf-time | Water Mask
@@ -256,6 +255,7 @@ finished players (0):
     Soleyeer | Time Stop Hat
     Soleyeer | Fast Hatter Badge
     Deathclaw99SM64 | Power Star
+ ~ all above this has been obtained ~ vault keys: 66 ~
     TripleSDV | Return Scepter
     FKKirby | Copy Ability - Meta Knight
     DragoLookAtDeath | Quarry Entry 1 (Panel)
@@ -454,21 +454,17 @@ mars.'s Desolate_Dive
 mars three.'s Celestial Sash
 mars three.'s Water Mask
 TripleSDV's Progressive Season (2)
-DragoSpinsDeath's Water Mask
 Alex230-Doom's Free Saves and Loads
 BroneyFactorio's progressive-science-pack
 BroneyFactorio's progressive-science-pack (2)
 heshpseudo's Major Key - Sansa Keep
 heshmuda's Music Sheet (2)
-sheen_pr's Cling Gem
 Kritzmaker's Whiplash
 ConnorHK's Mothwing_Cloak
 HPfunmanBS's Wall Climb Ability
 HPfunmanBS's Blood Perpetuated in Sand
-Char Forgotten's Cone Mouth
 Char Forgotten's Stairs Mouth
 Char Dream Bros's Hammers (Red)
-MauveMuse's Music Sheet
 MauveMuse's Music Sheet (2)
 MauvePenitent's Wall Climb Ability
 FKKirby's Copy Ability - Hammer
@@ -491,7 +487,6 @@ Iridium's Gravity Suit
 again.mp3's Heavy_Blow / Autumn Season Change
 automate.mp3's concrete / Recipe: Rubber
 Deathclaw99OOT's Goron Tunic
-SylskoTunic's Anklet
 SylskoTunic's Magic Dagger
 SynRegret's Puzzle Skip (2)
 ThatFirey's Knuckleblaster
@@ -529,14 +524,11 @@ coolhollowguy's Hiveblood
 coolhollowguy's Great_Slash
 CoolGuyCompany's Extension ladder
 CoolGuyCompany's Jetpack
-numgasRogueTUNIC's Sword Upgrade (2)
 numRogueINSCRYPT's Ourobot Card
-superUTEndless's Snowman Piece (2)
 rhythm.BeerusU7's shop useful 1
 rhythm.LiquiirU8's shop useful 2
 GodlFireALTTP's Magic Powder
 jf-time's Library Keycard V
-jf-muse's Jealousy
 jf-muse's Paradise 2
 WidowRain61's Boss Item
 WidowRain61's Legendary Item
@@ -561,6 +553,7 @@ ThatFirey's Stamina Bar
 CaesiusSM64's Wall Kick
 mars.'s Focus
 TripleSDV's Progressive Season
+DragoSpinsDeath's Water Mask
 DragoSpinsDeath's Security Keycard D
 HatKillsDrago's Ice Hat
 HatKillsDrago's Yarn
@@ -574,6 +567,7 @@ heshmuda's Music Sheet
 heshut's Hotland Key
 heshut's Waterfall Key
 sheen_pr's Sun Greaves
+sheen_pr's Cling Gem
 Kritzmaker's Revolver - Marksman
 JudosiiOOT's Progressive Hookshot
 JudosiiOOT's Bomb Bag
@@ -582,7 +576,9 @@ HPfunmanKH's Green Trinity
 HPfunmanKH's Hollow Bastion
 Char Past's Cane of Somaria
 Char Past's Hookshot
+Char Forgotten's Cone Mouth
 Char Dream Bros's Mini Mario (Yellow)
+MauveMuse's Music Sheet
 MauvePenitent's Purified Hand of the Nun
 FKKirby's Copy Ability - Starship
 coolhollowguy's Mothwing_Cloak
@@ -618,6 +614,7 @@ StormC64's Ground Dash
 again.mp3's Shaman_Stone / Winter Season Change
 automate.mp3's uranium-ammo / Inflated Pocket Dimension
 Deathclaw99OOT's Deku Shield
+SylskoTunic's Anklet
 SynRogue's Eternal Crown
 SynRogue's Shattered Orb
 SynRegret's Puzzle Skip
@@ -647,16 +644,19 @@ Char Forgotten's Progressive Fire Ability
 MauveMuse's Random Song
 FKKirby's Copy Ability - Crash
 numgasRogueTUNIC's Sword Upgrade
+numgasRogueTUNIC's Sword Upgrade (2)
 numRogueINSCRYPT's Bee Figurine
 superTUNCEndless's Magic Wand
 superTUNCEndless's Sword Upgrade
 superUTEndless's Snowman Piece
+superUTEndless's Snowman Piece (2)
 rhythm.ChampaU6's shop useful 1
 rhythm.ChampaU6's shop useful 2
 rhythm.BeerusU7's shop useful 2
 rhythm.LiquiirU8's shop useful 1
 GodlFireALTTP's Progressive Mail
 jf-time's Succubus Hairpin
+jf-muse's Jealousy
 Grim-aHiT's Fast Hatter Badge
 Grim-aHiT's No Bonk Badge
 Grim-Muse's Random Song

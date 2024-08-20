@@ -116,7 +116,7 @@ Hollow Knight:
   SplitCrystalHeart: 'false'
   SplitMothwingCloak: 'false'
   SplitMantisClaw: 'false'
-  CostSanity: 'on'
+  CostSanity: 'off'
   CostSanityHybridChance: random-range-0-25
   CostSanityEggWeight: '0'
   CostSanityGrubWeight: random-range-1-4
@@ -565,7 +565,11 @@ Factorio:
   max_tech_cost: random-range-30-250
   silo: randomize_recipe
   satellite: randomize_recipe
-  recipe_time: chaos
+  recipe_time:
+    fast: 50
+    chaos: 50
+    new_fast: 50
+    new_normal: 50
   recipe_ingredients: science_pack
   recipe_ingredients_offset:
     -1: 2
