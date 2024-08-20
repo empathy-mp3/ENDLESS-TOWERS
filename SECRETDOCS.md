@@ -24,78 +24,77 @@ finished players (0):
 - Deathclaw99SM64
 - DragoLookAtDeath
 - superMessEndless
+- Widowrain61
 
 # submission items
 
-| slot             | shop prog 1              | shop prog 2                     | vault prog                         | filler                          | trap                 |
-| ---------------- | ------------------------ | ------------------------------- | ---------------------------------- | ------------------------------- | -------------------- |
-| again.mp3        | Desolate_Dive            | Lumafly_Lantern                 | Mothwing_Cloak                     | Geo_Chest-Soul_Master           |                      |
-| again.mp3        | Tent                     | Boards                          | Rope                               | Eye Mask                        | Summer Trap          |
-| automate.mp3     | progressive-science-pack | progressive-science-pack        | progressive-science-pack           | progressive-mining-productivity | Cluster Grenade Trap |
-| automate.mp3     | Building: AWESOME Shop   | Building: Refinery              | Building: MAM                      | Bundle: Quickwire               | Hog Basic            |
-| Deathclaw99TS    | Water Mask               | Lightwall                       | Elevator Keycard                   |                                 |                      |
-| Deathclaw99SM64  | Second Floor Key         | Long Jump                       | Basement Key                       |                                 |                      |
-| Deathclaw99OOT   | Megaton Hammer           | Hover Boots                     | Progressive Hookshot               | Rupees (200)                    |                      |
-| SylskoTunic      | Pages 24-25 (Prayer)     | Hero's Laurels                  | Magic Orb                          | Money x100                      | Fool Trap            |
-| SynRogue         | Celestial Sash           | Water Mask                      | Security Keycard B                 |                                 |                      |
-| SynRegret        | Progressive Dots         | Shapers                         | Black/White Squares                | Speed Boost                     |                      |
-| Soleyeer         | Hookshot Badge           | Dweller Mask                    | Ice Hat                            |                                 | Laser Trap           |
-| ThatFirey        | Stamina Bar              | Wall Jump                       | Whiplash                           |                                 | Hard Damage          |
-| CaesiusHIT       | Hookshot Badge           | Umbrella                        | Zipline Unlock - The Windmill Path | 100 Pons                        | Baby Trap            |
-| CaesiusSM64      | Side Flip                | Wall Kick                       | Progressive Key                    | 1Up Mushroom                    |                      |
-| mars.            | Desolate_Dive            | Focus                           | Monarch_Wings                      |                                 |                      |
-| mars three.      | Celestial Sash           | Water Mask                      | Security Keycard B                 |                                 |                      |
-| TripleSDV        | Progressive Season       | Progressive Season              | Progressive Season                 | Iridium Sprinkler               |                      |
-| DragoSpinsDeath  | Water Mask               | Security Keycard D              | Celestial Sash                     | Spaghetti                       | Bee Trap             |
-| HatKillsDrago    | Ice Hat                  | Yarn                            | Hookshot Badge                     | 100 Pons                        | Baby Trap            |
-| DragoLookAtDeath | Triangles                | Black/White Squares             | Cave Swamp Shortcut (Door)         | Puzzle Skip                     | Bonk                 |
-| Alex230-Doom     | Free Saves and Loads     | Allow Leaving Start Location    | Turn Off GZChaos Mod               | Turn Off Entropy Mod            | Dark Sectors         |
-| BroneyLTTP       | Lamp                     | Moon Pearl                      | Hammer                             | Rupees (100)                    |                      |
-| BroneyFactorio   | progressive-science-pack | progressive-science-pack        | progressive-science-pack           | progressive-mining-productivity |                      |
-| BroneySM         | Morph Ball               | Varia Suit                      | Gravity Suit                       | Missile                         |                      |
-| FloriTerra       | Hardmode                 | Post-Skeletron                  | Post-Golem                         |                                 |                      |
-| heshpseudo       | Major Key - Sansa Keep   | Sunsetter                       | Cling Gem                          |                                 |                      |
-| heshmuda         | Music Sheet              | Music Sheet                     | Music Sheet                        |                                 |                      |
-| heshut           | Hotland Key              | Waterfall Key                   | Snowdin Key                        |                                 |                      |
-| sheen_pr         | Sun Greaves              | Cling Gem                       | Progressive Slide                  | Health Piece                    |                      |
-| Kritzmaker       | Whiplash                 | Revolver - Marksman             | Railcannon - Electric              |                                 | Hard Damage          |
-| JudosiiOOT       | Progressive Hookshot     | Bomb Bag                        | Magic Meter                        |                                 | Ice Trap             |
-| ConnorHK         | Vengeful_Spirit          | Mothwing_Cloak                  | Shade_Cloak                        | Geo_Chest-Watcher_Knights       |                      |
-| HPfunmanKH       | Green Trinity            | Hollow Bastion                  | Olympus Coliseum                   |                                 |                      |
-| HPfunmanBS       | Wall Climb Ability       | Blood Perpetuated in Sand       | Dash Ability                       |                                 |                      |
-| Char Past        | Cane of Somaria          | Hookshot                        | Hammer                             | Rupees (300)                    |                      |
-| Char Forgotten   | Cone Mouth               | Stairs Mouth                    | Wise Waddle Dee Appears            | Rare Stone                      |                      |
-| Char Puzzle      | Red                      | Yellow                          | Gray                               | Puzzle Skip                     |                      |
-| MauveMuse        | Music Sheet              | Music Sheet                     | Music Sheet                        |                                 |                      |
-| MauvePenitent    | Purified Hand of the Nun | Wall Climb Ability              | Dash Ability                       |                                 |                      |
-| FKKirby          | Copy Ability - Hammer    | Copy Ability - Starship         | Copy Ability - Meta Knight         |                                 |                      |
-| coolhollowguy    | Mothwing_Cloak           | Desolate_Dive                   | Lumafly_Lantern                    | Geo_Chest-Watcher_Knights       |                      |
-| CoolGuyCompany   | Titan                    | Company Building                | Assurance                          | Money                           |                      |
-| numgasRogueTUNIC | Pages 24-25 (Prayer)     | Pages 42-43 (Holy Cross)        | Hero's Laurels                     | Lure                            |                      |
-| numRogueINSCRYPT | Inspectometer Battery    | Gems Module                     | Film Roll                          | Card Pack                       |                      |
-| superMessEndless | Rope Dart                | Wingsuit                        | Lightfoot Tabi                     | Time Shard (500)                |                      |
-| superTUNCEndless | Magic Orb                | Scavenger Mask                  | Lantern                            | Lure x2                         |                      |
-| superUTEndless   | Waterfall Key            | Mettaton Plush                  | Core Key                           | 1000G                           |                      |
-| GodlFireALTTP    | Progressive Glove        | Hammer                          | Moon Pearl                         | Rupees (300)                    |                      |
-| jf-time          | Timespinner Gear 2       | Timespinner Gear 1              | Timespinner Gear 3                 | Hi-Potion                       |                      |
-| jf-muse          | Music Sheet              | Music Sheet                     | Music Sheet                        |                                 | Gray Scale Trap      |
-| WidowRain61      | The Planetarium          | "Hidden Realm: A Moment, Whole" | Commencement                       | Common Item                     | Lunar Item           |
-| Lojtana          | Red Trinity              | End of the World                | Hollow Bastion                     |                                 |                      |
-| Grim-aHiT        | Umbrella                 | Hookshot Badge                  | Dweller Mask                       | 100 Pons                        | Baby Trap            |
-| Grim-Muse        | Music Sheet              | Music Sheet                     | Music Sheet                        |                                 | Bad Apple Trap       |
-| Grim-SA2         | Yellow Chaos Emerald     | Knuckles - Shovel Claws         | Tails - Booster                    | Ten Rings                       | Slow Trap            |
-| Iridium          | Morph Ball               | Gravity Suit                    | Varia Suit                         | Missile                         |                      |
-| StormHK          | Focus                    | Dream_Nail                      | Monarch_Wings                      | Geo_Chest-Watcher_Knights       |                      |
-| StormTW          | Black/White Squares      | Shapers                         | Triangles                          | Speed_Boost                     |                      |
-| StormC64         | Climb                    | Ground Dash                     | Air Dash                           |                                 |                      |
+| slot             | shop prog 1              | shop prog 2                     | vault prog                         | filler                          | trap            |
+| ---------------- | ------------------------ | ------------------------------- | ---------------------------------- | ------------------------------- | --------------- |
+| again.mp3        | Desolate_Dive            | Lumafly_Lantern                 | Mothwing_Cloak                     | Geo_Chest-Soul_Master           |                 |
+| again.mp3        | Tent                     | Boards                          | Rope                               | Eye Mask                        | Summer Trap     |
+| tunic.mp3        | Hero's Laurels           | Magic Orb                       | Pages 24-25 (Prayer)               | HP Berry x3                     | Fool Trap       |
+| Deathclaw99TS    | Water Mask               | Lightwall                       | Elevator Keycard                   |                                 |                 |
+| Deathclaw99SM64  | Second Floor Key         | Long Jump                       | Basement Key                       |                                 |                 |
+| Deathclaw99OOT   | Megaton Hammer           | Hover Boots                     | Progressive Hookshot               | Rupees (200)                    |                 |
+| SylskoTunic      | Pages 24-25 (Prayer)     | Hero's Laurels                  | Magic Orb                          | Money x100                      | Fool Trap       |
+| SynRogue         | Celestial Sash           | Water Mask                      | Security Keycard B                 |                                 |                 |
+| SynRegret        | Progressive Dots         | Shapers                         | Black/White Squares                | Speed Boost                     |                 |
+| Soleyeer         | Hookshot Badge           | Dweller Mask                    | Ice Hat                            |                                 | Laser Trap      |
+| ThatFirey        | Stamina Bar              | Wall Jump                       | Whiplash                           |                                 | Hard Damage     |
+| CaesiusHIT       | Hookshot Badge           | Umbrella                        | Zipline Unlock - The Windmill Path | 100 Pons                        | Baby Trap       |
+| CaesiusSM64      | Side Flip                | Wall Kick                       | Progressive Key                    | 1Up Mushroom                    |                 |
+| mars.            | Desolate_Dive            | Focus                           | Monarch_Wings                      |                                 |                 |
+| mars three.      | Celestial Sash           | Water Mask                      | Security Keycard B                 |                                 |                 |
+| TripleSDV        | Progressive Season       | Progressive Season              | Progressive Season                 | Iridium Sprinkler               |                 |
+| DragoSpinsDeath  | Water Mask               | Security Keycard D              | Celestial Sash                     | Spaghetti                       | Bee Trap        |
+| HatKillsDrago    | Ice Hat                  | Yarn                            | Hookshot Badge                     | 100 Pons                        | Baby Trap       |
+| DragoLookAtDeath | Triangles                | Black/White Squares             | Cave Swamp Shortcut (Door)         | Puzzle Skip                     | Bonk            |
+| Alex230-Doom     | Free Saves and Loads     | Allow Leaving Start Location    | Turn Off GZChaos Mod               | Turn Off Entropy Mod            | Dark Sectors    |
+| BroneyLTTP       | Lamp                     | Moon Pearl                      | Hammer                             | Rupees (100)                    |                 |
+| BroneyFactorio   | progressive-science-pack | progressive-science-pack        | progressive-science-pack           | progressive-mining-productivity |                 |
+| BroneySM         | Morph Ball               | Varia Suit                      | Gravity Suit                       | Missile                         |                 |
+| FloriTerra       | Hardmode                 | Post-Skeletron                  | Post-Golem                         |                                 |                 |
+| heshpseudo       | Major Key - Sansa Keep   | Sunsetter                       | Cling Gem                          |                                 |                 |
+| heshmuda         | Music Sheet              | Music Sheet                     | Music Sheet                        |                                 |                 |
+| heshut           | Hotland Key              | Waterfall Key                   | Snowdin Key                        |                                 |                 |
+| sheen_pr         | Sun Greaves              | Cling Gem                       | Progressive Slide                  | Health Piece                    |                 |
+| Kritzmaker       | Whiplash                 | Revolver - Marksman             | Railcannon - Electric              |                                 | Hard Damage     |
+| JudosiiOOT       | Progressive Hookshot     | Bomb Bag                        | Magic Meter                        |                                 | Ice Trap        |
+| ConnorHK         | Vengeful_Spirit          | Mothwing_Cloak                  | Shade_Cloak                        | Geo_Chest-Watcher_Knights       |                 |
+| HPfunmanKH       | Green Trinity            | Hollow Bastion                  | Olympus Coliseum                   |                                 |                 |
+| HPfunmanBS       | Wall Climb Ability       | Blood Perpetuated in Sand       | Dash Ability                       |                                 |                 |
+| Char Past        | Cane of Somaria          | Hookshot                        | Hammer                             | Rupees (300)                    |                 |
+| Char Forgotten   | Cone Mouth               | Stairs Mouth                    | Wise Waddle Dee Appears            | Rare Stone                      |                 |
+| Char Puzzle      | Red                      | Yellow                          | Gray                               | Puzzle Skip                     |                 |
+| MauveMuse        | Music Sheet              | Music Sheet                     | Music Sheet                        |                                 |                 |
+| MauvePenitent    | Purified Hand of the Nun | Wall Climb Ability              | Dash Ability                       |                                 |                 |
+| FKKirby          | Copy Ability - Hammer    | Copy Ability - Starship         | Copy Ability - Meta Knight         |                                 |                 |
+| coolhollowguy    | Mothwing_Cloak           | Desolate_Dive                   | Lumafly_Lantern                    | Geo_Chest-Watcher_Knights       |                 |
+| CoolGuyCompany   | Titan                    | Company Building                | Assurance                          | Money                           |                 |
+| numgasRogueTUNIC | Pages 24-25 (Prayer)     | Pages 42-43 (Holy Cross)        | Hero's Laurels                     | Lure                            |                 |
+| numRogueINSCRYPT | Inspectometer Battery    | Gems Module                     | Film Roll                          | Card Pack                       |                 |
+| superMessEndless | Rope Dart                | Wingsuit                        | Lightfoot Tabi                     | Time Shard (500)                |                 |
+| superTUNCEndless | Magic Orb                | Scavenger Mask                  | Lantern                            | Lure x2                         |                 |
+| superUTEndless   | Waterfall Key            | Mettaton Plush                  | Core Key                           | 1000G                           |                 |
+| GodlFireALTTP    | Progressive Glove        | Hammer                          | Moon Pearl                         | Rupees (300)                    |                 |
+| jf-time          | Timespinner Gear 2       | Timespinner Gear 1              | Timespinner Gear 3                 | Hi-Potion                       |                 |
+| jf-muse          | Music Sheet              | Music Sheet                     | Music Sheet                        |                                 | Gray Scale Trap |
+| WidowRain61      | The Planetarium          | "Hidden Realm: A Moment, Whole" | Commencement                       | Common Item                     | Lunar Item      |
+| Lojtana          | Red Trinity              | End of the World                | Hollow Bastion                     |                                 |                 |
+| Grim-aHiT        | Umbrella                 | Hookshot Badge                  | Dweller Mask                       | 100 Pons                        | Baby Trap       |
+| Grim-Muse        | Music Sheet              | Music Sheet                     | Music Sheet                        |                                 | Bad Apple Trap  |
+| Grim-SA2         | Yellow Chaos Emerald     | Knuckles - Shovel Claws         | Tails - Booster                    | Ten Rings                       | Slow Trap       |
+| Iridium          | Morph Ball               | Gravity Suit                    | Varia Suit                         | Missile                         |                 |
+| StormHK          | Focus                    | Dream_Nail                      | Monarch_Wings                      | Geo_Chest-Watcher_Knights       |                 |
+| StormTW          | Black/White Squares      | Shapers                         | Triangles                          | Speed_Boost                     |                 |
+| StormC64         | Climb                    | Ground Dash                     | Air Dash                           |                                 |                 |
 
 
 | slot             | vault useful 1               | vault useful 2           | vault useful 3                    | shop useful 1                 | shop useful 2                         |
 | ---------------- | ---------------------------- | ------------------------ | --------------------------------- | ----------------------------- | ------------------------------------- |
 | again.mp3        | Quick_Slash                  | Hiveblood                | Steady_Body                       | Heavy_Blow                    | Shaman_Stone                          |
 | again.mp3        | Extra Damage Against Bosses  | Krampus Sack             | Spring Season Change              | Winter Season Change          | Autumn Season Change                  |
-| automate.mp3     | belt-immunity-equipment      | lubricant                | battery                           | uranium-ammo                  | concrete                              |
-| automate.mp3     | Recipe: Power Shard (5)      | Recipe: Copper Sheet     | Building: Geothermal Generator    | Inflated Pocket Dimension     | Recipe: Rubber                        |
+| tunic.mp3        | Hero Relic - DEF             | Sword Upgrade            | Gun                               | Magic Wand                    | Sword Upgrade                         |
 | Deathclaw99TS    | Eternal Coat                 | Radiant Orb              | Eternal Crown                     | Shattered Orb                 | Bombardment                           |
 | Deathclaw99SM64  | Metal Cap                    | Power Star               | Power Star                        | Power Star                    | Power Star                            |
 | Deathclaw99OOT   | Progressive Wallet           | Zora Tunic               | Hylian Shield                     | Goron Tunic                   | Deku Shield                           |
@@ -190,7 +189,7 @@ finished players (0):
 
 
     Char Puzzle | Blue
-    automate.mp3 | progressive-science-pack / Building: Geothermal Generator
+    tunic.mp3 | Pages 24-25 (Prayer)
     numRogueINSCRYPT | Dock's Clover Plant
     superTUNCEndless | Shield
     rhythm.ChampaU6 | vault useful 2
@@ -255,7 +254,6 @@ finished players (0):
     Soleyeer | Time Stop Hat
     Soleyeer | Fast Hatter Badge
     Deathclaw99SM64 | Power Star
- ~ all above this has been obtained ~ vault keys: 66 ~
     TripleSDV | Return Scepter
     FKKirby | Copy Ability - Meta Knight
     DragoLookAtDeath | Quarry Entry 1 (Panel)
@@ -268,6 +266,7 @@ finished players (0):
     Deathclaw99OOT | Hylian Shield
     Deathclaw99OOT | Zora Tunic
     ConnorHK | Dirtmouth_Stag
+ ~ all above this has been obtained ~ vault keys: 78 ~
     superTUNCEndless | Lantern
     superMessEndless | Second Wind
     superTUNCEndless | Magic Dagger
@@ -381,7 +380,7 @@ finished players (0):
     TripleSDV | Progressive Season
     numgasRogueTUNIC | Hero's Laurels
     HPfunmanBS | Reliquary of the Fervent Heart
-    automate.mp3 | belt-immunity-equipment / Recipe: Power Shard (5)
+    tunic.mp3 | Hero Relic - DEF
     Alex230-Doom | Allow Using Blue Key
     GodlFireALTTP | Pegasus Boots
     Char Forgotten | Progressive Hammer Ability
@@ -404,7 +403,7 @@ finished players (0):
     rhythm.LiquiirU8 | vault useful 2
     GodlFireALTTP | Progressive Shield
     heshpseudo | Solar Wind
-    automate.mp3 | lubricant / Building: MAM
+    tunic.mp3 | Sword Upgrade
     rhythm.BeerusU7 | vault useful 3
     superUTEndless | Core Key
     FKKirby | Copy Ability - Cook
@@ -418,7 +417,7 @@ finished players (0):
     JudosiiOOT | Song of Time
     HPfunmanKH | Second Chance
     mars. | Fragile_Strength
-    automate.mp3 | battery / Recipe: Copper Sheet
+    tunic.mp3 | Gun
     mars three. | Talaria Attachment
     StormHK | Fragile_Strength
     Deathclaw99SM64 | Power Star
@@ -439,7 +438,7 @@ finished players (0):
 
 again.mp3's Desolate_Dive / Tent
 again.mp3's Lumafly_Lantern / Boards
-automate.mp3's progressive-science-pack / Building: AWESOME Shop
+automate.mp3's progressive-science-pack / Building: AWESOME Shop (Hero's Laurels)
 Deathclaw99OOT's Megaton Hammer
 SylskoTunic's Hero's Laurels
 SynRogue's Celestial Sash
@@ -448,9 +447,7 @@ SynRegret's Progressive Dots
 Soleyeer's Dweller Mask
 ThatFirey's Wall Jump
 CaesiusHIT's Hookshot Badge
-CaesiusHIT's Umbrella
 CaesiusSM64's Side Flip
-mars.'s Desolate_Dive
 mars three.'s Celestial Sash
 mars three.'s Water Mask
 TripleSDV's Progressive Season (2)
@@ -463,13 +460,11 @@ Kritzmaker's Whiplash
 ConnorHK's Mothwing_Cloak
 HPfunmanBS's Wall Climb Ability
 HPfunmanBS's Blood Perpetuated in Sand
-Char Forgotten's Stairs Mouth
 Char Dream Bros's Hammers (Red)
 MauveMuse's Music Sheet (2)
 MauvePenitent's Wall Climb Ability
 FKKirby's Copy Ability - Hammer
 CoolGuyCompany's Titan
-numgasRogueTUNIC's Pages 42-43 (Holy Cross)
 superTUNCEndless's Magic Orb
 superTUNCEndless's Scavenger Mask
 rhythm.ChampaU6's shop prog 2
@@ -485,12 +480,11 @@ Iridium's Gravity Suit
 ### useful
 
 again.mp3's Heavy_Blow / Autumn Season Change
-automate.mp3's concrete / Recipe: Rubber
+automate.mp3's concrete / Recipe: Rubber (Sword Upgrade)
 Deathclaw99OOT's Goron Tunic
 SylskoTunic's Magic Dagger
 SynRegret's Puzzle Skip (2)
 ThatFirey's Knuckleblaster
-CaesiusHIT's Item Magnet Badge
 CaesiusSM64's Cannon Unlock JRB
 mars.'s Soul_Eater
 mars.'s Quick_Slash
@@ -510,7 +504,6 @@ heshmuda's Random Song
 heshmuda's Random Song (2)
 heshut's Core Key
 heshut's Ruins Key
-sheen_pr's Health Piece (2)
 Kritzmaker's Nailgun - Attractor
 JudosiiOOT's Nayrus Love
 HPfunmanBS's Tiento to your Thorned Hairs
@@ -523,7 +516,6 @@ FKKirby's Copy Ability - Paint
 coolhollowguy's Hiveblood
 coolhollowguy's Great_Slash
 CoolGuyCompany's Extension ladder
-CoolGuyCompany's Jetpack
 numRogueINSCRYPT's Ourobot Card
 rhythm.BeerusU7's shop useful 1
 rhythm.LiquiirU8's shop useful 2
@@ -535,7 +527,6 @@ WidowRain61's Legendary Item
 Grim-Muse's Random Song (2)
 Grim-SA2's Rouge - Treasure Scope
 StormHK's Isma's_Tear
-StormHK's Shaman_Stone
 StormTW's Puzzle Skip
 StormTW's Puzzle Skip (2)
 
@@ -543,15 +534,17 @@ StormTW's Puzzle Skip (2)
 
 ### progressive
 
-automate.mp3's progressive-science-pack / Building: Refinery
+automate.mp3's progressive-science-pack / Building: Refinery (Magic Orb)
 Deathclaw99OOT's Hover Boots
 SylskoTunic's Pages 24-25 (Prayer)
 SylskoTunic's Hero's Laurels
 SynRegret's Shapers
 Soleyeer's Hookshot Badge
 ThatFirey's Stamina Bar
+CaesiusHIT's Umbrella
 CaesiusSM64's Wall Kick
 mars.'s Focus
+mars.'s Desolate_Dive
 TripleSDV's Progressive Season
 DragoSpinsDeath's Water Mask
 DragoSpinsDeath's Security Keycard D
@@ -577,6 +570,7 @@ HPfunmanKH's Hollow Bastion
 Char Past's Cane of Somaria
 Char Past's Hookshot
 Char Forgotten's Cone Mouth
+Char Forgotten's Stairs Mouth
 Char Dream Bros's Mini Mario (Yellow)
 MauveMuse's Music Sheet
 MauvePenitent's Purified Hand of the Nun
@@ -585,6 +579,7 @@ coolhollowguy's Mothwing_Cloak
 coolhollowguy's Desolate_Dive
 CoolGuyCompany's Company Building
 numgasRogueTUNIC's Pages 24-25 (Prayer)
+numgasRogueTUNIC's Pages 42-43 (Holy Cross)
 numRogueINSCRYPT's Inspectometer Battery
 numRogueINSCRYPT's Gems Module
 superUTEndless's Waterfall Key
@@ -612,7 +607,7 @@ StormC64's Ground Dash
 ### useful
 
 again.mp3's Shaman_Stone / Winter Season Change
-automate.mp3's uranium-ammo / Inflated Pocket Dimension
+automate.mp3's uranium-ammo / Inflated Pocket Dimension (Magic Wand)
 Deathclaw99OOT's Deku Shield
 SylskoTunic's Anklet
 SynRogue's Eternal Crown
@@ -622,6 +617,7 @@ Soleyeer's Projectile Badge
 Soleyeer's Sprint Hat
 ThatFirey's Rocket Launcher - Freezeframe
 CaesiusHIT's Hover Badge
+CaesiusHIT's Item Magnet Badge
 CaesiusSM64's Kick
 mars three.'s Selen's Bangle
 TripleSDV's Progressive Fishing Rod
@@ -630,6 +626,7 @@ HatKillsDrago's Time Stop Hat
 BroneySM's Bomb
 BroneySM's Wave Beam
 sheen_pr's Health Piece
+sheen_pr's Health Piece (2)
 Kritzmaker's Nailgun - JumpStart
 JudosiiOOT's Suns Song
 ConnorHK's Fragile_Strength
@@ -643,6 +640,7 @@ Char Forgotten's Progressive Sword Ability
 Char Forgotten's Progressive Fire Ability
 MauveMuse's Random Song
 FKKirby's Copy Ability - Crash
+CoolGuyCompany's Jetpack
 numgasRogueTUNIC's Sword Upgrade
 numgasRogueTUNIC's Sword Upgrade (2)
 numRogueINSCRYPT's Bee Figurine
@@ -663,6 +661,7 @@ Grim-Muse's Random Song
 Grim-SA2's Knuckles - Sunglasses
 Iridium's Grappling Beam
 Iridium's Energy Tank
+StormHK's Shaman_Stone
 StormC64's Cassettes
 StormC64's Feathers
 
