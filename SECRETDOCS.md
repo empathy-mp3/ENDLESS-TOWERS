@@ -522,8 +522,6 @@ rhythm.LiquiirU8's shop useful 2
 GodlFireALTTP's Magic Powder
 jf-time's Library Keycard V
 jf-muse's Paradise 2
-WidowRain61's Boss Item
-WidowRain61's Legendary Item
 Grim-Muse's Random Song (2)
 Grim-SA2's Rouge - Treasure Scope
 StormHK's Isma's_Tear
@@ -543,8 +541,8 @@ Soleyeer's Hookshot Badge
 ThatFirey's Stamina Bar
 CaesiusHIT's Umbrella
 CaesiusSM64's Wall Kick
-mars.'s Focus
 mars.'s Desolate_Dive
+mars.'s Focus
 TripleSDV's Progressive Season
 DragoSpinsDeath's Water Mask
 DragoSpinsDeath's Security Keycard D
@@ -590,8 +588,6 @@ rhythm.BeerusU7's shop prog 2
 rhythm.LiquiirU8's shop prog 1
 GodlFireALTTP's Progressive Glove
 jf-muse's Music Sheet
-WidowRain61's Hidden Realm: A Moment, Whole
-WidowRain61's The Planetarium
 Grim-aHiT's Umbrella
 Grim-aHiT's Hookshot Badge
 Grim-Muse's Music Sheet
@@ -691,3 +687,7 @@ superMessEndless's Rope Dart
 superMessEndless's Wingsuit
 superMessEndless's Path of Resilience
 superMessEndless's Meditation
+WidowRain61's Hidden Realm: A Moment, Whole
+WidowRain61's The Planetarium
+WidowRain61's Boss Item
+WidowRain61's Legendary Item
