@@ -1,11 +1,641 @@
-name: CaesiusHiT
+name: CaesiusHatPast
+description: lttp/ahit for ENDLESS TOWERS Rogue-Lite async
+game:
+  A Hat in Time: 50
+  A Link to the Past: 60
 
-# Used to describe your yaml. Useful if you have multiple files.
-description: Hat in Time
+A Link to the Past:
+  # Game Options
+  progression_balancing:
+    random: 0
+    random-low: 0
+    random-high: 0
+    disabled: 0 # equivalent to 0
+    normal: 50 # equivalent to 50
+    extreme: 0 # equivalent to 99
 
-game: A Hat in Time
-requires:
-  version: 0.5.0 # Version of Archipelago required for this yaml to work as expected.
+  accessibility:
+    locations: 0
+    items: 50
+    minimal: 0
+
+  goal:
+    # Ganon: Climb GT, defeat Agahnim 2, and then kill Ganon
+    # Crystals: Only killing Ganon is required. However, items may still be placed in GT
+    # Bosses: Defeat the boss of all dungeons, including Agahnim's tower and GT (Aga 2)
+    # Pedestal: Pull the Triforce from the Master Sword pedestal
+    # Ganon Pedestal: Pull the Master Sword pedestal, then kill Ganon
+    # Triforce Hunt: Collect Triforce pieces spread throughout the worlds, then turn them in to Murahadala in front of Hyrule Castle
+    # Local Triforce Hunt: Collect Triforce pieces spread throughout your world, then turn them in to Murahadala in front of Hyrule Castle
+    # Ganon Triforce Hunt: Collect Triforce pieces spread throughout the worlds, then kill Ganon
+    # Local Ganon Triforce Hunt: Collect Triforce pieces spread throughout your world, then kill Ganon
+    ganon: 20
+    crystals: 20
+    bosses: 20
+    pedestal: 20
+    triforce_hunt: 20
+
+  mode:
+    # Standard: Begin the game by rescuing Zelda from her cell and escorting her to the Sanctuary
+    # Open: Begin the game from your choice of Link's House or the Sanctuary
+    # Inverted: Begin in the Dark World. The Moon Pearl is required to avoid bunny-state in Light World, and the Light World game map is altered
+    standard: 20
+    open: 50
+    inverted: 50
+
+  glitches_required:
+    # Determine the logic required to complete the seed
+    # None: No glitches required
+    # Minor Glitches: Puts fake flipper, waterwalk, super bunny shenanigans, and etc into logic
+    # Overworld Glitches: Assumes the player has knowledge of both overworld major glitches (boots clips, mirror clips) and minor glitches
+    # Hybrid Major Glitches: In addition to overworld glitches, also requires underworld clips between dungeons.
+    # No Logic: Your own items are placed with no regard to any logic; such as your Fire Rod can be on your Trinexx.
+    no_glitches: 50
+    minor_glitches: 0
+    overworld_glitches: 0
+    hybrid_major_glitches: 0
+    no_logic: 0
+
+  dark_room_logic:
+    # Logic for unlit dark rooms. Lamp: require the Lamp for these rooms to be considered accessible.
+    # Torches: in addition to lamp, allow the fire rod and presence of easily accessible torches for access.
+    # None: all dark rooms are always considered doable, meaning this may force completion of rooms in complete darkness.
+    lamp: 50
+    torches: 50
+    none: 0
+
+  open_pyramid:
+    # Determines whether the hole at the top of pyramid is open.
+    # Goal will open the pyramid if the goal requires you to kill Ganon, without needing to kill Agahnim 2.
+    # Auto is the same as goal except if Ganon's dropdown is in another location, the hole will be closed.
+    closed: 0
+    open: 0
+    goal: 0
+    auto: 50
+
+  crystals_needed_for_gt:
+    # Number of crystals needed to open Ganon's Tower
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 7
+    7: 0
+    random: 50
+    random-low: 0
+    random-high: 0
+
+  crystals_needed_for_ganon:
+    # Number of crystals needed to damage Ganon
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 7
+    7: 0
+    random: 50
+    random-low: 0
+    random-high: 0
+
+  triforce_pieces_mode:
+    # Determine how to calculate the extra available triforce pieces.
+    # Extra: available = triforce_pieces_extra + triforce_pieces_required
+    # Percentage: available = (triforce_pieces_percentage /100) * triforce_pieces_required
+    # Available: available = triforce_pieces_available
+    extra: 50
+    percentage: 50
+    available: 50
+
+  triforce_pieces_percentage:
+    # Set to how many triforce pieces according to a percentage of the required ones, are available to collect in the world.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 100
+    # Maximum value is 1000
+    random-range-150-250: 50
+
+  triforce_pieces_required:
+    # Set to how many out of X triforce pieces you need to win the game in a triforce hunt.
+    # Default is 20. Max is 90, Min is 1.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 90
+    random-range-15-25: 50
+
+  triforce_pieces_available:
+    # Set to how many triforces pieces are available to collect in the world. Default is 30. Max is 90, Min is 1
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 90
+    random-range-25-35: 50
+
+  triforce_pieces_extra:
+    # Set to how many extra triforces pieces are available to collect in the world.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 89
+    random-range-15-25: 50
+
+  entrance_shuffle:
+    # Dungeons Simple: Shuffle just dungeons amongst each other, swapping dungeons entirely, so Hyrule Castle is always 1 dungeon.
+    # Dungeons Full: Shuffle any dungeon entrance with any dungeon interior, so Hyrule Castle can be 4 different dungeons, but keep dungeons to a specific world.
+    # Dungeons Crossed: like dungeons_full, but allow cross-world traversal through a dungeon. Warning: May force repeated dungeon traversal.
+    # Simple: Entrances are grouped together before being randomized. Interiors with two entrances are grouped shuffled together with each other,
+    # and Death Mountain entrances are shuffled only on Death Mountain. Dungeons are swapped entirely.
+    # Restricted: Like Simple, but single entrance interiors, multi entrance interiors, and Death Mountain interior entrances are all shuffled with each other.
+    # Full: Like Restricted, but all Dungeon entrances are shuffled with all non-Dungeon entrances.
+    # Crossed: Like Full, but interiors with multiple entrances are no longer confined to the same world, which may allow crossing worlds.
+    # Insanity: Like Crossed, but entrances and exits may be decoupled from each other, so that leaving through an exit may not return you to the entrance you entered from.
+    vanilla: 10
+    dungeons_simple: 0
+    dungeons_full: 0
+    dungeons_crossed: 0
+    simple: 50
+    restricted: 0
+    full: 50
+    crossed: 50
+    insanity: 0
+
+  entrance_shuffle_seed:
+    # You can specify a number to use as an entrance shuffle seed, or a group name. Everyone with the same group name
+    # will get the same entrance shuffle result as long as their Entrance Shuffle, Mode, Retro Caves, and Glitches
+    # Required options are the same.
+    random: 50
+
+  big_key_shuffle:
+    # Big Key Placement
+    original_dungeon: 50
+
+  small_key_shuffle:
+    # Small Key Placement
+    original_dungeon: 50
+
+  key_drop_shuffle:
+    # Shuffle keys found in pots and dropped from killed enemies,
+    # respects the small key and big key shuffle options.
+    'false': 0
+    'true': 50
+
+  compass_shuffle:
+    # Compass Placement
+    start_with: 50
+
+  map_shuffle:
+    # Map Placement
+    start_with: 50
+
+  restrict_dungeon_item_on_boss:
+    # Don't place dungeon-native items on the dungeon's boss.
+    'false': 50
+    'true': 0
+
+  item_pool:
+    # Easy: Doubled upgrades, progressives, and etc. Normal:  Item availability remains unchanged from vanilla game.
+    # Hard: Reduced upgrade availability (max: 14 hearts, blue mail, tempered sword, fire shield, no silvers unless swordless).
+    # Expert: Minimum upgrade availability (max: 8 hearts, green mail, master sword, fighter shield, no silvers unless swordless).
+    easy: 30
+    normal: 50
+    hard: 20
+    expert: 10
+
+  item_functionality:
+    # Easy: Allow Hammer to damage ganon, Allow Hammer tablet collection, Allow swordless medallion use everywhere.
+    # Normal: Vanilla item functionality
+    # Hard: Reduced helpfulness of items (potions less effective, can't catch faeries, cape uses double magic, byrna does not grant invulnerability, boomerangs do not stun, silvers disabled outside ganon)
+    # Expert: Vastly reduces the helpfulness of items (potions barely effective, can't catch faeries, cape uses double magic, byrna does not grant invulnerability, boomerangs and hookshot do not stun, silvers disabled outside ganon)
+    easy: 30
+    normal: 50
+    hard: 20
+    expert: 10
+
+  enemy_health:
+    # Default: Vanilla enemy HP. Easy: Enemies have reduced health. Hard: Enemies have increased health.
+    # Expert: Enemies have greatly increased health.
+    easy: 30
+    default: 50
+    hard: 20
+    expert: 10
+
+  enemy_damage:
+    # Default: Vanilla enemy damage. Shuffled: 0 # Enemies deal 0 to 4 hearts and armor helps.
+    # Chaos: Enemies deal 0 to 8 hearts and armor just reshuffles the damage.
+    default: 50
+    shuffled: 50
+    chaos: 20
+
+  progressive:
+    # How item types that have multiple tiers (armor, bows, gloves, shields, and swords) should be rewarded
+    'off': 0
+    grouped_random: 0
+    'on': 50
+
+  swordless:
+    # No swords. Curtains in Skull Woods and Agahnim's
+    # Tower are removed, Agahnim's Tower barrier can be
+    # destroyed with hammer. Misery Mire and Turtle Rock
+    # can be opened without a sword. Hammer damages Ganon.
+    # Ether and Bombos Tablet can be activated with Hammer
+    # (and Book).
+    'false': 50
+    'true': 50
+
+  dungeon_counters:
+    # On: Always display amount of items checked in a dungeon. Pickup: Show when compass is picked up.
+    # Default: Show when compass is picked up if the compass itself is shuffled. Off: Never show item count in dungeons.
+    'on': 0
+    pickup: 50
+    default: 0
+    'off': 0
+
+  retro_bow:
+    # Zelda-1 like mode. You have to purchase a quiver to shoot arrows using rupees.
+    'false': 50
+    'true': 50
+
+  retro_caves:
+    # Zelda-1 like mode. There are randomly placed take-any caves that contain one Sword and
+    # choices of Heart Container/Blue Potion.
+    'false': 50
+    'true': 50
+
+  hints:
+    # On/Full: Put item and entrance placement hints on telepathic tiles and some NPCs, Full removes joke hints.
+    'off': 0
+    'on': 50
+    full: 0
+
+  scams:
+    # If on, these Merchants will no longer tell you what they're selling.
+    'off': 50
+    king_zora: 0
+    bottle_merchant: 0
+    all: 0
+
+  boss_shuffle:
+    # Shuffles bosses around to different locations.
+    # Basic will shuffle all bosses except Ganon and Agahnim anywhere they can be placed.
+    # Full chooses 3 bosses at random to be placed twice instead of Lanmolas, Moldorm, and Helmasaur.
+    # Chaos allows any boss to appear any number of times.
+    # Singularity places a single boss in as many places as possible, and a second boss in any remaining locations.
+    # Supports plando placement.
+    none: 50
+    basic: 50
+    full: 50
+    chaos: 50
+    singularity: 50
+
+  pot_shuffle:
+    # Shuffle contents of pots within "supertiles" (item will still be nearby original placement).
+    'false': 50
+    'true': 0
+
+  enemy_shuffle:
+    # Randomize every enemy spawn.
+    # If mode is Standard, Hyrule Castle is left out (may result in visually wrong enemy sprites in that area.)
+    'false': 20
+    'true': 80
+
+  killable_thieves:
+    # Makes Thieves killable.
+    'false': 50
+    'true': 50
+
+  bush_shuffle:
+    # Randomize chance that a bush contains an enemy as well as which enemy may spawn.
+    'false': 50
+    'true': 50
+
+  shop_item_slots:
+    # Number of slots in all shops available to have items from the multiworld
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 30
+    0: 0
+    random: 50
+    random-low: 0
+    random-high: 0
+
+  randomize_shop_inventories:
+    # Generate new default inventories for overworld/underworld shops, and unique shops; or each shop independently
+    default: 50
+    randomize_by_shop_type: 50
+    randomize_each: 50
+
+  shuffle_shop_inventories:
+    # Shuffle default inventories of the shops around
+    'false': 50
+    'true': 50
+
+  include_witch_hut:
+    # Consider witch's hut like any other shop and shuffle/randomize it too
+    'false': 50
+    'true': 50
+
+  randomize_shop_prices:
+    # Randomize the prices of the items in shop inventories
+    'false': 50
+    'true': 50
+
+  randomize_cost_types:
+    # Prices of the items in shop inventories may cost hearts, arrow, or bombs instead of rupees
+    'false': 50
+    'true': 50
+
+  shop_price_modifier:
+    # Percentage modifier for shuffled item prices in shops
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 400
+    100: 0
+    random: 50
+    random-low: 0
+    random-high: 0
+
+  shuffle_capacity_upgrades:
+    # Shuffle capacity upgrades into the item pool (and allow them to traverse the multiworld).
+    # On Combined will shuffle only a single bomb upgrade and arrow upgrade each which bring you to the maximum capacity.
+    'off': 0
+    'on': 50
+    on_combined: 50
+
+  bombless_start:
+    # Start with a max of 0 bombs available, requiring Bomb Upgrade items in order to use bombs
+    'false': 50
+    'true': 0
+
+  shuffle_prizes:
+    # Shuffle "general" prize packs, as in enemy, tree pull, dig etc.; "bonk" prizes; or both.
+    'off': 0
+    general: 50
+    bonk: 0
+    both: 50
+
+  tile_shuffle:
+    # Randomize flying tiles floor patterns.
+    'false': 50
+    'true': 50
+
+  misery_mire_medallion:
+    # Required medallion to open Misery Mire front entrance.
+    ether: 0
+    bombos: 0
+    quake: 0
+    random: 50
+
+  turtle_rock_medallion:
+    # Required medallion to open Turtle Rock front entrance.
+    ether: 0
+    bombos: 0
+    quake: 0
+    random: 50
+
+  glitch_boots:
+    # If this is enabled, the player will start with Pegasus Boots when playing with overworld glitches or harder logic.
+    'false': 0
+    'true': 50
+
+  beemizer_total_chance:
+    # Percentage chance for each junk-fill item (rupees, bombs, arrows) to be
+    # replaced with either a bee swarm trap or a single bottle-filling bee.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 100
+    0: 50
+    random: 0
+    random-low: 50
+    random-high: 0
+
+  beemizer_trap_chance:
+    # Percentage chance for each replaced junk-fill item to be a bee swarm
+    # trap; all other replaced items are single bottle-filling bees.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 100
+    0: 0
+    random: 50
+    random-low: 0
+    random-high: 0
+
+  timer:
+    # None: No timer will be displayed. OHKO: Timer always at zero. Permanent OHKO.
+    # Timed: Starts with clock at zero. Green clocks subtract 4 minutes (total 20). Blue clocks subtract 2 minutes (total 10). Red clocks add two minutes (total 10). Winner is the player with the lowest time at the end.
+    # Timed OHKO: Starts the clock at ten minutes. Green clocks add five minutes (total 25). As long as the clock as at zero, Link will die in one hit.
+    # Timed Countdown: Starts the clock with forty minutes. Same clocks as timed mode, but if the clock hits zero you lose. You can still keep playing, though.
+    # Display: Displays a timer, but otherwise does not affect gameplay or the item pool.
+    none: 50
+    timed: 0
+    timed_ohko: 30
+    ohko: 0
+    timed_countdown: 0
+    display: 0
+
+  countdown_start_time:
+    # For Timed OHKO and Timed Countdown timer modes, the amount of time in minutes to start with.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 480
+    60: 50
+    120: 50
+    180: 50
+    240: 50
+    300: 50
+
+  red_clock_time:
+    # For all timer modes, the amount of time in minutes to gain or lose when picking up a red clock.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is -60
+    # Maximum value is 60
+    -2: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  blue_clock_time:
+    # For all timer modes, the amount of time in minutes to gain or lose when picking up a blue clock.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is -60
+    # Maximum value is 60
+    2: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  green_clock_time:
+    # For all timer modes, the amount of time in minutes to gain or lose when picking up a green clock.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is -60
+    # Maximum value is 60
+    30: 50
+    60: 50
+    90: 50
+    120: 50
+
+  death_link:
+    # When you die, everyone dies. Of course the reverse is true too.
+    'false': 0
+    'true': 50
+
+  allow_collect:
+    # Allows for !collect / co-op to auto-open chests containing items for other players.
+    'false': 0
+    'true': 50
+
+  ow_palettes:
+    # The type of palette shuffle to use for the overworld
+    default: 50
+    good: 50
+    blackout: 50
+    puke: 50
+    classic: 50
+    grayscale: 50
+    negative: 50
+    dizzy: 50
+    sick: 50
+
+  uw_palettes:
+    # The type of palette shuffle to use for the underworld (caves, dungeons, etc.)
+    default: 50
+    good: 50
+    blackout: 50
+    puke: 50
+    classic: 50
+    grayscale: 50
+    negative: 50
+    dizzy: 50
+    sick: 50
+
+  hud_palettes:
+    # The type of palette shuffle to use for the HUD
+    default: 50
+    good: 50
+    blackout: 50
+    puke: 50
+    classic: 50
+    grayscale: 50
+    negative: 50
+    dizzy: 50
+    sick: 50
+
+  sword_palettes:
+    # The type of palette shuffle to use for the sword
+    default: 50
+    good: 50
+    blackout: 50
+    puke: 50
+    classic: 50
+    grayscale: 50
+    negative: 50
+    dizzy: 50
+    sick: 50
+
+  shield_palettes:
+    # The type of palette shuffle to use for the shield
+    default: 50
+    good: 50
+    blackout: 50
+    puke: 50
+    classic: 50
+    grayscale: 50
+    negative: 50
+    dizzy: 50
+    sick: 50
+
+  heartbeep:
+    # How quickly the heart beep sound effect will play
+    normal: 0
+    double: 0
+    half: 0
+    quarter: 0
+    'off': 50
+
+  heartcolor:
+    # The color of hearts in the HUD
+    red: 50
+    blue: 50
+    green: 50
+    yellow: 50
+
+  quickswap:
+    # Allows you to quickly swap items while playing with L/R
+    'false': 0
+    'true': 50
+
+  menuspeed:
+    # How quickly the menu appears/disappears
+    normal: 50
+    instant: 50
+    double: 50
+    triple: 50
+    quadruple: 50
+    half: 0
+
+  music:
+    # Whether background music will play in game
+    'false': 0
+    'true': 50
+
+  reduceflashing:
+    # Reduces flashing for certain scenes such as the Misery Mire and Ganon's Tower opening cutscenes
+    'false': 0
+    'true': 50
+
+  triforcehud:
+    # When and how the triforce hunt HUD should display
+    normal: 50
+    hide_goal: 0
+    hide_required: 0
+    hide_both: 0
+
+  plando_items:
+    - item:
+        Moon Pearl: 1
+      location: CaesiusHIT's Hookshot Badge
+      world: The Shop
+      force: true
+    - item:
+        Hammer: 1
+      location: CaesiusHIT's Umbrella
+      world: The Shop
+      force: true
+    - item:
+        Magic Mirror: 1
+      location: CaesiusHIT's Item Magnet Badge
+      world: The Shop
+      force: true
+    - item:
+        Hookshot: 1
+      location: CaesiusHIT's Hover Badge
+      world: The Shop
+      force: true
+    - item:
+        Flute: 1
+      location: Locker 52
+      world: The Vault
+      force: true
+    - item:
+        Bug Catching Net: 1
+      location: Locker 165
+      world: The Vault
+      force: true
+    - item:
+        Half Magic: 1
+      location: Locker 135
+      world: The Vault
+      force: true
+    - item:
+        Progressive Glove: 1
+      location: Locker 145
+      world: The Vault
+      force: true
 
 A Hat in Time:
   # Game Options

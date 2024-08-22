@@ -41,7 +41,8 @@ finished players (0):
 | SynRegret        | Progressive Dots         | Shapers                         | Black/White Squares                | Speed Boost                     |                 |
 | Soleyeer         | Hookshot Badge           | Dweller Mask                    | Ice Hat                            |                                 | Laser Trap      |
 | ThatFirey        | Stamina Bar              | Wall Jump                       | Whiplash                           |                                 | Hard Damage     |
-| CaesiusHIT       | Hookshot Badge           | Umbrella                        | Zipline Unlock - The Windmill Path | 100 Pons                        | Baby Trap       |
+| CaesiusHatPast   | Hookshot Badge           | Umbrella                        | Zipline Unlock - The Windmill Path | 100 Pons                        | Baby Trap       |
+| CaesiusHatPast   | Moon Pearl               | Hammer                          | Progressive Glove                  | Rupees(300)                     | Bee Swarm Trap  |
 | CaesiusSM64      | Side Flip                | Wall Kick                       | Progressive Key                    | 1Up Mushroom                    |                 |
 | mars.            | Desolate_Dive            | Focus                           | Monarch_Wings                      |                                 |                 |
 | mars three.      | Celestial Sash           | Water Mask                      | Security Keycard B                 |                                 |                 |
@@ -103,7 +104,8 @@ finished players (0):
 | SynRegret        | Functioning Brain            | Boat                     | Puzzle Skip                       | Puzzle Skip                   | Puzzle Skip                           |
 | Soleyeer         | Brewing Hat                  | Time Stop Hat            | Fast Hatter Badge                 | Projectile Badge              | Sprint Hat                            |
 | ThatFirey        | Revolver - Marksman          | Shotgun - Pump Charge    | Railcannon - Electric             | Rocket Launcher - Freezeframe | Knuckleblaster                        |
-| CaesiusHIT       | Badge Pin                    | Fast Hatter Badge        | Badge Pin                         | Item Magnet Badge             | Hover Badge                           |
+| CaesiusHatPast   | Badge Pin                    | Fast Hatter Badge        | Badge Pin                         | Item Magnet Badge             | Hover Badge                           |
+| CaesiusHatPast   | Flute                        | Half Magic               | Bug Catching Net                  | Magic Mirror                  | Hookshot                              |
 | CaesiusSM64      | Ground Pound                 | Cannon Unlock WF         | Power Star                        | Cannon Unlock JRB             | Kick                                  |
 | mars.            | Fragile_Strength             | Shade_Soul               | Shaman_Stone                      | Soul_Eater                    | Quick_Slash                           |
 | mars three.      | Eternal Crown                | Talaria Attachment       | Eternal Coat                      | Selen's Bangle                | Galaxy Earrings                       |
@@ -239,7 +241,7 @@ finished players (0):
     MauvePenitent | Blood Perpetuated in Sand
     SynRegret | Black/White Squares
     rhythm.ChampaU6 | vault useful 3
-    CaesiusHIT | Badge Pin
+    CaesiusHatPast | Badge Pin / Flute
     Grim-aHiT | Dweller Mask
     GodlFireALTTP | Progressive Sword
     heshpseudo | Cling Gem
@@ -323,7 +325,7 @@ finished players (0):
     CaesiusSM64 | Ground Pound
     coolhollowguy | Cyclone_Slash
     Alex230-Doom | Allow Using Yellow Key
-    CaesiusHIT | Fast Hatter Badge
+    CaesiusHatPast | Fast Hatter Badge / Half Magic
     heshpseudo | Small Key
     Alex230-Doom | Allow Using Red Key
     SylskoTunic | Magic Orb
@@ -333,7 +335,7 @@ finished players (0):
     rhythm.LiquiirU8 | vault useful 1
     heshmuda | Random Song
     rhythm.BeerusU7 | vault prog
-    CaesiusHIT | Zipline Unlock - The Windmill Path
+    CaesiusHatPast | Zipline Unlock - The Windmill Path / Progressive Glove
     Iridium | Power Bomb
     numgasRogueTUNIC | Magic Wand
     BroneyFactorio | progressive-science-pack
@@ -353,7 +355,7 @@ finished players (0):
     Grim-SA2 | Eggman - Protective Armor
     numgasRogueTUNIC | Sword Upgrade
     jf-muse | OBLIVION
-    CaesiusHIT | Badge Pin
+    CaesiusHatPast | Badge Pin / Bug Catching Net
     WidowRain61 | Boss Item
     Alex230-Doom | Turn Off GZChaos Mod
     heshut | Complete Skeleton
@@ -444,10 +446,8 @@ SylskoTunic's Hero's Laurels
 SynRogue's Celestial Sash
 SynRogue's Water Mask
 SynRegret's Progressive Dots
-Soleyeer's Dweller Mask
 ThatFirey's Wall Jump
-CaesiusHIT's Hookshot Badge
-CaesiusSM64's Side Flip
+CaesiusHatPast's Hookshot Badge / Moon Pearl
 mars three.'s Celestial Sash
 mars three.'s Water Mask
 TripleSDV's Progressive Season (2)
@@ -457,7 +457,6 @@ BroneyFactorio's progressive-science-pack (2)
 heshpseudo's Major Key - Sansa Keep
 heshmuda's Music Sheet (2)
 Kritzmaker's Whiplash
-ConnorHK's Mothwing_Cloak
 HPfunmanBS's Wall Climb Ability
 HPfunmanBS's Blood Perpetuated in Sand
 Char Dream Bros's Hammers (Red)
@@ -470,7 +469,6 @@ superTUNCEndless's Scavenger Mask
 rhythm.ChampaU6's shop prog 2
 rhythm.LiquiirU8's shop prog 2
 GodlFireALTTP's Hammer
-jf-time's Timespinner Gear 2
 jf-time's Timespinner Gear 1
 jf-muse's Music Sheet (2)
 Grim-SA2's Yellow Chaos Emerald
@@ -500,25 +498,21 @@ BroneyFactorio's concrete
 BroneyFactorio's progressive-armor
 heshpseudo's Ascendant Light
 heshpseudo's Slide
-heshmuda's Random Song
 heshmuda's Random Song (2)
 heshut's Core Key
 heshut's Ruins Key
 Kritzmaker's Nailgun - Attractor
 JudosiiOOT's Nayrus Love
-HPfunmanBS's Tiento to your Thorned Hairs
 Char Dream Bros's Luiginary Sneeze Wind (Orange)
 Char Dream Bros's Ball Hop (Green)
 MauveMuse's Random Song (2)
 MauvePenitent's Linen of Golden Thread
 MauvePenitent's Nail Uprooted from Dirt
-FKKirby's Copy Ability - Paint
 coolhollowguy's Hiveblood
 coolhollowguy's Great_Slash
 CoolGuyCompany's Extension ladder
 numRogueINSCRYPT's Ourobot Card
 rhythm.BeerusU7's shop useful 1
-rhythm.LiquiirU8's shop useful 2
 GodlFireALTTP's Magic Powder
 jf-time's Library Keycard V
 jf-muse's Paradise 2
@@ -538,8 +532,10 @@ SylskoTunic's Pages 24-25 (Prayer)
 SylskoTunic's Hero's Laurels
 SynRegret's Shapers
 Soleyeer's Hookshot Badge
+Soleyeer's Dweller Mask
 ThatFirey's Stamina Bar
-CaesiusHIT's Umbrella
+CaesiusHatPast's Umbrella / Hammer
+CaesiusSM64's Side Flip
 CaesiusSM64's Wall Kick
 mars.'s Desolate_Dive
 mars.'s Focus
@@ -563,6 +559,7 @@ Kritzmaker's Revolver - Marksman
 JudosiiOOT's Progressive Hookshot
 JudosiiOOT's Bomb Bag
 ConnorHK's Vengeful_Spirit
+ConnorHK's Mothwing_Cloak
 HPfunmanKH's Green Trinity
 HPfunmanKH's Hollow Bastion
 Char Past's Cane of Somaria
@@ -588,6 +585,7 @@ rhythm.BeerusU7's shop prog 2
 rhythm.LiquiirU8's shop prog 1
 GodlFireALTTP's Progressive Glove
 jf-muse's Music Sheet
+jf-time's Timespinner Gear 2
 Grim-aHiT's Umbrella
 Grim-aHiT's Hookshot Badge
 Grim-Muse's Music Sheet
@@ -612,8 +610,8 @@ SynRegret's Puzzle Skip
 Soleyeer's Projectile Badge
 Soleyeer's Sprint Hat
 ThatFirey's Rocket Launcher - Freezeframe
-CaesiusHIT's Hover Badge
-CaesiusHIT's Item Magnet Badge
+CaesiusHatPast's Hover Badge / Hookshot
+CaesiusHatPast's Item Magnet Badge / Magic Mirror
 CaesiusSM64's Kick
 mars three.'s Selen's Bangle
 TripleSDV's Progressive Fishing Rod
@@ -621,6 +619,7 @@ DragoSpinsDeath's Plasma Orb
 HatKillsDrago's Time Stop Hat
 BroneySM's Bomb
 BroneySM's Wave Beam
+heshmuda's Random Song
 sheen_pr's Health Piece
 sheen_pr's Health Piece (2)
 Kritzmaker's Nailgun - JumpStart
@@ -630,11 +629,13 @@ ConnorHK's Quick_Slash
 HPfunmanKH's Progressive Cure
 HPfunmanKH's Accessory Slot Increase     
 HPfunmanBS's Mea Culpa Upgrade
+HPfunmanBS's Tiento to your Thorned Hairs
 Char Past's Bombos
 Char Past's Lamp
 Char Forgotten's Progressive Sword Ability
 Char Forgotten's Progressive Fire Ability
 MauveMuse's Random Song
+FKKirby's Copy Ability - Paint
 FKKirby's Copy Ability - Crash
 CoolGuyCompany's Jetpack
 numgasRogueTUNIC's Sword Upgrade
@@ -648,6 +649,7 @@ rhythm.ChampaU6's shop useful 1
 rhythm.ChampaU6's shop useful 2
 rhythm.BeerusU7's shop useful 2
 rhythm.LiquiirU8's shop useful 1
+rhythm.LiquiirU8's shop useful 2
 GodlFireALTTP's Progressive Mail
 jf-time's Succubus Hairpin
 jf-muse's Jealousy
