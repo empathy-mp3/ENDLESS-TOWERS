@@ -71,6 +71,47 @@ Jak and Daxter The Precursor Legacy: # Deathlink is an ingame setting, apparentl
   mountain_pass_cell_count: random #45
   lava_tube_cell_count: random #72
   jak_completion_condition: cross_lava_tube
+  plando_items:
+    - item:
+        Fisherman's Boat: 1
+      location: rhythm.ChampaU6's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Snowy Mountain Gondola: 1
+      location: rhythm.ChampaU6's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Power Cell: 1
+      location: rhythm.ChampaU6's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Power Cell: 1
+      location: rhythm.ChampaU6's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Warrior's Pontoons: 1
+      location: Locker 187
+      world: The Vault
+      force: true
+    - item:
+        Power Cell: 1
+      location: Locker 197
+      world: The Vault
+      force: true
+    - item:
+        Power Cell: 1
+      location: Locker 5
+      world: The Vault
+      force: true
+    - item:
+        Power Cell: 1
+      location: Locker 51
+      world: The Vault
+      force: true
 #
 Inscryption:
   progression_balancing: random-low
@@ -396,6 +437,69 @@ Monster Sanctuary:
     reunite_mozzie: 4
   mozzie_soul_fragments: random-high
   death_link: true
+  triggers:
+    - option_category: Monster Sanctuary
+      option_name: goal
+      option_result: defeat_all_champions
+      options:
+        Monster Sanctuary:
+          +start_inventory:
+            Keeper Master: 1
+    - option_category: Monster Sanctuary
+      option_name: goal
+      option_result: complete_monster_journal
+      options:
+        Monster Sanctuary:
+          +start_inventory:
+            Monster Tamer: 1
+    - option_category: Monster Sanctuary
+      option_name: goal
+      option_result: reunite_mozzie
+      options:
+        Monster Sanctuary:
+          +start_inventory:
+            Dragon Lord: 1
+  plando_items:
+    - item:
+        Level Badge 42: 1
+      location: rhythm.ChampaU6's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Warm Underwear: 1
+      location: rhythm.ChampaU6's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Eclipse Sword+5: 1
+      location: rhythm.ChampaU6's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Arch Bow+5: 1
+      location: rhythm.ChampaU6's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Double Jump Boots: 1
+      location: Locker 187
+      world: The Vault
+      force: true
+    - item:
+        Purifying Mace+5: 1
+      location: Locker 197
+      world: The Vault
+      force: true
+    - item:
+        Abyssal Sword+5: 1
+      location: Locker 5
+      world: The Vault
+      force: true
+    - item:
+        Projectile Sphere+5: 1
+      location: Locker 51
+      world: The Vault
+      force: true
 #
 Pseudoregalia:
   progression_balancing: random-low
@@ -762,54 +866,6 @@ Sonic Adventure 2 Battle:
     - Weapons Bed - Chao Key 2
     - Weapons Bed - Chao Key 3
     - Weapons Bed - Upgrade
-#
-Super Mario 64:
-  progression_balancing: random-low
-  death_link: true
-  area_rando:
-    courses_only: 1
-    courses_and_secrets_separate: 1
-    courses_and_secrets: 1
-  buddy_checks: random
-  exclamation_boxes: random
-  progressive_keys: false
-  enable_coin_stars: random
-  enable_move_rando: random
-  move_rando_actions: ['Triple Jump', 'Long Jump', 'Backflip', 'Dive', 'Kick', 'Ledge Grab']
-  strict_cap_requirements: true
-  strict_cannon_requirements: true
-  strict_move_requirements: true
-  amount_of_stars: 120
-  first_bowser_star_door_cost: random
-  basement_star_door_cost: random
-  second_floor_star_door_cost: random
-  mips1_cost: random
-  mips2_cost: random
-  stars_to_finish: random
-  completion_type: last_bowser_stage
-  exclude_locations:
-    # Prevent these locations from having an important item
-    - 'RR: Tricky Triangles!'
-    - 'RR: The Big House in the Sky'
-    - 'RR: Swingin'' in the Breeze'
-    - 'RR: Somewhere Over the Rainbow'
-    - 'RR: Cruiser Crossing the Rainbow'
-    - 'RR: Coins Amassed in a Maze'
-    - 'RR: Bob-omb Buddy'
-    - 'RR: 1Up Block Under Fly Guy'
-    - 'RR: 1Up Block Top of Red Coin Maze'
-    - 'RR: 1Up Block On House in the Sky'
-    - 'RR: 100 Coins'
-    - 'DDD: 100 Coins'
-    - 'JRB: 100 Coins'
-    - 'TTC: 100 Coins'
-    - 'WDW: 100 Coins'
-    - 'WDW: Go to Town for Red Coins'
-    - 'WDW: 100 Coins'
-    - 'WDW: 1Up Block in Downtown'
-    - 'WDW: Quick Race Through Downtown!'
-    - 'Bowser in the Sky Red Coins'
-    - 'Bowser in the Sky 1Up Block'
   plando_items:
     - item: White Chaos Emerald
       location: Cannon's Core - Gold Beetle
@@ -1252,6 +1308,47 @@ Jak and Daxter The Precursor Legacy: # Deathlink is an ingame setting, apparentl
   mountain_pass_cell_count: random #45
   lava_tube_cell_count: random #72
   jak_completion_condition: cross_lava_tube
+  plando_items:
+    - item:
+        Fisherman's Boat: 1
+      location: rhythm.BeerusU7's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Snowy Mountain Gondola: 1
+      location: rhythm.BeerusU7's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Power Cell: 1
+      location: rhythm.BeerusU7's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Power Cell: 1
+      location: rhythm.BeerusU7's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Warrior's Pontoons: 1
+      location: Locker 144
+      world: The Vault
+      force: true
+    - item:
+        Power Cell: 1
+      location: Locker 158
+      world: The Vault
+      force: true
+    - item:
+        Power Cell: 1
+      location: Locker 59
+      world: The Vault
+      force: true
+    - item:
+        Power Cell: 1
+      location: Locker 216
+      world: The Vault
+      force: true
 #
 Inscryption:
   progression_balancing: random-low
@@ -1446,26 +1543,6 @@ Minit:
       options:
         Minit:
           chosen_goal: any_goal
-  
-  triggers:
-    - option_category: Minit
-      option_name: progressive_sword
-      option_result: forward_progressive
-      options:
-        Minit:
-          chosen_goal: boss_fight
-    - option_category: Minit
-      option_name: progressive_sword
-      option_result: reverse_progressive
-      options:
-        Minit:
-          chosen_goal: toilet_goal
-    - option_category: Minit
-      option_name: progressive_sword
-      option_result: off
-      options:
-        Minit:
-          chosen_goal: any_goal
   plando_items:
     - item:
         ItemSwim: 1
@@ -1597,6 +1674,69 @@ Monster Sanctuary:
     reunite_mozzie: 4
   mozzie_soul_fragments: random-high
   death_link: true
+  triggers:
+    - option_category: Monster Sanctuary
+      option_name: goal
+      option_result: defeat_all_champions
+      options:
+        Monster Sanctuary:
+          +start_inventory:
+            Keeper Master: 1
+    - option_category: Monster Sanctuary
+      option_name: goal
+      option_result: complete_monster_journal
+      options:
+        Monster Sanctuary:
+          +start_inventory:
+            Monster Tamer: 1
+    - option_category: Monster Sanctuary
+      option_name: goal
+      option_result: reunite_mozzie
+      options:
+        Monster Sanctuary:
+          +start_inventory:
+            Dragon Lord: 1
+  plando_items:
+    - item:
+        Level Badge 42: 1
+      location: rhythm.BeerusU7's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Warm Underwear: 1
+      location: rhythm.BeerusU7's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Eclipse Sword+5: 1
+      location: rhythm.BeerusU7's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Arch Bow+5: 1
+      location: rhythm.BeerusU7's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Double Jump Boots: 1
+      location: Locker 144
+      world: The Vault
+      force: true
+    - item:
+        Purifying Mace+5: 1
+      location: Locker 158
+      world: The Vault
+      force: true
+    - item:
+        Abyssal Sword+5: 1
+      location: Locker 59
+      world: The Vault
+      force: true
+    - item:
+        Projectile Sphere+5: 1
+      location: Locker 216
+      world: The Vault
+      force: true
 #
 Pseudoregalia:
   progression_balancing: random-low
@@ -2009,9 +2149,7 @@ Sonic Adventure 2 Battle:
       force: true
 #
 Super Mario 64:
-  progression_balancing:
-    0: 3
-    random: 1
+  progression_balancing: random-low
   death_link: true
   area_rando:
     courses_only: 1
@@ -2100,9 +2238,7 @@ Super Mario 64:
       force: true
 #
 Super Metroid:
-  progression_balancing:
-    0: 3
-    random: 1
+  progression_balancing: random-low
   death_link: enable_survive
   preset: varia_custom
   varia_custom_preset: rhythmlycan
@@ -2110,7 +2246,7 @@ Super Metroid:
   remote_items: true 
   max_difficulty: hard
   morph_placement: 
-    early: 3
+    early: 1
     normal: 1
   hide_items: false
   strict_minors: false
@@ -2127,18 +2263,18 @@ Super Metroid:
   energy_qty: vanilla
   area_randomization: 
     off: 15
-    light: 3
-    full: 2
+    light: 0
+    full: 0
   area_layout: # for area rando only apparently
     false: 0
     true: 1
   doors_colors_rando: 
-    false: 7
-    true: 2
+    false: 1
+    true: 1
   allow_grey_doors: false
   boss_randomization: 
-    false: 7
-    true: 2
+    false: 1
+    true: 1
   escape_rando: true
   remove_escape_enemies: true
   fun_combat: false
@@ -2212,17 +2348,15 @@ Super Metroid:
       force: true
 #
 Wario Land 4:
-  progression_balancing:
-    0: 3
-    random: 1
+  progression_balancing: random-low
   death_link: true
   logic: basic
   goal:
     golden_diva: 1
-    golden_treasure_hunt: 3
-    golden_diva_treasure_hunt: 2
-    local_golden_treasure_hunt: 3
-    local_golden_diva_treasure_hunt: 2
+    golden_treasure_hunt: 1
+    golden_diva_treasure_hunt: 1
+    local_golden_treasure_hunt: 0
+    local_golden_diva_treasure_hunt: 0
   golden_treasure_count: random
   difficulty: 
     normal: 15
@@ -2286,9 +2420,7 @@ Wario Land 4:
 
 #
 Yu-Gi-Oh! Forbidden Memories:
-  progression_balancing:
-    0: 3
-    random: 1
+  progression_balancing: random-low
   death_link: true
   duelist_progression:
     thematic: 1
@@ -2342,39 +2474,134 @@ Yu-Gi-Oh! Forbidden Memories:
 ---
 name: rhythm.LiquiirU8
 description: Universe 8's Mystery yaml for ENDLESS TOWERS Rogue-Lite async
-game: # Liquiir Modifier: Harder settings roll more often. More variance. (Not too many changes but, it works.)
-  Inscryption: 2
-  Meritous: 1 # I'm pretty likely to die in this so... Let's play it less often.
-  Metroid Prime: 4
-  Metroid Zero Mission: 4
-  Minit: 2
-  Pseudoregalia: 2
-  Sonic Adventure DX: 3
-  Sonic Adventure 2 Battle: 2
-  Super Mario 64: 2 # I'm pretty likely to die in this in some stupid way from a stray jump so... Let's play it a bit less often.
-  Super Metroid: 4
-  Wario Land 4: 2 # Less familiar with the game. Have a friend helping me learn though.
-  Yu-Gi-Oh! Forbidden Memories: 1
+game: # Liquiir Modifier: Max Sanity (Replaced gimmick) - Games are weighted by check count roughly. ALL checks enabled.
+  Jak and Daxter The Precursor Legacy: 9 # "How many checks are there?" "YES" "what?" "DID I STUTTER"
+  Inscryption: 2 # 100 checks
+  Metroid Prime: 2 # 100 checks
+  Minit: 1 # 50 checks
+  Monster Sanctuary: 7 # 800+ checks
+  Pseudoregalia: 1 # 50 checks iirc
+  Sonic Adventure DX: 4 # like 300+
+  Sonic Adventure 2 Battle: 4 # like 300+
+  Super Mario 64: 3 # almost 200 iirc
+  Super Metroid: 2 # 100 checks
+  Wario Land 4: 3 # like a bit over 100
+  Yu-Gi-Oh! Forbidden Memories: 4 # alot
 
-# APWorlds mass-downloaded 7/30/2024
+# APWorlds last updated 8/18/2024
 
+Jak and Daxter The Precursor Legacy: # Deathlink is an ingame setting, apparently!
+  # Game Options
+  progression_balancing: 0
+  accessibility: items
+  enable_move_randomizer: false
+  enable_orbsanity:
+    # Enable to include bundles of Precursor Orbs as an ordered list of progressive checks. Every time you collect the
+    # chosen number of orbs, you will trigger the next release in the list.
+    # 
+    # "Per Level" means these lists are generated and populated for each level in the game. "Global" means there
+    # is only one list for the entire game.
+    # 
+    # This adds a number of Items and Locations to the pool inversely proportional to the size of the bundle.
+    # For example, if your bundle size is 20 orbs, you will add 100 items to the pool. If your bundle size is 250 orbs,
+    # you will add 8 items to the pool.
+    'off': 0
+    per_level: 1
+    global: 2
+
+  global_orbsanity_bundle_size:
+    # Set the orb bundle size for Global Orbsanity. This only applies if "Enable Orbsanity" is set to "Global."
+    # There are 2000 orbs in the game, so your bundle size must be a factor of 2000.
+    1_orb: 1
+    2_orbs: 0
+    4_orbs: 0
+    5_orbs: 0
+    8_orbs: 0
+    10_orbs: 0
+    16_orbs: 0
+    20_orbs: 0
+    25_orbs: 0
+    40_orbs: 0
+    50_orbs: 0
+    80_orbs: 0
+    100_orbs: 0
+    125_orbs: 0
+    200_orbs: 0
+    250_orbs: 0
+    400_orbs: 0
+    500_orbs: 0
+    1000_orbs: 0
+    2000_orbs: 0
+
+  level_orbsanity_bundle_size:
+    # Set the orb bundle size for Per Level Orbsanity. This only applies if "Enable Orbsanity" is set to "Per Level."
+    # There are 50, 150, or 200 orbs per level, so your bundle size must be a factor of 50.
+    1_orb: 1
+    2_orbs: 0
+    5_orbs: 0
+    10_orbs: 0
+    25_orbs: 0
+    50_orbs: 0
+  fire_canyon_cell_count: random-low #20
+  mountain_pass_cell_count: random #45
+  lava_tube_cell_count: random #72
+  jak_completion_condition: cross_lava_tube
+  plando_items:
+    - item:
+        Fisherman's Boat: 1
+      location: rhythm.LiquiirU8's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Snowy Mountain Gondola: 1
+      location: rhythm.LiquiirU8's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Power Cell: 1
+      location: rhythm.LiquiirU8's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Power Cell: 1
+      location: rhythm.LiquiirU8's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Warrior's Pontoons: 1
+      location: Locker 156
+      world: The Vault
+      force: true
+    - item:
+        Power Cell: 1
+      location: Locker 142
+      world: The Vault
+      force: true
+    - item:
+        Power Cell: 1
+      location: Locker 212
+      world: The Vault
+      force: true
+    - item:
+        Power Cell: 1
+      location: Locker 188
+      world: The Vault
+      force: true
 #
 Inscryption:
-  progression_balancing:
-    0: 3
-    random: 1
+  progression_balancing: random-low
   deathlink: true
   act1_deathlink_behaviour: sacrificed
   goal: full_story_any_order
   randomize_codes: true
-  ranzomide_deck: disable
+  randomize_deck: disable
   randomize_sigils: disable
   optional_death_card: always_on
   skip_tutorial: true
   skip_epilogue: true
   epitaph_pieces_randomization: 
-    all_pieces: 3
-    in_groups: 2
+    all_pieces: 1
+    in_groups: 1
     as_one_item: 1
   painting_checks_balancing:
     none: 1
@@ -2422,91 +2649,36 @@ Inscryption:
       world: The Vault
       force: true
 #
-Meritous:
-  progression_balancing:
-    0: 3
-    random: 1
-  death_link: true
-  goal: 
-    return_the_cursed_seal: 1
-    any_ending: 1
-  include_psi_keys: true
-  include_evolution_traps: random
-  item_cache_cost: heavily_reduced
-  plando_items:
-    - item:
-        PSI Key 3: 1
-      location: rhythm.LiquiirU8's shop prog 1
-      world: The Shop
-      force: true
-    - item:
-        PSI Key 2: 1
-      location: rhythm.LiquiirU8's shop prog 2
-      world: The Shop
-      force: true
-    - item:
-        Map: 1
-      location: rhythm.LiquiirU8's shop useful 1
-      world: The Shop
-      force: true
-    - item:
-        Dodge Enhancer: 1
-      location: rhythm.LiquiirU8's shop useful 2
-      world: The Shop
-      force: true
-    - item:
-        PSI Key 1: 1
-      location: Locker 156
-      world: The Vault
-      force: true
-    - item:
-        Metabolism: 1
-      location: Locker 142
-      world: The Vault
-      force: true
-    - item:
-        Shield Boost: 1
-      location: Locker 212
-      world: The Vault
-      force: true
-    - item:
-        Circuit Booster: 1
-      location: Locker 188
-      world: The Vault
-      force: true
-#
 Metroid Prime:
-  progression_balancing:
-    0: 3
-    random: 1
+  progression_balancing: random-low
   death_link: true
   required_artifacts: random
   final_bosses: 
-    both: 2
-    ridley: 5
-    prime: 2
+    both: 1
+    ridley: 2
+    prime: 1
     none: 1
   artifact_hints: true
   missile_launcher: 
     false: 1
-    true: 3
+    true: 1
   main_power_bomb: 
     false: 1
-    true: 3
+    true: 1
   shuffle_scan_visor: 
     false: 1
-    true: 3
+    true: 1
   pre_scan_elevators: true
   starting_room: 
-    normal: 6
-    safe: 3
+    normal: 1
+    safe: 1
     buckle_up: 1
-  disable_starting_room_bk_prevention: # Really low chance
-    false: 0
+  disable_starting_room_bk_prevention: 
+    false: 1
     true: 1
   progressive_beam_upgrades: random
   non_varia_heat_damage: 
-    true: 3
+    true: 1
     false: 1
   staggered_suit_damage: random
   combat_logic_difficulty: normal_logic
@@ -2518,11 +2690,11 @@ Metroid Prime:
   remove_hive_mecha: false
   spring_ball: true
   fusion_suit: 
-    false: 3
+    false: 1
     true: 1
   hud_color: random
   randomize_suit_colors:
-    false: 3
+    false: 1
     true: 1
   show_suit_index_on_pause_menu: true
   
@@ -2575,71 +2747,10 @@ Metroid Prime:
       world: The Vault
       force: true
 #
-Metroid Zero Mission:
-  progression_balancing:
-    0: 3
-    random: 1
-  death_link: true
-  chozodia_access: random
-  skip_chozodia_stealth: true
-  unknown_items_always_usable: true
-  layout_patches: true
-  morph_ball:
-    early: 3
-    normal: 2
-  ibj_in_logic: false
-  heatruns_lavadives: false
-  walljumps_in_logic: true
-  display_nonlocal_items: match_series
-  plando_items:
-    - item:
-        Space Jump: 1
-      location: rhythm.LiquiirU8's shop prog 1
-      world: The Shop
-      force: true
-    - item:
-        Varia Suit: 1
-      location: rhythm.LiquiirU8's shop prog 2
-      world: The Shop
-      force: true
-    - item:
-        Power Grip: 1
-      location: rhythm.LiquiirU8's shop useful 1
-      world: The Shop
-      force: true
-    - item:
-        Screw Attack: 1
-      location: rhythm.LiquiirU8's shop useful 2
-      world: The Shop
-      force: true
-    - item:
-        Bomb: 1
-      location: Locker 156
-      world: The Vault
-      force: true
-    - item:
-        Hi-Jump: 1
-      location: Locker 142
-      world: The Vault
-      force: true
-    - item:
-        Speed Booster: 1
-      location: Locker 212
-      world: The Vault
-      force: true
-    - item:
-        Gravity Suit: 1
-      location: Locker 188
-      world: The Vault
-      force: true
-#
 Minit:
-  progression_balancing:
-    0: 3
-    random: 1
+  progression_balancing: random-low
   death_link: true
   death_amnisty_total: random-range-1-20 # WE SHALL LIVE AND DIE BY THE DICE ROLL OF FATE!
-  starting_sword: random
   darkrooms: minor
   obscure: false
   progressive_sword:
@@ -2712,10 +2823,161 @@ Minit:
       world: The Vault
       force: true
 #
-Pseudoregalia:
-  progression_balancing:
-    0: 3
+Monster Sanctuary:
+  progression_balancing: random-low
+  starting_familiar: wolf
+  randomize_monsters: any
+  monster_shift_rule: after_sun_palace
+  improved_mobility_limit: random
+  lock_explore_abilities: 
+    type: 1
+    ability: 1
+    species: 1
+  eggsanity: true
+  shopsanity: true
+  shopsanity_prices: weighted
+  shops_ignore_rank: true # fails gen on false last I checked, don't wanna cause gen fails!
+  monster_army: true
+  remove_locked_doors: minimal
+  local_area_keys: random
+  add_gift_eggs_to_pool: true
+  add_smoke_bombs: true
+  starting_gold:
+    1: 2
     random: 1
+  monsters_always_drop_egg: true
+  # pool ratios
+  drop_chance_craftingmaterial: random-range-25-75
+  drop_chance_consumable: random-range-25-75
+  drop_chance_food: random-range-25-75
+  drop_chance_catalyst: random-range-25-75
+  drop_chance_weapon: random-range-25-75
+  drop_chance_accessory: random-range-25-75
+  drop_chance_currency: random-range-25-75
+  drop_chance_trap: random-range-0-10
+  replace_filler_with_level_badges: random-range-5-25
+  include_chaos_relics: all
+  # open/closed stuff
+  skip_plot: random
+  open_blue_caves: random
+  open_stronghold_dungeon: 
+    off: 6
+    entrances: 1
+    shortcuts: 1
+    full: 1
+  open_ancient_woods: random
+  open_snowy_peaks: random
+  open_sun_palace: 
+    off: 6
+    entrances: 1
+    raise_pillar: 1
+    full: 1
+  open_horizon_beach: 
+    off: 6
+    entrances: 1
+    shortcuts: 1
+    full: 1
+  open_magma_chamber: 
+    off: 6
+    entrances: 1
+    lower_lava: 1
+    full: 1
+  open_blob_burg: 
+    off: 6
+    entrances: 1
+    open_walls: 1
+    full: 1
+  open_forgotten_world: 
+    off: 6
+    entrances: 1
+    shortcuts: 1
+    full: 1
+  open_mystical_workshop: random
+  open_underworld: 
+    off: 6
+    entrances: 1
+    shortcuts: 1
+    full: 1
+  open_abandoned_tower: 
+    off: 6
+    entrances: 1
+    shortcuts: 1
+    full: 1
+  exp_multiplier: random
+  hints: true
+  goal: 
+    defeat_mad_lord: 1
+    defeat_all_champions: 2
+    complete_monster_journal: 8
+    reunite_mozzie: 4
+  mozzie_soul_fragments: random-high
+  death_link: true
+  triggers:
+    - option_category: Monster Sanctuary
+      option_name: goal
+      option_result: defeat_all_champions
+      options:
+        Monster Sanctuary:
+          +start_inventory:
+            Keeper Master: 1
+    - option_category: Monster Sanctuary
+      option_name: goal
+      option_result: complete_monster_journal
+      options:
+        Monster Sanctuary:
+          +start_inventory:
+            Monster Tamer: 1
+    - option_category: Monster Sanctuary
+      option_name: goal
+      option_result: reunite_mozzie
+      options:
+        Monster Sanctuary:
+          +start_inventory:
+            Dragon Lord: 1
+  plando_items:
+    - item:
+        Level Badge 42: 1
+      location: rhythm.LiquiirU8's shop prog 1
+      world: The Shop
+      force: true
+    - item:
+        Warm Underwear: 1
+      location: rhythm.LiquiirU8's shop prog 2
+      world: The Shop
+      force: true
+    - item:
+        Eclipse Sword+5: 1
+      location: rhythm.LiquiirU8's shop useful 1
+      world: The Shop
+      force: true
+    - item:
+        Arch Bow+5: 1
+      location: rhythm.LiquiirU8's shop useful 2
+      world: The Shop
+      force: true
+    - item:
+        Double Jump Boots: 1
+      location: Locker 156
+      world: The Vault
+      force: true
+    - item:
+        Purifying Mace+5: 1
+      location: Locker 142
+      world: The Vault
+      force: true
+    - item:
+        Abyssal Sword+5: 1
+      location: Locker 212
+      world: The Vault
+      force: true
+    - item:
+        Projectile Sphere+5: 1
+      location: Locker 188
+      world: The Vault
+      force: true
+#
+Pseudoregalia:
+  progression_balancing: random-low
   death_link: true
   logic_level: normal
   obscure_logic: false
@@ -2765,63 +3027,69 @@ Pseudoregalia:
       force: true
 #
 Sonic Adventure DX:
-  progression_balancing:
-    0: 3
-    random: 1
+  progression_balancing: random-low
   death_link: true
   ring_link: true
-  pinball_life_capsules: false
-  field_emblems_checks: random
-  random_starting_location: random
-  guaranteed_level: random
-  goal: 
-    emblems: 1
-    emerald_hunt: 6
-    emblems_and_emerald_hunt: 3
-  sub_level_checks_hard: random
-  emblems_percentage: random # changed from random range to full random
-  exclude_locations:
-    - Sky Chase Act 1 (Sub-Level - Mission B)
-    - Sky Chase Act 1 (Sub-Level - Mission A)
-    - Sky Chase Act 2 (Sub-Level - Mission B)
-    - Sky Chase Act 2 (Sub-Level - Mission A)
-    - Sand Hill (Sub-Level - Mission A)
+  hard_ring_link: random
+  goal: random
+  logic_level: 
+    casual_logic: 1
+    normal_logic: 1
+  emblems_percentage: random
+  random_starting_location: true
+  random_starting_location_per_character: true
+  guaranteed_level: true
   ring_loss: 
     classic: 2
     one_hit_k_o: 1
-  life_sanity: random
-  sub_level_checks: random
-  boss_checks: random
-  unify_chaos4: random
-  hard_ring_link: random
-  sonic_life_sanity: random
-  tails_life_sanity: random
-  knuckles_life_sanity: random
-  amy_life_sanity: random
-  big_life_sanity: random
-  gamma_life_sanity: random
-  junk_fill_percentage: random
-  trap_fill_percentage: 100
-  unify_chaos6: random
-  unify_egg_hornet: random
+  playable_sonic: true
+  playable_tails: true
+  playable_knuckles: true
+  playable_amy: true
+  playable_gamma: true
+  playable_big: true
+  sonic_action_stage_missions: c_b_a
+  tails_action_stage_missions: c_b_a
+  knuckles_action_stage_missions: c_b_a
+  amy_action_stage_missions: c_b_a
+  gamma_action_stage_missions: c_b_a
+  big_action_stage_missions: c_b_a
   randomized_sonic_upgrades: true
   randomized_tails_upgrades: true
   randomized_knuckles_upgrades: true
   randomized_amy_upgrades: true
   randomized_big_upgrades: true
   randomized_gamma_upgrades: true
-  sonic_missions: random
-  tails_missions:
-    none: 0
-    c: 1
-    c_b: 1
-    c_b_a: 1
-  knuckles_missions: random
-  amy_missions: random
-  gamma_missions: random
-  big_missions: random
-  mission_mode_checks: random
-  non_stop_missions: random
+  boss_checks: true
+  unify_chaos4: true
+  unify_chaos6: false
+  unify_egg_hornet: false
+  field_emblem_checks: true
+  mission_mode_checks: true
+  mission_blacklist: []
+  sub_level_checks: true
+  sub_level_checks_hard: true
+  exclude_locations:
+    - Sky Chase Act 1 (Sub-Level - Mission B)
+    - Sky Chase Act 1 (Sub-Level - Mission A)
+    - Sky Chase Act 2 (Sub-Level - Mission B)
+    - Sky Chase Act 2 (Sub-Level - Mission A)
+    - Sand Hill (Sub-Level - Mission A)
+  life_sanity: true
+  pinball_life_capsules: false
+  sonic_life_sanity: true
+  tails_life_sanity: true
+  knuckles_life_sanity: true
+  amy_life_sanity: true
+  big_life_sanity: true
+  gamma_life_sanity: true
+  junk_fill_percentage: random-high
+  trap_fill_percentage: random-low
+  
+  start_inventory:
+    Playable Tails: 1
+    Rhythm Badge: 1
+    Jet Anklet: 1
   plando_items:
     - item:
         Dynamite: 1
@@ -2865,9 +3133,7 @@ Sonic Adventure DX:
       force: true
 #
 Sonic Adventure 2 Battle:
-  progression_balancing:
-    0: 3
-    random: 1
+  progression_balancing: random-low
   death_link: true
   ring_link: true
   goal:
@@ -2875,17 +3141,17 @@ Sonic Adventure 2 Battle:
     finalhazard_chaos_emerald_hunt: 1
   logic_difficulty: standard
   required_rank: e
-  max_emblem_cap: 1000
+  max_emblem_cap: random
   ring_loss: 
-    classic: 1
+    classic: 2
     ohko: 1
   mission_shuffle: true
   emblem_percentage_for_cannons_core: random-low
   number_of_level_gates: random-low
   level_gate_distribution: random
-  keysanity: random
-  beetlesanity: random
-  black_market_slots: random-high
+  keysanity: true
+  beetlesanity: true
+  black_market_slots: 64
   black_market_unlock_costs: random
   black_market_price_multiplier: 0
   junk_fill_percentage: random-high
@@ -2918,27 +3184,27 @@ Sonic Adventure 2 Battle:
   reverse_trap_weight: none
   pong_trap_weight: none
   minigame_trap_difficulty: hard
-  speed_mission_count: random-range-1-4
+  speed_mission_count: 4
   speed_mission_2: 'false'
-  speed_mission_3: random
-  speed_mission_4: random
-  speed_mission_5: random
+  speed_mission_3: true
+  speed_mission_4: true
+  speed_mission_5: true
   mech_mission_count: 5
   mech_mission_2: 'true'
   mech_mission_3: 'true'
   mech_mission_4: 'true'
   mech_mission_5: 'true'
-  hunt_mission_count: random-range-1-4
+  hunt_mission_count: 4
   hunt_mission_2: 'false'
-  hunt_mission_3: random
-  hunt_mission_4: random
-  hunt_mission_5: random
-  kart_mission_count: random-range-1-3
-  kart_mission_2: random
+  hunt_mission_3: true
+  hunt_mission_4: true
+  hunt_mission_5: true
+  kart_mission_count: 3
+  kart_mission_2: true
   kart_mission_3: 'false'
   kart_mission_4: 'false'
-  kart_mission_5: random
-  cannons_core_mission_count: random-range-1-4
+  kart_mission_5: true
+  cannons_core_mission_count: 4
   cannons_core_mission_2: 'false'
   cannons_core_mission_3: 'true'
   cannons_core_mission_4: 'true'
@@ -3121,18 +3387,16 @@ Sonic Adventure 2 Battle:
     - Weapons Bed - Upgrade
 #
 Super Mario 64:
-  progression_balancing:
-    0: 3
-    random: 1
+  progression_balancing: random-low
   death_link: true
   area_rando:
     courses_only: 1
     courses_and_secrets_separate: 1
     courses_and_secrets: 1
-  buddy_checks: random
-  exclamation_boxes: random
+  buddy_checks: true
+  exclamation_boxes: true
   progressive_keys: false
-  enable_coin_stars: random
+  enable_coin_stars: true
   enable_move_rando: random
   move_rando_actions: ['Triple Jump', 'Long Jump', 'Backflip', 'Dive', 'Kick', 'Ledge Grab']
   strict_cap_requirements: true
@@ -3212,9 +3476,7 @@ Super Mario 64:
       force: true
 #
 Super Metroid:
-  progression_balancing:
-    0: 3
-    random: 1
+  progression_balancing: random-low
   death_link: enable_survive
   preset: varia_custom
   varia_custom_preset: rhythmlycan
@@ -3222,19 +3484,19 @@ Super Metroid:
   remote_items: true 
   max_difficulty: hard
   morph_placement: 
-    early: 3
-    normal: 2
+    early: 1
+    normal: 1
   hide_items: false
   strict_minors: false
   missile_qty: 
     30: 0
-    random-range-10-60: 1
+    random-range-10-30: 1
   super_qty: 
     20: 0
-    random-range-10-60: 1
+    random-range-10-30: 1
   power_bomb_qty: 
     10: 0
-    random-range-10-60: 1
+    random-range-10-30: 1
   minor_qty: 100
   energy_qty: vanilla
   area_randomization: 
@@ -3245,12 +3507,12 @@ Super Metroid:
     false: 0
     true: 1
   doors_colors_rando: 
-    false: 0
-    true: 2
-  allow_grey_doors: true
+    false: 1
+    true: 1
+  allow_grey_doors: false
   boss_randomization: 
-    false: 5
-    true: 3
+    false: 1
+    true: 1
   escape_rando: true
   remove_escape_enemies: true
   fun_combat: false
@@ -3324,22 +3586,20 @@ Super Metroid:
       force: true
 #
 Wario Land 4:
-  progression_balancing:
-    0: 3
-    random: 1
+  progression_balancing: random-low
   death_link: true
   logic: basic
   goal:
     golden_diva: 1
-    golden_treasure_hunt: 3
-    golden_diva_treasure_hunt: 2
-    local_golden_treasure_hunt: 3
-    local_golden_diva_treasure_hunt: 2
+    golden_treasure_hunt: 1
+    golden_diva_treasure_hunt: 1
+    local_golden_treasure_hunt: 0
+    local_golden_diva_treasure_hunt: 0
   golden_treasure_count: random
   difficulty: 
-    normal: 15
-    hard: 4
-    s_hard: 1
+    normal: 1
+    hard: 0
+    s_hard: 0
   pool_jewels: random-range-high-2-4
   golden_jewels: 2
   required_jewels: 1
@@ -3398,9 +3658,7 @@ Wario Land 4:
 
 #
 Yu-Gi-Oh! Forbidden Memories:
-  progression_balancing:
-    0: 3
-    random: 1
+  progression_balancing: random-low
   death_link: true
   duelist_progression:
     thematic: 1

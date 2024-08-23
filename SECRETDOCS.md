@@ -17,14 +17,15 @@ lockers unlocked: 12
 cash total: 0
 cash acquired this run: 0
 [send traps] uses: 2
-finished players (0):
+finished players (8):
 - Deathclaw99TS
 - Lojtana
 - FloriTerra
 - Deathclaw99SM64
 - DragoLookAtDeath
 - superMessEndless
-- Widowrain61
+- WidowRain61
+- Deathclaw99SM64
 
 # submission items
 
@@ -157,11 +158,11 @@ finished players (0):
 
 | slot             | shop prog 1               | shop prog 2              | vault prog          |
 | ---------------- | ------------------------- | ------------------------ | ------------------- |
+| rhythm jak       | Fisherman's Boat          | Snowy Mountain Gondola   | Warrior's Pontoons  |
 | rhythm scrybe    | Inspectometer Battery     | Film Roll                | Camera Replica      |
-| rhythm meritous  | PSI Key 3                 | PSI Key 2                | PSI Key 1           |
 | rhythm m prime   | Artifact of Chozo         | Space Jump Boots         | Morph Ball          |
-| rhythmmetoid0mis | Space Jump                | Varia Suit               | Bomb                |
 | rhythm minit     | ItemSwim                  | ItemWateringCan          | ItemShoes           |
+| rhythm monster s | Level Badge 42            | Warm Underwear           | Double Jump Boots   |
 | rhythm pseudo    | Major Key - Tower Remains | Cling Gem                | Progressive Slide   |
 | rhythm sadx      | Dynamite                  | Train                    | Hotel Keys          |
 | rhythm sa2b      | Sonic - Light Shoes       | Knuckles - Shovel Claws  | Rouge - Pick Nails  |
@@ -172,11 +173,11 @@ finished players (0):
 
 | slot             | vault useful 1        | vault useful 2               | vault useful 3           | shop useful 1           | shop useful 2             |
 | ---------------- | --------------------- | ---------------------------- | ------------------------ | ----------------------- | ------------------------- |
+| rhythm jak       | Power Cell            | Power Cell                   | Power Cell               | Power Cell              | Power Cell                |
 | rhythm scrybe    | Dock's Clover Plant   | Oil Painting's Clover Plant  | Ring                     | Extra Candle            | Bee Figurine              |
-| rhythm meritous  | Metabolism            | Shield Boost                 | Circuit Booster          | Map                     | Dodge Enhancer            |
 | rhythm m prime   | Varia Suit            | Phazon Suit                  | Morph Ball Bomb          | Gravity Suit            | Boost Ball                |
-| rhythmmetoid0mis | Hi-Jump               | Speed Booster                | Gravity Suit             | Power Grip              | Screw Attack              |
 | rhythm minit     | ItemCoffee            | ItemPressPass                | ItemFlashLight           | ItemGrinder             | ItemThrow                 |
+| rhythm monster s | Purifying Mace+5      | Abyssal Sword+5              | Projectile Sphere+5      | Eclipse Sword+5         | Arch Bow+5                |
 | rhythm pseudo    | Air Kick              | Small Key                    | Progressive Slide        | Sunsetter               | Progressive Dream Breaker |
 | rhythm sadx      | Ancient Light         | Shovel Claw                  | Jet Booster              | Life Belt               | Light Shoes               |
 | rhythm sa2b      | Green Chaos Emerald   | Sonic - Bounce Bracelet      | Sonic - Flame Ring       | Yellow Chaos Emerald    | Tails - Booster           |
@@ -441,28 +442,22 @@ finished players (0):
 again.mp3's Desolate_Dive / Tent
 again.mp3's Lumafly_Lantern / Boards
 automate.mp3's progressive-science-pack / Building: AWESOME Shop (Hero's Laurels)
-Deathclaw99OOT's Megaton Hammer
-SylskoTunic's Hero's Laurels
 SynRogue's Celestial Sash
 SynRogue's Water Mask
 SynRegret's Progressive Dots
 ThatFirey's Wall Jump
 CaesiusHatPast's Hookshot Badge / Moon Pearl
-mars three.'s Celestial Sash
 mars three.'s Water Mask
 TripleSDV's Progressive Season (2)
-Alex230-Doom's Free Saves and Loads
 BroneyFactorio's progressive-science-pack
 BroneyFactorio's progressive-science-pack (2)
 heshpseudo's Major Key - Sansa Keep
-heshmuda's Music Sheet (2)
 Kritzmaker's Whiplash
 HPfunmanBS's Wall Climb Ability
 HPfunmanBS's Blood Perpetuated in Sand
 Char Dream Bros's Hammers (Red)
 MauveMuse's Music Sheet (2)
 MauvePenitent's Wall Climb Ability
-FKKirby's Copy Ability - Hammer
 CoolGuyCompany's Titan
 superTUNCEndless's Magic Orb
 superTUNCEndless's Scavenger Mask
@@ -479,7 +474,6 @@ Iridium's Gravity Suit
 
 again.mp3's Heavy_Blow / Autumn Season Change
 automate.mp3's concrete / Recipe: Rubber (Sword Upgrade)
-Deathclaw99OOT's Goron Tunic
 SylskoTunic's Magic Dagger
 SynRegret's Puzzle Skip (2)
 ThatFirey's Knuckleblaster
@@ -499,7 +493,6 @@ BroneyFactorio's progressive-armor
 heshpseudo's Ascendant Light
 heshpseudo's Slide
 heshmuda's Random Song (2)
-heshut's Core Key
 heshut's Ruins Key
 Kritzmaker's Nailgun - Attractor
 JudosiiOOT's Nayrus Love
@@ -514,20 +507,16 @@ CoolGuyCompany's Extension ladder
 numRogueINSCRYPT's Ourobot Card
 rhythm.BeerusU7's shop useful 1
 GodlFireALTTP's Magic Powder
-jf-time's Library Keycard V
 jf-muse's Paradise 2
 Grim-Muse's Random Song (2)
 Grim-SA2's Rouge - Treasure Scope
 StormHK's Isma's_Tear
-StormTW's Puzzle Skip
-StormTW's Puzzle Skip (2)
 
 ## purchased
 
 ### progressive
 
 automate.mp3's progressive-science-pack / Building: Refinery (Magic Orb)
-Deathclaw99OOT's Hover Boots
 SylskoTunic's Pages 24-25 (Prayer)
 SylskoTunic's Hero's Laurels
 SynRegret's Shapers
@@ -539,18 +528,21 @@ CaesiusSM64's Side Flip
 CaesiusSM64's Wall Kick
 mars.'s Desolate_Dive
 mars.'s Focus
+mars three.'s Celestial Sash
 TripleSDV's Progressive Season
 DragoSpinsDeath's Water Mask
 DragoSpinsDeath's Security Keycard D
 HatKillsDrago's Ice Hat
 HatKillsDrago's Yarn
 Alex230-Doom's Allow Leaving Start Location
+Alex230-Doom's Free Saves and Loads
 BroneyLTTP's Lamp
 BroneyLTTP's Moon Pearl
 BroneySM's Morph Ball
 BroneySM's Varia Suit
 heshpseudo's Sunsetter
 heshmuda's Music Sheet
+heshmuda's Music Sheet (2)
 heshut's Hotland Key
 heshut's Waterfall Key
 sheen_pr's Sun Greaves
@@ -569,6 +561,7 @@ Char Forgotten's Stairs Mouth
 Char Dream Bros's Mini Mario (Yellow)
 MauveMuse's Music Sheet
 MauvePenitent's Purified Hand of the Nun
+FKKirby's Copy Ability - Hammer
 FKKirby's Copy Ability - Starship
 coolhollowguy's Mothwing_Cloak
 coolhollowguy's Desolate_Dive
@@ -584,8 +577,8 @@ rhythm.BeerusU7's shop prog 1
 rhythm.BeerusU7's shop prog 2
 rhythm.LiquiirU8's shop prog 1
 GodlFireALTTP's Progressive Glove
-jf-muse's Music Sheet
 jf-time's Timespinner Gear 2
+jf-muse's Music Sheet
 Grim-aHiT's Umbrella
 Grim-aHiT's Hookshot Badge
 Grim-Muse's Music Sheet
@@ -602,7 +595,6 @@ StormC64's Ground Dash
 
 again.mp3's Shaman_Stone / Winter Season Change
 automate.mp3's uranium-ammo / Inflated Pocket Dimension (Magic Wand)
-Deathclaw99OOT's Deku Shield
 SylskoTunic's Anklet
 SynRogue's Eternal Crown
 SynRogue's Shattered Orb
@@ -620,6 +612,7 @@ HatKillsDrago's Time Stop Hat
 BroneySM's Bomb
 BroneySM's Wave Beam
 heshmuda's Random Song
+heshut's Core Key
 sheen_pr's Health Piece
 sheen_pr's Health Piece (2)
 Kritzmaker's Nailgun - JumpStart
@@ -651,6 +644,7 @@ rhythm.BeerusU7's shop useful 2
 rhythm.LiquiirU8's shop useful 1
 rhythm.LiquiirU8's shop useful 2
 GodlFireALTTP's Progressive Mail
+jf-time's Library Keycard V
 jf-time's Succubus Hairpin
 jf-muse's Jealousy
 Grim-aHiT's Fast Hatter Badge
@@ -660,6 +654,8 @@ Grim-SA2's Knuckles - Sunglasses
 Iridium's Grappling Beam
 Iridium's Energy Tank
 StormHK's Shaman_Stone
+StormTW's Puzzle Skip
+StormTW's Puzzle Skip (2)
 StormC64's Cassettes
 StormC64's Feathers
 
@@ -693,3 +689,7 @@ WidowRain61's Hidden Realm: A Moment, Whole
 WidowRain61's The Planetarium
 WidowRain61's Boss Item
 WidowRain61's Legendary Item
+Deathclaw99OOT's Megaton Hammer
+Deathclaw99OOT's Hover Boots
+Deathclaw99OOT's Goron Tunic
+Deathclaw99OOT's Deku Shield

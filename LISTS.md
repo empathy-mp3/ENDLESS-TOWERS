@@ -124,6 +124,7 @@ StormC64
 /release DragoLookAtDeath
 /release superMessEndless
 /release WidowRain61
+/release Deathclaw99OOT
 /collect Deathclaw99TS
 /collect Lojtana
 /collect FloriTerra
@@ -131,3 +132,4 @@ StormC64
 /collect DragoLookAtDeath
 /collect superMessEndless
 /collect WidowRain61
+/collect Deathclaw99OOT

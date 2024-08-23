@@ -15,7 +15,7 @@ shops have 6 items, and are restocked daily
 `open two vault lockers with unknown contents` (3 cost) ~ 2 in stock
 `one random slot does not lower the amount of lives when they send a death` (6 cost) ~ 1 in stock
 `a specific enemy of your choice does not lower the amount of lives when it is the cause of death` (3 cost) ~ 1 in stock
-`upon the run ending, instead it continues with half (rounded down) of max lives` (22 cost) ~ 1 in stock
+`upon the run ending, instead it continues with half (rounded down) of max lives` (25 cost) ~ 1 in stock
 `1% hint cost` (9 cost) ~ 1 in stock
 
 # the shop (day )
