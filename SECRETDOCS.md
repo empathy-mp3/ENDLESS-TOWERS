@@ -26,6 +26,7 @@ finished players (8):
 - superMessEndless
 - WidowRain61
 - Deathclaw99SM64
+- DragoSpinsDeath
 
 # submission items
 
@@ -482,7 +483,6 @@ mars.'s Soul_Eater
 mars.'s Quick_Slash
 mars three.'s Galaxy Earrings
 TripleSDV's Progressive Coop
-DragoSpinsDeath's Gas Mask
 HatKillsDrago's Relic (Crayon Box)
 Alex230-Doom's Automap
 Alex230-Doom's Allow Using Exit
@@ -530,8 +530,6 @@ mars.'s Desolate_Dive
 mars.'s Focus
 mars three.'s Celestial Sash
 TripleSDV's Progressive Season
-DragoSpinsDeath's Water Mask
-DragoSpinsDeath's Security Keycard D
 HatKillsDrago's Ice Hat
 HatKillsDrago's Yarn
 Alex230-Doom's Allow Leaving Start Location
@@ -607,7 +605,6 @@ CaesiusHatPast's Item Magnet Badge / Magic Mirror
 CaesiusSM64's Kick
 mars three.'s Selen's Bangle
 TripleSDV's Progressive Fishing Rod
-DragoSpinsDeath's Plasma Orb
 HatKillsDrago's Time Stop Hat
 BroneySM's Bomb
 BroneySM's Wave Beam
@@ -693,3 +690,7 @@ Deathclaw99OOT's Megaton Hammer
 Deathclaw99OOT's Hover Boots
 Deathclaw99OOT's Goron Tunic
 Deathclaw99OOT's Deku Shield
+DragoSpinsDeath's Water Mask
+DragoSpinsDeath's Security Keycard D
+DragoSpinsDeath's Plasma Orb
+DragoSpinsDeath's Gas Mask
