@@ -17,7 +17,7 @@ lockers unlocked: 12
 cash total: 0
 cash acquired this run: 0
 [send traps] uses: 2
-finished players (8):
+finished players (9):
 - Deathclaw99TS
 - Lojtana
 - FloriTerra
@@ -270,7 +270,6 @@ finished players (8):
     Deathclaw99OOT | Hylian Shield
     Deathclaw99OOT | Zora Tunic
     ConnorHK | Dirtmouth_Stag
- ~ all above this has been obtained ~ vault keys: 78 ~
     superTUNCEndless | Lantern
     superMessEndless | Second Wind
     superTUNCEndless | Magic Dagger
@@ -290,6 +289,7 @@ finished players (8):
     numRogueINSCRYPT | Mrs. Bomb's Remote
     ThatFirey | Whiplash
     Grim-aHiT | Badge Pin
+ ~ all above this has been obtained ~ vault keys: 97 ~
     jf-time | Empire Crown
     superUTEndless | Snowman Piece
     SynRegret | Functioning Brain
@@ -456,8 +456,6 @@ heshpseudo's Major Key - Sansa Keep
 Kritzmaker's Whiplash
 HPfunmanBS's Wall Climb Ability
 HPfunmanBS's Blood Perpetuated in Sand
-Char Dream Bros's Hammers (Red)
-MauveMuse's Music Sheet (2)
 MauvePenitent's Wall Climb Ability
 CoolGuyCompany's Titan
 superTUNCEndless's Magic Orb
@@ -467,21 +465,15 @@ rhythm.LiquiirU8's shop prog 2
 GodlFireALTTP's Hammer
 jf-time's Timespinner Gear 1
 jf-muse's Music Sheet (2)
-Grim-SA2's Yellow Chaos Emerald
-Iridium's Morph Ball
-Iridium's Gravity Suit
 
 ### useful
 
-again.mp3's Heavy_Blow / Autumn Season Change
 automate.mp3's concrete / Recipe: Rubber (Sword Upgrade)
 SylskoTunic's Magic Dagger
-SynRegret's Puzzle Skip (2)
 ThatFirey's Knuckleblaster
 CaesiusSM64's Cannon Unlock JRB
 mars.'s Soul_Eater
 mars.'s Quick_Slash
-mars three.'s Galaxy Earrings
 TripleSDV's Progressive Coop
 HatKillsDrago's Relic (Crayon Box)
 Alex230-Doom's Automap
@@ -496,13 +488,9 @@ heshmuda's Random Song (2)
 heshut's Ruins Key
 Kritzmaker's Nailgun - Attractor
 JudosiiOOT's Nayrus Love
-Char Dream Bros's Luiginary Sneeze Wind (Orange)
-Char Dream Bros's Ball Hop (Green)
 MauveMuse's Random Song (2)
 MauvePenitent's Linen of Golden Thread
 MauvePenitent's Nail Uprooted from Dirt
-coolhollowguy's Hiveblood
-coolhollowguy's Great_Slash
 CoolGuyCompany's Extension ladder
 numRogueINSCRYPT's Ourobot Card
 rhythm.BeerusU7's shop useful 1
@@ -510,7 +498,6 @@ GodlFireALTTP's Magic Powder
 jf-muse's Paradise 2
 Grim-Muse's Random Song (2)
 Grim-SA2's Rouge - Treasure Scope
-StormHK's Isma's_Tear
 
 ## purchased
 
@@ -556,13 +543,11 @@ Char Past's Cane of Somaria
 Char Past's Hookshot
 Char Forgotten's Cone Mouth
 Char Forgotten's Stairs Mouth
-Char Dream Bros's Mini Mario (Yellow)
 MauveMuse's Music Sheet
+MauveMuse's Music Sheet (2)
 MauvePenitent's Purified Hand of the Nun
 FKKirby's Copy Ability - Hammer
 FKKirby's Copy Ability - Starship
-coolhollowguy's Mothwing_Cloak
-coolhollowguy's Desolate_Dive
 CoolGuyCompany's Company Building
 numgasRogueTUNIC's Pages 24-25 (Prayer)
 numgasRogueTUNIC's Pages 42-43 (Holy Cross)
@@ -581,22 +566,27 @@ Grim-aHiT's Umbrella
 Grim-aHiT's Hookshot Badge
 Grim-Muse's Music Sheet
 Grim-Muse's Music Sheet (2)
+Grim-SA2's Yellow Chaos Emerald
 Grim-SA2's Knuckles - Shovel Claws
+Iridium's Morph Ball
+Iridium's Gravity Suit
 StormHK's Focus
 StormHK's Dream_Nail
-StormTW's Shapers
 StormTW's Black/White Squares
+StormTW's Shapers
 StormC64's Climb
 StormC64's Ground Dash
 
 ### useful
 
 again.mp3's Shaman_Stone / Winter Season Change
+again.mp3's Heavy_Blow / Autumn Season Change
 automate.mp3's uranium-ammo / Inflated Pocket Dimension (Magic Wand)
 SylskoTunic's Anklet
 SynRogue's Eternal Crown
 SynRogue's Shattered Orb
 SynRegret's Puzzle Skip
+SynRegret's Puzzle Skip (2)
 Soleyeer's Projectile Badge
 Soleyeer's Sprint Hat
 ThatFirey's Rocket Launcher - Freezeframe
@@ -604,6 +594,7 @@ CaesiusHatPast's Hover Badge / Hookshot
 CaesiusHatPast's Item Magnet Badge / Magic Mirror
 CaesiusSM64's Kick
 mars three.'s Selen's Bangle
+mars three.'s Galaxy Earrings
 TripleSDV's Progressive Fishing Rod
 HatKillsDrago's Time Stop Hat
 BroneySM's Bomb
@@ -650,6 +641,7 @@ Grim-Muse's Random Song
 Grim-SA2's Knuckles - Sunglasses
 Iridium's Grappling Beam
 Iridium's Energy Tank
+StormHK's Isma's_Tear
 StormHK's Shaman_Stone
 StormTW's Puzzle Skip
 StormTW's Puzzle Skip (2)
@@ -694,3 +686,11 @@ DragoSpinsDeath's Water Mask
 DragoSpinsDeath's Security Keycard D
 DragoSpinsDeath's Plasma Orb
 DragoSpinsDeath's Gas Mask
+coolhollowguy's Mothwing_Cloak
+coolhollowguy's Desolate_Dive
+coolhollowguy's Hiveblood
+coolhollowguy's Great_Slash
+Char Dream Bros's Hammers (Red)
+Char Dream Bros's Mini Mario (Yellow)
+Char Dream Bros's Luiginary Sneeze Wind (Orange)
+Char Dream Bros's Ball Hop (Green)

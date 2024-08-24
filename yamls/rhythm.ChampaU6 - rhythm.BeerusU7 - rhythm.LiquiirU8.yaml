@@ -32,7 +32,7 @@ Jak and Daxter The Precursor Legacy: # Deathlink is an ingame setting, apparentl
     # you will add 8 items to the pool.
     'off': 0
     per_level: 1
-    global: 2
+    global: 0
 
   global_orbsanity_bundle_size:
     # Set the orb bundle size for Global Orbsanity. This only applies if "Enable Orbsanity" is set to "Global."
@@ -61,12 +61,12 @@ Jak and Daxter The Precursor Legacy: # Deathlink is an ingame setting, apparentl
   level_orbsanity_bundle_size:
     # Set the orb bundle size for Per Level Orbsanity. This only applies if "Enable Orbsanity" is set to "Per Level."
     # There are 50, 150, or 200 orbs per level, so your bundle size must be a factor of 50.
-    1_orb: 1
-    2_orbs: 1
+    1_orb: 0
+    2_orbs: 0
     5_orbs: 1
-    10_orbs: 0
-    25_orbs: 0
-    50_orbs: 0
+    10_orbs: 1
+    25_orbs: 1
+    50_orbs: 1
   fire_canyon_cell_count: random-low #20
   mountain_pass_cell_count: random #45
   lava_tube_cell_count: random #72
@@ -1269,7 +1269,7 @@ Jak and Daxter The Precursor Legacy: # Deathlink is an ingame setting, apparentl
     # you will add 8 items to the pool.
     'off': 0
     per_level: 1
-    global: 2
+    global: 0
 
   global_orbsanity_bundle_size:
     # Set the orb bundle size for Global Orbsanity. This only applies if "Enable Orbsanity" is set to "Global."
@@ -1298,12 +1298,12 @@ Jak and Daxter The Precursor Legacy: # Deathlink is an ingame setting, apparentl
   level_orbsanity_bundle_size:
     # Set the orb bundle size for Per Level Orbsanity. This only applies if "Enable Orbsanity" is set to "Per Level."
     # There are 50, 150, or 200 orbs per level, so your bundle size must be a factor of 50.
-    1_orb: 1
-    2_orbs: 1
+    1_orb: 0
+    2_orbs: 0
     5_orbs: 1
-    10_orbs: 0
-    25_orbs: 0
-    50_orbs: 0
+    10_orbs: 1
+    25_orbs: 1
+    50_orbs: 1
   fire_canyon_cell_count: random-low #20
   mountain_pass_cell_count: random #45
   lava_tube_cell_count: random #72
@@ -2507,7 +2507,7 @@ Jak and Daxter The Precursor Legacy: # Deathlink is an ingame setting, apparentl
     # you will add 8 items to the pool.
     'off': 0
     per_level: 1
-    global: 2
+    global: 0
 
   global_orbsanity_bundle_size:
     # Set the orb bundle size for Global Orbsanity. This only applies if "Enable Orbsanity" is set to "Global."
@@ -2536,8 +2536,8 @@ Jak and Daxter The Precursor Legacy: # Deathlink is an ingame setting, apparentl
   level_orbsanity_bundle_size:
     # Set the orb bundle size for Per Level Orbsanity. This only applies if "Enable Orbsanity" is set to "Per Level."
     # There are 50, 150, or 200 orbs per level, so your bundle size must be a factor of 50.
-    1_orb: 1
-    2_orbs: 0
+    1_orb: 0
+    2_orbs: 1
     5_orbs: 0
     10_orbs: 0
     25_orbs: 0
@@ -2547,6 +2547,16 @@ Jak and Daxter The Precursor Legacy: # Deathlink is an ingame setting, apparentl
   lava_tube_cell_count: random #72
   jak_completion_condition: cross_lava_tube
   plando_items:
+    - items:
+        Bundle of 2 Precursor Orbs: true
+      world:
+        - rhythm.ChampaU6
+        - rhythm.BeerusU7
+        - rhythm.LiquiirU8
+      count:
+        min: 400
+        max: 750
+      force: false
     - item:
         Fisherman's Boat: 1
       location: rhythm.LiquiirU8's shop prog 1
@@ -3394,7 +3404,7 @@ Super Mario 64:
     courses_and_secrets_separate: 1
     courses_and_secrets: 1
   buddy_checks: true
-  exclamation_boxes: true
+  exclamation_boxes: 1ups_only
   progressive_keys: false
   enable_coin_stars: true
   enable_move_rando: random

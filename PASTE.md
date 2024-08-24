@@ -10,7 +10,7 @@ shops have 6 items, and are restocked daily
 
 `send out 2 major and minor shop items` (6 cost, 1 hour) ~ 2 in stock
 `obtain 2 Vault Keys` (7 cost, 4 hour) ~ 2 in stock
-`send out 7 filler items and 2 traps` (3 cost) ~ 3 in stock
+`send out 7 filler items and 1 trap` (2 cost) ~ 3 in stock
 `replenish half (rounded down) of missing lives` (6 cost, 8 hours) ~ 1 in stock
 `open two vault lockers with unknown contents` (3 cost) ~ 2 in stock
 `one random slot does not lower the amount of lives when they send a death` (6 cost) ~ 1 in stock

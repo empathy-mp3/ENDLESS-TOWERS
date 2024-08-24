@@ -126,6 +126,8 @@ StormC64
 /release WidowRain61
 /release Deathclaw99OOT
 /release DragoSpinsDeath
+/release Char Puzzle
+/release coolhollowguy
 /collect Deathclaw99TS
 /collect Lojtana
 /collect FloriTerra
@@ -135,3 +137,5 @@ StormC64
 /collect WidowRain61
 /collect Deathclaw99OOT
 /collect DragoSpinsDeath
+/collect Char Puzzle
+/collect coolhollowguy
