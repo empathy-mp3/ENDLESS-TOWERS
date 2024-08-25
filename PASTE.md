@@ -1,6 +1,6 @@
 shops have 6 items, and are restocked daily
 - one is always a permanent +1 life (1, 3, 5, 7, 9...) 1 stock
-- one is halved hint cost (2, 4, 9, 15, 33, 29, 26, 60). the hint costs themselves go: (100, 50, 25, 12.5 (13), 6.25 (6), 3.125 (3), 1.5625 (2), 0.78125 (1), 0.390625 (0)) 1 stock
+- one is halved hint cost (2, 4, 9, 15, 33, 29, 26). the hint costs themselves go: (100, 50, 25, 12.5 (13), 6.25 (6), 3.125 (3), 1.5625 (2), 0.78125 (1)) 1 stock
 - two are major progression items (5, +1 per finished player) 1 stock each
 - two are useful/minor progression items (2 cost) 1 stock
 - cash and key starting hints are (1, 2, 3, 4, 5...) 1 stock
@@ -15,7 +15,7 @@ shops have 6 items, and are restocked daily
 `open two vault lockers with unknown contents` (3 cost) ~ 2 in stock
 `one random slot does not lower the amount of lives when they send a death` (6 cost) ~ 1 in stock
 `a specific enemy of your choice does not lower the amount of lives when it is the cause of death` (3 cost) ~ 1 in stock
-`fairy (upon the run ending, instead it continues with half, rounded down, of max lives)` (25 cost) ~ 1 in stock
+`fairy (upon the run ending, instead it continues with half, rounded down, of max lives)` (30 cost) ~ 1 in stock
 `1% hint cost` (9 cost) ~ 1 in stock
 
 # the shop (day )
@@ -29,7 +29,7 @@ current Cold Hard Cash: 0
 
 here are the wares!
 
-`+1 additional life` (19 cost) ~ 1 in stock
+`+1 additional life` (21 cost) ~ 1 in stock
 `halved hint cost` (33 cost) ~ 1 in stock
 `major shop item 1` (5 cost) ~ 1 in stock
 `major shop item 2` (5 cost) ~ 1 in stock

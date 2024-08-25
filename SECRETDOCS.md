@@ -27,6 +27,12 @@ finished players (9):
 - WidowRain61
 - Deathclaw99SM64
 - DragoSpinsDeath
+- GodlfireALTTP 
+- CaesiusHatPast
+- Char Past      
+- jf-time       
+- jf-muse       
+- heshmuda
 
 # submission items
 
@@ -107,7 +113,7 @@ finished players (9):
 | Soleyeer         | Brewing Hat                  | Time Stop Hat            | Fast Hatter Badge                 | Projectile Badge              | Sprint Hat                            |
 | ThatFirey        | Revolver - Marksman          | Shotgun - Pump Charge    | Railcannon - Electric             | Rocket Launcher - Freezeframe | Knuckleblaster                        |
 | CaesiusHatPast   | Badge Pin                    | Fast Hatter Badge        | Badge Pin                         | Item Magnet Badge             | Hover Badge                           |
-| CaesiusHatPast   | Flute                        | Half Magic               | Bug Catching Net                  | Magic Mirror                  | Hookshot                              |
+| CaesiusHatPast   | Flute                        | Magic Upgrade (1/2)      | Bug Catching Net                  | Magic Mirror                  | Hookshot                              |
 | CaesiusSM64      | Ground Pound                 | Cannon Unlock WF         | Power Star                        | Cannon Unlock JRB             | Kick                                  |
 | mars.            | Fragile_Strength             | Shade_Soul               | Shaman_Stone                      | Soul_Eater                    | Quick_Slash                           |
 | mars three.      | Eternal Crown                | Talaria Attachment       | Eternal Coat                      | Selen's Bangle                | Galaxy Earrings                       |
@@ -289,7 +295,6 @@ finished players (9):
     numRogueINSCRYPT | Mrs. Bomb's Remote
     ThatFirey | Whiplash
     Grim-aHiT | Badge Pin
- ~ all above this has been obtained ~ vault keys: 97 ~
     jf-time | Empire Crown
     superUTEndless | Snowman Piece
     SynRegret | Functioning Brain
@@ -322,12 +327,13 @@ finished players (9):
     Deathclaw99OOT | Progressive Wallet
     MauvePenitent | Three Gnarled Tongues
     SylskoTunic | Gun
+ ~ all above this has been obtained ~ vault keys: 129 ~
     Deathclaw99OOT | Progressive Hookshot
     Char Forgotten | Progressive Bomb Ability
     CaesiusSM64 | Ground Pound
     coolhollowguy | Cyclone_Slash
     Alex230-Doom | Allow Using Yellow Key
-    CaesiusHatPast | Fast Hatter Badge / Half Magic
+    CaesiusHatPast | Fast Hatter Badge / Magic Upgrade (1/2)
     heshpseudo | Small Key
     Alex230-Doom | Allow Using Red Key
     SylskoTunic | Magic Orb
@@ -443,11 +449,7 @@ finished players (9):
 again.mp3's Desolate_Dive / Tent
 again.mp3's Lumafly_Lantern / Boards
 automate.mp3's progressive-science-pack / Building: AWESOME Shop (Hero's Laurels)
-SynRogue's Celestial Sash
-SynRogue's Water Mask
-SynRegret's Progressive Dots
 ThatFirey's Wall Jump
-CaesiusHatPast's Hookshot Badge / Moon Pearl
 mars three.'s Water Mask
 TripleSDV's Progressive Season (2)
 BroneyFactorio's progressive-science-pack
@@ -456,15 +458,11 @@ heshpseudo's Major Key - Sansa Keep
 Kritzmaker's Whiplash
 HPfunmanBS's Wall Climb Ability
 HPfunmanBS's Blood Perpetuated in Sand
-MauvePenitent's Wall Climb Ability
 CoolGuyCompany's Titan
 superTUNCEndless's Magic Orb
 superTUNCEndless's Scavenger Mask
 rhythm.ChampaU6's shop prog 2
 rhythm.LiquiirU8's shop prog 2
-GodlFireALTTP's Hammer
-jf-time's Timespinner Gear 1
-jf-muse's Music Sheet (2)
 
 ### useful
 
@@ -476,26 +474,19 @@ mars.'s Soul_Eater
 mars.'s Quick_Slash
 TripleSDV's Progressive Coop
 HatKillsDrago's Relic (Crayon Box)
-Alex230-Doom's Automap
 Alex230-Doom's Allow Using Exit
 BroneyLTTP's Cane of Byrna
 BroneyLTTP's Magic Mirror
 BroneyFactorio's concrete
-BroneyFactorio's progressive-armor
 heshpseudo's Ascendant Light
-heshpseudo's Slide
-heshmuda's Random Song (2)
 heshut's Ruins Key
 Kritzmaker's Nailgun - Attractor
 JudosiiOOT's Nayrus Love
-MauveMuse's Random Song (2)
 MauvePenitent's Linen of Golden Thread
 MauvePenitent's Nail Uprooted from Dirt
 CoolGuyCompany's Extension ladder
 numRogueINSCRYPT's Ourobot Card
 rhythm.BeerusU7's shop useful 1
-GodlFireALTTP's Magic Powder
-jf-muse's Paradise 2
 Grim-Muse's Random Song (2)
 Grim-SA2's Rouge - Treasure Scope
 
@@ -506,11 +497,13 @@ Grim-SA2's Rouge - Treasure Scope
 automate.mp3's progressive-science-pack / Building: Refinery (Magic Orb)
 SylskoTunic's Pages 24-25 (Prayer)
 SylskoTunic's Hero's Laurels
+SynRogue's Celestial Sash
+SynRogue's Water Mask
+SynRegret's Progressive Dots
 SynRegret's Shapers
 Soleyeer's Hookshot Badge
 Soleyeer's Dweller Mask
 ThatFirey's Stamina Bar
-CaesiusHatPast's Umbrella / Hammer
 CaesiusSM64's Side Flip
 CaesiusSM64's Wall Kick
 mars.'s Desolate_Dive
@@ -519,15 +512,13 @@ mars three.'s Celestial Sash
 TripleSDV's Progressive Season
 HatKillsDrago's Ice Hat
 HatKillsDrago's Yarn
-Alex230-Doom's Allow Leaving Start Location
 Alex230-Doom's Free Saves and Loads
+Alex230-Doom's Allow Leaving Start Location
 BroneyLTTP's Lamp
 BroneyLTTP's Moon Pearl
 BroneySM's Morph Ball
 BroneySM's Varia Suit
 heshpseudo's Sunsetter
-heshmuda's Music Sheet
-heshmuda's Music Sheet (2)
 heshut's Hotland Key
 heshut's Waterfall Key
 sheen_pr's Sun Greaves
@@ -539,13 +530,12 @@ ConnorHK's Vengeful_Spirit
 ConnorHK's Mothwing_Cloak
 HPfunmanKH's Green Trinity
 HPfunmanKH's Hollow Bastion
-Char Past's Cane of Somaria
-Char Past's Hookshot
 Char Forgotten's Cone Mouth
 Char Forgotten's Stairs Mouth
 MauveMuse's Music Sheet
 MauveMuse's Music Sheet (2)
 MauvePenitent's Purified Hand of the Nun
+MauvePenitent's Wall Climb Ability
 FKKirby's Copy Ability - Hammer
 FKKirby's Copy Ability - Starship
 CoolGuyCompany's Company Building
@@ -559,9 +549,6 @@ rhythm.ChampaU6's shop prog 1
 rhythm.BeerusU7's shop prog 1
 rhythm.BeerusU7's shop prog 2
 rhythm.LiquiirU8's shop prog 1
-GodlFireALTTP's Progressive Glove
-jf-time's Timespinner Gear 2
-jf-muse's Music Sheet
 Grim-aHiT's Umbrella
 Grim-aHiT's Hookshot Badge
 Grim-Muse's Music Sheet
@@ -590,16 +577,16 @@ SynRegret's Puzzle Skip (2)
 Soleyeer's Projectile Badge
 Soleyeer's Sprint Hat
 ThatFirey's Rocket Launcher - Freezeframe
-CaesiusHatPast's Hover Badge / Hookshot
-CaesiusHatPast's Item Magnet Badge / Magic Mirror
 CaesiusSM64's Kick
 mars three.'s Selen's Bangle
 mars three.'s Galaxy Earrings
 TripleSDV's Progressive Fishing Rod
 HatKillsDrago's Time Stop Hat
+Alex230-Doom's Automap
+BroneyFactorio's progressive-armor
 BroneySM's Bomb
 BroneySM's Wave Beam
-heshmuda's Random Song
+heshpseudo's Slide
 heshut's Core Key
 sheen_pr's Health Piece
 sheen_pr's Health Piece (2)
@@ -611,11 +598,10 @@ HPfunmanKH's Progressive Cure
 HPfunmanKH's Accessory Slot Increase     
 HPfunmanBS's Mea Culpa Upgrade
 HPfunmanBS's Tiento to your Thorned Hairs
-Char Past's Bombos
-Char Past's Lamp
 Char Forgotten's Progressive Sword Ability
 Char Forgotten's Progressive Fire Ability
 MauveMuse's Random Song
+MauveMuse's Random Song (2)
 FKKirby's Copy Ability - Paint
 FKKirby's Copy Ability - Crash
 CoolGuyCompany's Jetpack
@@ -631,10 +617,6 @@ rhythm.ChampaU6's shop useful 2
 rhythm.BeerusU7's shop useful 2
 rhythm.LiquiirU8's shop useful 1
 rhythm.LiquiirU8's shop useful 2
-GodlFireALTTP's Progressive Mail
-jf-time's Library Keycard V
-jf-time's Succubus Hairpin
-jf-muse's Jealousy
 Grim-aHiT's Fast Hatter Badge
 Grim-aHiT's No Bonk Badge
 Grim-Muse's Random Song
@@ -694,3 +676,27 @@ Char Dream Bros's Hammers (Red)
 Char Dream Bros's Mini Mario (Yellow)
 Char Dream Bros's Luiginary Sneeze Wind (Orange)
 Char Dream Bros's Ball Hop (Green)
+GodlFireALTTP's Progressive Glove
+GodlFireALTTP's Hammer
+GodlFireALTTP's Progressive Mail
+GodlFireALTTP's Magic Powder
+CaesiusHatPast's Umbrella / Hammer
+CaesiusHatPast's Hookshot Badge / Moon Pearl
+CaesiusHatPast's Item Magnet Badge / Magic Mirror
+CaesiusHatPast's Hover Badge / Hookshot
+Char Past's Bombos
+Char Past's Lamp
+Char Past's Cane of Somaria
+Char Past's Hookshot
+jf-time's Timespinner Gear 1
+jf-time's Timespinner Gear 2
+jf-time's Library Keycard V
+jf-time's Succubus Hairpin
+jf-muse's Music Sheet
+jf-muse's Music Sheet (2)
+jf-muse's Paradise 2
+jf-muse's Jealousy
+heshmuda's Music Sheet
+heshmuda's Music Sheet (2)
+heshmuda's Random Song
+heshmuda's Random Song (2)

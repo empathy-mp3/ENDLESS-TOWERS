@@ -317,9 +317,9 @@ Super Metroid:
     # Vanilla: regular vanilla Tourian
     # Fast: speed up Tourian to skip Metroids, Zebetites, and all cutscenes (including Mother Brain 3 fight). Golden Four statues are replaced by an invincible Gadora until all objectives are completed.
     # Disabled: skip Tourian entirely, ie. escape sequence is triggered as soon as all objectives are completed.
-    vanilla: 0
-    fast: 50
-    disabled: 0
+    vanilla: 10
+    fast: 30
+    disabled: 10
 
   custom_objective:
     # Use randomized custom objectives. You can choose which objectives are available for the randomizer to choose from. If enabled, the randomizer 
@@ -684,15 +684,15 @@ A Link to the Past:
     # Full: Like Restricted, but all Dungeon entrances are shuffled with all non-Dungeon entrances.
     # Crossed: Like Full, but interiors with multiple entrances are no longer confined to the same world, which may allow crossing worlds.
     # Insanity: Like Crossed, but entrances and exits may be decoupled from each other, so that leaving through an exit may not return you to the entrance you entered from.
-    vanilla: 50
-    dungeons_simple: 10
+    vanilla: 30
+    dungeons_simple: 15
     dungeons_full: 10
-    dungeons_crossed: 0
+    dungeons_crossed: 10
     simple: 10
-    restricted: 5
-    full: 5
-    crossed: 2
-    insanity: 1
+    restricted: 10
+    full: 10
+    crossed: 10
+    insanity: 5
 
   entrance_shuffle_seed:
     # You can specify a number to use as an entrance shuffle seed, or a group name. Everyone with the same group name
@@ -1367,8 +1367,8 @@ Factorio:
   silo:
     # Ingredients to craft rocket silo or auto-place if set to spawn.
     vanilla: 0
-    randomize_recipe: 50
-    spawn: 10
+    randomize_recipe: 20
+    spawn: 20
 
   satellite:
     # Ingredients to craft satellite.
@@ -1393,9 +1393,9 @@ Factorio:
 
   starting_items:
     # Mapping of Factorio internal item-name to amount granted on start.
-    burner-mining-drill: 4
+    burner-mining-drill: 20
     raw-fish: 50
-    stone-furnace: 4
+    stone-furnace: 20
 
   free_sample_blacklist:
     # Set of items that should never be granted from Free Samples

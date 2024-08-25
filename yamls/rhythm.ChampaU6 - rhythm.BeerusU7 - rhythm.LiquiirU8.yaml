@@ -5,7 +5,7 @@ game: # Champa Modifier: All games and chances equalized within reason.
   Inscryption: 1
   Metroid Prime: 2
   Minit: 1
-  Monster Sanctuary: 2
+  Monster Sanctuary: 0
   Pseudoregalia: 1
   Sonic Adventure DX: 2
   Sonic Adventure 2 Battle: 2
@@ -359,7 +359,7 @@ Monster Sanctuary:
     ability: 1
     species: 1
   eggsanity: true
-  shopsanity: true
+  shopsanity: false
   shopsanity_prices: weighted
   shops_ignore_rank: true # fails gen on false last I checked, don't wanna cause gen fails!
   monster_army: true
@@ -1241,7 +1241,7 @@ game: # Beerus Modifier: Plays main games more often.
   Inscryption: 1
   Metroid Prime: 4
   Minit: 3
-  Monster Sanctuary: 9
+  Monster Sanctuary: 0
   Pseudoregalia: 2
   Sonic Adventure DX: 7
   Sonic Adventure 2 Battle: 5
@@ -1596,7 +1596,7 @@ Monster Sanctuary:
     ability: 1
     species: 1
   eggsanity: true
-  shopsanity: true
+  shopsanity: false
   shopsanity_prices: weighted
   shops_ignore_rank: true # fails gen on false last I checked, don't wanna cause gen fails!
   monster_army: true
@@ -2479,7 +2479,7 @@ game: # Liquiir Modifier: Max Sanity (Replaced gimmick) - Games are weighted by 
   Inscryption: 2 # 100 checks
   Metroid Prime: 2 # 100 checks
   Minit: 1 # 50 checks
-  Monster Sanctuary: 7 # 800+ checks
+  Monster Sanctuary: 0 # 800+ checks
   Pseudoregalia: 1 # 50 checks iirc
   Sonic Adventure DX: 4 # like 300+
   Sonic Adventure 2 Battle: 4 # like 300+
@@ -2537,9 +2537,9 @@ Jak and Daxter The Precursor Legacy: # Deathlink is an ingame setting, apparentl
     # Set the orb bundle size for Per Level Orbsanity. This only applies if "Enable Orbsanity" is set to "Per Level."
     # There are 50, 150, or 200 orbs per level, so your bundle size must be a factor of 50.
     1_orb: 0
-    2_orbs: 1
-    5_orbs: 0
-    10_orbs: 0
+    2_orbs: 0
+    5_orbs: 1
+    10_orbs: 1
     25_orbs: 0
     50_orbs: 0
   fire_canyon_cell_count: random-low #20
@@ -2547,16 +2547,6 @@ Jak and Daxter The Precursor Legacy: # Deathlink is an ingame setting, apparentl
   lava_tube_cell_count: random #72
   jak_completion_condition: cross_lava_tube
   plando_items:
-    - items:
-        Bundle of 2 Precursor Orbs: true
-      world:
-        - rhythm.ChampaU6
-        - rhythm.BeerusU7
-        - rhythm.LiquiirU8
-      count:
-        min: 400
-        max: 750
-      force: false
     - item:
         Fisherman's Boat: 1
       location: rhythm.LiquiirU8's shop prog 1
@@ -2844,7 +2834,7 @@ Monster Sanctuary:
     ability: 1
     species: 1
   eggsanity: true
-  shopsanity: true
+  shopsanity: false
   shopsanity_prices: weighted
   shops_ignore_rank: true # fails gen on false last I checked, don't wanna cause gen fails!
   monster_army: true
