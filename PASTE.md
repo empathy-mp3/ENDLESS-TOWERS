@@ -8,11 +8,11 @@ shops have 6 items, and are restocked daily
 
 # shop temp items
 
-`send out 2 major and minor shop items` (6 cost, 1 hour) ~ 2 in stock
+`send out 2 major and minor shop items` (6 cost) ~ 2 in stock
 `obtain 2 Vault Keys` (7 cost, 4 hour) ~ 2 in stock
-`send out 7 filler items and 1 trap` (2 cost) ~ 3 in stock
+`send out 6 filler items` (2 cost) ~ 3 in stock
 `replenish half (rounded down) of missing lives` (6 cost, 8 hours) ~ 1 in stock
-`open two vault lockers with unknown contents` (3 cost) ~ 2 in stock
+`open two random unopened vault lockers` (3 cost) ~ 2 in stock
 `one random slot does not lower the amount of lives when they send a death` (6 cost) ~ 1 in stock
 `a specific enemy of your choice does not lower the amount of lives when it is the cause of death` (3 cost) ~ 1 in stock
 `fairy (upon the run ending, instead it continues with half, rounded down, of max lives)` (30 cost) ~ 1 in stock
@@ -29,8 +29,8 @@ current Cold Hard Cash: 0
 
 here are the wares!
 
-`+1 additional life` (21 cost) ~ 1 in stock
-`halved hint cost` (33 cost) ~ 1 in stock
+`+1 additional life` (25 cost) ~ 1 in stock
+`halved hint cost` (29 cost) ~ 1 in stock
 `major shop item 1` (5 cost) ~ 1 in stock
 `major shop item 2` (5 cost) ~ 1 in stock
 `major shop item 3` (5 cost) ~ 1 in stock

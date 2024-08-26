@@ -130,9 +130,13 @@ StormC64
 /release coolhollowguy   
 /release GodlfireALTTP   
 /release CaesiusHatPast  
-/release Char Past        
+/release Char Past       
 /release jf-time         
 /release jf-muse         
+/release Soleyeer  
+/release CaesiusSM64  
+/release rhythm.ChampaU6  
+/release Iridium
 /collect Deathclaw99TS   
 /collect Lojtana         
 /collect FloriTerra      
@@ -146,6 +150,10 @@ StormC64
 /collect coolhollowguy   
 /collect GodlfireALTTP   
 /collect CaesiusHatPast  
-/collect Char Past        
+/collect Char Past       
 /collect jf-time         
 /collect jf-muse         
+/collect Soleyeer  
+/collect CaesiusSM64  
+/collect rhythm.ChampaU6  
+/collect Iridium

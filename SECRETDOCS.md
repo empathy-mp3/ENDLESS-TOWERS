@@ -327,7 +327,6 @@ finished players (9):
     Deathclaw99OOT | Progressive Wallet
     MauvePenitent | Three Gnarled Tongues
     SylskoTunic | Gun
- ~ all above this has been obtained ~ vault keys: 129 ~
     Deathclaw99OOT | Progressive Hookshot
     Char Forgotten | Progressive Bomb Ability
     CaesiusSM64 | Ground Pound
@@ -362,6 +361,7 @@ finished players (9):
     BroneyLTTP | Progressive Bow
     Grim-SA2 | Eggman - Protective Armor
     numgasRogueTUNIC | Sword Upgrade
+ ~ all above this has been obtained ~ vault keys: 163 ~
     jf-muse | OBLIVION
     CaesiusHatPast | Badge Pin / Bug Catching Net
     WidowRain61 | Boss Item
@@ -448,43 +448,27 @@ finished players (9):
 
 again.mp3's Desolate_Dive / Tent
 again.mp3's Lumafly_Lantern / Boards
-automate.mp3's progressive-science-pack / Building: AWESOME Shop (Hero's Laurels)
-ThatFirey's Wall Jump
-mars three.'s Water Mask
-TripleSDV's Progressive Season (2)
 BroneyFactorio's progressive-science-pack
 BroneyFactorio's progressive-science-pack (2)
 heshpseudo's Major Key - Sansa Keep
-Kritzmaker's Whiplash
 HPfunmanBS's Wall Climb Ability
-HPfunmanBS's Blood Perpetuated in Sand
 CoolGuyCompany's Titan
-superTUNCEndless's Magic Orb
 superTUNCEndless's Scavenger Mask
-rhythm.ChampaU6's shop prog 2
 rhythm.LiquiirU8's shop prog 2
 
 ### useful
 
-automate.mp3's concrete / Recipe: Rubber (Sword Upgrade)
 SylskoTunic's Magic Dagger
 ThatFirey's Knuckleblaster
-CaesiusSM64's Cannon Unlock JRB
 mars.'s Soul_Eater
 mars.'s Quick_Slash
 TripleSDV's Progressive Coop
 HatKillsDrago's Relic (Crayon Box)
 Alex230-Doom's Allow Using Exit
-BroneyLTTP's Cane of Byrna
 BroneyLTTP's Magic Mirror
-BroneyFactorio's concrete
-heshpseudo's Ascendant Light
 heshut's Ruins Key
 Kritzmaker's Nailgun - Attractor
-JudosiiOOT's Nayrus Love
-MauvePenitent's Linen of Golden Thread
 MauvePenitent's Nail Uprooted from Dirt
-CoolGuyCompany's Extension ladder
 numRogueINSCRYPT's Ourobot Card
 rhythm.BeerusU7's shop useful 1
 Grim-Muse's Random Song (2)
@@ -495,21 +479,21 @@ Grim-SA2's Rouge - Treasure Scope
 ### progressive
 
 automate.mp3's progressive-science-pack / Building: Refinery (Magic Orb)
+automate.mp3's progressive-science-pack / Building: AWESOME Shop (Hero's Laurels)
 SylskoTunic's Pages 24-25 (Prayer)
 SylskoTunic's Hero's Laurels
 SynRogue's Celestial Sash
 SynRogue's Water Mask
 SynRegret's Progressive Dots
 SynRegret's Shapers
-Soleyeer's Hookshot Badge
-Soleyeer's Dweller Mask
 ThatFirey's Stamina Bar
-CaesiusSM64's Side Flip
-CaesiusSM64's Wall Kick
+ThatFirey's Wall Jump
 mars.'s Desolate_Dive
 mars.'s Focus
 mars three.'s Celestial Sash
+mars three.'s Water Mask
 TripleSDV's Progressive Season
+TripleSDV's Progressive Season (2)
 HatKillsDrago's Ice Hat
 HatKillsDrago's Yarn
 Alex230-Doom's Free Saves and Loads
@@ -519,17 +503,20 @@ BroneyLTTP's Moon Pearl
 BroneySM's Morph Ball
 BroneySM's Varia Suit
 heshpseudo's Sunsetter
+heshpseudo's Ascendant Light
 heshut's Hotland Key
 heshut's Waterfall Key
 sheen_pr's Sun Greaves
 sheen_pr's Cling Gem
 Kritzmaker's Revolver - Marksman
+Kritzmaker's Whiplash
 JudosiiOOT's Progressive Hookshot
 JudosiiOOT's Bomb Bag
 ConnorHK's Vengeful_Spirit
 ConnorHK's Mothwing_Cloak
 HPfunmanKH's Green Trinity
 HPfunmanKH's Hollow Bastion
+HPfunmanBS's Blood Perpetuated in Sand
 Char Forgotten's Cone Mouth
 Char Forgotten's Stairs Mouth
 MauveMuse's Music Sheet
@@ -543,9 +530,9 @@ numgasRogueTUNIC's Pages 24-25 (Prayer)
 numgasRogueTUNIC's Pages 42-43 (Holy Cross)
 numRogueINSCRYPT's Inspectometer Battery
 numRogueINSCRYPT's Gems Module
+superTUNCEndless's Magic Orb
 superUTEndless's Waterfall Key
 superUTEndless's Mettaton Plush
-rhythm.ChampaU6's shop prog 1
 rhythm.BeerusU7's shop prog 1
 rhythm.BeerusU7's shop prog 2
 rhythm.LiquiirU8's shop prog 1
@@ -555,8 +542,6 @@ Grim-Muse's Music Sheet
 Grim-Muse's Music Sheet (2)
 Grim-SA2's Yellow Chaos Emerald
 Grim-SA2's Knuckles - Shovel Claws
-Iridium's Morph Ball
-Iridium's Gravity Suit
 StormHK's Focus
 StormHK's Dream_Nail
 StormTW's Black/White Squares
@@ -569,21 +554,21 @@ StormC64's Ground Dash
 again.mp3's Shaman_Stone / Winter Season Change
 again.mp3's Heavy_Blow / Autumn Season Change
 automate.mp3's uranium-ammo / Inflated Pocket Dimension (Magic Wand)
+automate.mp3's concrete / Recipe: Rubber (Sword Upgrade)
 SylskoTunic's Anklet
 SynRogue's Eternal Crown
 SynRogue's Shattered Orb
 SynRegret's Puzzle Skip
 SynRegret's Puzzle Skip (2)
-Soleyeer's Projectile Badge
-Soleyeer's Sprint Hat
 ThatFirey's Rocket Launcher - Freezeframe
-CaesiusSM64's Kick
 mars three.'s Selen's Bangle
 mars three.'s Galaxy Earrings
 TripleSDV's Progressive Fishing Rod
 HatKillsDrago's Time Stop Hat
 Alex230-Doom's Automap
 BroneyFactorio's progressive-armor
+BroneyFactorio's concrete
+BroneyLTTP's Cane of Byrna
 BroneySM's Bomb
 BroneySM's Wave Beam
 heshpseudo's Slide
@@ -592,6 +577,7 @@ sheen_pr's Health Piece
 sheen_pr's Health Piece (2)
 Kritzmaker's Nailgun - JumpStart
 JudosiiOOT's Suns Song
+JudosiiOOT's Nayrus Love
 ConnorHK's Fragile_Strength
 ConnorHK's Quick_Slash
 HPfunmanKH's Progressive Cure
@@ -602,9 +588,11 @@ Char Forgotten's Progressive Sword Ability
 Char Forgotten's Progressive Fire Ability
 MauveMuse's Random Song
 MauveMuse's Random Song (2)
+MauvePenitent's Linen of Golden Thread
 FKKirby's Copy Ability - Paint
 FKKirby's Copy Ability - Crash
 CoolGuyCompany's Jetpack
+CoolGuyCompany's Extension ladder
 numgasRogueTUNIC's Sword Upgrade
 numgasRogueTUNIC's Sword Upgrade (2)
 numRogueINSCRYPT's Bee Figurine
@@ -612,8 +600,6 @@ superTUNCEndless's Magic Wand
 superTUNCEndless's Sword Upgrade
 superUTEndless's Snowman Piece
 superUTEndless's Snowman Piece (2)
-rhythm.ChampaU6's shop useful 1
-rhythm.ChampaU6's shop useful 2
 rhythm.BeerusU7's shop useful 2
 rhythm.LiquiirU8's shop useful 1
 rhythm.LiquiirU8's shop useful 2
@@ -621,8 +607,6 @@ Grim-aHiT's Fast Hatter Badge
 Grim-aHiT's No Bonk Badge
 Grim-Muse's Random Song
 Grim-SA2's Knuckles - Sunglasses
-Iridium's Grappling Beam
-Iridium's Energy Tank
 StormHK's Isma's_Tear
 StormHK's Shaman_Stone
 StormTW's Puzzle Skip
@@ -700,3 +684,19 @@ heshmuda's Music Sheet
 heshmuda's Music Sheet (2)
 heshmuda's Random Song
 heshmuda's Random Song (2)
+Soleyeer's Hookshot Badge
+Soleyeer's Dweller Mask
+Soleyeer's Projectile Badge
+Soleyeer's Sprint Hat
+CaesiusSM64's Side Flip
+CaesiusSM64's Wall Kick
+CaesiusSM64's Kick
+CaesiusSM64's Cannon Unlock JRB
+rhythm.ChampaU6's shop prog 1
+rhythm.ChampaU6's shop prog 2
+rhythm.ChampaU6's shop useful 1
+rhythm.ChampaU6's shop useful 2
+Iridium's Morph Ball
+Iridium's Gravity Suit
+Iridium's Grappling Beam
+Iridium's Energy Tank

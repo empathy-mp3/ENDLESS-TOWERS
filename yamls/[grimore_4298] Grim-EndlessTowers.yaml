@@ -136,9 +136,9 @@ A Hat in Time:
   BabyTrapWeight:
     '40': 23
   LaserTrapWeight:
-    '1': 25
+    '0': 25
   ParadeTrapWeight:
-    '1': 10
+    '0': 10
   exclude_locations: # These are all Death-Wishes, mostly their bonuses, because excluding those prevents them from being a possible location at all instead of typical exclusion behaviour of just leaving a filler there.
     # Simply put, I just want candles and a few other Death Wishes to have the bonus. Also 3 of them are practically an unavoidable death at my skill level, and highly likely to be an unavoidable reset if something goes on these.
 

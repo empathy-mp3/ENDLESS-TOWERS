@@ -610,6 +610,8 @@ Sonic Adventure DX:
   gamma_life_sanity: random
   junk_fill_percentage: random-high
   trap_fill_percentage: random-low
+  buyon_trap_weight: none
+  police_trap_weight: none
   
   start_inventory:
     Playable Tails: 1
@@ -1847,6 +1849,8 @@ Sonic Adventure DX:
   gamma_life_sanity: random
   junk_fill_percentage: random-high
   trap_fill_percentage: random-low
+  buyon_trap_weight: none
+  police_trap_weight: none
   
   start_inventory:
     Playable Tails: 1
@@ -3085,6 +3089,8 @@ Sonic Adventure DX:
   gamma_life_sanity: true
   junk_fill_percentage: random-high
   trap_fill_percentage: random-low
+  buyon_trap_weight: none
+  police_trap_weight: none
   
   start_inventory:
     Playable Tails: 1
