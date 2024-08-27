@@ -20,38 +20,22 @@
 # filler list
 
 /send again.mp3 Geo_Chest-Soul_Master               
-/send again.mp3 Eye Mask                            
-/send tunic.mp3 HP Berry x3                         
-/send Deathclaw99OOT Rupees (200)                   
+/send again.mp3 Eye Mask                                              
 /send SylskoTunic Money x100                        
-/send SynRegret Speed Boost                         
-/send CaesiusHIT 100 Pons                           
-/send CaesiusSM64 1Up Mushroom                      
-/send TripleSDV Iridium Sprinkler                   
-/send DragoSpinsDeath Spaghetti                     
+/send SynRegret Speed Boost                       
+/send TripleSDV Iridium Sprinkler                    
 /send HatKillsDrago 100 Pons                        
 /send Alex230-Doom Turn Off Entropy Mod             
 /send BroneyLTTP Rupees (100)                       
 /send BroneyFactorio progressive-mining-productivity
-/send BroneySM Missile                              
 /send sheen_pr Health Piece                         
-/send ConnorHK Geo_Chest-Watcher_Knights            
-/send Char_Past Rupees (300)                        
+/send ConnorHK Geo_Chest-Watcher_Knights             
 /send Char_Forgotten Rare Stone                     
-/send Char_Puzzle Puzzle Skip                       
-/send coolhollowguy Geo_Chest-Watcher_Knights       
 /send CoolGuyCompany Money                          
-/send numgasRogueTUNIC Lure                         
 /send numRogueINSCRYPT Card Pack                    
 /send superTUNCEndless Lure x2                      
 /send superUTEndless 1000G                          
-/send GodlFireALTTP Rupees (300)                    
-/send jf-time Hi-Potion                             
-/send jf-muse Music Sheet                           
-/send WidowRain61 Common Item                       
-/send Grim-aHiT 100 Pons                            
-/send Grim-SA2 Ten Rings                            
-/send Iridium Missile                               
+/send Grim-aHiT 100 Pons                                                   
 /send StormHK Geo_Chest-Watcher_Knights             
 /send StormTW Speed_Boost                           
 
@@ -70,14 +54,14 @@ CaesiusHIT
 CaesiusSM64     
 mars.           
 mars three.     
-TripleSDV       #temporarily excluded
+TripleSDV       
 DragoSpinsDeath 
 HatKillsDrago   
 DragoLookAtDeath
 Alex230-Doom    
-BroneyLTTP      #temporarily excluded
-BroneyFactorio  #temporarily excluded
-BroneySM        #temporarily excluded
+BroneyLTTP      
+BroneyFactorio  
+BroneySM        
 heshpseudo      
 heshmuda        
 heshut          
@@ -137,6 +121,18 @@ StormC64
 /release CaesiusSM64  
 /release rhythm.ChampaU6  
 /release Iridium
+/release heshmuda
+/release Kritzmaker
+/release Grim-SA2
+/release numgasRogueTUNIC
+/release BroneySM
+/release tunic.mp3
+/release MauveMuse
+/release 
+/release 
+/release 
+/release 
+/release 
 /collect Deathclaw99TS   
 /collect Lojtana         
 /collect FloriTerra      
@@ -157,3 +153,14 @@ StormC64
 /collect CaesiusSM64  
 /collect rhythm.ChampaU6  
 /collect Iridium
+/collect heshmuda
+/collect Kritzmaker
+/collect Grim-SA2
+/collect numgasRogueTUNIC
+/collect BroneySM
+/collect tunic.mp3
+/collect MauveMuse
+/collect 
+/collect 
+/collect 
+/collect 
