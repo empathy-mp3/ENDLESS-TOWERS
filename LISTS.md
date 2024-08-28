@@ -18,11 +18,9 @@
 /send Grim-SA2 Slow Trap
 
 # filler list
-
-/send again.mp3 Geo_Chest-Soul_Master               
-/send again.mp3 Eye Mask                                              
+                                          
 /send SylskoTunic Money x100                        
-/send SynRegret Speed Boost                       
+/send SynRegret Speed Boost                         
 /send TripleSDV Iridium Sprinkler                    
 /send HatKillsDrago 100 Pons                        
 /send Alex230-Doom Turn Off Entropy Mod             
@@ -34,8 +32,7 @@
 /send CoolGuyCompany Money                          
 /send numRogueINSCRYPT Card Pack                    
 /send superTUNCEndless Lure x2                      
-/send superUTEndless 1000G                          
-/send Grim-aHiT 100 Pons                                                   
+/send superUTEndless 1000G                                                 
 /send StormHK Geo_Chest-Watcher_Knights             
 /send StormTW Speed_Boost                           
 
@@ -128,8 +125,12 @@ StormC64
 /release BroneySM
 /release tunic.mp3
 /release MauveMuse
-/release 
-/release 
+/release mars three.
+/release StormHK
+/release superTUNCEndless
+/release numRogueINSCRYPT
+/release Grim-aHiT
+/release rhythm.BeerusU7
 /release 
 /release 
 /release 
@@ -160,7 +161,11 @@ StormC64
 /collect BroneySM
 /collect tunic.mp3
 /collect MauveMuse
-/collect 
-/collect 
+/collect mars three.
+/collect StormHK
+/collect superTUNCEndless
+/collect numRogueINSCRYPT
+/collect Grim-aHiT
+/collect rhythm.BeerusU7
 /collect 
 /collect 

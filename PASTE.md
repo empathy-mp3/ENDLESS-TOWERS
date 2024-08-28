@@ -10,26 +10,24 @@ shops have 6 items, and are restocked daily
 
 `obtain 2 Vault Keys` (7 cost, 4 hour) ~ 2 in stock
 `send out 6 filler items` (2 cost) ~ 3 in stock
-`replenish half (rounded down) of missing lives` (14 cost, 8 hours) ~ 1 in stock
+`replenish a quarter (rounded down) of missing lives` (14 cost, 8 hours) ~ 1 in stock
 `open two random unopened vault lockers` (5 cost) ~ 2 in stock
-`upon the run ending, instead it continues with half (rounded down) of max lives (fairy)` (32 cost) ~ 1 in stock
-`1% hint cost` (9 cost) ~ 1 in stock
 
 # the shop (day )
 
-because i've removed some of the temp items, the amount that can roll in each shop has reduced substantially. in addition, some filler items can now be added to players' yamls in the starting inventory. there'll be more of them when other items have run out.
+because i've removed quite a few of the temp items, the amount that can roll in each shop has reduced by 1. in addition, some filler items can now be added to players' yamls in the starting inventory. there'll be more of them when other items have run out.
 
 some items will have an amount of hours listed next to the item, meaning it will take effect that amount of time after it is purchased.
 all items are permanent, unless specified otherwise, and all temporary items last for only the current run, unless specified otherwise.
 if the run ends before a temporary item takes effect, it will never take effect.
-all temporary items increase by 1 cost with each purchase. (and reset in price when the shop resets)
+all temporary items (and the permanent filler items) increase by 1 cost with each purchase. (and reset in price when the shop resets)
 
 current Cold Hard Cash: 0
 
 here are the wares!
 
-`+1 additional life` (25 cost) ~ 1 in stock
-`halved hint cost` (29 cost) ~ 1 in stock
+`+1 additional life` (29 cost) ~ 1 in stock
+`halved hint cost` (26 cost) ~ 1 in stock
 `major shop item 1` (5 cost) ~ 1 in stock
 `major shop item 2` (5 cost) ~ 1 in stock
 `major shop item 3` (5 cost) ~ 1 in stock
@@ -40,15 +38,13 @@ here are the wares!
 `minor shop item 4` (2 cost) ~ 1 in stock
 `filler item 1` (3 cost) ~ 2 in stock
 `filler item 2` (3 cost) ~ 2 in stock
-`+1 Cold Hard Cash starting hint` (3 cost) ~ 1 in stock
-`+1 Vault Key starting hint` (3 cost) ~ 1 in stock
+`filler item 3` (3 cost) ~ 2 in stock
+`filler item 4` (3 cost) ~ 2 in stock
 
 temporary shop items:
 
 `temp item 1`
 `temp item 2`
-`temp item 3`
-`reroll the temp items` (20 cost) ~ infinite in stock
 
 ---
 

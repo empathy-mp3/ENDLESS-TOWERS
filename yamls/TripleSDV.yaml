@@ -6,16 +6,16 @@ Stardew Valley:
     community_center: 50
   farm_type:
     standard: 50
-    riverland: 10
-    forest: 10
-    hill_top: 10
-    wilderness: 10
-    four_corners: 10
-    beach: 10
+    riverland: 0
+    forest: 0
+    hill_top: 0
+    wilderness: 0
+    four_corners: 0
+    beach: 0
   bundle_randomization:
-    shuffled: 50
+    thematic: 50
   bundle_price:
-    maximum: 50
+    expensive: 50
   entrance_randomization:
     disabled: 50
   exclude_ginger_island:
@@ -43,7 +43,7 @@ Stardew Valley:
     board_only: 25
   quest_locations:
     '0': 50
-    '7': 10
+    '7': 0
   fishsanity:
     all: 50
   museumsanity:
@@ -72,12 +72,12 @@ Stardew Valley:
   profit_margin:
     '100': 50
   experience_multiplier:
-    '200': 50
+    '400': 50
   friendship_multiplier:
     '800': 50
   debris_multiplier:
     none: 40
-    start_clear: 40
+    start_clear: 0
   movement_buff_number:
     '12': 50
   luck_buff_number:

@@ -396,7 +396,6 @@ finished players (9):
     Kritzmaker | Shotgun - Sawed-On
     rhythm.ChampaU6 | vault useful 1
     heshut | Fish
- ~ all above this has been obtained ~ vault keys: 198 ~
     DragoSpinsDeath | Succubus Hairpin
     StormC64 | Breakable Blocks
     Grim-SA2 | Tails - Booster
@@ -411,6 +410,7 @@ finished players (9):
     MauvePenitent | Dash Ability
     FloriTerra | Reward: Tabi
     rhythm.LiquiirU8 | vault useful 2
+ ~ all above this has been obtained ~ vault keys: 212 ~
     GodlFireALTTP | Progressive Shield
     heshpseudo | Solar Wind
     tunic.mp3 | Sword Upgrade
@@ -446,35 +446,27 @@ finished players (9):
 
 ### progressive
 
-again.mp3's Desolate_Dive / Tent
-again.mp3's Lumafly_Lantern / Boards
-BroneyFactorio's progressive-science-pack
 BroneyFactorio's progressive-science-pack (2)
 heshpseudo's Major Key - Sansa Keep
-HPfunmanBS's Wall Climb Ability
 CoolGuyCompany's Titan
-superTUNCEndless's Scavenger Mask
 rhythm.LiquiirU8's shop prog 2
 
 ### useful
 
 SylskoTunic's Magic Dagger
-ThatFirey's Knuckleblaster
-mars.'s Soul_Eater
 mars.'s Quick_Slash
 TripleSDV's Progressive Coop
-HatKillsDrago's Relic (Crayon Box)
 Alex230-Doom's Allow Using Exit
 BroneyLTTP's Magic Mirror
-heshut's Ruins Key
 MauvePenitent's Nail Uprooted from Dirt
-rhythm.BeerusU7's shop useful 1
 Grim-Muse's Random Song (2)
 
 ## purchased
 
 ### progressive
 
+again.mp3's Desolate_Dive / Tent
+again.mp3's Lumafly_Lantern / Boards
 SylskoTunic's Pages 24-25 (Prayer)
 SylskoTunic's Hero's Laurels
 SynRogue's Celestial Sash
@@ -485,14 +477,13 @@ ThatFirey's Stamina Bar
 ThatFirey's Wall Jump
 mars.'s Desolate_Dive
 mars.'s Focus
-mars three.'s Celestial Sash
-mars three.'s Water Mask
 TripleSDV's Progressive Season
 TripleSDV's Progressive Season (2)
 HatKillsDrago's Ice Hat
 HatKillsDrago's Yarn
 Alex230-Doom's Free Saves and Loads
 Alex230-Doom's Allow Leaving Start Location
+BroneyFactorio's progressive-science-pack
 BroneyLTTP's Lamp
 BroneyLTTP's Moon Pearl
 heshpseudo's Sunsetter
@@ -508,6 +499,7 @@ ConnorHK's Mothwing_Cloak
 HPfunmanKH's Green Trinity
 HPfunmanKH's Hollow Bastion
 HPfunmanBS's Blood Perpetuated in Sand
+HPfunmanBS's Wall Climb Ability
 Char Forgotten's Cone Mouth
 Char Forgotten's Stairs Mouth
 MauvePenitent's Purified Hand of the Nun
@@ -515,18 +507,11 @@ MauvePenitent's Wall Climb Ability
 FKKirby's Copy Ability - Hammer
 FKKirby's Copy Ability - Starship
 CoolGuyCompany's Company Building
-superTUNCEndless's Magic Orb
 superUTEndless's Waterfall Key
 superUTEndless's Mettaton Plush
-rhythm.BeerusU7's shop prog 1
-rhythm.BeerusU7's shop prog 2
 rhythm.LiquiirU8's shop prog 1
-Grim-aHiT's Umbrella
-Grim-aHiT's Hookshot Badge
 Grim-Muse's Music Sheet
 Grim-Muse's Music Sheet (2)
-StormHK's Focus
-StormHK's Dream_Nail
 StormTW's Black/White Squares
 StormTW's Shapers
 StormC64's Climb
@@ -542,16 +527,18 @@ SynRogue's Shattered Orb
 SynRegret's Puzzle Skip
 SynRegret's Puzzle Skip (2)
 ThatFirey's Rocket Launcher - Freezeframe
-mars three.'s Selen's Bangle
-mars three.'s Galaxy Earrings
+ThatFirey's Knuckleblaster
+mars.'s Soul_Eater
 TripleSDV's Progressive Fishing Rod
 HatKillsDrago's Time Stop Hat
+HatKillsDrago's Relic (Crayon Box)
 Alex230-Doom's Automap
 BroneyFactorio's progressive-armor
 BroneyFactorio's concrete
 BroneyLTTP's Cane of Byrna
 heshpseudo's Slide
 heshut's Core Key
+heshut's Ruins Key
 sheen_pr's Health Piece
 sheen_pr's Health Piece (2)
 JudosiiOOT's Suns Song
@@ -569,18 +556,11 @@ FKKirby's Copy Ability - Paint
 FKKirby's Copy Ability - Crash
 CoolGuyCompany's Jetpack
 CoolGuyCompany's Extension ladder
-superTUNCEndless's Magic Wand
-superTUNCEndless's Sword Upgrade
 superUTEndless's Snowman Piece
 superUTEndless's Snowman Piece (2)
-rhythm.BeerusU7's shop useful 2
 rhythm.LiquiirU8's shop useful 1
 rhythm.LiquiirU8's shop useful 2
-Grim-aHiT's Fast Hatter Badge
-Grim-aHiT's No Bonk Badge
 Grim-Muse's Random Song
-StormHK's Isma's_Tear
-StormHK's Shaman_Stone
 StormTW's Puzzle Skip
 StormTW's Puzzle Skip (2)
 StormC64's Cassettes
@@ -700,3 +680,23 @@ MauveMuse's Music Sheet
 MauveMuse's Music Sheet (2)
 MauveMuse's Random Song
 MauveMuse's Random Song (2)
+superTUNCEndless's Scavenger Mask
+superTUNCEndless's Magic Orb
+superTUNCEndless's Magic Wand
+superTUNCEndless's Sword Upgrade
+mars three.'s Celestial Sash
+mars three.'s Water Mask
+mars three.'s Selen's Bangle
+mars three.'s Galaxy Earrings
+StormHK's Focus
+StormHK's Dream_Nail
+StormHK's Isma's_Tear
+StormHK's Shaman_Stone
+Grim-aHiT's Umbrella
+Grim-aHiT's Hookshot Badge
+Grim-aHiT's Fast Hatter Badge
+Grim-aHiT's No Bonk Badge
+rhythm.BeerusU7's shop prog 1
+rhythm.BeerusU7's shop prog 2
+rhythm.BeerusU7's shop useful 1
+rhythm.BeerusU7's shop useful 2
