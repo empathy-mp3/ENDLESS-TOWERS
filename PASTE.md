@@ -8,10 +8,8 @@ shops have 6 items, and are restocked daily
 
 # shop temp items
 
-`obtain 2 Vault Keys` (7 cost, 4 hour) ~ 2 in stock
 `send out 6 filler items` (2 cost) ~ 3 in stock
 `replenish a quarter (rounded down) of missing lives` (14 cost, 8 hours) ~ 1 in stock
-`open two random unopened vault lockers` (5 cost) ~ 2 in stock
 
 # the shop (day )
 
@@ -26,7 +24,7 @@ current Cold Hard Cash: 0
 
 here are the wares!
 
-`+1 additional life` (29 cost) ~ 1 in stock
+`+1 additional life` (31 cost) ~ 1 in stock
 `halved hint cost` (26 cost) ~ 1 in stock
 `major shop item 1` (5 cost) ~ 1 in stock
 `major shop item 2` (5 cost) ~ 1 in stock

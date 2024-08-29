@@ -32,8 +32,7 @@
 /send CoolGuyCompany Money                          
 /send numRogueINSCRYPT Card Pack                    
 /send superTUNCEndless Lure x2                      
-/send superUTEndless 1000G                                                 
-/send StormHK Geo_Chest-Watcher_Knights             
+/send superUTEndless 1000G                             
 /send StormTW Speed_Boost                           
 
 # player list
@@ -131,8 +130,23 @@ StormC64
 /release numRogueINSCRYPT
 /release Grim-aHiT
 /release rhythm.BeerusU7
-/release 
-/release 
+/release ConnorHK
+/release HatKillsDrago
+/release JudosiiOOT
+/release MauvePenitent
+/release sheen_pr
+/release StormHK
+/release SynRegret
+/release SylskoTunic
+/release The Vault
+/release Alex230-Doom
+/release mars.
+/release superUTEndless
+/release CoolGuyCompany
+/release TripleSDV
+/release FKKirby
+/release again.mp3
+/release Char Forgotten
 /release 
 /collect Deathclaw99TS   
 /collect Lojtana         
@@ -167,5 +181,21 @@ StormC64
 /collect numRogueINSCRYPT
 /collect Grim-aHiT
 /collect rhythm.BeerusU7
-/collect 
+/collect ConnorHK
+/collect HatKillsDrago
+/collect JudosiiOOT
+/collect MauvePenitent
+/collect sheen_pr
+/collect StormHK
+/collect SynRegret
+/collect SylskoTunic
+/collect Alex230-Doom
+/collect The Vault
+/collect mars.
+/collect superUTEndless
+/collect CoolGuyCompany
+/collect TripleSDV
+/collect FKKirby
+/collect again.mp3
+/collect Char Forgotten
 /collect 

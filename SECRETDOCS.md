@@ -410,7 +410,6 @@ finished players (9):
     MauvePenitent | Dash Ability
     FloriTerra | Reward: Tabi
     rhythm.LiquiirU8 | vault useful 2
- ~ all above this has been obtained ~ vault keys: 212 ~
     GodlFireALTTP | Progressive Shield
     heshpseudo | Solar Wind
     tunic.mp3 | Sword Upgrade
@@ -439,6 +438,7 @@ finished players (9):
     CaesiusSM64 | Power Star
     StormC64 | Springs
     SynRegret | Puzzle Skip
+ ~ all above this has been obtained ~ vault keys: 240 ~
 
 # shop notes
 
@@ -446,20 +446,7 @@ finished players (9):
 
 ### progressive
 
-BroneyFactorio's progressive-science-pack (2)
-heshpseudo's Major Key - Sansa Keep
-CoolGuyCompany's Titan
-rhythm.LiquiirU8's shop prog 2
-
 ### useful
-
-SylskoTunic's Magic Dagger
-mars.'s Quick_Slash
-TripleSDV's Progressive Coop
-Alex230-Doom's Allow Using Exit
-BroneyLTTP's Magic Mirror
-MauvePenitent's Nail Uprooted from Dirt
-Grim-Muse's Random Song (2)
 
 ## purchased
 
@@ -516,6 +503,10 @@ StormTW's Black/White Squares
 StormTW's Shapers
 StormC64's Climb
 StormC64's Ground Dash
+BroneyFactorio's progressive-science-pack (2)
+heshpseudo's Major Key - Sansa Keep
+CoolGuyCompany's Titan
+rhythm.LiquiirU8's shop prog 2
 
 ### useful
 
@@ -565,6 +556,12 @@ StormTW's Puzzle Skip
 StormTW's Puzzle Skip (2)
 StormC64's Cassettes
 StormC64's Feathers
+SylskoTunic's Magic Dagger
+mars.'s Quick_Slash
+Alex230-Doom's Allow Using Exit
+Grim-Muse's Random Song (2)
+TripleSDV's Progressive Coop
+BroneyLTTP's Magic Mirror
 
 ### collected shop items
 
@@ -700,3 +697,4 @@ rhythm.BeerusU7's shop prog 1
 rhythm.BeerusU7's shop prog 2
 rhythm.BeerusU7's shop useful 1
 rhythm.BeerusU7's shop useful 2
+MauvePenitent's Nail Uprooted from Dirt
