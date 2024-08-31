@@ -13,36 +13,10 @@ shops have 6 items, and are restocked daily
 
 # the shop (day )
 
-because i've removed quite a few of the temp items, the amount that can roll in each shop has reduced by 1. in addition, some filler items can now be added to players' yamls in the starting inventory. there'll be more of them when other items have run out.
-
-some items will have an amount of hours listed next to the item, meaning it will take effect that amount of time after it is purchased.
-all items are permanent, unless specified otherwise, and all temporary items last for only the current run, unless specified otherwise.
-if the run ends before a temporary item takes effect, it will never take effect.
-all temporary items (and the permanent filler items) increase by 1 cost with each purchase. (and reset in price when the shop resets)
-
 current Cold Hard Cash: 0
 
-here are the wares!
-
-`+1 additional life` (31 cost) ~ 1 in stock
-`halved hint cost` (26 cost) ~ 1 in stock
-`major shop item 1` (5 cost) ~ 1 in stock
-`major shop item 2` (5 cost) ~ 1 in stock
-`major shop item 3` (5 cost) ~ 1 in stock
-`major shop item 4` (5 cost) ~ 1 in stock
-`minor shop item 1` (2 cost) ~ 1 in stock
-`minor shop item 2` (2 cost) ~ 1 in stock
-`minor shop item 3` (2 cost) ~ 1 in stock
-`minor shop item 4` (2 cost) ~ 1 in stock
-`filler item 1` (3 cost) ~ 2 in stock
-`filler item 2` (3 cost) ~ 2 in stock
-`filler item 3` (3 cost) ~ 2 in stock
-`filler item 4` (3 cost) ~ 2 in stock
-
-temporary shop items:
-
-`temp item 1`
-`temp item 2`
+`+1 additional life` (33 cost) ~ 1 in stock
+`0% hint cost` (70 cost) ~ 1 in stock
 
 ---
 

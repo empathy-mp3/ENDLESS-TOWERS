@@ -18,21 +18,9 @@
 /send Grim-SA2 Slow Trap
 
 # filler list
-                                          
-/send SylskoTunic Money x100                        
-/send SynRegret Speed Boost                         
-/send TripleSDV Iridium Sprinkler                    
-/send HatKillsDrago 100 Pons                        
-/send Alex230-Doom Turn Off Entropy Mod             
+                                             
 /send BroneyLTTP Rupees (100)                       
-/send BroneyFactorio progressive-mining-productivity
-/send sheen_pr Health Piece                         
-/send ConnorHK Geo_Chest-Watcher_Knights             
-/send Char_Forgotten Rare Stone                     
-/send CoolGuyCompany Money                          
-/send numRogueINSCRYPT Card Pack                    
-/send superTUNCEndless Lure x2                      
-/send superUTEndless 1000G                             
+/send BroneyFactorio progressive-mining-productivity           
 /send StormTW Speed_Boost                           
 
 # player list
@@ -147,6 +135,10 @@ StormC64
 /release FKKirby
 /release again.mp3
 /release Char Forgotten
+/release The Shop
+/release BroneyLTTP
+/release heshpseudo
+/release 
 /release 
 /collect Deathclaw99TS   
 /collect Lojtana         
@@ -198,4 +190,7 @@ StormC64
 /collect FKKirby
 /collect again.mp3
 /collect Char Forgotten
+/collect BroneyLTTP
+/collect heshpseudo
+/collect 
 /collect 
